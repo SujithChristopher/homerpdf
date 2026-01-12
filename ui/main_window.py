@@ -20,6 +20,7 @@ from PySide6.QtWidgets import (
     QFileDialog,
     QMessageBox,
     QProgressDialog,
+    QCheckBox,
 )
 
 from pdf.processor import PDFProcessor
@@ -125,6 +126,13 @@ class MainWindow(QMainWindow):
         pdf_layout.addWidget(self.pdf_list)
         pdf_group.setLayout(pdf_layout)
 
+        # ===== Merge Option =====
+        merge_layout = QHBoxLayout()
+        self.merge_checkbox = QCheckBox("Merge into single PDF")
+        self.merge_checkbox.setChecked(False)
+        merge_layout.addWidget(self.merge_checkbox)
+        merge_layout.addStretch()
+
         # ===== Action Buttons =====
         button_layout = QHBoxLayout()
         self.download_btn = QPushButton("Download Selected")
@@ -141,6 +149,7 @@ class MainWindow(QMainWindow):
         # ===== Assemble main layout =====
         main_layout.addWidget(info_group)
         main_layout.addWidget(pdf_group)
+        main_layout.addLayout(merge_layout)
         main_layout.addLayout(button_layout)
         main_layout.addStretch()
 
@@ -240,6 +249,7 @@ class MainWindow(QMainWindow):
         hospital_number = self.hospital_input.text().strip()
         center_code = self.center_combo.currentData()
         selected_pdfs = self.get_selected_pdfs()
+        merge_pdfs = self.merge_checkbox.isChecked()
 
         if not selected_pdfs:
             QMessageBox.warning(self, "No Selection", "Please select at least one PDF")
@@ -257,6 +267,7 @@ class MainWindow(QMainWindow):
         successful = 0
         failed = 0
         errors = []
+        processed_pdfs = []
 
         for idx, pdf_filename in enumerate(selected_pdfs):
             progress.setValue(idx)
@@ -267,15 +278,7 @@ class MainWindow(QMainWindow):
                 modified_pdf = self.processor.add_hospital_number(
                     pdf_filename, hospital_number, center_code
                 )
-
-                # Create output filename
-                output_filename = f"{hospital_number}_{Path(pdf_filename).stem}.pdf"
-                output_path = save_dir / output_filename
-
-                # Save to file
-                with open(output_path, "wb") as f:
-                    f.write(modified_pdf.getvalue())
-
+                processed_pdfs.append((pdf_filename, modified_pdf))
                 successful += 1
 
             except FileNotFoundError as e:
@@ -284,32 +287,71 @@ class MainWindow(QMainWindow):
             except ValueError as e:
                 failed += 1
                 errors.append(f"{pdf_filename}: {str(e)}")
-            except PermissionError:
-                failed += 1
-                errors.append(f"{output_filename}: Permission denied (check folder permissions)")
             except Exception as e:
                 failed += 1
                 errors.append(f"{pdf_filename}: {str(e)}")
 
         progress.close()
 
-        # Show results
-        if successful > 0:
-            message = f"Downloaded {successful} PDF(s) to:\n{save_dir}"
-            if failed > 0:
-                message += f"\n\nFailed: {failed} PDF(s)"
-                for error in errors:
-                    message += f"\n  • {error}"
-                QMessageBox.warning(self, "Partial Success", message)
-            else:
-                QMessageBox.information(self, "Success", message)
-        else:
-            error_msg = "Failed to download PDFs:\n"
-            for error in errors:
-                error_msg += f"  • {error}\n"
-            QMessageBox.critical(self, "Download Failed", error_msg)
+        # Save PDFs
+        if merge_pdfs and len(processed_pdfs) > 0:
+            # Merge all PDFs into one
+            try:
+                pdf_buffers = [pdf for _, pdf in processed_pdfs]
+                merged_pdf = self.processor.merge_pdfs(pdf_buffers)
 
-        self.statusBar().showMessage(f"Downloaded {successful} PDF(s)")
+                # Create output filename
+                output_filename = f"{hospital_number}_merged.pdf"
+                output_path = save_dir / output_filename
+
+                # Save to file
+                with open(output_path, "wb") as f:
+                    f.write(merged_pdf.getvalue())
+
+                message = f"Downloaded merged PDF to:\n{save_dir}\n\nFile: {output_filename}"
+                QMessageBox.information(self, "Success", message)
+                self.statusBar().showMessage(f"Downloaded merged PDF")
+
+            except Exception as e:
+                error_msg = f"Failed to merge and save PDFs: {str(e)}"
+                QMessageBox.critical(self, "Merge Failed", error_msg)
+                self.statusBar().showMessage("Merge failed")
+        else:
+            # Save individual PDFs
+            for pdf_filename, modified_pdf in processed_pdfs:
+                try:
+                    # Create output filename
+                    output_filename = f"{hospital_number}_{Path(pdf_filename).stem}.pdf"
+                    output_path = save_dir / output_filename
+
+                    # Save to file
+                    with open(output_path, "wb") as f:
+                        f.write(modified_pdf.getvalue())
+
+                except PermissionError:
+                    failed += 1
+                    errors.append(f"{output_filename}: Permission denied (check folder permissions)")
+                except Exception as e:
+                    failed += 1
+                    errors.append(f"{pdf_filename}: {str(e)}")
+
+            # Show results
+            if successful > 0:
+                message = f"Downloaded {successful} PDF(s) to:\n{save_dir}"
+                if failed > 0:
+                    message += f"\n\nFailed: {failed} PDF(s)"
+                    for error in errors:
+                        message += f"\n  • {error}"
+                    QMessageBox.warning(self, "Partial Success", message)
+                else:
+                    QMessageBox.information(self, "Success", message)
+            else:
+                error_msg = "Failed to download PDFs:\n"
+                for error in errors:
+                    error_msg += f"  • {error}\n"
+                QMessageBox.critical(self, "Download Failed", error_msg)
+
+            self.statusBar().showMessage(f"Downloaded {successful} PDF(s)")
 
     def on_print_clicked(self):
         """Handle print button click."""
@@ -317,6 +359,7 @@ class MainWindow(QMainWindow):
         hospital_number = self.hospital_input.text().strip()
         center_code = self.center_combo.currentData()
         selected_pdfs = self.get_selected_pdfs()
+        merge_pdfs = self.merge_checkbox.isChecked()
 
         if not selected_pdfs:
             QMessageBox.warning(self, "No Selection", "Please select at least one PDF")
@@ -344,6 +387,7 @@ class MainWindow(QMainWindow):
         successful = 0
         failed = 0
         errors = []
+        processed_pdfs = []
 
         for idx, pdf_filename in enumerate(selected_pdfs):
             progress.setValue(idx)
@@ -354,17 +398,7 @@ class MainWindow(QMainWindow):
                 modified_pdf = self.processor.add_hospital_number(
                     pdf_filename, hospital_number, center_code
                 )
-
-                # Save to temp
-                temp_filename = f"{hospital_number}_{Path(pdf_filename).stem}.pdf"
-                temp_path = temp_dir / temp_filename
-
-                with open(temp_path, "wb") as f:
-                    f.write(modified_pdf.getvalue())
-
-                # Open with system viewer
-                QDesktopServices.openUrl(QUrl.fromLocalFile(str(temp_path)))
-
+                processed_pdfs.append((pdf_filename, modified_pdf))
                 successful += 1
 
             except Exception as e:
@@ -373,23 +407,66 @@ class MainWindow(QMainWindow):
 
         progress.close()
 
-        # Show results
-        if successful > 0:
-            message = f"Opened {successful} PDF(s) in your default viewer for printing"
-            if failed > 0:
-                message += f"\n\nFailed: {failed} PDF(s)"
-                for error in errors:
-                    message += f"\n  • {error}"
-                QMessageBox.warning(self, "Partial Success", message)
-            else:
-                QMessageBox.information(self, "Success", message)
-        else:
-            error_msg = "Failed to prepare PDFs for printing:\n"
-            for error in errors:
-                error_msg += f"  • {error}\n"
-            QMessageBox.critical(self, "Print Failed", error_msg)
+        # Open PDFs
+        if merge_pdfs and len(processed_pdfs) > 0:
+            # Merge all PDFs and open as one
+            try:
+                pdf_buffers = [pdf for _, pdf in processed_pdfs]
+                merged_pdf = self.processor.merge_pdfs(pdf_buffers)
 
-        self.statusBar().showMessage(f"Opened {successful} PDF(s) for printing")
+                # Save to temp
+                temp_filename = f"{hospital_number}_merged.pdf"
+                temp_path = temp_dir / temp_filename
+
+                with open(temp_path, "wb") as f:
+                    f.write(merged_pdf.getvalue())
+
+                # Open with system viewer
+                QDesktopServices.openUrl(QUrl.fromLocalFile(str(temp_path)))
+
+                message = f"Opened merged PDF in your default viewer for printing"
+                QMessageBox.information(self, "Success", message)
+                self.statusBar().showMessage("Opened merged PDF for printing")
+
+            except Exception as e:
+                error_msg = f"Failed to merge and open PDFs: {str(e)}"
+                QMessageBox.critical(self, "Merge Failed", error_msg)
+                self.statusBar().showMessage("Merge failed")
+        else:
+            # Open individual PDFs
+            for pdf_filename, modified_pdf in processed_pdfs:
+                try:
+                    # Save to temp
+                    temp_filename = f"{hospital_number}_{Path(pdf_filename).stem}.pdf"
+                    temp_path = temp_dir / temp_filename
+
+                    with open(temp_path, "wb") as f:
+                        f.write(modified_pdf.getvalue())
+
+                    # Open with system viewer
+                    QDesktopServices.openUrl(QUrl.fromLocalFile(str(temp_path)))
+
+                except Exception as e:
+                    failed += 1
+                    errors.append(f"{pdf_filename}: {str(e)}")
+
+            # Show results
+            if successful > 0:
+                message = f"Opened {successful} PDF(s) in your default viewer for printing"
+                if failed > 0:
+                    message += f"\n\nFailed: {failed} PDF(s)"
+                    for error in errors:
+                        message += f"\n  • {error}"
+                    QMessageBox.warning(self, "Partial Success", message)
+                else:
+                    QMessageBox.information(self, "Success", message)
+            else:
+                error_msg = "Failed to prepare PDFs for printing:\n"
+                for error in errors:
+                    error_msg += f"  • {error}\n"
+                QMessageBox.critical(self, "Print Failed", error_msg)
+
+            self.statusBar().showMessage(f"Opened {successful} PDF(s) for printing")
 
 
 # Import QApplication for processEvents

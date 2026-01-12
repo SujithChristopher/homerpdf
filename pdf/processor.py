@@ -111,3 +111,32 @@ class PDFProcessor:
                 print(f"Error processing {filename}: {str(e)}")
 
         return results
+
+    def merge_pdfs(self, pdf_buffers: list) -> BytesIO:
+        """
+        Merge multiple PDF buffers into a single PDF.
+
+        Args:
+            pdf_buffers: List of BytesIO objects containing PDFs
+
+        Returns:
+            BytesIO object containing merged PDF
+        """
+        merger = PdfWriter()
+
+        for pdf_buffer in pdf_buffers:
+            try:
+                pdf_buffer.seek(0)
+                reader = PdfReader(pdf_buffer)
+                for page in reader.pages:
+                    merger.add_page(page)
+            except Exception as e:
+                print(f"Error merging PDF: {str(e)}")
+                continue
+
+        # Write merged PDF to buffer
+        output_buffer = BytesIO()
+        merger.write(output_buffer)
+        output_buffer.seek(0)
+
+        return output_buffer
