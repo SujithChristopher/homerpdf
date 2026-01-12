@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(file:*)",
+      "WebSearch",
+      "Bash(uv sync:*)",
+      "Bash(uv run:*)",
+      "Bash(dir /B /S *.py)",
+      "Bash(findstr:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}
