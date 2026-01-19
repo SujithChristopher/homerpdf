@@ -12,7 +12,8 @@
       "Bash(python build.py:*)",
       "Bash(uv pip install:*)",
       "Bash(python -c:*)",
-      "Bash(timeout 5 python:*)"
+      "Bash(timeout 5 python:*)",
+      "Bash(timeout /t 3)"
     ]
   }
 }

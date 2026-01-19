@@ -21,6 +21,8 @@ from PySide6.QtWidgets import (
     QMessageBox,
     QProgressDialog,
     QCheckBox,
+    QRadioButton,
+    QButtonGroup,
 )
 
 from pdf.processor import PDFProcessor
@@ -101,8 +103,39 @@ class MainWindow(QMainWindow):
         center_layout.addWidget(self.center_combo)
         center_layout.addStretch()
 
+        # Time Point Selection (Radio Buttons)
+        timepoint_layout = QHBoxLayout()
+        timepoint_label = QLabel("Time Point:")
+        timepoint_label.setMinimumWidth(120)
+
+        # Create button group for radio buttons (ensures only one can be selected)
+        self.timepoint_group = QButtonGroup()
+
+        # Create radio buttons
+        self.radio_a0 = QRadioButton("A0")
+        self.radio_a1 = QRadioButton("A1")
+        self.radio_a2 = QRadioButton("A2")
+
+        # Add to button group
+        self.timepoint_group.addButton(self.radio_a0)
+        self.timepoint_group.addButton(self.radio_a1)
+        self.timepoint_group.addButton(self.radio_a2)
+
+        # Connect to validation
+        self.radio_a0.toggled.connect(self.on_input_changed)
+        self.radio_a1.toggled.connect(self.on_input_changed)
+        self.radio_a2.toggled.connect(self.on_input_changed)
+
+        # Add to layout
+        timepoint_layout.addWidget(timepoint_label)
+        timepoint_layout.addWidget(self.radio_a0)
+        timepoint_layout.addWidget(self.radio_a1)
+        timepoint_layout.addWidget(self.radio_a2)
+        timepoint_layout.addStretch()
+
         info_layout.addLayout(hospital_layout)
         info_layout.addLayout(center_layout)
+        info_layout.addLayout(timepoint_layout)
         info_group.setLayout(info_layout)
 
         # ===== PDF Selection Group =====
@@ -159,7 +192,7 @@ class MainWindow(QMainWindow):
 
     def validate_inputs(self) -> bool:
         """
-        Validate hospital number and PDF selection.
+        Validate hospital number, time point selection, and PDF selection.
 
         Returns:
             True if validation passes, False otherwise
@@ -170,6 +203,11 @@ class MainWindow(QMainWindow):
 
         if not is_valid:
             self.set_input_invalid(True)
+            return False
+
+        # Validate time point selection (mandatory)
+        time_point = self.get_selected_timepoint()
+        if not time_point:
             return False
 
         # Check if any PDFs are selected
@@ -234,6 +272,21 @@ class MainWindow(QMainWindow):
                     selected.append(pdf_filename)
         return selected
 
+    def get_selected_timepoint(self) -> str:
+        """
+        Get the selected time point (A0, A1, or A2).
+
+        Returns:
+            Selected time point string or empty string if none selected
+        """
+        if self.radio_a0.isChecked():
+            return "A0"
+        elif self.radio_a1.isChecked():
+            return "A1"
+        elif self.radio_a2.isChecked():
+            return "A2"
+        return ""
+
     def on_download_clicked(self):
         """Handle download button click."""
         # Get save directory from user
@@ -249,6 +302,7 @@ class MainWindow(QMainWindow):
         # Get inputs
         hospital_number = self.hospital_input.text().strip()
         center_code = self.center_combo.currentData()
+        time_point = self.get_selected_timepoint()
         selected_pdfs = self.get_selected_pdfs()
         merge_pdfs = self.merge_checkbox.isChecked()
 
@@ -277,7 +331,7 @@ class MainWindow(QMainWindow):
             try:
                 # Process PDF
                 modified_pdf = self.processor.add_hospital_number(
-                    pdf_filename, hospital_number, center_code
+                    pdf_filename, hospital_number, center_code, time_point
                 )
                 processed_pdfs.append((pdf_filename, modified_pdf))
                 successful += 1
@@ -359,6 +413,7 @@ class MainWindow(QMainWindow):
         # Get inputs
         hospital_number = self.hospital_input.text().strip()
         center_code = self.center_combo.currentData()
+        time_point = self.get_selected_timepoint()
         selected_pdfs = self.get_selected_pdfs()
         merge_pdfs = self.merge_checkbox.isChecked()
 
@@ -397,7 +452,7 @@ class MainWindow(QMainWindow):
             try:
                 # Process PDF
                 modified_pdf = self.processor.add_hospital_number(
-                    pdf_filename, hospital_number, center_code
+                    pdf_filename, hospital_number, center_code, time_point
                 )
                 processed_pdfs.append((pdf_filename, modified_pdf))
                 successful += 1

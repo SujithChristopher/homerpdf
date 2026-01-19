@@ -21,7 +21,7 @@ class PDFProcessor:
         self.pdf_dir = Path(pdf_dir)
 
     def add_hospital_number(
-        self, pdf_filename: str, hospital_number: str, center_code: str
+        self, pdf_filename: str, hospital_number: str, center_code: str, time_point: str
     ) -> BytesIO:
         """
         Add hospital number overlay to a PDF.
@@ -30,6 +30,7 @@ class PDFProcessor:
             pdf_filename: Name of the PDF file (e.g., "arat.pdf")
             hospital_number: Hospital number to add
             center_code: Center code (e.g., "CMC", "MNP", "LDH")
+            time_point: Time point (e.g., "A0", "A1", "A2")
 
         Returns:
             BytesIO object containing modified PDF
@@ -43,8 +44,8 @@ class PDFProcessor:
         if not pdf_path.exists():
             raise FileNotFoundError(f"PDF file not found: {pdf_filename}")
 
-        # Format the overlay text
-        overlay_text = f"{center_code}-{hospital_number}"
+        # Format the overlay text with time point
+        overlay_text = f"{time_point}-{center_code}-{hospital_number}"
 
         # Read the original PDF
         with open(pdf_path, "rb") as f:
@@ -84,7 +85,7 @@ class PDFProcessor:
         return output_buffer
 
     def process_multiple(
-        self, pdf_filenames: list, hospital_number: str, center_code: str
+        self, pdf_filenames: list, hospital_number: str, center_code: str, time_point: str
     ) -> dict:
         """
         Process multiple PDFs with hospital number overlay.
@@ -93,6 +94,7 @@ class PDFProcessor:
             pdf_filenames: List of PDF filenames
             hospital_number: Hospital number to add
             center_code: Center code
+            time_point: Time point (e.g., "A0", "A1", "A2")
 
         Returns:
             Dictionary mapping filename to BytesIO (modified PDF)
@@ -103,7 +105,7 @@ class PDFProcessor:
         for filename in pdf_filenames:
             try:
                 results[filename] = self.add_hospital_number(
-                    filename, hospital_number, center_code
+                    filename, hospital_number, center_code, time_point
                 )
             except Exception as e:
                 # Store error information
