@@ -1,5 +1,6 @@
 """Main application window for Hospital PDF Manager."""
 
+import os
 import tempfile
 from pathlib import Path
 
@@ -28,6 +29,7 @@ from PySide6.QtWidgets import (
 from pdf.processor import PDFProcessor
 from utils.validators import validate_hospital_number
 from utils.paths import get_files_dir
+from utils.operation_logger import OperationLogger
 
 
 class MainWindow(QMainWindow):
@@ -49,6 +51,11 @@ class MainWindow(QMainWindow):
         # Initialize PDF processor with correct path (works in dev and packaged)
         self.pdf_dir = get_files_dir()
         self.processor = PDFProcessor(self.pdf_dir)
+
+        # Initialize operation logger
+        log_dir = Path(os.getenv("LOCALAPPDATA")) / "HospitalPDFManager"
+        log_dir.mkdir(parents=True, exist_ok=True)
+        self.operation_logger = OperationLogger(log_dir / "operations.db")
 
         # Setup UI
         self.setup_ui()
@@ -310,6 +317,24 @@ class MainWindow(QMainWindow):
             QMessageBox.warning(self, "No Selection", "Please select at least one PDF")
             return
 
+        # Check for duplicate operation
+        duplicate_info = self.operation_logger.check_duplicate(
+            time_point, center_code, hospital_number, selected_pdfs, "download", merge_pdfs
+        )
+
+        reprint_reason = None
+        if duplicate_info:
+            # Show reason dialog
+            from ui.reprint_dialog import ReprintReasonDialog
+
+            dialog = ReprintReasonDialog(self, "download", duplicate_info)
+            reprint_reason = dialog.get_reason()
+
+            if reprint_reason is None:
+                # User cancelled
+                self.statusBar().showMessage("Download cancelled by user")
+                return
+
         # Create progress dialog
         progress = QProgressDialog(
             "Downloading PDFs...", None, 0, len(selected_pdfs), self
@@ -367,6 +392,19 @@ class MainWindow(QMainWindow):
                 QMessageBox.information(self, "Success", message)
                 self.statusBar().showMessage(f"Downloaded merged PDF")
 
+                # Log operation
+                self.operation_logger.log_operation(
+                    time_point,
+                    center_code,
+                    hospital_number,
+                    selected_pdfs,
+                    "download",
+                    merge_pdfs,
+                    is_duplicate=(duplicate_info is not None),
+                    reprint_reason=reprint_reason,
+                    output_path=str(save_dir),
+                )
+
             except Exception as e:
                 error_msg = f"Failed to merge and save PDFs: {str(e)}"
                 QMessageBox.critical(self, "Merge Failed", error_msg)
@@ -400,6 +438,19 @@ class MainWindow(QMainWindow):
                     QMessageBox.warning(self, "Partial Success", message)
                 else:
                     QMessageBox.information(self, "Success", message)
+
+                # Log operation (only log if at least one PDF was successful)
+                self.operation_logger.log_operation(
+                    time_point,
+                    center_code,
+                    hospital_number,
+                    selected_pdfs,
+                    "download",
+                    merge_pdfs,
+                    is_duplicate=(duplicate_info is not None),
+                    reprint_reason=reprint_reason,
+                    output_path=str(save_dir),
+                )
             else:
                 error_msg = "Failed to download PDFs:\n"
                 for error in errors:
@@ -420,6 +471,24 @@ class MainWindow(QMainWindow):
         if not selected_pdfs:
             QMessageBox.warning(self, "No Selection", "Please select at least one PDF")
             return
+
+        # Check for duplicate operation
+        duplicate_info = self.operation_logger.check_duplicate(
+            time_point, center_code, hospital_number, selected_pdfs, "print", merge_pdfs
+        )
+
+        reprint_reason = None
+        if duplicate_info:
+            # Show reason dialog
+            from ui.reprint_dialog import ReprintReasonDialog
+
+            dialog = ReprintReasonDialog(self, "print", duplicate_info)
+            reprint_reason = dialog.get_reason()
+
+            if reprint_reason is None:
+                # User cancelled
+                self.statusBar().showMessage("Print cancelled by user")
+                return
 
         # Create temp directory
         try:
@@ -484,6 +553,19 @@ class MainWindow(QMainWindow):
                 QMessageBox.information(self, "Success", message)
                 self.statusBar().showMessage("Opened merged PDF for printing")
 
+                # Log operation
+                self.operation_logger.log_operation(
+                    time_point,
+                    center_code,
+                    hospital_number,
+                    selected_pdfs,
+                    "print",
+                    merge_pdfs,
+                    is_duplicate=(duplicate_info is not None),
+                    reprint_reason=reprint_reason,
+                    output_path=None,  # Print uses temp directory
+                )
+
             except Exception as e:
                 error_msg = f"Failed to merge and open PDFs: {str(e)}"
                 QMessageBox.critical(self, "Merge Failed", error_msg)
@@ -516,6 +598,19 @@ class MainWindow(QMainWindow):
                     QMessageBox.warning(self, "Partial Success", message)
                 else:
                     QMessageBox.information(self, "Success", message)
+
+                # Log operation (only log if at least one PDF was successful)
+                self.operation_logger.log_operation(
+                    time_point,
+                    center_code,
+                    hospital_number,
+                    selected_pdfs,
+                    "print",
+                    merge_pdfs,
+                    is_duplicate=(duplicate_info is not None),
+                    reprint_reason=reprint_reason,
+                    output_path=None,  # Print uses temp directory
+                )
             else:
                 error_msg = "Failed to prepare PDFs for printing:\n"
                 for error in errors:
