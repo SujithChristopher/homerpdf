@@ -1,0 +1,173 @@
+name: Build Executables
+
+on:
+  push:
+    branches: [ main, master, develop ]
+    tags: [ v* ]
+  pull_request:
+    branches: [ main, master, develop ]
+  workflow_dispatch:
+
+jobs:
+  build-windows:
+    name: Build Windows x64
+    runs-on: windows-latest
+    strategy:
+      fail-fast: false
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Set up Python 3.13
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.13'
+        cache: 'pip'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip setuptools wheel
+        pip install -e ".[build]"
+
+    - name: Build executable
+      run: |
+        pyinstaller homerpdf.spec
+
+    - name: Create Windows installer script
+      run: |
+        mkdir -p dist/installer
+        copy dist\\"Hospital PDF Manager\\dist\\Hospital PDF Manager.exe" dist/installer/ 2>nul || copy dist/dist/Hospital\ PDF\ Manager.exe dist/installer/
+        echo "Building complete" > dist/installer/BUILD_INFO.txt
+
+    - name: Upload Windows artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: homerpdf-windows-x64
+        path: dist/
+        retention-days: 30
+
+  build-macos-intel:
+    name: Build macOS Intel (x86_64)
+    runs-on: macos-13
+    strategy:
+      fail-fast: false
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Set up Python 3.13
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.13'
+        cache: 'pip'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip setuptools wheel
+        pip install -e ".[build]"
+
+    - name: Build executable
+      run: |
+        pyinstaller homerpdf.spec
+
+    - name: Create macOS disk image
+      run: |
+        # Create a simple DMG structure
+        mkdir -p dist/dmg_contents/Applications
+        mv "dist/Hospital PDF Manager.app" "dist/dmg_contents/"
+
+        # Create a README in the DMG
+        cat > "dist/dmg_contents/README.txt" << 'EOF'
+Hospital PDF Manager
+
+Installation:
+1. Drag "Hospital PDF Manager.app" to the Applications folder
+2. Launch from Applications folder
+
+macOS Intel (x86_64)
+EOF
+
+    - name: Upload macOS Intel artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: homerpdf-macos-intel
+        path: dist/dmg_contents/
+        retention-days: 30
+
+  build-macos-apple-silicon:
+    name: Build macOS Apple Silicon (ARM64)
+    runs-on: macos-latest
+    strategy:
+      fail-fast: false
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Set up Python 3.13
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.13'
+        cache: 'pip'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip setuptools wheel
+        pip install -e ".[build]"
+
+    - name: Build executable
+      run: |
+        pyinstaller homerpdf.spec
+
+    - name: Create macOS disk image
+      run: |
+        # Create a simple DMG structure
+        mkdir -p dist/dmg_contents/Applications
+        mv "dist/Hospital PDF Manager.app" "dist/dmg_contents/"
+
+        # Create a README in the DMG
+        cat > "dist/dmg_contents/README.txt" << 'EOF'
+Hospital PDF Manager
+
+Installation:
+1. Drag "Hospital PDF Manager.app" to the Applications folder
+2. Launch from Applications folder
+
+macOS Apple Silicon (ARM64)
+EOF
+
+    - name: Upload macOS Apple Silicon artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: homerpdf-macos-apple-silicon
+        path: dist/dmg_contents/
+        retention-days: 30
+
+  create-release:
+    name: Create GitHub Release
+    needs: [build-windows, build-macos-intel, build-macos-apple-silicon]
+    runs-on: ubuntu-latest
+    if: startsWith(github.ref, 'refs/tags/v')
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Download all artifacts
+      uses: actions/download-artifact@v3
+      with:
+        path: release_artifacts
+
+    - name: Create Release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: release_artifacts/**/*
+        draft: false
+        prerelease: false
+        generate_release_notes: true
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

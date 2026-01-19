@@ -25,6 +25,7 @@ from PySide6.QtWidgets import (
 
 from pdf.processor import PDFProcessor
 from utils.validators import validate_hospital_number
+from utils.paths import get_files_dir
 
 
 class MainWindow(QMainWindow):
@@ -43,8 +44,8 @@ class MainWindow(QMainWindow):
         self.setWindowTitle("Hospital PDF Manager")
         self.setFixedSize(550, 650)
 
-        # Initialize PDF processor
-        self.pdf_dir = Path(__file__).parent.parent / "files"
+        # Initialize PDF processor with correct path (works in dev and packaged)
+        self.pdf_dir = get_files_dir()
         self.processor = PDFProcessor(self.pdf_dir)
 
         # Setup UI

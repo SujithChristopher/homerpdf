@@ -7,7 +7,12 @@
       "Bash(uv run:*)",
       "Bash(dir /B /S *.py)",
       "Bash(findstr:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(chmod:*)",
+      "Bash(python build.py:*)",
+      "Bash(uv pip install:*)",
+      "Bash(python -c:*)",
+      "Bash(timeout 5 python:*)"
     ]
   }
 }
