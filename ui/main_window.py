@@ -60,6 +60,9 @@ class MainWindow(QMainWindow):
         # Setup UI
         self.setup_ui()
 
+        # Apply theme-aware styling
+        self.apply_theme()
+
         # Center the window on screen
         self.center_window()
 
@@ -72,6 +75,172 @@ class MainWindow(QMainWindow):
         window_geometry = self.frameGeometry()
         window_geometry.moveCenter(screen_geometry.center())
         self.move(window_geometry.topLeft())
+
+    def apply_theme(self):
+        """Apply theme-aware styling that works in both light and dark mode."""
+        # Get system palette colors
+        palette = self.palette()
+        is_dark = palette.color(QPalette.Window).lightness() < 128
+
+        # Define colors based on theme
+        if is_dark:
+            # Dark mode colors
+            group_bg = palette.color(QPalette.Window).lighter(110).name()
+            input_bg = palette.color(QPalette.Base).name()
+            text_color = palette.color(QPalette.Text).name()
+            border_color = palette.color(QPalette.Mid).name()
+            button_bg = palette.color(QPalette.Button).name()
+            button_hover = palette.color(QPalette.Button).lighter(120).name()
+            button_disabled_bg = palette.color(QPalette.Window).name()
+            button_disabled_text = palette.color(QPalette.Mid).name()
+        else:
+            # Light mode colors
+            group_bg = palette.color(QPalette.Window).darker(105).name()
+            input_bg = palette.color(QPalette.Base).name()
+            text_color = palette.color(QPalette.Text).name()
+            border_color = palette.color(QPalette.Mid).name()
+            button_bg = palette.color(QPalette.Button).name()
+            button_hover = palette.color(QPalette.Button).darker(110).name()
+            button_disabled_bg = palette.color(QPalette.Window).name()
+            button_disabled_text = palette.color(QPalette.Mid).name()
+
+        # Apply comprehensive stylesheet
+        stylesheet = f"""
+            QGroupBox {{
+                font-weight: bold;
+                border: 1px solid {border_color};
+                border-radius: 6px;
+                margin-top: 12px;
+                padding-top: 10px;
+                background-color: {group_bg};
+            }}
+
+            QGroupBox::title {{
+                subcontrol-origin: margin;
+                subcontrol-position: top left;
+                left: 10px;
+                padding: 0 5px;
+                color: {text_color};
+            }}
+
+            QLineEdit {{
+                padding: 6px;
+                border: 1px solid {border_color};
+                border-radius: 4px;
+                background-color: {input_bg};
+                color: {text_color};
+            }}
+
+            QLineEdit:focus {{
+                border: 2px solid {palette.color(QPalette.Highlight).name()};
+                padding: 5px;
+            }}
+
+            QComboBox {{
+                padding: 6px;
+                border: 1px solid {border_color};
+                border-radius: 4px;
+                background-color: {input_bg};
+                color: {text_color};
+            }}
+
+            QComboBox:focus {{
+                border: 2px solid {palette.color(QPalette.Highlight).name()};
+            }}
+
+            QComboBox::drop-down {{
+                border: none;
+                padding-right: 5px;
+            }}
+
+            QListWidget {{
+                border: 1px solid {border_color};
+                border-radius: 4px;
+                padding: 4px;
+                background-color: {input_bg};
+                color: {text_color};
+            }}
+
+            QListWidget::item {{
+                padding: 4px;
+                border-radius: 3px;
+            }}
+
+            QListWidget::item:hover {{
+                background-color: {palette.color(QPalette.Highlight).lighter(150).name()};
+            }}
+
+            QPushButton {{
+                padding: 8px 16px;
+                border: 1px solid {border_color};
+                border-radius: 4px;
+                background-color: {button_bg};
+                color: {text_color};
+                font-weight: bold;
+            }}
+
+            QPushButton:hover:!disabled {{
+                background-color: {button_hover};
+                border: 2px solid {palette.color(QPalette.Highlight).name()};
+            }}
+
+            QPushButton:pressed {{
+                background-color: {palette.color(QPalette.Highlight).name()};
+            }}
+
+            QPushButton:disabled {{
+                background-color: {button_disabled_bg};
+                color: {button_disabled_text};
+                border: 1px solid {border_color};
+            }}
+
+            QCheckBox {{
+                spacing: 8px;
+                color: {text_color};
+            }}
+
+            QCheckBox::indicator {{
+                width: 18px;
+                height: 18px;
+                border: 1px solid {border_color};
+                border-radius: 3px;
+                background-color: {input_bg};
+            }}
+
+            QCheckBox::indicator:checked {{
+                background-color: {palette.color(QPalette.Highlight).name()};
+                border: 1px solid {palette.color(QPalette.Highlight).name()};
+            }}
+
+            QRadioButton {{
+                spacing: 8px;
+                color: {text_color};
+            }}
+
+            QRadioButton::indicator {{
+                width: 18px;
+                height: 18px;
+                border: 1px solid {border_color};
+                border-radius: 9px;
+                background-color: {input_bg};
+            }}
+
+            QRadioButton::indicator:checked {{
+                background-color: {palette.color(QPalette.Highlight).name()};
+                border: 3px solid {input_bg};
+            }}
+
+            QLabel {{
+                color: {text_color};
+            }}
+
+            QStatusBar {{
+                color: {text_color};
+                border-top: 1px solid {border_color};
+            }}
+        """
+
+        self.setStyleSheet(stylesheet)
 
     def setup_ui(self):
         """Setup the UI components and layout."""
@@ -233,12 +402,29 @@ class MainWindow(QMainWindow):
             is_invalid: True if input is invalid
         """
         if is_invalid:
-            # Add red border to input field
+            # Get theme-aware error color
+            palette = self.palette()
+            is_dark = palette.color(QPalette.Window).lightness() < 128
+
+            # Use a bright red that works in both modes
+            error_color = "#ff5555" if is_dark else "#dc3545"
+            bg_color = palette.color(QPalette.Base).name()
+            text_color = palette.color(QPalette.Text).name()
+
+            # Add red border to input field with theme-aware colors
             self.hospital_input.setStyleSheet(
-                "border: 2px solid red; border-radius: 3px; padding: 2px;"
+                f"""
+                QLineEdit {{
+                    border: 2px solid {error_color};
+                    border-radius: 4px;
+                    padding: 5px;
+                    background-color: {bg_color};
+                    color: {text_color};
+                }}
+                """
             )
         else:
-            # Remove red border
+            # Reset to default styling (empty string lets main stylesheet take over)
             self.hospital_input.setStyleSheet("")
 
     def on_input_changed(self):
