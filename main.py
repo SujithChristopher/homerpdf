@@ -12,7 +12,7 @@ def main():
     app = QApplication(sys.argv)
 
     # Set application metadata
-    app.setApplicationName("Hospital PDF Manager")
+    app.setApplicationName("Homer PDF Manager")
     app.setApplicationVersion("0.1.0")
 
     # Create and show main window
