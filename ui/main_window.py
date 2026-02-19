@@ -314,26 +314,18 @@ class MainWindow(QMainWindow):
         info_layout.addLayout(timepoint_layout)
         info_group.setLayout(info_layout)
 
-        # ===== PDF Selection Group =====
-        pdf_group = QGroupBox("Select PDF Files")
+        # ===== PDF Information Group =====
+        pdf_group = QGroupBox("Included Files")
         pdf_layout = QVBoxLayout()
 
-        self.pdf_list = QListWidget()
-        self.pdf_list.itemChanged.connect(self.on_selection_changed)
-
-        # Populate PDF list
-        pdf_files = sorted(self.pdf_dir.glob("*.pdf"))
-        for pdf_file in pdf_files:
-            item = QListWidgetItem(pdf_file.stem.upper())
-            item.setFlags(item.flags() | Qt.ItemIsUserCheckable)
-            item.setCheckState(Qt.Unchecked)
-            item.setData(Qt.UserRole, pdf_file.name)
-            self.pdf_list.addItem(item)
-
-        if not pdf_files:
-            self.pdf_list.addItem("No PDFs found in files/ directory")
-
-        pdf_layout.addWidget(self.pdf_list)
+        # List available PDFs (excluding 06 moca.pdf)
+        pdf_files = sorted([f for f in self.pdf_dir.glob("*.pdf") if f.name.lower() != "06 moca.pdf"])
+        pdf_list_text = "\n".join([f"  • {pdf_file.stem.upper()}" for pdf_file in pdf_files])
+        
+        pdf_files_label = QLabel(pdf_list_text if pdf_files else "No PDFs found in files/ directory")
+        pdf_files_label.setStyleSheet("font-family: monospace;")
+        
+        pdf_layout.addWidget(pdf_files_label)
         pdf_group.setLayout(pdf_layout)
 
         # ===== Merge Option =====
@@ -368,7 +360,7 @@ class MainWindow(QMainWindow):
 
     def validate_inputs(self) -> bool:
         """
-        Validate hospital number, time point selection, and PDF selection.
+        Validate hospital number and time point selection.
 
         Returns:
             True if validation passes, False otherwise
@@ -384,11 +376,6 @@ class MainWindow(QMainWindow):
         # Validate time point selection (mandatory)
         time_point = self.get_selected_timepoint()
         if not time_point:
-            return False
-
-        # Check if any PDFs are selected
-        selected_pdfs = self.get_selected_pdfs()
-        if not selected_pdfs:
             return False
 
         self.set_input_invalid(False)
@@ -431,9 +418,7 @@ class MainWindow(QMainWindow):
         """Handle changes to hospital number or center selection."""
         self.update_button_states()
 
-    def on_selection_changed(self):
-        """Handle changes to PDF selection."""
-        self.update_button_states()
+
 
     def update_button_states(self):
         """Update button enabled/disabled states based on validation."""
@@ -451,19 +436,13 @@ class MainWindow(QMainWindow):
 
     def get_selected_pdfs(self) -> list:
         """
-        Get list of selected PDF filenames.
+        Get list of all PDF filenames except 06 moca.pdf.
 
         Returns:
-            List of selected PDF filenames
+            List of PDF filenames (automatically excludes 06 moca.pdf)
         """
-        selected = []
-        for i in range(self.pdf_list.count()):
-            item = self.pdf_list.item(i)
-            if item.checkState() == Qt.Checked:
-                pdf_filename = item.data(Qt.UserRole)
-                if pdf_filename:
-                    selected.append(pdf_filename)
-        return selected
+        pdf_files = sorted([f.name for f in self.pdf_dir.glob("*.pdf") if f.name.lower() != "06 moca.pdf"])
+        return pdf_files
 
     def get_selected_timepoint(self) -> str:
         """
