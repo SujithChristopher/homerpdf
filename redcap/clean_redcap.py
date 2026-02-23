@@ -85,34 +85,27 @@ def process_redcap_csvs(input_dir, output_file):
                 if not row or not row[0].strip() or row[0].strip() == 'Variable / Field Name' or row[0].strip().lower() == 'record id':
                     continue
 
-                if len(row) >= 19:
+                if len(row) >= 18:
                     var_name = row[0].strip()
                     form_name = row[1].strip()
                     section = row[2]
                     f_type = row[3]
                     label = row[4]
                     choice = row[5]
-                    calc = row[6]
-                    slider = row[7]
-                    note = row[8] if len(row) > 8 else ""
-                    val_type = row[9] if len(row) > 9 else ""
-                    val_min = row[10] if len(row) > 10 else ""
-                    val_max = row[11] if len(row) > 11 else ""
-                    ident = row[12] if len(row) > 12 else ""
-                    branch = row[13] if len(row) > 13 else ""
-                    req = row[14] if len(row) > 14 else ""
-                    align = row[15] if len(row) > 15 else ""
-                    q_num = row[16] if len(row) > 16 else ""
-                    matrix = row[17] if len(row) > 17 else ""
-                    rank = row[18] if len(row) > 18 else ""
-                    annot = row[19] if len(row) > 19 else ""
+                    note = row[6]
+                    val_type = row[7]
+                    val_min = row[8]
+                    val_max = row[9]
+                    ident = row[10]
+                    branch = row[11]
+                    req = row[12]
+                    align = row[13]
+                    q_num = row[14]
+                    matrix = row[15]
+                    rank = row[16]
+                    annot = row[17]
                     
-                    merged_choice = ""
-                    if choice.strip(): merged_choice = choice.strip()
-                    elif calc.strip(): merged_choice = calc.strip()
-                    elif slider.strip(): merged_choice = slider.strip()
-                elif len(row) == 18:
-                    var_name, form_name, section, f_type, label, merged_choice, note, val_type, val_min, val_max, ident, branch, req, align, q_num, matrix, rank, annot = row + [""] * (18 - len(row))
+                    merged_choice = choice.strip()
                 else:
                     continue
 
