@@ -24,7 +24,6 @@ def process_redcap_csvs(input_dir, output_file):
         ["homer_id", demographics_form, "", "text", "Record ID (HOMER ID)", "", "", "", "", "", "y", "", "", "", "", "", "", ""],
         ["hospital_id", demographics_form, "", "text", "Hospital ID", "", "", "", "", "", "y", "", "", "", "", "", "", ""],
         ["assessor_name", demographics_form, "", "text", "Name of Assessor", "", "", "", "", "", "", "", "", "", "", "", ""],
-        ["date_of_assessment", demographics_form, "", "text", "Date of Assessment", "", "", "date_ymd", "", "", "", "", "", "", "", "", "", ""],
         ["address", demographics_form, "", "notes", "Address", "", "", "", "", "", "", "", "", "", "", "", "", ""],
         ["referred_doctor", demographics_form, "", "text", "Referred Doctor", "", "", "", "", "", "", "", "", "", "", "", "", ""],
         ["age_years", demographics_form, "", "text", "Age in years", "", "", "int", "", "", "", "", "", "", "", "", "", ""],
