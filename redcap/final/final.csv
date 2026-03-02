@@ -4,7 +4,7 @@ hospital_id,patient_demographics,,text,Hospital ID,,,,,,y,,,,,,,@READONLY-IF([co
 age_years,patient_demographics,,text,Age in years,,,int,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 sex,patient_demographics,,radio,Sex,"1, Male | 2, Female | 3, Others",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 marital_status,patient_demographics,,radio,Marital status,"1, Single | 2, Married | 3, Others",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-primary_language,patient_demographics,,radio,Language,"1, English | 2, Kannada | 3, Tamil | 4, Telugu | 5, Hindi | 6, Punjabi",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
+primary_language,patient_demographics,,radio,Language,"en, English | kn, Kannada | ta, Tamil | te, Telugu | hi, Hindi | pb, Punjabi",,,,,,,,,,,,@LANGUAGE-SET-FORM @READONLY-IF([completed_assessment_complete] = '2')
 education_level,patient_demographics,,dropdown,Education level,"1, No formal education | 2, Primary (1-5) | 3, Secondary (6-10) | 4, Intermediate (12th/Diploma) | 5, Graduate | 6, Post-graduation/Honors",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 hand_dominance,patient_demographics,,radio,Hand dominance,"1, Right | 2, Left",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 occupation_status,patient_demographics,,radio,Occupation status,"1, Employed | 2, Unemployed | 3, Retired",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')

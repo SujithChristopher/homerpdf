@@ -1,0 +1,331 @@
+{
+    "creator": "REDCap MLM",
+    "version": "v15.5.4",
+    "timestamp": "2026-03-02 06:50:00",
+    "key": "ta",
+    "display": "Tamil",
+    "rtl": false,
+    "fieldTranslations": [
+        {
+            "id": "sipso_header",
+            "form": "sipso_questionnaire",
+            "header": {
+                "translation": "Subjective Index of Physical and Social Outcome (SIPSO) / உடல் மற்றும் சமூக விளைவுகளின் அகநிலை குறியீடு (SIPSO)"
+            },
+            "label": {
+                "translation": "Please answer all questions based on your experience since your stroke. / உங்கள் பக்கவாதத்திற்குப் பிறகு உங்கள் அனுபவத்தின் அடிப்படையில் அனைத்து கேள்விகளுக்கும் பதிலளிக்கவும்."
+            }
+        },
+        {
+            "id": "sipso_1_dress",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "1. Since your stroke, how much difficulty do you have dressing yourself fully? / 1. உங்கள் பக்கவாதத்திற்குப் பிறகு, உங்களை முழுமையாக உடுத்திக் கொள்வதில் உங்களுக்கு எவ்வளவு சிரமம் உள்ளது?"
+            },
+            "enum": [
+                {
+                    "id": 4,
+                    "translation": "No difficulty at all / எந்த சிரமமும் இல்லை"
+                },
+                {
+                    "id": 3,
+                    "translation": "Slight difficulty / சிறிய சிரமம்"
+                },
+                {
+                    "id": 2,
+                    "translation": "Some difficulty / சில சிரமங்கள்"
+                },
+                {
+                    "id": 1,
+                    "translation": "A lot of difficulty / நிறைய சிரமம்"
+                },
+                {
+                    "id": 0,
+                    "translation": "I cannot dress myself fully / என்னால் முழுமையாக உடுத்திக்கொள்ள முடியாது"
+                }
+            ]
+        },
+        {
+            "id": "sipso_2_move_home",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "2. Since your stroke, how much difficulty do you have moving around all areas of the home? / 2. உங்கள் பக்கவாதத்திற்குப் பிறகு, வீட்டின் அனைத்துப் பகுதிகளிலும் நடமாடுவதில் உங்களுக்கு எவ்வளவு சிரமம் உள்ளது?"
+            },
+            "enum": [
+                {
+                    "id": 4,
+                    "translation": "No difficulty at all / எந்த சிரமமும் இல்லை"
+                },
+                {
+                    "id": 3,
+                    "translation": "Slight difficulty / சிறிய சிரமம்"
+                },
+                {
+                    "id": 2,
+                    "translation": "Some difficulty / சில சிரமங்கள்"
+                },
+                {
+                    "id": 1,
+                    "translation": "A lot of difficulty / நிறைய சிரமம்"
+                },
+                {
+                    "id": 0,
+                    "translation": "I cannot move around all areas of the home / வீட்டின் அனைத்துப் பகுதிகளிலும் என்னால் நகர முடியாது"
+                }
+            ]
+        },
+        {
+            "id": "sipso_3_satisfaction",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "3. Since your stroke, how satisfied are you with your overall ability to perform daily activities in and around the home? / 3. உங்கள் பக்கவாதத்திற்குப் பிறகு, வீட்டிலும் அதைச் சுற்றியுள்ள தினசரி நடவடிக்கைகளைச் செய்வதற்கான உங்கள் ஒட்டுமொத்த திறனில் நீங்கள் எவ்வளவு திருப்தி அடைகிறீர்கள்?"
+            },
+            "enum": [
+                {
+                    "id": 4,
+                    "translation": "Completely satisfied / முழுமையாக திருப்தி அடைகிறேன்"
+                },
+                {
+                    "id": 3,
+                    "translation": "Mostly satisfied / பெரும்பாலும் திருப்தி அடைகிறேன்"
+                },
+                {
+                    "id": 2,
+                    "translation": "Fairly satisfied / ஓரளவிற்கு திருப்தி அடைகிறேன்"
+                },
+                {
+                    "id": 1,
+                    "translation": "Not very satisfied / அவ்வளவாக திருப்தி இல்லை"
+                },
+                {
+                    "id": 0,
+                    "translation": "Completely dissatisfied / முற்றிலும் அதிருப்தி அடைகிறேன்"
+                }
+            ]
+        },
+        {
+            "id": "sipso_4_shop",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "4. Since your stroke, how much difficulty do you have shopping for and carrying a few items (1 bag of shopping or less) when at the shops? / 4. உங்கள் பக்கவாதத்திற்குப் பிறகு, கடைக்குச் செல்லும்போது சில பொருட்களை (1 பை அல்லது அதற்கும் குறைவாக) வாங்குவதற்கும் தூக்கிச் செல்வதற்கும் உங்களுக்கு எவ்வளவு சிரமம் உள்ளது?"
+            },
+            "enum": [
+                {
+                    "id": 4,
+                    "translation": "No difficulty at all / எந்த சிரமமும் இல்லை"
+                },
+                {
+                    "id": 3,
+                    "translation": "Slight difficulty / சிறிய சிரமம்"
+                },
+                {
+                    "id": 2,
+                    "translation": "Some difficulty / சில சிரமங்கள்"
+                },
+                {
+                    "id": 1,
+                    "translation": "A lot of difficulty / நிறைய சிரமம்"
+                },
+                {
+                    "id": 0,
+                    "translation": "I cannot shop for and carry a few items / என்னால் சில பொருட்களை வாங்கவோ தூக்கிச் செல்லவோ முடியாது"
+                }
+            ]
+        },
+        {
+            "id": "sipso_5_indep_neigh",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "5. Since your stroke, how independent are you in your ability to move around your local neighbourhood? / 5. உங்கள் பக்கவாதத்திற்குப் பிறகு, உங்கள் உள்ளூர் சுற்றுப்புறத்தில் நடமாடும் உங்கள் திறனில் நீங்கள் எவ்வளவு சுதந்திரமாக இருக்கிறீர்கள்?"
+            },
+            "enum": [
+                {
+                    "id": 4,
+                    "translation": "I am completely independent / நான் முற்றிலும் சுதந்திரமாக இருக்கிறேன்"
+                },
+                {
+                    "id": 3,
+                    "translation": "I prefer to have someone else with me / என்னுடன் வேறு யாரையாவது வைத்திருக்க விரும்புகிறேன்"
+                },
+                {
+                    "id": 2,
+                    "translation": "I need occasional assistance from someone / எனக்கு அவ்வப்போது ஒருவரின் உதவி தேவை"
+                },
+                {
+                    "id": 1,
+                    "translation": "I need assistance much of the time / எனக்குப் பெரும்பாலான நேரங்களில் உதவி தேவை"
+                },
+                {
+                    "id": 0,
+                    "translation": "I am completely dependent on others / நான் மற்றவர்களை முற்றிலும் சார்ந்து இருக்கிறேன்"
+                }
+            ]
+        },
+        {
+            "id": "sipso_sub_physical",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "Physical Integration Subscore (Items 1-5) / உடல் ஒருங்கிணைப்பு துணை மதிப்பெண் (உருப்படிகள் 1-5)"
+            }
+        },
+        {
+            "id": "sipso_6_bored",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "6. Since your stroke, how often do you feel bored with your free time at home? / 6. உங்கள் பக்கவாதத்திற்குப் பிறகு, வீட்டில் உங்கள் ஓய்வு நேரத்தில் உங்களுக்கு எவ்வளவு அடிக்கடி சலிப்பாகத் தோன்றுகிறது?"
+            },
+            "enum": [
+                {
+                    "id": 4,
+                    "translation": "I am never bored with my free time / எனது ஓய்வு நேரத்தில் எனக்கு ஒருபோதும் சலிப்பு ஏற்படுவதில்லை"
+                },
+                {
+                    "id": 3,
+                    "translation": "A little of my free time / எனது ஓய்வு நேரத்தில் சிறிது நேரம்"
+                },
+                {
+                    "id": 2,
+                    "translation": "Some of my free time / எனது ஓய்வு நேரத்தில் சில நேரம்"
+                },
+                {
+                    "id": 1,
+                    "translation": "Most of my free time / எனது ஓய்வு நேரத்தில் பெரும்பாலான நேரம்"
+                },
+                {
+                    "id": 0,
+                    "translation": "All of my free time / எனது ஓய்வு நேரம் முழுவதும்"
+                }
+            ]
+        },
+        {
+            "id": "sipso_7_comm",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "7. Since your stroke, how would you describe the amount of communication between you and your friends/associates? / 7. உங்கள் பக்கவாதத்திற்குப் பிறகு, உங்களுக்கும் உங்கள் நண்பர்கள்/சக ஊழியர்களுக்கும் இடையிலான தகவல்தொடர்பு அளவை நீங்கள் எவ்வாறு விவரிப்பீர்கள்?"
+            },
+            "enum": [
+                {
+                    "id": 4,
+                    "translation": "A great deal / மிக அதிகம்"
+                },
+                {
+                    "id": 3,
+                    "translation": "Quite a lot / ஓரளவு அதிகம்"
+                },
+                {
+                    "id": 2,
+                    "translation": "Some / கொஞ்சம்"
+                },
+                {
+                    "id": 1,
+                    "translation": "A little bit / மிகக் குறைவு"
+                },
+                {
+                    "id": 0,
+                    "translation": "None / எதுவுமில்லை"
+                }
+            ]
+        },
+        {
+            "id": "sipso_8_social_sat",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "8. Since your stroke, how satisfied are you with the level of interests and activities you share with your friends/associates? / 8. உங்கள் பக்கவாதத்திற்குப் பிறகு, உங்கள் நண்பர்கள்/சக ஊழியர்களுடன் நீங்கள் பகிர்ந்து கொள்ளும் ஆர்வங்கள் மற்றும் நடவடிக்கைகளின் மட்டத்தில் நீங்கள் எவ்வளவு திருப்தி அடைகிறீர்கள்?"
+            },
+            "enum": [
+                {
+                    "id": 4,
+                    "translation": "Completely satisfied / முழுமையாக திருப்தி அடைகிறேன்"
+                },
+                {
+                    "id": 3,
+                    "translation": "Mostly satisfied / பெரும்பாலும் திருப்தி அடைகிறேன்"
+                },
+                {
+                    "id": 2,
+                    "translation": "Fairly satisfied / ஓரளவிற்கு திருப்தி அடைகிறேன்"
+                },
+                {
+                    "id": 1,
+                    "translation": "Not very satisfied / அவ்வளவாக திருப்தி இல்லை"
+                },
+                {
+                    "id": 0,
+                    "translation": "Completely dissatisfied / முற்றிலும் அதிருப்தி அடைகிறேன்"
+                }
+            ]
+        },
+        {
+            "id": "sipso_9_visit",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "9. Since your stroke, how often do you visit friends/others? / 9. உங்கள் பக்கவாதத்திற்குப் பிறகு, உங்கள் நண்பர்கள்/மற்றவர்களை நீங்கள் எவ்வளவு அடிக்கடி சந்திக்கிறீர்கள்?"
+            },
+            "enum": [
+                {
+                    "id": 4,
+                    "translation": "Most days / பெரும்பாலான நாட்கள்"
+                },
+                {
+                    "id": 3,
+                    "translation": "At least once a week / வாரத்திற்கு ஒரு முறையாவது"
+                },
+                {
+                    "id": 2,
+                    "translation": "At least once a fortnight / குறைந்தது இரண்டு வாரங்களுக்கு ஒரு முறை"
+                },
+                {
+                    "id": 1,
+                    "translation": "Once a month or less / மாதத்திற்கு ஒரு முறை அல்லது அதற்கும் குறைவாக"
+                },
+                {
+                    "id": 0,
+                    "translation": "Never / ஒருபோதும் இல்லை"
+                }
+            ]
+        },
+        {
+            "id": "sipso_10_appearance",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "10. Since your stroke, how do you feel about your appearance when out in public? / 10. உங்கள் பக்கவாதத்திற்குப் பிறகு, பொது இடங்களுக்குச் செல்லும்போது உங்கள் தோற்றத்தைப் பற்றி நீங்கள் எப்படி உணருகிறீர்கள்?"
+            },
+            "enum": [
+                {
+                    "id": 4,
+                    "translation": "Perfectly happy / முற்றிலும் மகிழ்ச்சியாக இருக்கிறது"
+                },
+                {
+                    "id": 3,
+                    "translation": "Slightly self-conscious / சற்று கூச்சமாக இருக்கிறது"
+                },
+                {
+                    "id": 2,
+                    "translation": "Fairly self-conscious / ஓரளவிற்கு கூச்சமாக இருக்கிறது"
+                },
+                {
+                    "id": 1,
+                    "translation": "Very self-conscious / மிகவும் கூச்சமாக இருக்கிறது"
+                },
+                {
+                    "id": 0,
+                    "translation": "I try to avoid going out in public / நான் பொது இடங்களுக்குச் செல்வதைத் தவிர்க்க முயற்சிக்கிறேன்"
+                }
+            ]
+        },
+        {
+            "id": "sipso_sub_social",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "Social Integration Subscore (Items 6-10) / சமூக ஒருங்கிணைப்பு துணை மதிப்பெண் (உருப்படிகள் 6-10)"
+            }
+        },
+        {
+            "id": "sipso_total_score",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "Total SIPSO Score (Max 40) / மொத்த SIPSO மதிப்பெண் (அதிகபட்சம் 40)"
+            }
+        }
+    ]
+}
