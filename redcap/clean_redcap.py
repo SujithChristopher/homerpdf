@@ -21,8 +21,8 @@ def process_redcap_csvs(input_dir, output_file):
     # 1. Define Demographics Form Rows
     demographics_form = "patient_demographics"
     demo_fields = [
-        ["hospital_id", demographics_form, "", "text", "Hospital ID", "", "", "", "", "", "y", "", "", "", "", "", "", ""],
         ["homer_id", demographics_form, "", "text", "Record ID (HOMER ID)", "", "", "", "", "", "y", "", "", "", "", "", "", ""],
+        ["hospital_id", demographics_form, "", "text", "Hospital ID", "", "", "", "", "", "y", "", "", "", "", "", "", ""],
         ["age_years", demographics_form, "", "text", "Age in years", "", "", "int", "", "", "", "", "", "", "", "", "", ""],
         ["sex", demographics_form, "", "radio", "Sex", "1, Male | 2, Female | 3, Others", "", "", "", "", "", "", "", "", "", "", "", ""],
         ["marital_status", demographics_form, "", "radio", "Marital status", "1, Single | 2, Married | 3, Others", "", "", "", "", "", "", "", "", "", "", "", ""],

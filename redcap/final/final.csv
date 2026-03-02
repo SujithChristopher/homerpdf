@@ -1,6 +1,6 @@
 Variable / Field Name,Form Name,Section Header,Field Type,Field Label,"Choices, Calculations, OR Slider Labels",Field Note,Text Validation Type OR Show Slider Number,Text Validation Min,Text Validation Max,Identifier?,Branching Logic (Show field only if...),Required Field?,Custom Alignment,Question Number (surveys only),Matrix Group Name,Matrix Ranking?,Field Annotation
-hospital_id,patient_demographics,,text,Hospital ID,,,,,,y,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 homer_id,patient_demographics,,text,Record ID (HOMER ID),,,,,,y,,,,,,,
+hospital_id,patient_demographics,,text,Hospital ID,,,,,,y,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 age_years,patient_demographics,,text,Age in years,,,int,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 sex,patient_demographics,,radio,Sex,"1, Male | 2, Female | 3, Others",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 marital_status,patient_demographics,,radio,Marital status,"1, Single | 2, Married | 3, Others",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
