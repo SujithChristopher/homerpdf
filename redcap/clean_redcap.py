@@ -23,7 +23,7 @@ def process_redcap_csvs(input_dir, output_file):
     demo_fields = [
         ["homer_id", demographics_form, "", "text", "Record ID (HOMER ID)", "", "", "", "", "", "y", "", "", "", "", "", "", ""],
         ["hospital_id", demographics_form, "", "text", "Hospital ID", "", "", "", "", "", "y", "", "", "", "", "", "", ""],
-        ["assessor_name", demographics_form, "", "text", "Name of Assessor", "", "", "", "", "", "", "", "", "", "", "", ""],
+        ["assessor_name", demographics_form, "", "text", "Name of Assessor", "", "", "", "", "", "", "", "", "", "", "", "", ""],
         ["address", demographics_form, "", "notes", "Address", "", "", "", "", "", "", "", "", "", "", "", "", ""],
         ["referred_doctor", demographics_form, "", "text", "Referred Doctor", "", "", "", "", "", "", "", "", "", "", "", "", ""],
         ["age_years", demographics_form, "", "text", "Age in years", "", "", "int", "", "", "", "", "", "", "", "", "", ""],
@@ -34,7 +34,7 @@ def process_redcap_csvs(input_dir, output_file):
         ["education_level", demographics_form, "", "dropdown", "Education level", "1, Primary | 2, Secondary | 3, Higher Secondary | 4, Graduate | 5, Post Graduate | 6, Others", "", "", "", "", "", "", "", "", "", "", "", ""],
         ["hand_dominance", demographics_form, "", "radio", "Hand dominance", "1, Right | 2, Left", "", "", "", "", "", "", "", "", "", "", "", ""],
         ["occupation_status", demographics_form, "", "radio", "Occupation status", "1, Employed | 2, Unemployed | 3, Retired", "", "", "", "", "", "", "", "", "", "", "", ""],
-        ["comorbidities", demographics_form, "", "notes", "Comorbidities", "", "Add kind as note", "", "", "", "", "", "", "", "", "", "", ""],
+        ["comorbidities", demographics_form, "", "notes", "Comorbidities", "", "Add kind as note", "", "", "", "", "", "", "", "", "", "", "", ""],
         ['pre_living_arrangements', 'patient_demographics', 'Living Arrangements', 'radio', 'Premorbid Living Arrangements', '1, Living alone | 2, Living with family | 3, Assisted living/Nursing home', '', '', '', '', '', '', '', '', '', '', '', ''],
         ['pre_ambulatory_status', 'patient_demographics', '', 'radio', 'Premorbid Ambulatory Status', '1, Independent | 2, Independent with aid | 3, Dependent', '', '', '', '', '', '', '', '', '', '', '', ''],
         ["active_hand_movement_onset", demographics_form, "", "radio", "Active hand movement at stroke onset?", "1, Yes | 2, No", "", "", "", "", "", "", "", "", "", "", "", ""],
@@ -63,6 +63,15 @@ def process_redcap_csvs(input_dir, output_file):
 
     for field in demo_fields:
         dict_row = dict(zip(standard_header, field))
+        
+        # Apply locking to demographics too
+        locking_tag = "@READONLY-IF([completed_assessment_complete] = '2')"
+        if dict_row['Variable / Field Name'] != 'homer_id':
+            if dict_row['Field Annotation']:
+                dict_row['Field Annotation'] = f"{dict_row['Field Annotation'].strip()} {locking_tag}"
+            else:
+                dict_row['Field Annotation'] = locking_tag
+                
         all_rows.append(dict_row)
         seen_vars.add(field[0])
 
@@ -146,6 +155,17 @@ def process_redcap_csvs(input_dir, output_file):
                     if not val_type:
                         val_type = merged_choice
                         merged_choice = ""
+
+                # APPLY AUTOMATED LOCKING LOGIC
+                # Every field (except record ID and the completion form itself) 
+                # will be locked once the assessment is marked 'Complete'
+                locking_tag = "@READONLY-IF([completed_assessment_complete] = '2')"
+                if cleaned_var != 'homer_id' and clean_name(form_name) != 'completed_assessment':
+                    if annot:
+                        if locking_tag not in annot:
+                            annot = f"{annot.strip()} {locking_tag}"
+                    else:
+                        annot = locking_tag
 
                 new_row = {
                     'Variable / Field Name': cleaned_var,
