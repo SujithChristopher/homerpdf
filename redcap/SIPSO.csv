@@ -2,7 +2,7 @@ Variable / Field Name,Form Name,Section Header,Field Type,Field Label,Choices, C
 homer_id,sipso_questionnaire,,text,"Record ID",,,,,,,,,,,,,,,
 sipso_date,sipso_questionnaire,,text,"Date of Assessment",,,date_ymd,,,,,,,,,,,
 sipso_examiner,sipso_questionnaire,,text,"Examiner Name",,,,,,,,,,,,,,,
-sipso_header,sipso_questionnaire,"Subjective Index of Physical and Social Outcome (SIPSO)",descriptive,"Please answer all questions based on your experience since your stroke.",,,,,,,,,,,,,@LANGUAGE-FORCE="[a0_arm_1][primary_language:value]"
+sipso_header,sipso_questionnaire,"Subjective Index of Physical and Social Outcome (SIPSO)",descriptive,"Please answer all questions based on your experience since your stroke.",,,,,,,,,,,,,,
 sipso_1_dress,sipso_questionnaire,,radio,"1. Since your stroke, how much difficulty do you have dressing yourself fully?","4, No difficulty at all | 3, Slight difficulty | 2, Some difficulty | 1, A lot of difficulty | 0, I cannot dress myself fully",,,,,,,,,,,,,,
 sipso_2_move_home,sipso_questionnaire,,radio,"2. Since your stroke, how much difficulty do you have moving around all areas of the home?","4, No difficulty at all | 3, Slight difficulty | 2, Some difficulty | 1, A lot of difficulty | 0, I cannot move around all areas of the home",,,,,,,,,,,,,,
 sipso_3_satisfaction,sipso_questionnaire,,radio,"3. Since your stroke, how satisfied are you with your overall ability to perform daily activities in and around the home?","4, Completely satisfied | 3, Mostly satisfied | 2, Fairly satisfied | 1, Not very satisfied | 0, Completely dissatisfied",,,,,,,,,,,,,,

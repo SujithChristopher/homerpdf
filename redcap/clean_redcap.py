@@ -26,7 +26,7 @@ def process_redcap_csvs(input_dir, output_file):
         ["age_years", demographics_form, "", "text", "Age in years", "", "", "int", "", "", "", "", "", "", "", "", "", ""],
         ["sex", demographics_form, "", "radio", "Sex", "1, Male | 2, Female | 3, Others", "", "", "", "", "", "", "", "", "", "", "", ""],
         ["marital_status", demographics_form, "", "radio", "Marital status", "1, Single | 2, Married | 3, Others", "", "", "", "", "", "", "", "", "", "", "", ""],
-        ["primary_language", demographics_form, "", "radio", "Language", "en, English | kn, Kannada | ta, Tamil | te, Telugu | hi, Hindi | pb, Punjabi", "", "", "", "", "", "", "", "", "", "", "", "@LANGUAGE-SET"],
+        ["primary_language", demographics_form, "", "radio", "Language", "en, English | kn, Kannada | ta, Tamil | te, Telugu | hi, Hindi | pb, Punjabi", "", "", "", "", "", "", "", "", "", "", "", "@LANGUAGE-SET @LANGUAGE-CURRENT-FORM"],
         ["education_level", demographics_form, "", "dropdown", "Education level", "1, No formal education | 2, Primary (1-5) | 3, Secondary (6-10) | 4, Intermediate (12th/Diploma) | 5, Graduate | 6, Post-graduation/Honors", "", "", "", "", "", "", "", "", "", "", "", ""],
         ["hand_dominance", demographics_form, "", "radio", "Hand dominance", "1, Right | 2, Left", "", "", "", "", "", "", "", "", "", "", "", ""],
         ["occupation_status", demographics_form, "", "radio", "Occupation status", "1, Employed | 2, Unemployed | 3, Retired", "", "", "", "", "", "", "", "", "", "", "", ""],
