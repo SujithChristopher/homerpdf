@@ -111,8 +111,11 @@ def process_redcap_csvs(input_dir, output_file):
                 if var_name.strip().lower() == 'homer_id':
                     continue
                 
-                # REMOVE redundant admin fields (date, examiner) from follow-up forms
-                if any(re.match(p, var_name.lower()) for p in [r'.*_date$', r'.*_examiner$']):
+                # REMOVE redundant admin fields (date, examiner) from follow-up forms.
+                # Match only simple admin fields: <prefix>_date or <prefix>_examiner
+                # (single word before the suffix, e.g. 'mas_date'), NOT compound clinical
+                # fields like 'ae_start_date' or 'ae_stop_date' which have a middle segment.
+                if any(re.match(p, var_name.lower()) for p in [r'^[a-z0-9]+_date$', r'^[a-z0-9]+_examiner$']):
                     continue
 
                 cleaned_var = clean_name(var_name)
