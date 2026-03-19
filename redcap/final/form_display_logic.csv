@@ -25,3 +25,5 @@ modified_ashworth_scale,a2_arm_1,"[a1_arm_1][completed_assessment_complete] = '2
 box_and_block_test,a2_arm_1,"[a1_arm_1][completed_assessment_complete] = '2'"
 adverse_event,a2_arm_1,"[a1_arm_1][completed_assessment_complete] = '2'"
 completed_assessment,a2_arm_1,"[a1_arm_1][completed_assessment_complete] = '2'"
+exit_questionnaire_intervention,exitq_arm_1,
+exit_questionnaire_control,exitq_arm_1,
