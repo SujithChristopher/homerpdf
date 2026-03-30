@@ -14,5 +14,3 @@ mas_forearm_pronato,modified_ashworth_scale,Forearm,radio,Pronators,"0, 0 | 1, 1
 mas_forearm_supinat,modified_ashworth_scale,,radio,Supinators,"0, 0 | 1, 1 | 2, 1+ | 3, 2 | 4, 3 | 5, 4",,,,,,,,RH,,,,,
 mas_wrist_flex,modified_ashworth_scale,Wrist,radio,Flexors,"0, 0 | 1, 1 | 2, 1+ | 3, 2 | 4, 3 | 5, 4",,,,,,,,RH,,,,,
 mas_wrist_ext,modified_ashworth_scale,,radio,Extensors,"0, 0 | 1, 1 | 2, 1+ | 3, 2 | 4, 3 | 5, 4",,,,,,,,RH,,,,,
-mas_fingers_flex,modified_ashworth_scale,Fingers,radio,Flexors,"0, 0 | 1, 1 | 2, 1+ | 3, 2 | 4, 3 | 5, 4",,,,,,,,RH,,,,,
-mas_fingers_ext,modified_ashworth_scale,,radio,Extensors,"0, 0 | 1, 1 | 2, 1+ | 3, 2 | 4, 3 | 5, 4",,,,,,,,RH,,,,,

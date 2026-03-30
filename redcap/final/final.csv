@@ -361,8 +361,6 @@ mas_forearm_pronato,modified_ashworth_scale,Forearm,radio,Pronators,"0, 0 | 1, 1
 mas_forearm_supinat,modified_ashworth_scale,,radio,Supinators,"0, 0 | 1, 1 | 2, 1+ | 3, 2 | 4, 3 | 5, 4",,,,,,,,RH,,,,@READONLY-IF([completed_assessment_complete] = '2')
 mas_wrist_flex,modified_ashworth_scale,Wrist,radio,Flexors,"0, 0 | 1, 1 | 2, 1+ | 3, 2 | 4, 3 | 5, 4",,,,,,,,RH,,,,@READONLY-IF([completed_assessment_complete] = '2')
 mas_wrist_ext,modified_ashworth_scale,,radio,Extensors,"0, 0 | 1, 1 | 2, 1+ | 3, 2 | 4, 3 | 5, 4",,,,,,,,RH,,,,@READONLY-IF([completed_assessment_complete] = '2')
-mas_fingers_flex,modified_ashworth_scale,Fingers,radio,Flexors,"0, 0 | 1, 1 | 2, 1+ | 3, 2 | 4, 3 | 5, 4",,,,,,,,RH,,,,@READONLY-IF([completed_assessment_complete] = '2')
-mas_fingers_ext,modified_ashworth_scale,,radio,Extensors,"0, 0 | 1, 1 | 2, 1+ | 3, 2 | 4, 3 | 5, 4",,,,,,,,RH,,,,@READONLY-IF([completed_assessment_complete] = '2')
 moca_header,montreal_cognitive_assessment,MONTREAL COGNITIVE ASSESSMENT (MoCA),descriptive,MONTREAL COGNITIVE ASSESSMENT (MoCA),,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 moca_trail,montreal_cognitive_assessment,1. Visuospatial / Executive,radio,Alternating Trail Making (1-A-2-B-3-C-4-D-5-E),"0, 0 - Incorrect | 1, 1 - Correct sequence",,,,,,,,RH,,,,@READONLY-IF([completed_assessment_complete] = '2')
 moca_cube,montreal_cognitive_assessment,,radio,Copy Bed (previously Cube/Bed),"0, 0 - Incorrect | 1, 1 - Accurate 3D reproduction",,,,,,,,RH,,,,@READONLY-IF([completed_assessment_complete] = '2')
