@@ -11,6 +11,7 @@ montreal_cognitive_assessment,a1_arm_1,"[a0_arm_1][patient_demographics_complete
 modified_ashworth_scale,a1_arm_1,"[a0_arm_1][patient_demographics_complete] = '2'"
 box_and_block_test,a1_arm_1,"[a0_arm_1][patient_demographics_complete] = '2'"
 adverse_event,a1_arm_1,"[a0_arm_1][patient_demographics_complete] = '2'"
+eq_5d_5l,a1_arm_1,"[a0_arm_1][patient_demographics_complete] = '2'"
 completed_assessment,a1_arm_1,"[a0_arm_1][patient_demographics_complete] = '2'"
 fatigue_severity_scale,a2_arm_1,"[a1_arm_1][completed_assessment_complete] = '2'"
 sipso_questionnaire,a2_arm_1,"[a1_arm_1][completed_assessment_complete] = '2'"
@@ -24,6 +25,7 @@ montreal_cognitive_assessment,a2_arm_1,"[a1_arm_1][completed_assessment_complete
 modified_ashworth_scale,a2_arm_1,"[a1_arm_1][completed_assessment_complete] = '2'"
 box_and_block_test,a2_arm_1,"[a1_arm_1][completed_assessment_complete] = '2'"
 adverse_event,a2_arm_1,"[a1_arm_1][completed_assessment_complete] = '2'"
+eq_5d_5l,a2_arm_1,"[a1_arm_1][completed_assessment_complete] = '2'"
 completed_assessment,a2_arm_1,"[a1_arm_1][completed_assessment_complete] = '2'"
 exit_questionnaire_intervention,exitq_arm_1,
 exit_questionnaire_control,exitq_arm_1,
