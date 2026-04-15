@@ -13,5 +13,3 @@ fss_7_duties,fatigue_severity_scale,,radio,"7. Fatigue interferes with carrying 
 fss_8_disabling,fatigue_severity_scale,,radio,"8. Fatigue is among my most disabling symptoms.","1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,,,
 fss_9_social,fatigue_severity_scale,,radio,"9. Fatigue interferes with my work, family, or social life.","1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,,,
 fss_mean_score,fatigue_severity_scale,,calc,"FSS Mean Score (Average of 9 items)","([fss_1_motivation]+[fss_2_exercise]+[fss_3_easily]+[fss_4_physical]+[fss_5_problems]+[fss_6_sustained]+[fss_7_duties]+[fss_8_disabling]+[fss_9_social]) / 9",,,,,,,,,,,,,,
-vafs_header,fatigue_severity_scale,"VISUAL ANALOGUE FATIGUE SCALE (VAFS)",descriptive,"Please mark an ""X"" on the number line which describes your global fatigue with 0 being worst and 10 being normal.",,,,,,,,,,,,,,
-vafs_score,fatigue_severity_scale,,radio,"Global Fatigue (0 = Worst, 10 = Normal)","0, 0 - Worst | 1, 1 | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 | 8, 8 | 9, 9 | 10, 10 - Normal",,,,,,,,,RH,,,,

@@ -1,6 +1,6 @@
 Variable / Field Name,Form Name,Section Header,Field Type,Field Label,"Choices, Calculations, OR Slider Labels",Field Note,Text Validation Type OR Show Slider Number,Text Validation Min,Text Validation Max,Identifier?,Branching Logic (Show field only if...),Required Field?,Custom Alignment,Question Number (surveys only),Matrix Group Name,Matrix Ranking?,Field Annotation
-homer_id,patient_demographics,,text,Record ID (HOMER ID),,,,,,y,,,,,,,
-hospital_id,patient_demographics,,text,Hospital ID,,,,,,y,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
+hospital_id,patient_demographics,,text,Record ID (Hospital ID),,,,,,y,,,,,,,
+homer_id,patient_demographics,,text,HOMER ID,,,,,,y,,,,,,,
 age_years,patient_demographics,,text,Age in years,,,int,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 sex,patient_demographics,,radio,Sex,"1, Male | 2, Female | 3, Others",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 marital_status,patient_demographics,,radio,Marital status,"1, Single | 2, Married | 3, Others",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
@@ -83,8 +83,6 @@ fss_7_duties,fatigue_severity_scale,,radio,7. Fatigue interferes with carrying o
 fss_8_disabling,fatigue_severity_scale,,radio,8. Fatigue is among my most disabling symptoms.,"1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 fss_9_social,fatigue_severity_scale,,radio,"9. Fatigue interferes with my work, family, or social life.","1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 fss_mean_score,fatigue_severity_scale,,calc,FSS Mean Score (Average of 9 items),([fss_1_motivation]+[fss_2_exercise]+[fss_3_easily]+[fss_4_physical]+[fss_5_problems]+[fss_6_sustained]+[fss_7_duties]+[fss_8_disabling]+[fss_9_social]) / 9,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-vafs_header,fatigue_severity_scale,VISUAL ANALOGUE FATIGUE SCALE (VAFS),descriptive,"Please mark an ""X"" on the number line which describes your global fatigue with 0 being worst and 10 being normal.",,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-vafs_score,fatigue_severity_scale,,radio,"Global Fatigue (0 = Worst, 10 = Normal)","0, 0 - Worst | 1, 1 | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 | 8, 8 | 9, 9 | 10, 10 - Normal",,,,,,,,,RH,,,@READONLY-IF([completed_assessment_complete] = '2')
 sipso_header,sipso_questionnaire,Subjective Index of Physical and Social Outcome (SIPSO),descriptive,Please answer all questions based on your experience since your stroke.,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 sipso_1_dress,sipso_questionnaire,,radio,"1. Since your stroke, how much difficulty do you have dressing yourself fully?","4, No difficulty at all | 3, Slight difficulty | 2, Some difficulty | 1, A lot of difficulty | 0, I cannot dress myself fully",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 sipso_2_move_home,sipso_questionnaire,,radio,"2. Since your stroke, how much difficulty do you have moving around all areas of the home?","4, No difficulty at all | 3, Slight difficulty | 2, Some difficulty | 1, A lot of difficulty | 0, I cannot move around all areas of the home",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
