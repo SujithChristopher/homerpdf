@@ -482,3 +482,26 @@ For questions about specific parts of the code:
 2. Look at test files for usage examples
 3. Review README.md for feature documentation
 4. Check this CLAUDE.md for architecture details
+
+## REDCap Data Pipeline
+
+### Directory Structure
+- `redcap/` — individual form CSVs (one per assessment instrument)
+- `redcap/final/final.csv` — merged REDCap data dictionary (generated, do not edit manually)
+- `redcap/final/form_display_logic.csv` — controls form visibility per REDCap event/arm
+
+### Rebuilding final.csv
+Run: `uv run python redcap/clean_redcap.py`
+`clean_name()` lowercases and underscores all form/variable names — display logic must match exactly.
+
+### REDCap Event Structure
+- `a0_arm_1` — enrollment (patient_demographics)
+- `a1_arm_1` — assessment 1; gates on `[a0_arm_1][patient_demographics_complete] = '2'`
+- `a2_arm_1` — assessment 2; gates on `[a1_arm_1][completed_assessment_complete] = '2'`
+- `exitq_arm_1` — exit questionnaires only (no gate condition)
+
+### Form Order Convention (form_display_logic.csv)
+FMA (`fugl_meyer_assessment_ue`) is always first; `completed_assessment` then `adverse_event` are always last in a1/a2 arms.
+
+### Verify form names match final.csv
+`python -c "import csv; [print(r['Form Name']) for r in csv.DictReader(open('redcap/final/final.csv'))]" | sort -u`
