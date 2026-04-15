@@ -66,8 +66,30 @@ def process_redcap_csvs(input_dir, output_file):
         all_rows.append(dict_row)
         seen_vars.add(field[0])
 
-    files = [f for f in os.listdir(input_dir) if f.endswith('.csv') and f != os.path.basename(output_file) and f != "clean_redcap.py"]
-    files.sort()
+    ORDERED_FILES = [
+        "fma.csv",
+        "FSS_vertical.csv",
+        "SIPSO.csv",
+        "arat.csv",
+        "csi.csv",
+        "mal.csv",
+        "mrs.csv",
+        "phq9.csv",
+        "moca.csv",
+        "mas.csv",
+        "box_and_block_test.csv",
+        "cahai7.csv",
+        "nihss.csv",
+        "eq5d.csv",
+        "completed_assessment.csv",
+        "adverse_event.csv",
+        "exit_questionnaire_control.csv",
+        "exit_questionnaire_intervention.csv",
+    ]
+    all_files = {f for f in os.listdir(input_dir) if f.endswith('.csv') and f != os.path.basename(output_file) and f != "clean_redcap.py"}
+    files = [f for f in ORDERED_FILES if f in all_files]
+    # Append any unrecognised files at the end so nothing is silently dropped
+    files += sorted(all_files - set(ORDERED_FILES))
 
     print(f"Found files: {files}")
 
