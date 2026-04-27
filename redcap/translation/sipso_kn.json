@@ -1,0 +1,352 @@
+{
+    "creator": "REDCap MLM",
+    "version": "v15.5.4",
+    "timestamp": "2026-04-27 12:26:05",
+    "key": "kn",
+    "display": "Kannada",
+    "rtl": false,
+    "fieldTranslations": [
+        {
+            "id": "homer_id",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "Record ID"
+            }
+        },
+        {
+            "id": "sipso_date",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "Date of Assessment"
+            }
+        },
+        {
+            "id": "sipso_examiner",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "Examiner Name"
+            }
+        },
+        {
+            "id": "sipso_header",
+            "form": "sipso_questionnaire",
+            "header": {
+                "translation": "Subjective Index of Physical and Social Outcome (SIPSO) / !ೈ$ಕ ಮತು* ಸ,ಾ.ಕ ಪ01ಾಮಗಳ ವ56*7ಷ9 ,ಾಪನ"
+            },
+            "label": {
+                "translation": "Please answer all questions based on your experience since your stroke. / ದಯ$ಟು' ಎ)ಾ+ ಪ-.ೆ0ಗ23ೆ ಉತ6ರ 8ೕ:"
+            }
+        },
+        {
+            "id": "sipso_1_dress",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "1. Since your stroke, how much difficulty do you have dressing yourself fully? / 1. 8ಮ3ೆ <ಾಶ>?@ಾಯು@ಾದ ನಂತರ, ಬEೆ' ಯನು0 ಸಂಪGಣ?@ಾI ಧKಸುವMದರN+ 8ೕವM ಎಷು' ಕಷ' ಪಡRೇSಾಗುತ6Tೆ ? (ಒಂದು ಸಂVೆWಯನು0 ಗುರುXY)"
+            },
+            "enum": [
+                {
+                    "id": "4",
+                    "translation": "No difficulty at all / ಏನೂ ಕಷ'$ಲ+"
+                },
+                {
+                    "id": "3",
+                    "translation": "Slight difficulty / ಸ>ಲ] ಕಷ'@ಾಗುತ6Tೆ"
+                },
+                {
+                    "id": "2",
+                    "translation": "Some difficulty / ^ಾ_ಾರಣ ಕಷ'@ಾಗುತ6Tೆ"
+                },
+                {
+                    "id": "1",
+                    "translation": "A lot of difficulty / ತುಂRಾ ಕಷ'@ಾಗುತ6Tೆ"
+                },
+                {
+                    "id": "0",
+                    "translation": "I cannot dress myself fully / `ಾನು ಸ>ತಃ ಸಂಪGಣ?@ಾI ಬEೆ' ಧKಸಲು ಆಗುವMcಲ+"
+                }
+            ]
+        },
+        {
+            "id": "sipso_2_move_home",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "2. Since your stroke, how much difficulty do you have moving around all areas of the home? / 2. 8ಮ3ೆ <ಾಶ>?@ಾಯು@ಾದ ನಂತರ, ಮ`ೆಯ ಒಳIನ ಎ)ಾ+ eಾಗಗ23ೆ ಓgಾಡಲು ಎಷು' ಕಷ'@ಾಗುತ6Tೆ ? (ಒಂದು ಸಂVೆWಯನು0 ಗುರುXY)"
+            },
+            "enum": [
+                {
+                    "id": "4",
+                    "translation": "No difficulty at all / ಏನೂ ಕಷ'$ಲ+"
+                },
+                {
+                    "id": "3",
+                    "translation": "Slight difficulty / ಸ>ಲ] ಕಷ'@ಾಗುತ6Tೆ"
+                },
+                {
+                    "id": "2",
+                    "translation": "Some difficulty / ^ಾ_ಾರಣ ಕಷ'@ಾಗುತ6Tೆ"
+                },
+                {
+                    "id": "1",
+                    "translation": "A lot of difficulty / ತುಂRಾ ಕಷ'@ಾಗುತ6Tೆ"
+                },
+                {
+                    "id": "0",
+                    "translation": "I cannot move around all areas of the home / ಮ`ೆhಳIನ ಎ)ಾ+ eಾಗಗಳN+ ಒgಾಡಲು ಆಗುವMcಲ+"
+                }
+            ]
+        },
+        {
+            "id": "sipso_3_satisfaction",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "3. Since your stroke, how satisfied are you with your overall ability to perform daily activities in and around the home? / 3. 8ಮ3ೆ <ಾಶ>?@ಾಯು@ಾದ ನಂತರ, ಮ`ೆಯ N+ ಮತು6 ಮ`ೆಯ ಸುತ6ಮುತ6ದ Tೈನಂcನ Sೆಲಸಗಳನು0 jಾಡುವ"
+            },
+            "enum": [
+                {
+                    "id": "4",
+                    "translation": "Completely satisfied / ^ಾಮಥW?cಂದ 8ೕವM ಎಷು' ತೃಪ6mಾIcnೕK ?"
+                },
+                {
+                    "id": "3",
+                    "translation": "Mostly satisfied / (ಒಂದು ಸಂVೆWಯನು0 ಗುರುXY)"
+                },
+                {
+                    "id": "2",
+                    "translation": "Fairly satisfied / ಸಂಪGಣ?@ಾI ತೃo6ಯನು0 pೊಂc Tೆnೕ`ೆ"
+                },
+                {
+                    "id": "1",
+                    "translation": "Not very satisfied / pೆqಾrI ತೃo6ಯನು0 pೊಂcTೆnೕ`ೆ"
+                },
+                {
+                    "id": "0",
+                    "translation": "Completely dissatisfied / ^ಾ_ಾರಣ@ಾI ತೃo6ಯನು0 pೊಂcTೆnೕ`ೆ"
+                }
+            ]
+        },
+        {
+            "id": "sipso_4_shop",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "4. Since your stroke, how much difficulty do you have shopping for and carrying a few items (1 bag of shopping or less) when at the shops? / pೆಚುr ತೃo6 pೊಂದNಲ+"
+            },
+            "enum": [
+                {
+                    "id": "4",
+                    "translation": "No difficulty at all / ಸಂಪGಣ?@ಾI ಅತೃಪ6mಾITೆnೕ`ೆ"
+                },
+                {
+                    "id": "3",
+                    "translation": "Slight difficulty / 4. 8ಮ3ೆ <ಾಶ>?@ಾಯು@ಾದ ನಂತರ ಅಂಗ:3ೆ pೋI ^ಾjಾನು ಖKೕc jಾಡುವMದು ಮತು6 ಸ>ಲ] ಸjಾನನು0"
+                },
+                {
+                    "id": "2",
+                    "translation": "Some difficulty / pೊರಲು (ಒಂದು vೕಲ ಮತು6 SೆಲವM ^ಾjಾನುಗಳw) ಎಷು' ಕಷ'ಪಡುX6ೕK ?"
+                },
+                {
+                    "id": "1",
+                    "translation": "A lot of difficulty / (ಒಂದು ಸಂVೆWಯನು0 ಗುರುXY)"
+                },
+                {
+                    "id": "0",
+                    "translation": "I cannot shop for and carry a few items / ಏನೂ ಕಷ'$ಲ+"
+                }
+            ]
+        },
+        {
+            "id": "sipso_5_indep_neigh",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "5. Since your stroke, how independent are you in your ability to move around your local neighbourhood? / ಸ>ಲ] ಕಷ'@ಾಗುತ6Tೆ"
+            },
+            "enum": [
+                {
+                    "id": "4",
+                    "translation": "I am completely independent / ^ಾ_ಾರಣ ಕಷ'@ಾಗುತ6Tೆ"
+                },
+                {
+                    "id": "3",
+                    "translation": "I prefer to have someone else with me / ತುಂRಾ ಕಷ'@ಾಗುತ6Tೆ"
+                },
+                {
+                    "id": "2",
+                    "translation": "I need occasional assistance from someone / ನನ3ೆ ಅಂಗ:3ೆ pೋಗಲು ಮತು6 SೆಲವM ^ಾjಾನುಗಳನು0"
+                },
+                {
+                    "id": "1",
+                    "translation": "I need assistance much of the time / pೊತು6Sೊಳxಲು ಆಗುವMcಲ+"
+                },
+                {
+                    "id": "0",
+                    "translation": "I am completely dependent on others / 5. 8ಮ3ೆ <ಾಶ>?@ಾಯು@ಾದ ನಂತರ `ೆmೆSೆmೆಯN+ ಓgಾಡುವ ^ಾಮಥW?ದN+ ಎಷ'ರಮy'3ೆ ಸ>ತಂತ-mಾIcnೕK ?"
+                }
+            ]
+        },
+        {
+            "id": "sipso_sub_physical",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "Physical Integration Subscore (Items 1-5)"
+            }
+        },
+        {
+            "id": "sipso_6_bored",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "6. Since your stroke, how often do you feel bored with your free time at home? / (ಒಂದು ಸಂVೆWಯನು0 ಗುರುXY)"
+            },
+            "enum": [
+                {
+                    "id": "4",
+                    "translation": "I am never bored with my free time / `ಾನು ಸಂಪGಣ?@ಾI ಸ>ತಂತ-`ಾITೆnೕ`ೆ"
+                },
+                {
+                    "id": "3",
+                    "translation": "A little of my free time / ನನ0 eೊzೆ {ಾmಾದmೊಬ|ರು ಇರಲು ಬಯಸುzೆ6ೕ`ೆ"
+                },
+                {
+                    "id": "2",
+                    "translation": "Some of my free time / ನನ3ೆ Sೆಲ~ Rೇmೆಯವರ ಸpಾಯ RೇSಾಗುತ6Tೆ"
+                },
+                {
+                    "id": "1",
+                    "translation": "Most of my free time / ನನ3ೆ pೆvrನ ಸಮಯ Rೇmೆಯವರ ಸpಾಯ RೇSಾಗುತ6Tೆ"
+                },
+                {
+                    "id": "0",
+                    "translation": "All of my free time / `ಾನು ಸಂಪGಣ?@ಾI Rೇmೆಯವರ ೕ)ೆ ಅವಲಂತ`ಾITೆnೕ`ೆ"
+                }
+            ]
+        },
+        {
+            "id": "sipso_7_comm",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "7. Since your stroke, how would you describe the amount of communication between you and your friends/associates? / 6. 8ಮ3ೆ <ಾಶ>?@ಾಯು@ಾದ ೕ)ೆ ಮ`ೆಯN+ ಡು$ನ @ೇೆ3ೆ ಎಷ'ರ ಮy'3ೆ Rೇಸರ@ೆ8ಸುತ6Tೆ ? (ಒಂದು ಸಂVೆWಯನು0 ಗುರುXY)"
+            },
+            "enum": [
+                {
+                    "id": "4",
+                    "translation": "A great deal / ಡು$ನ @ೇೆ ನನ3ೆ Rೇಸರ@ೆ8ಸುವMTೇ ಇಲ+"
+                },
+                {
+                    "id": "3",
+                    "translation": "Quite a lot / ಡು$ನ ಸ>ಲ] @ೇೆ ನನ3ೆ Rೇಸರ@ೆ8ಸುತ6Tೆ"
+                },
+                {
+                    "id": "2",
+                    "translation": "Some / ಡು$ನ SೆಲವM @ೇೆ ನನ3ೆ Rೇಸರ@ೆ8ಸುತ6Tೆ"
+                },
+                {
+                    "id": "1",
+                    "translation": "A little bit / ಡು$ನ pೆvrನ @ೇೆ ನನ3ೆ Rೇಸರ@ೆ8ಸುತ6Tೆ"
+                },
+                {
+                    "id": "0",
+                    "translation": "None / ಡು$ನ ಎ)ಾ+ ಸಮಯದN+ ನನ3ೆ Rೇಸರ@ೆ8ಸುತ6Tೆ"
+                }
+            ]
+        },
+        {
+            "id": "sipso_8_social_sat",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "8. Since your stroke, how satisfied are you with the level of interests and activities you share with your friends/associates? / 7. 8ಮ3ೆ <ಾಶ>?@ಾಯು@ಾದ ನಂತರ 8ಮ ಮತು6 8ಮ 3ೆೆಯರು /eೊzೆIರುವವರ ನಡು$ನ jಾತುಕzೆಯ"
+            },
+            "enum": [
+                {
+                    "id": "4",
+                    "translation": "Completely satisfied / ಪ-jಾಣವನು0 pೇ3ೆ $ವKಸುX6ೕK?"
+                },
+                {
+                    "id": "3",
+                    "translation": "Mostly satisfied / (ಒಂದು ಸಂVೆWಯನು0 ಗುರುXY)"
+                },
+                {
+                    "id": "2",
+                    "translation": "Fairly satisfied / ತುಂRಾ pೆಚುr"
+                },
+                {
+                    "id": "1",
+                    "translation": "Not very satisfied / ^ಾಕಷು' pೆಚುr"
+                },
+                {
+                    "id": "0",
+                    "translation": "Completely dissatisfied / ^ಾ_ಾರಣ@ಾI"
+                }
+            ]
+        },
+        {
+            "id": "sipso_9_visit",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "9. Since your stroke, how often do you visit friends/others? / ಸ>ಲ] ಮy'3ೆ"
+            },
+            "enum": [
+                {
+                    "id": "4",
+                    "translation": "Most days / ಇಲ+@ೇ ಇಲ+"
+                },
+                {
+                    "id": "3",
+                    "translation": "At least once a week"
+                },
+                {
+                    "id": "2",
+                    "translation": "At least once a fortnight"
+                },
+                {
+                    "id": "1",
+                    "translation": "Once a month or less"
+                },
+                {
+                    "id": "0",
+                    "translation": "Never"
+                }
+            ]
+        },
+        {
+            "id": "sipso_10_appearance",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "10. Since your stroke, how do you feel about your appearance when out in public?"
+            },
+            "enum": [
+                {
+                    "id": "4",
+                    "translation": "Perfectly happy"
+                },
+                {
+                    "id": "3",
+                    "translation": "Slightly self-conscious"
+                },
+                {
+                    "id": "2",
+                    "translation": "Fairly self-conscious"
+                },
+                {
+                    "id": "1",
+                    "translation": "Very self-conscious"
+                },
+                {
+                    "id": "0",
+                    "translation": "I try to avoid going out in public"
+                }
+            ]
+        },
+        {
+            "id": "sipso_sub_social",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "Social Integration Subscore (Items 6-10)"
+            }
+        },
+        {
+            "id": "sipso_total_score",
+            "form": "sipso_questionnaire",
+            "label": {
+                "translation": "Total SIPSO Score (Max 40)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,321 @@
+{
+    "creator": "REDCap MLM",
+    "version": "v15.5.4",
+    "timestamp": "2026-04-27 12:26:05",
+    "key": "kn",
+    "display": "Kannada",
+    "rtl": false,
+    "fieldTranslations": [
+        {
+            "id": "homer_id",
+            "form": "phq9",
+            "label": {
+                "translation": "Record ID"
+            }
+        },
+        {
+            "id": "phq9_date",
+            "form": "phq9",
+            "label": {
+                "translation": "Date of Assessment"
+            }
+        },
+        {
+            "id": "phq9_header",
+            "form": "phq9",
+            "header": {
+                "translation": "PATIENT HEALTH QUESTIONNAIRE (PHQ-9)"
+            },
+            "label": {
+                "translation": "Over the last 2 weeks, how often have you been bothered by any of the following problems?"
+            }
+        },
+        {
+            "id": "phq9_1_interest",
+            "form": "phq9",
+            "label": {
+                "translation": "1. Little interest or pleasure in doing things / ಗುರು$ನ ಸಂ)ೆ+ #: !\"ಾಂಕ: ಕ\"ೆದ ಎರಡು *ಾರಗಳ./, ಈ 2ೆಳಕಂಡ ಸಮ6ೆ7ಗಳ8 9ಮ:ೆ ಎಷು< ಸಲ >ೊಂದ@ೆಯನುC ಉಂಟುFಾGHೆ (9ಮJ ಉತLರವನುC ಆOP Fಾದಲು “✓” ಅನುC ಬಳU)"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "0 - Not at all"
+                },
+                {
+                    "id": "1",
+                    "translation": "1 - Several days"
+                },
+                {
+                    "id": "2",
+                    "translation": "2 - More than half the days"
+                },
+                {
+                    "id": "3",
+                    "translation": "3 - Nearly every day"
+                }
+            ]
+        },
+        {
+            "id": "phq9_2_depressed",
+            "form": "phq9",
+            "label": {
+                "translation": "2. Feeling down, depressed, or hopeless / 6ನಗಳ8 ಬಹುCೇಕ ಪG$6ನ"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "0 - Not at all / ಒಂದು ಇಲ2 3ೆಲವ5"
+                },
+                {
+                    "id": "1",
+                    "translation": "1 - Several days / 6ನಗಳ8"
+                },
+                {
+                    "id": "2",
+                    "translation": "2 - More than half the days / ಅಧ;<ಂತ"
+                },
+                {
+                    "id": "3",
+                    "translation": "3 - Nearly every day / >ೆಚು@"
+                }
+            ]
+        },
+        {
+            "id": "phq9_3_sleep",
+            "form": "phq9",
+            "label": {
+                "translation": "3. Trouble falling or staying asleep, or sleeping too much / 1. 2ೆಲಸ /2ಾಯWಗಳನುC Fಾಡುವ./ ಕGX ಆಸYL ಅಥ*ಾ ಆನಂದ 0 1 2 3 2. ಮನಸು[ ಕು\\]ದ ^ಾವ_ೆ , `ನC>ೆ , ಅಥ*ಾ 9@ಾaೆ 0 1 2 3"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "0 - Not at all / ಒಂದು ಇಲ2 3ೆಲವ5"
+                },
+                {
+                    "id": "1",
+                    "translation": "1 - Several days / 6ನಗಳ8"
+                },
+                {
+                    "id": "2",
+                    "translation": "2 - More than half the days / ಅಧ;<ಂತ"
+                },
+                {
+                    "id": "3",
+                    "translation": "3 - Nearly every day / >ೆಚು@"
+                }
+            ]
+        },
+        {
+            "id": "phq9_4_tired",
+            "form": "phq9",
+            "label": {
+                "translation": "4. Feeling tired or having little energy / 3. 9Hೆb cಾರdರುವeದು ಅಥ*ಾ :ಾಢ 9Hೆb , ಅಥ*ಾ ಅghಾ\\ 9Hೆb Fಾಡುವeದು 0 1 2 3"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "0 - Not at all / ಒಂದು ಇಲ2 3ೆಲವ5"
+                },
+                {
+                    "id": "1",
+                    "translation": "1 - Several days / 6ನಗಳ8"
+                },
+                {
+                    "id": "2",
+                    "translation": "2 - More than half the days / ಅಧ;<ಂತ"
+                },
+                {
+                    "id": "3",
+                    "translation": "3 - Nearly every day / >ೆಚು@"
+                }
+            ]
+        },
+        {
+            "id": "phq9_5_appetite",
+            "form": "phq9",
+            "label": {
+                "translation": "5. Poor appetite or overeating / 4. ಸು6ಾLಗುವeದು ಅಥ*ಾ ಕGX ಶYLjರುವeದು 0 1 2 3"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "0 - Not at all / ಒಂದು ಇಲ2 3ೆಲವ5"
+                },
+                {
+                    "id": "1",
+                    "translation": "1 - Several days / 6ನಗಳ8"
+                },
+                {
+                    "id": "2",
+                    "translation": "2 - More than half the days / ಅಧ;<ಂತ"
+                },
+                {
+                    "id": "3",
+                    "translation": "3 - Nearly every day / >ೆಚು@"
+                }
+            ]
+        },
+        {
+            "id": "phq9_6_failure",
+            "form": "phq9",
+            "label": {
+                "translation": "6. Feeling bad about yourself or that you are a failure or have let yourself or your family down / 5. ಕGX ಹUವe ಅಥ*ಾ ಅghಾ\\ gನುCವeದು 0 1 2 3"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "0 - Not at all / ಒಂದು ಇಲ2 3ೆಲವ5"
+                },
+                {
+                    "id": "1",
+                    "translation": "1 - Several days / 6ನಗಳ8"
+                },
+                {
+                    "id": "2",
+                    "translation": "2 - More than half the days / ಅಧ;<ಂತ"
+                },
+                {
+                    "id": "3",
+                    "translation": "3 - Nearly every day / >ೆಚು@"
+                }
+            ]
+        },
+        {
+            "id": "phq9_7_concentrating",
+            "form": "phq9",
+            "label": {
+                "translation": "7. Trouble concentrating on things, such as reading the newspaper or watching television / 6. 9ಮJ ಬ:ೆ] 2ೆಟ< ^ಾವ_ೆ ಇರುವeದು, ಅಥ*ಾ 9ೕವe nಫಲ@ಾ\\dbೕp ಎಂHೆ9ಸುವeದು , ಅಥ*ಾ 9ಮJ ಕುಟುಂಬವನುC 9@ಾaೆ :ೊqUdbೕp ಎಂದು ಅ9ಸುವeದು"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "0 - Not at all / ಒಂದು ಇಲ2 3ೆಲವ5"
+                },
+                {
+                    "id": "1",
+                    "translation": "1 - Several days / 6ನಗಳ8"
+                },
+                {
+                    "id": "2",
+                    "translation": "2 - More than half the days / ಅಧ;<ಂತ"
+                },
+                {
+                    "id": "3",
+                    "translation": "3 - Nearly every day / >ೆಚು@"
+                }
+            ]
+        },
+        {
+            "id": "phq9_8_moving",
+            "form": "phq9",
+            "label": {
+                "translation": "8. Moving or speaking so slowly that other people could have noticed. Or the opposite being so figety or restless that you have been moving around a lot more than usual / 7. 2ೆಲಸ /2ಾಯWಗಳ./ ಗಮನnಡಲು >ೊಂದ@ೆhಾಗುವeದು , ಉHಾಹರrೆ:ೆ *ಾ>ಾWಪgt2ೆ ಓದಲು ಅಥ*ಾ vnಯನುC nೕwಸಲು"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "0 - Not at all / ಒಂದು ಇಲ2 3ೆಲವ5"
+                },
+                {
+                    "id": "1",
+                    "translation": "1 - Several days / 6ನಗಳ8"
+                },
+                {
+                    "id": "2",
+                    "translation": "2 - More than half the days / ಅಧ;<ಂತ"
+                },
+                {
+                    "id": "3",
+                    "translation": "3 - Nearly every day / >ೆಚು@"
+                }
+            ]
+        },
+        {
+            "id": "phq9_9_thoughts",
+            "form": "phq9",
+            "label": {
+                "translation": "9. Thoughts that you would be better off dead, or of hurting yourself / 8. ಚಲ_ೆ ಅಥ*ಾ Fಾತು 9yಾನ*ಾ\\ದುb, ಇತರರು ಇದನುC ಗುರುgUದುb, ಅಥ*ಾ ಇದ2ೆP nರುದz*ಾ\\- |ದ.\\ಂತ }ೆಚು~ ಚಲ_ೆವಲ_ೆಗಳ8 , ಉHಾಹರrೆ:ೆ ಚಂಚಲ ಸ^ಾವ"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "0 - Not at all / ಒಂದು ಇಲ2 3ೆಲವ5"
+                },
+                {
+                    "id": "1",
+                    "translation": "1 - Several days / 6ನಗಳ8"
+                },
+                {
+                    "id": "2",
+                    "translation": "2 - More than half the days / ಅಧ;<ಂತ"
+                },
+                {
+                    "id": "3",
+                    "translation": "3 - Nearly every day / >ೆಚು@"
+                }
+            ]
+        },
+        {
+            "id": "phq9_total_score",
+            "form": "phq9",
+            "label": {
+                "translation": "TOTAL SCORE"
+            }
+        },
+        {
+            "id": "phq9_10_difficulty",
+            "form": "phq9",
+            "label": {
+                "translation": "10. If you checked off any problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "Not difficult at all"
+                },
+                {
+                    "id": "1",
+                    "translation": "Somewhat difficult"
+                },
+                {
+                    "id": "2",
+                    "translation": "Very difficult"
+                },
+                {
+                    "id": "3",
+                    "translation": "Extremely difficult"
+                }
+            ]
+        },
+        {
+            "id": "phq9_diagnosis_header",
+            "form": "phq9",
+            "header": {
+                "translation": "FOR INITIAL DIAGNOSIS"
+            },
+            "label": {
+                "translation": "<b>For initial diagnosis:</b><br>1. Patient completes PHQ-9 Quick Depression Assessment.<br>2. If there are at least 4 3s in the shaded section (including Questions #1 and #2), consider a depressive disorder. Add score to determine severity.<br><br><b>Consider Major Depressive Disorder</b><br>- if there are at least 5 3s in the shaded section (one of which corresponds to Question #1 or #2)<br><br><b>Consider Other Depressive Disorder</b><br>- if there are 2-4 3s in the shaded section (one of which corresponds to Question #1 or #2)<br><br><i>Note: Diagnoses also require impairment of social, occupational, or other important areas of functioning (Question #10) and ruling out normal bereavement, history of Manic Episode, or other biological causes.</i>"
+            }
+        },
+        {
+            "id": "phq9_interpretation",
+            "form": "phq9",
+            "header": {
+                "translation": "INTERPRETATION OF TOTAL SCORE"
+            },
+            "label": {
+                "translation": "<b>Total Score Depression Severity</b><br>1-4 Minimal depression<br>5-9 Mild depression<br>10-14 Moderate depression<br>15-19 Moderately severe depression<br>20-27 Severe depression"
+            }
+        },
+        {
+            "id": "phq9_copyright",
+            "form": "phq9",
+            "header": {
+                "translation": "COPYRIGHT"
+            },
+            "label": {
+                "translation": "Copyright © 1999 Pfizer Inc. All rights reserved. Reproduced with permission. PRIME-MD© is a trademark of Pfizer Inc."
+            }
+        }
+    ]
+}

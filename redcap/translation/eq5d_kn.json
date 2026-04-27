@@ -1,0 +1,221 @@
+{
+    "creator": "REDCap MLM",
+    "version": "v15.5.4",
+    "timestamp": "2026-04-27 12:26:05",
+    "key": "kn",
+    "display": "Kannada",
+    "rtl": false,
+    "fieldTranslations": [
+        {
+            "id": "homer_id",
+            "form": "eq_5d_5l",
+            "label": {
+                "translation": "Record ID"
+            }
+        },
+        {
+            "id": "eq5d_date",
+            "form": "eq_5d_5l",
+            "label": {
+                "translation": "Date of Assessment"
+            }
+        },
+        {
+            "id": "eq5d_intro",
+            "form": "eq_5d_5l",
+            "header": {
+                "translation": "Health Questionnaire"
+            },
+            "label": {
+                "translation": "Health Questionnaire<br>English version for India<br><br>© EuroQol Research Foundation. EQ-5D™ is a trade mark of the EuroQol Research Foundation. India (English) v2.0<br><br>Under each heading, please tick the ONE box that best describes your health TODAY."
+            }
+        },
+        {
+            "id": "eq5d_mobility",
+            "form": "eq_5d_5l",
+            "header": {
+                "translation": "MOBILITY"
+            },
+            "label": {
+                "translation": "Mobility"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "I have no problems in walking"
+                },
+                {
+                    "id": "2",
+                    "translation": "I have slight problems in walking"
+                },
+                {
+                    "id": "3",
+                    "translation": "I have moderate problems in walking"
+                },
+                {
+                    "id": "4",
+                    "translation": "I have severe problems in walking"
+                },
+                {
+                    "id": "5",
+                    "translation": "I am unable to walk"
+                }
+            ]
+        },
+        {
+            "id": "eq5d_self_care",
+            "form": "eq_5d_5l",
+            "header": {
+                "translation": "SELF-CARE"
+            },
+            "label": {
+                "translation": "Self-care / ಅ(BತB ನTUಾಡುCಾಗ ನನL ಸ]ಲ^ ಸಮZ=ಗಳು ಆಗುತB_ q"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "I have no problems bathing or dressing myself / ಅ(BತB ನTUಾಡುCಾಗ ನನL `ಾaಾರಣCಾದ ಸಮZ=ಗಳು ಆಗುತB_ q"
+                },
+                {
+                    "id": "2",
+                    "translation": "I have slight problems bathing or dressing myself / ಅ(BತB ನTUಾಡುCಾಗ ನನL (ೕವ'Cಾದ ಸಮZ=ಗಳು ಆಗುತB_ q"
+                },
+                {
+                    "id": "3",
+                    "translation": "I have moderate problems bathing or dressing myself / ನನL ಅ(BತB ನTUಾಡಲು `ಾಧ=CಾಗುವX5ಲ\\ q"
+                },
+                {
+                    "id": "4",
+                    "translation": "I have severe problems bathing or dressing myself / ಸ]ಯಂ ಆ:ೖ!"
+                },
+                {
+                    "id": "5",
+                    "translation": "I am unable to bathe or dress myself / ನನ? eೖfೂgದು!ೂಳುhCಾಗ ಅಥCಾ ಉಡುಪX fೂಟುl!ೂಳುhCಾಗ ನನL WಾವXYೕ ಸಮZ=ಗಳು ಇಲ\\ q"
+                }
+            ]
+        },
+        {
+            "id": "eq5d_usual_activities",
+            "form": "eq_5d_5l",
+            "header": {
+                "translation": "USUAL ACTIVITIES"
+            },
+            "label": {
+                "translation": "Usual activities (e.g. work, study, housework, family or leisure activities) / ನನ? eೖfೂgದು!ೂಳುhCಾಗ ಅಥCಾ ಉಡುಪX fೂಟುl!ೂಳುhCಾಗ ನನL ಸ]ಲ^ ಸಮZ=ಗಳು ಆಗುತB_ q"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "I have no problems doing my usual activities / ನನ? eೖfೂgದು!ೂಳುhCಾಗ ಅಥCಾ ಉಡುಪX fೂಟುl!ೂಳುhCಾಗ ನನL `ಾaಾರಣCಾದ ಸಮZ=ಗಳು"
+                },
+                {
+                    "id": "2",
+                    "translation": "I have slight problems doing my usual activities / ಆಗುತB_ q"
+                },
+                {
+                    "id": "3",
+                    "translation": "I have moderate problems doing my usual activities / ನನ? eೖfೂgದು!ೂಳುhCಾಗ ಅಥCಾ ಉಡುಪX fೂಟುl!ೂಳುhCಾಗ ನನL (ೕವ'Cಾದ ಸಮZ=ಗಳು ಆಗುತB_ q"
+                },
+                {
+                    "id": "4",
+                    "translation": "I have severe problems doing my usual activities / ನನL mಾnೕ eೖ fೂgದು!ೂಳhಲು ಅಥCಾ ಉಡುಪX fೂಟುl!ೂಳhಲು `ಾಧ=CಾಗುವX5ಲ\\ q"
+                },
+                {
+                    "id": "5",
+                    "translation": "I am unable to do my usual activities / Cಾ2!ಯ ಚಟುವo!ಗಳು"
+                }
+            ]
+        },
+        {
+            "id": "eq5d_pain_discomfort",
+            "form": "eq_5d_5l",
+            "header": {
+                "translation": "PAIN / DISCOMFORT"
+            },
+            "label": {
+                "translation": "Pain / Discomfort / ನನ? Cಾ2!ಯ ಚಟುವo!ಗಳನು? Nಾಡುವw\\ ನನL ಸ]ಲ^ ಸಮZ=ಗಳು ಆಗುತB_ q"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "I have no pain or discomfort / ನನ? Cಾ2!ಯ ಚಟುವo!ಗಳನು? Nಾಡುವw\\ ನನL `ಾaಾರಣCಾದ ಸಮZ=ಗಳು ಆಗುತB_ q"
+                },
+                {
+                    "id": "2",
+                    "translation": "I have slight pain or discomfort / ನನ? Cಾ2!ಯ ಚಟುವo!ಗಳನು? Nಾಡುವw\\ ನನL (ೕವ'Cಾದ ಸಮZ=ಗಳು ಆಗುತB_ q"
+                },
+                {
+                    "id": "3",
+                    "translation": "I have moderate pain or discomfort / ನನL ನನ? Cಾ2!ಯ ಚಟುವo!ಗಳನು? Nಾಡಲು `ಾಧ=CಾಗುವX5ಲ\\ q"
+                },
+                {
+                    "id": "4",
+                    "translation": "I have severe pain or discomfort / nೂೕವX / ಅ`ೌಖ="
+                },
+                {
+                    "id": "5",
+                    "translation": "I have extreme pain or discomfort / ನನL WಾವXYೕ Fೕ(ಯ nೂೕವX ಅಥCಾ ಅ`ೌಖ= ಇಲ\\ q"
+                }
+            ]
+        },
+        {
+            "id": "eq5d_anxiety_depression",
+            "form": "eq_5d_5l",
+            "header": {
+                "translation": "ANXIETY / DEPRESSION"
+            },
+            "label": {
+                "translation": "Anxiety / Depression / ನನL ಸ]ಲ^ nೂೕವX ಅಥCಾ ಅ`ೌಖ= ಇY q"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "I am not anxious or depressed / ನನL `ಾaಾರಣCಾದ nೂೕವX ಅಥCಾ ಅ`ೌಖ= ಇY q"
+                },
+                {
+                    "id": "2",
+                    "translation": "I am slightly anxious or depressed / ನನL (ೕವ' nೂೕವX ಅಥCಾ ಅ`ೌಖ= ಇY q"
+                },
+                {
+                    "id": "3",
+                    "translation": "I am moderately anxious or depressed / ನನL EಪFೕತCಾದ nೂೕವX ಅಥCಾ ಅ`ೌಖ= ಇY q"
+                },
+                {
+                    "id": "4",
+                    "translation": "I am severely anxious or depressed / ಆತಂಕ / zನ?f"
+                },
+                {
+                    "id": "5",
+                    "translation": "I am extremely anxious or depressed / mಾನು ಆತಂಕ ಅಥCಾ zನ?f {ೂಂ5ಲ\\ q"
+                }
+            ]
+        },
+        {
+            "id": "eq5d_vas_header",
+            "form": "eq_5d_5l",
+            "header": {
+                "translation": "EQ VAS"
+            },
+            "label": {
+                "translation": "• We would like to know how good or bad your health is TODAY.<br>• This scale is numbered from 0 to 100.<br>• 100 means the best health you can imagine. 0 means the worst health you can imagine.<br>• Mark an X on the scale to indicate how your health is TODAY.<br>• Now, please write the number you marked on the scale in the box / mಾನು ಸ]ಲ^ ಆತಂಕ ಅಥCಾ zನ?f {ೂಂ5Y|ೕn q"
+            }
+        },
+        {
+            "id": "eq5d_vas",
+            "form": "eq_5d_5l",
+            "label": {
+                "translation": "EQ VAS Score (0-100)"
+            }
+        },
+        {
+            "id": "eq5d_copyright",
+            "form": "eq_5d_5l",
+            "header": {
+                "translation": "COPYRIGHT"
+            },
+            "label": {
+                "translation": "© EuroQol Research Foundation. EQ-5D™ is a trade mark of the EuroQol Research Foundation. India (English) v2.0"
+            }
+        }
+    ]
+}

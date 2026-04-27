@@ -1,0 +1,259 @@
+{
+    "creator": "REDCap MLM",
+    "version": "v15.5.4",
+    "timestamp": "2026-04-27 12:26:05",
+    "key": "kn",
+    "display": "Kannada",
+    "rtl": false,
+    "fieldTranslations": [
+        {
+            "id": "homer_id",
+            "form": "caregiver_strain_index",
+            "label": {
+                "translation": "Record ID"
+            }
+        },
+        {
+            "id": "csi_date",
+            "form": "caregiver_strain_index",
+            "label": {
+                "translation": "Date of Assessment"
+            }
+        },
+        {
+            "id": "csi_examiner",
+            "form": "caregiver_strain_index",
+            "label": {
+                "translation": "Examiner Name"
+            }
+        },
+        {
+            "id": "csi_header",
+            "form": "caregiver_strain_index",
+            "header": {
+                "translation": "CAREGIVER STRAIN INDEX (CSI) / ಆ\"ೈ%ೆ&ಾರರ ಒತ,ಡ ಸೂಚ1ಂಕ (CSI)"
+            },
+            "label": {
+                "translation": "I am going to read a list of things that other people have found to be difficult in helping out after a relative or friend comes home from the hospital. Would you tell me whether any of these apply to you? <b>(Give examples)</b> / ಇತರ ಜನ'(ೆ ಕಷ,ಕರ-ೆ./ದ 1ೆಲವ4 5ಶಯಗಳ ಪ;,ಯನು= >ಾನು ಓದABೆCೕ>ೆ . ಇವ#ಗಳ&' )ಾವ#+ಾದರೂ /ಮ1ೆ ಅನ56ಸುತ:+ೆ;ೕ ಎಂದು /ೕವ# ನನ1ೆ ?ೇಳ@A:ೕBಾ ? (ಉBಾಹರIೆಗಳನು= .ೕJ) ?ೌದು =1 ಇಲ'=0"
+            }
+        },
+        {
+            "id": "csi_1_sleep",
+            "form": "caregiver_strain_index",
+            "label": {
+                "translation": "1. Sleep is disturbed (e.g., because . . . is in and out of bed or wanders around at night) / ಅಥ-ಾ VಾP^ ಅ_ೆBಾಡುವ4ದು ) ಅದು ಅaೌಕಯc ಕರ-ಾNBೆ (ಉBಾ., ಏ1ೆಂದVೆ ಸXಾಯ dಾಡಲು ತುಂeಾ"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "Yes / ಹೌದು"
+                },
+                {
+                    "id": "0",
+                    "translation": "No / ಇಲ್ಲ"
+                }
+            ]
+        },
+        {
+            "id": "csi_2_inconvenient",
+            "form": "caregiver_strain_index",
+            "label": {
+                "translation": "2. It is inconvenient (e.g., because helping takes so much time or it’s a long drive over to help) / ಸಮಯ ಉಪgೕಗ-ಾಗುhೆQ ಅಥ-ಾ ಸXಾಯ dಾಡಲು ಬರಲು ಬಹಳ ದೂರ ಪ^Mಾkಸeೇ1ಾಗುತQBೆ )"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "Yes / ಹೌದು"
+                },
+                {
+                    "id": "0",
+                    "translation": "No / ಇಲ್ಲ"
+                }
+            ]
+        },
+        {
+            "id": "csi_3_physical",
+            "form": "caregiver_strain_index",
+            "label": {
+                "translation": "3. It is a physical strain (e.g., because of lifting in and out of a chair; effort or concentration is required) / ಇದು Bೈmಕ ಶ^ಮ-ಾNBೆ (ಉBಾ: ಏ1ೆಂದVೆ ಕುocYಂದ pೕ_ೆತQಲು ಅಥ-ಾ 1ೆಳNqಸಲು ಕಷ,-ಾಗುತQBೆ ; Xೆosನ ಶtQ ಅಥ-ಾ ಗಮನ ಅಗತu-ಾNರುತQBೆ )"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "Yes / ಹೌದು"
+                },
+                {
+                    "id": "0",
+                    "translation": "No / ಇಲ್ಲ"
+                }
+            ]
+        },
+        {
+            "id": "csi_4_confining",
+            "form": "caregiver_strain_index",
+            "label": {
+                "translation": "4. It is confining (e.g., helping restricts free time or cannot go visiting) / ಇದು aಾvತಂತ^wವನು= /ೕxತ(ೊq/Bೆ (ಉBಾ., ಆVೈ1ೆ dಾಡುವ4ದ'ಂದ yಡು5ನ ಸಮಯವ4 ಕJpMಾಗುPQBೆ ಅಥ-ಾ ಇತರರನು= zೇ; dಾಡಲು Xೋಗ_ಾಗುವ4{ಲR )"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "Yes / ಹೌದು"
+                },
+                {
+                    "id": "0",
+                    "translation": "No / ಇಲ್ಲ"
+                }
+            ]
+        },
+        {
+            "id": "csi_5_family",
+            "form": "caregiver_strain_index",
+            "label": {
+                "translation": "5. There have been family adjustments (e.g., because helping has disrupted routine; there has been no privacy) / ಕುಟುಂಬದ XೊಂBಾk1ೆಯ AR ಬದ_ಾವIೆಗಳ[ ನ}ೆ{-ೆ (ಉBಾ., ಆVೈ1ೆ dಾಡುವ4ದ'ಂದ {ನಚ' ಅಸQವuಸQ-ಾNBೆ ; ಾಸNತನ ಇಲRದಂhಾNBೆ )"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "Yes / ಹೌದು"
+                },
+                {
+                    "id": "0",
+                    "translation": "No / ಇಲ್ಲ"
+                }
+            ]
+        },
+        {
+            "id": "csi_6_plans",
+            "form": "caregiver_strain_index",
+            "label": {
+                "translation": "6. There have been changes in personal plans (e.g., had to turn down a job; could not go on vacation) / -ೈ ಯtQಕ gೕಜ>ೆಗಳAR ಬದ_ಾವIೆಗ ಾN-ೆ . (ಉBಾ., 1ೆಲಸದ ಅವ1ಾಶವನು= .Vಾಕ'ಸeೇ1ಾYತು ; ರೆ(ೆ Xೋಗಲು aಾಧu-ಾಗAಲR)"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "Yes / ಹೌದು"
+                },
+                {
+                    "id": "0",
+                    "translation": "No / ಇಲ್ಲ"
+                }
+            ]
+        },
+        {
+            "id": "csi_7_emotional",
+            "form": "caregiver_strain_index",
+            "label": {
+                "translation": "7. There have been emotional adjustments (e.g., because of severe arguments) / zಾವ>ಾತಕ XೊಂBಾk1ೆಗಳ[ ನ}ೆ{-ೆ (ಉBಾ., ಗಂೕರ-ಾದ ಜಗಳಗಳ[ 1ಾರಣ) 1ೆಲವ4 ವತc>ೆಗಳ[ hೊಂದVೆBಾಯಕ-ಾN-ೆ (ಉBಾ: ಮಲ ಮೂತ^ .ಯಂತ^ಣ"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "Yes / ಹೌದು"
+                },
+                {
+                    "id": "0",
+                    "translation": "No / ಇಲ್ಲ"
+                }
+            ]
+        },
+        {
+            "id": "csi_8_behavior",
+            "form": "caregiver_strain_index",
+            "label": {
+                "translation": "8. Some behavior is upsetting (e.g., because of incontinence; . . . has trouble remembering things; or . . . accuses people of taking things) / ಇಲR{ರುವ4ದ'ಂದ; ......5ಷಯಗಳನು= >ೆನಡಲು hೊಂದVೆ ಆಗುತQBೆ ; ಅಥ-ಾ ವಸುQಗಳನು= hೆ(ೆ{BಾCVೆ ಎಂದು ಆVೋ ಸುhಾQVೆ )"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "Yes / ಹೌದು"
+                },
+                {
+                    "id": "0",
+                    "translation": "No / ಇಲ್ಲ"
+                }
+            ]
+        },
+        {
+            "id": "csi_9_changed",
+            "form": "caregiver_strain_index",
+            "label": {
+                "translation": "9. It is upsetting to find . . . has changed so much from his/her former self (e.g., he/she is a different person than he/she used to be) / ಅವರು ದANಂತ ತುಂeಾ ಬದ_ಾNBಾCVೆ ಎಂದು 1ಾಣುವ4ದು >ೋ5ನ ಸಂ(ಾPMಾNBೆ (ಉBಾ., ಅವರು ದANಂತ eೇVೆ ವutQಯಂhೆ 1ಾಣುhಾQVೆ )"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "Yes / ಹೌದು"
+                },
+                {
+                    "id": "0",
+                    "translation": "No / ಇಲ್ಲ"
+                }
+            ]
+        },
+        {
+            "id": "csi_10_work",
+            "form": "caregiver_strain_index",
+            "label": {
+                "translation": "10. There have been work adjustments (e.g., because of having to take time off) / 1ೆಲಸದAR XೊಂBಾk 1ೆಗಳ[ ನ}ೆ{-ೆ (ಉBಾ., 1ೆಲಸ{ಂದ ಸಮಯ hೆ(ೆದು1ೊಳeೇ1ಾದ 1ಾರಣ{ಂದ)"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "Yes / ಹೌದು"
+                },
+                {
+                    "id": "0",
+                    "translation": "No / ಇಲ್ಲ"
+                }
+            ]
+        },
+        {
+            "id": "csi_11_financial",
+            "form": "caregiver_strain_index",
+            "label": {
+                "translation": "11. It is a financial strain / ಇದು ಒಂದು ಆcಕ ಒತQಡ-ಾNBೆ ಸಂಪಣc-ಾN xPxೕ'ದ ಅನುಭವ (ಉBಾ., ಅವರ ಬ(ೆZ oಂhೆYಂ BಾN...... ;"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "Yes / ಹೌದು"
+                },
+                {
+                    "id": "0",
+                    "translation": "No / ಇಲ್ಲ"
+                }
+            ]
+        },
+        {
+            "id": "csi_12_overwhelmed",
+            "form": "caregiver_strain_index",
+            "label": {
+                "translation": "12. Feeling completely overwhelmed (e.g., because of worry about . . . ; concerns about how you will manage) / ಮುಂBೆ Xೇ(ೆ .zಾYಸುವ4ದು ಎಂಬ ಆತಂಕ) ಒಟುK Lತ:: (Xೌದು ಎಂದು ಉತQ'/ದ ಪ^Pt^ಗಳನು= ಎk/. Mಾವ4Bೇ “Xೌದು ”"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "Yes / ಹೌದು"
+                },
+                {
+                    "id": "0",
+                    "translation": "No / ಇಲ್ಲ"
+                }
+            ]
+        },
+        {
+            "id": "csi_total_score",
+            "form": "caregiver_strain_index",
+            "label": {
+                "translation": "CSI Total Score (Count yes responses)"
+            }
+        },
+        {
+            "id": "csi_interpretation",
+            "form": "caregiver_strain_index",
+            "label": {
+                "translation": "<b>Note</b>: Any positive answer may indicate a need for intervention in that area. A score of 7 or higher indicates a high level of stress. / ಉತQರವ4, ಆ 5ಷಯದAR ಸXಾಯದ ಅಥ-ಾ ಗಮನದ ಅಗತu5Bೆ ಎಂದು hೋ'ಸುತQBೆ . 7 ಅಥ-ಾ ಅದtಂತ Xೆ osನ ಅಂಕವ4 ಇದCVೆ ಅದು Xೆosನ ಮಟ,ದ ಒತQಡವನು= ಸೂoಸುತQBೆ )"
+            }
+        }
+    ]
+}

@@ -1,0 +1,381 @@
+{
+    "creator": "REDCap MLM",
+    "version": "v15.5.4",
+    "timestamp": "2026-04-27 12:26:05",
+    "key": "kn",
+    "display": "Kannada",
+    "rtl": false,
+    "fieldTranslations": [
+        {
+            "id": "homer_id",
+            "form": "fatigue_severity_scale",
+            "label": {
+                "translation": "Record ID"
+            }
+        },
+        {
+            "id": "fss_date",
+            "form": "fatigue_severity_scale",
+            "label": {
+                "translation": "Date of Assessment"
+            }
+        },
+        {
+            "id": "fss_examiner",
+            "form": "fatigue_severity_scale",
+            "label": {
+                "translation": "Examiner Name"
+            }
+        },
+        {
+            "id": "fss_header",
+            "form": "fatigue_severity_scale",
+            "header": {
+                "translation": "FATIGUE SEVERITY SCALE (FSS)"
+            },
+            "label": {
+                "translation": "Please circle the number between 1 and 7 which you feel best fits the following statements. This refers to your usual way of life within the last week.<br><b>1 indicates \"strongly disagree\" and 7 indicates \"strongly agree.\"</b>"
+            }
+        },
+        {
+            "id": "fss_1_motivation",
+            "form": "fatigue_severity_scale",
+            "label": {
+                "translation": "1. My motivation is lower when I am fatigued. / 1.ನನಗೆ  ಸುಸು ು  ಆದಾಗ  ನನನ  ಪ್ ರ ೇರಣೆ ಕಡಿಮೆ  ಇರುತ್ ು ದೆ                                     1          2          3          4          5          6          7"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "1 - Strongly Disagree / "
+                },
+                {
+                    "id": "2",
+                    "translation": "2 / "
+                },
+                {
+                    "id": "3",
+                    "translation": "3 / "
+                },
+                {
+                    "id": "4",
+                    "translation": "4 / "
+                },
+                {
+                    "id": "5",
+                    "translation": "5 / "
+                },
+                {
+                    "id": "6",
+                    "translation": "6 / "
+                },
+                {
+                    "id": "7",
+                    "translation": "7 - Strongly Agree / "
+                }
+            ]
+        },
+        {
+            "id": "fss_2_exercise",
+            "form": "fatigue_severity_scale",
+            "label": {
+                "translation": "2. Exercise brings on my fatigue. / 2. ವ್ಯಾ ಯಾಮ ನನಗೆ  ಸುಸ್ ು ನ್ನನ ಹೆಚ್ಚ ಿ ಸುತ್ ು ದೆ                                                    1          2          3          4          5          6          7"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "1 - Strongly Disagree / "
+                },
+                {
+                    "id": "2",
+                    "translation": "2 / "
+                },
+                {
+                    "id": "3",
+                    "translation": "3 / "
+                },
+                {
+                    "id": "4",
+                    "translation": "4 / "
+                },
+                {
+                    "id": "5",
+                    "translation": "5 / "
+                },
+                {
+                    "id": "6",
+                    "translation": "6 / "
+                },
+                {
+                    "id": "7",
+                    "translation": "7 - Strongly Agree / "
+                }
+            ]
+        },
+        {
+            "id": "fss_3_easily",
+            "form": "fatigue_severity_scale",
+            "label": {
+                "translation": "3. I am easily fatigued. / 3. ನನಗೆ ಸುಲಭವ್ಯಗಿ ಸುಸ್ತ ು ಗುತ್ ು ದೆ                                                                  1          2          3          4          5          6          7"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "1 - Strongly Disagree / "
+                },
+                {
+                    "id": "2",
+                    "translation": "2 / "
+                },
+                {
+                    "id": "3",
+                    "translation": "3 / "
+                },
+                {
+                    "id": "4",
+                    "translation": "4 / "
+                },
+                {
+                    "id": "5",
+                    "translation": "5 / "
+                },
+                {
+                    "id": "6",
+                    "translation": "6 / "
+                },
+                {
+                    "id": "7",
+                    "translation": "7 - Strongly Agree / "
+                }
+            ]
+        },
+        {
+            "id": "fss_4_physical",
+            "form": "fatigue_severity_scale",
+            "label": {
+                "translation": "4. Fatigue interferes with my physical functioning. / 4. ಸುಸು ು  ನನನ  ದೈಹಿಕ ಕೆಲಸ್ಗಳಲ್ಲ ಿ  ಹಸ್ ು ಕೆ ಷ ೇಪ ಮಾಡುತ್ ು ದೆ                               1          2          3          4          5          6          7"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "1 - Strongly Disagree / "
+                },
+                {
+                    "id": "2",
+                    "translation": "2 / "
+                },
+                {
+                    "id": "3",
+                    "translation": "3 / "
+                },
+                {
+                    "id": "4",
+                    "translation": "4 / "
+                },
+                {
+                    "id": "5",
+                    "translation": "5 / "
+                },
+                {
+                    "id": "6",
+                    "translation": "6 / "
+                },
+                {
+                    "id": "7",
+                    "translation": "7 - Strongly Agree / "
+                }
+            ]
+        },
+        {
+            "id": "fss_5_problems",
+            "form": "fatigue_severity_scale",
+            "label": {
+                "translation": "5. Fatigue causes frequent problems for me. / 5. ಸುಸು ು  ನನಗೆ ಆಗಾಗ ಸ್ಮಸ್ಯಾ ಗಳನ್ನನ ುಂಟುಮಾಡುತ್ ು ದೆ                                    1          2          3          4          5          6          7"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "1 - Strongly Disagree / "
+                },
+                {
+                    "id": "2",
+                    "translation": "2 / "
+                },
+                {
+                    "id": "3",
+                    "translation": "3 / "
+                },
+                {
+                    "id": "4",
+                    "translation": "4 / "
+                },
+                {
+                    "id": "5",
+                    "translation": "5 / "
+                },
+                {
+                    "id": "6",
+                    "translation": "6 / "
+                },
+                {
+                    "id": "7",
+                    "translation": "7 - Strongly Agree / "
+                }
+            ]
+        },
+        {
+            "id": "fss_6_sustained",
+            "form": "fatigue_severity_scale",
+            "label": {
+                "translation": "6. My fatigue prevents sustained physical functioning. / 6. ಸುಸು ು  ನನನ  ಸ್ತ್ತ್ವ್ಯದ (ನಿರಂತ್ರ) ಶಾರೇರಕ ಕೆಲಸ್ಗಳಿಗೆ                              1          2          3          4          5          6          7"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "1 - Strongly Disagree / "
+                },
+                {
+                    "id": "2",
+                    "translation": "2 / "
+                },
+                {
+                    "id": "3",
+                    "translation": "3 / "
+                },
+                {
+                    "id": "4",
+                    "translation": "4 / "
+                },
+                {
+                    "id": "5",
+                    "translation": "5 / "
+                },
+                {
+                    "id": "6",
+                    "translation": "6 / "
+                },
+                {
+                    "id": "7",
+                    "translation": "7 - Strongly Agree / "
+                }
+            ]
+        },
+        {
+            "id": "fss_7_duties",
+            "form": "fatigue_severity_scale",
+            "label": {
+                "translation": "7. Fatigue interferes with carrying out certain duties and responsibilities. / 7.ಸುಸು ು  ಕೆಲವು ಕತ್ತವ್ಾ ಗಳನ್ನನ  ಮತ್ತ ು  ಜವ್ಯಬ್ದ ಾ ರಗಳನ್ನನ                               1           2          3          4          5          6         7"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "1 - Strongly Disagree / "
+                },
+                {
+                    "id": "2",
+                    "translation": "2 / "
+                },
+                {
+                    "id": "3",
+                    "translation": "3 / "
+                },
+                {
+                    "id": "4",
+                    "translation": "4 / "
+                },
+                {
+                    "id": "5",
+                    "translation": "5 / "
+                },
+                {
+                    "id": "6",
+                    "translation": "6 / "
+                },
+                {
+                    "id": "7",
+                    "translation": "7 - Strongly Agree / "
+                }
+            ]
+        },
+        {
+            "id": "fss_8_disabling",
+            "form": "fatigue_severity_scale",
+            "label": {
+                "translation": "8. Fatigue is among my most disabling symptoms. / 8. ಸುಸು ು  ನನನ  ಮೂರು ಅತ್ಾ ುಂತ್ ಅಸ್ತಮರ್ಥಾ ತ ಉುಂಟುಮಾಡುವ್                     1           2          3          4          5          6         7"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "1 - Strongly Disagree / "
+                },
+                {
+                    "id": "2",
+                    "translation": "2 / "
+                },
+                {
+                    "id": "3",
+                    "translation": "3 / "
+                },
+                {
+                    "id": "4",
+                    "translation": "4 / "
+                },
+                {
+                    "id": "5",
+                    "translation": "5 / "
+                },
+                {
+                    "id": "6",
+                    "translation": "6 / "
+                },
+                {
+                    "id": "7",
+                    "translation": "7 - Strongly Agree / "
+                }
+            ]
+        },
+        {
+            "id": "fss_9_social",
+            "form": "fatigue_severity_scale",
+            "label": {
+                "translation": "9. Fatigue interferes with my work, family, or social life. / 9. ಸುಸು ು  ನನನ  ಉದ್ಾ ೇಗ , ಕುಟುುಂಬ ಅರ್ಥವ್ಯ ಸ್ತಮಾಜಿಕ ಜಿೇವ್ನದಲ್ಲ ಿ             1          2           3          4          5          6         7"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "1 - Strongly Disagree / "
+                },
+                {
+                    "id": "2",
+                    "translation": "2 / "
+                },
+                {
+                    "id": "3",
+                    "translation": "3 / "
+                },
+                {
+                    "id": "4",
+                    "translation": "4 / "
+                },
+                {
+                    "id": "5",
+                    "translation": "5 / "
+                },
+                {
+                    "id": "6",
+                    "translation": "6 / "
+                },
+                {
+                    "id": "7",
+                    "translation": "7 - Strongly Agree / "
+                }
+            ]
+        },
+        {
+            "id": "fss_mean_score",
+            "form": "fatigue_severity_scale",
+            "label": {
+                "translation": "FSS Mean Score (Average of 9 items)"
+            }
+        }
+    ]
+}
