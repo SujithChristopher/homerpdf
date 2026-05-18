@@ -24,7 +24,7 @@
             "id": "moca_header",
             "form": "moca_test",
             "header": {
-                "translation": "MONTREAL COGNITIVE ASSESSMENT (MoCA)"
+                "translation": "MONTREAL COGNITIVE ASSESSMENT (MoCA) / ಮಾಂಟ್ರಿಯಲ್ ಅರಿವಿನ ಮೌಲ್ಯಮಾಪನ (MoCA)"
             },
             "label": {
                 "translation": "MONTREAL COGNITIVE ASSESSMENT (MoCA)"
@@ -176,7 +176,7 @@
             "id": "moca_memory_info",
             "form": "moca_test",
             "header": {
-                "translation": "3. Memory"
+                "translation": "MEMORY (ನೆನಪಿನ ಶಕ್ತಿ)"
             },
             "label": {
                 "translation": "Trial 1 & 2: Registering the words LEG, COTTON, SCHOOL, TOMATO, WHITE. No points are awarded here; they are for the 5-minute delayed recall task."
@@ -302,7 +302,7 @@
             "id": "moca_verbal_fluency",
             "form": "moca_test",
             "label": {
-                "translation": "Verbal Fluency: Naming words starting with the letter \"B\" in one minute"
+                "translation": "VERBAL FLUENCY (ಮಾತಿನ ನಿರರ್ಗಳತೆ)"
             },
             "enum": [
                 {

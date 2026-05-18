@@ -1,0 +1,284 @@
+{
+    "creator": "REDCap MLM",
+    "version": "v15.5.4",
+    "timestamp": "2026-04-27 12:26:05",
+    "key": "pa",
+    "display": "Punjabi",
+    "rtl": false,
+    "fieldTranslations": [
+        {
+            "id": "homer_id",
+            "form": "phq9",
+            "label": {
+                "translation": "Record ID"
+            }
+        },
+        {
+            "id": "phq9_date",
+            "form": "phq9",
+            "label": {
+                "translation": "Date of Assessment"
+            }
+        },
+        {
+            "id": "phq9_header",
+            "form": "phq9",
+            "header": {
+                "translation": "PATIENT HEALTH QUESTIONNAIRE-9 (PHQ-9) <br> ರೋಗಿಯ ಆರೋಗ್ಯ ಪ್ರಶ್ನಾವಳಿ-9 (PHQ-9)"
+            },
+            "label": {
+                "translation": "Over the last 2 weeks, how often have you been bothered by any of the following problems? <br> ಕಳೆದ 2 ವಾರಗಳಲ್ಲಿ, ಈ ಕೆಳಗಿನ ಯಾವುದೇ ಸಮಸ್ಯೆಗಳಿಂದ ನೀವು ಎಷ್ಟು ಬಾರಿ ತೊಂದರೆ ಅನುಭವಿಸಿದ್ದೀರಿ?"
+            }
+        },
+        {
+            "id": "phq9_1_interest",
+            "form": "phq9",
+            "label": {
+                "translation": "1. Little interest or pleasure in doing things <br> 1. ಕೆಲಸ ಕಾರ್ಯಗಳನ್ನು ಮಾಡುವಲ್ಲಿ ಕಡಿಮೆ ಆಸಕ್ತಿ ಅಥವಾ ಆನಂದ"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "Not at all <br> ಇಲ್ಲವೇ ಇಲ್ಲ"
+                },
+                {
+                    "id": "1",
+                    "translation": "Several days <br> ಕೆಲವು ದಿನಗಳು"
+                },
+                {
+                    "id": "2",
+                    "translation": "More than half the days <br> ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ದಿನಗಳು"
+                },
+                {
+                    "id": "3",
+                    "translation": "Nearly every day <br> ಪ್ರತಿದಿನವೂ"
+                }
+            ]
+        },
+        {
+            "id": "phq9_2_depressed",
+            "form": "phq9",
+            "label": {
+                "translation": "2. Feeling down, depressed, or hopeless <br> 2. ಬೇಸರ, ಖಿನ್ನತೆ ಅಥವಾ ಭರವಸೆ ಇಲ್ಲದಿರುವಿಕೆ / 1. ਕੰਮ ਕਰਨ ਜਾਂ ਚੀਜ਼ਾਂ ਵਿੱਚ ਦਿਲਚਸਪੀ/ਖੁਸ਼ੀ ਘੱਟ ਹੋਣਾ।"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "Not at all <br> ಇಲ್ಲವೇ ಇಲ್ಲ"
+                },
+                {
+                    "id": "1",
+                    "translation": "Several days <br> ಕೆಲವು ದಿನಗಳು"
+                },
+                {
+                    "id": "2",
+                    "translation": "More than half the days <br> ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ದಿನಗಳು"
+                },
+                {
+                    "id": "3",
+                    "translation": "Nearly every day <br> ಪ್ರತಿದಿನವೂ"
+                }
+            ]
+        },
+        {
+            "id": "phq9_3_sleep",
+            "form": "phq9",
+            "label": {
+                "translation": "3. Trouble falling or staying asleep, or sleeping too much <br> 3. ನಿದ್ರೆ ಬರಲು ತೊಂದರೆ ಅಥವಾ ನಿದ್ರೆ ಬಾರದಿರುವುದು ಅಥವಾ ಅತಿಯಾದ ನಿದ್ರೆ / 2. ਉਦਾਸ, ਨਿਰਾਸ਼ ਜਾਂ ਅਸਫਲ ਮਹਿਸੂਸ ਕਰਨਾ।"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "Not at all <br> ಇಲ್ಲವೇ ಇಲ್ಲ"
+                },
+                {
+                    "id": "1",
+                    "translation": "Several days <br> ಕೆಲವು ದಿನಗಳು"
+                },
+                {
+                    "id": "2",
+                    "translation": "More than half the days <br> ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ದಿನಗಳು"
+                },
+                {
+                    "id": "3",
+                    "translation": "Nearly every day <br> ಪ್ರತಿದಿನವೂ"
+                }
+            ]
+        },
+        {
+            "id": "phq9_4_tired",
+            "form": "phq9",
+            "label": {
+                "translation": "4. Feeling tired or having little energy <br> 4. ಸುಸ್ತು ಅಥವಾ ಕಡಿಮೆ ಶಕ್ತಿ ಇರುವುದು / 3. ਸੌਣ ਵਿੱਚ ਮੁਸ਼ਕਲ, ਬਹੁਤ ਜ਼ਿਆਦਾ ਸੌਣਾ ਜਾਂ ਨੀਂਦ ਟੁੱਟਣਾ।"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "Not at all <br> ಇಲ್ಲವೇ ಇಲ್ಲ"
+                },
+                {
+                    "id": "1",
+                    "translation": "Several days <br> ಕೆಲವು ದಿನಗಳು"
+                },
+                {
+                    "id": "2",
+                    "translation": "More than half the days <br> ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ದಿನಗಳು"
+                },
+                {
+                    "id": "3",
+                    "translation": "Nearly every day <br> ಪ್ರತಿದಿನವೂ"
+                }
+            ]
+        },
+        {
+            "id": "phq9_5_appetite",
+            "form": "phq9",
+            "label": {
+                "translation": "5. Poor appetite or overeating <br> 5. ಹಸಿವಾಗದಿರುವುದು ಅಥವಾ ಅತಿಯಾಗಿ ತಿನ್ನುವುದು / 4. ਥਕਾਵਟ ਜਾਂ ਊਰਜਾ ਦੀ ਘਾਟ।"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "Not at all <br> ಇಲ್ಲವೇ ಇಲ್ಲ"
+                },
+                {
+                    "id": "1",
+                    "translation": "Several days <br> ಕೆಲವು ದಿನಗಳು"
+                },
+                {
+                    "id": "2",
+                    "translation": "More than half the days <br> ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ದಿನಗಳು"
+                },
+                {
+                    "id": "3",
+                    "translation": "Nearly every day <br> ಪ್ರತಿದಿನವೂ"
+                }
+            ]
+        },
+        {
+            "id": "phq9_6_failure",
+            "form": "phq9",
+            "label": {
+                "translation": "6. Feeling bad about yourself - or that you are a failure or have let yourself or your family down <br> 6. ನಿಮ್ಮ ಬಗ್ಗೆ ಕೆಟ್ಟದಾಗಿ ಅನಿಸುವುದು - ಅಥವಾ ನೀವು ವಿಫಲರಾಗಿದ್ದೀರಿ ಅಥವಾ ನಿಮ್ಮನ್ನು ಅಥವಾ ನಿಮ್ಮ ಕುಟುಂಬವನ್ನು ಅವಮಾನಿಸಿದ್ದೀರಿ ಎಂದು ಅನಿಸುವುದು / 5. ਭੁੱਖ ਘੱਟ ਲੱਗਣਾ ਜਾਂ ਬਹੁਤ ਖਾਣਾ।"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "Not at all <br> ಇಲ್ಲವೇ ಇಲ್ಲ"
+                },
+                {
+                    "id": "1",
+                    "translation": "Several days <br> ಕೆಲವು ದಿನಗಳು"
+                },
+                {
+                    "id": "2",
+                    "translation": "More than half the days <br> ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ದಿನಗಳು"
+                },
+                {
+                    "id": "3",
+                    "translation": "Nearly every day <br> ಪ್ರತಿದಿನವೂ"
+                }
+            ]
+        },
+        {
+            "id": "phq9_7_concentrating",
+            "form": "phq9",
+            "label": {
+                "translation": "7. Trouble concentrating on things, such as reading the newspaper or watching television <br> 7. ಪತ್ರಿಕೆ ಓದುವ ಅಥವಾ ದೂರದರ್ಶನ ನೋಡುವಂತಹ ವಿಷಯಗಳ ಮೇಲೆ ಗಮನ ಹರಿಸಲು ತೊಂದರೆ / 6. ਆਪਣੇ ਬਾਰੇ ਬੁਰਾ ਮਹਿਸੂਸ ਕਰਨਾ — ਜਿਵੇਂ ਤੁਸੀਂ ਅਸਫਲ ਹੋ ਜਾਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਨਿਰਾਸ਼ ਕੀਤਾ ਹੈ।"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "Not at all <br> ಇಲ್ಲವೇ ಇಲ್ಲ"
+                },
+                {
+                    "id": "1",
+                    "translation": "Several days <br> ಕೆಲವು ದಿನಗಳು"
+                },
+                {
+                    "id": "2",
+                    "translation": "More than half the days <br> ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ದಿನಗಳು"
+                },
+                {
+                    "id": "3",
+                    "translation": "Nearly every day <br> ಪ್ರತಿದಿನವೂ"
+                }
+            ]
+        },
+        {
+            "id": "phq9_8_moving",
+            "form": "phq9",
+            "label": {
+                "translation": "8. Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual <br> 8. ಇತರರು ಗಮನಿಸುವಷ್ಟು ನಿಧಾನವಾಗಿ ಚಲಿಸುವುದು ಅಥವಾ ಮಾತನಾಡುವುದು? ಅಥವಾ ಅದರ ವಿರುದ್ಧವಾಗಿ - ಬಹಳ ಚಡಪಡಿಕೆ ಅಥವಾ ಅಶಾಂತಿಯಿಂದ ಮೊದಲಿನಿಗಿಂತ ಹೆಚ್ಚಾಗಿ ಓಡಾಡುವುದು / 7. ਧਿਆਨ ਕੇਂਦ੍ਰਿਤ ਕਰਨ ਵਿੱਚ ਮੁਸ਼ਕਲ (ਜਿਵੇਂ ਅਖਬਾਰ ਪੜ੍ਹਨਾ ਜਾਂ ਟੀਵੀ ਦੇਖਣਾ)।"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "Not at all <br> ಇಲ್ಲವೇ ಇಲ್ಲ"
+                },
+                {
+                    "id": "1",
+                    "translation": "Several days <br> ಕೆಲವು ದಿನಗಳು"
+                },
+                {
+                    "id": "2",
+                    "translation": "More than half the days <br> ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ದಿನಗಳು"
+                },
+                {
+                    "id": "3",
+                    "translation": "Nearly every day <br> ಪ್ರತಿದಿನವೂ"
+                }
+            ]
+        },
+        {
+            "id": "phq9_9_thoughts",
+            "form": "phq9",
+            "label": {
+                "translation": "9. Thoughts that you would be better off dead or of hurting yourself in some way <br> 9. ನಾನು ಸತ್ತರೆ ಒಳಿತು ಅಥವಾ ಯಾವುದಾದರೊಂದು ರೀತಿಯಲ್ಲಿ ನನಗೆ ಹಾನಿ ಮಾಡಿಕೊಳ್ಳಬೇಕು ಎಂಬ ಆಲೋಚನೆಗಳು ಬರುವುದು / 8. ਹੌਲੀ-ਹੌਲੀ ਤੁਰਨਾ/ਬੋਲਣਾ, ਇੰਨਾ ਕਿ ਹੋਰ ਲੋਕ ਧਿਆਨ ਦੇਣ। ਜਾਂ ਇਸਦੇ ਉਲਟ — ਬਹੁਤ ਬੇਚੈਨ ਰਹਿਣਾ।"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "Not at all <br> ಇಲ್ಲವೇ ಇಲ್ಲ"
+                },
+                {
+                    "id": "1",
+                    "translation": "Several days <br> ಕೆಲವು ದಿನಗಳು"
+                },
+                {
+                    "id": "2",
+                    "translation": "More than half the days <br> ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ದಿನಗಳು"
+                },
+                {
+                    "id": "3",
+                    "translation": "Nearly every day <br> ಪ್ರತಿದಿನವೂ"
+                }
+            ]
+        },
+        {
+            "id": "phq9_10_difficulty",
+            "form": "phq9",
+            "label": {
+                "translation": "If you checked off any problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people? <br> ಈ ಮೇಲಿನ ಯಾವುದಾದರೂ ಸಮಸ್ಯೆಗಳನ್ನು ನೀವು ಹೊಂದಿದ್ದರೆ, ಅವುಗಳಿಂದ ನಿಮ್ಮ ಕೆಲಸ ಕಾರ್ಯಗಳನ್ನು ಮಾಡಲು, ಮನೆಯಲ್ಲಿ ಕೆಲಸಗಳನ್ನು ಮಾಡಲು ಅಥವಾ ಇತರ ಜನರೊಂದಿಗೆ ಬೆರೆಯಲು ಎಷ್ಟು ಕಷ್ಟವಾಗುತ್ತಿದೆ? / 9. ਇਹ ਸੋਚਣਾ ਕਿ ਜੇ ਤੁਸੀਂ ਮਰ ਜਾਂਦੇ ਤਾਂ ਚੰਗਾ ਹੁੰਦਾ, ਜਾਂ ਆਪਣੇ ਆਪ ਨੂੰ ਨੁਕਸਾਨ ਪਹੁੰਚਾਉਣ ਦੇ ਵਿਚਾਰ।"
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "translation": "Not difficult at all <br> ಏನೂ ಕಷ್ಟವಿಲ್ಲ"
+                },
+                {
+                    "id": "1",
+                    "translation": "Somewhat difficult <br> ಸ್ವಲ್ಪ ಕಷ್ಟವಾಗುತ್ತಿದೆ"
+                },
+                {
+                    "id": "2",
+                    "translation": "Very difficult <br> ತುಂಬಾ ಕಷ್ಟವಾಗುತ್ತಿದೆ"
+                },
+                {
+                    "id": "3",
+                    "translation": "Extremely difficult <br> ವಿಪರೀತ ಕಷ್ಟವಾಗುತ್ತಿದೆ"
+                }
+            ]
+        }
+    ]
+}

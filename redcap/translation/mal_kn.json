@@ -70,7 +70,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -78,7 +78,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -86,7 +86,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -94,7 +94,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -102,7 +102,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -110,7 +110,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -123,7 +123,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -131,7 +131,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -139,7 +139,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -147,7 +147,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -155,7 +155,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -163,7 +163,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -190,7 +190,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -198,7 +198,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -206,7 +206,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -214,7 +214,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -222,7 +222,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -230,7 +230,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -243,7 +243,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -251,7 +251,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -259,7 +259,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -267,7 +267,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -275,7 +275,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -283,7 +283,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -310,7 +310,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -318,7 +318,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -326,7 +326,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -334,7 +334,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -342,7 +342,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -350,7 +350,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -363,7 +363,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -371,7 +371,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -379,7 +379,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -387,7 +387,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -395,7 +395,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -403,7 +403,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -430,7 +430,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -438,7 +438,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -446,7 +446,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -454,7 +454,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -462,7 +462,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -470,7 +470,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -483,7 +483,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -491,7 +491,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -499,7 +499,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -507,7 +507,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -515,7 +515,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -523,7 +523,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -550,7 +550,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -558,7 +558,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -566,7 +566,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -574,7 +574,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -582,7 +582,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -590,7 +590,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -603,7 +603,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -611,7 +611,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -619,7 +619,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -627,7 +627,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -635,7 +635,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -643,7 +643,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -680,7 +680,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -688,7 +688,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -696,7 +696,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -704,7 +704,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -712,7 +712,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -720,7 +720,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -733,7 +733,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -741,7 +741,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -749,7 +749,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -757,7 +757,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -765,7 +765,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -773,7 +773,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -800,7 +800,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -808,7 +808,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -816,7 +816,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -824,7 +824,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -832,7 +832,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -840,7 +840,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -853,7 +853,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -861,7 +861,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -869,7 +869,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -877,7 +877,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -885,7 +885,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -893,7 +893,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -920,7 +920,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -928,7 +928,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -936,7 +936,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -944,7 +944,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -952,7 +952,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -960,7 +960,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -973,7 +973,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -981,7 +981,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -989,7 +989,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -997,7 +997,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -1005,7 +1005,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -1013,7 +1013,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -1040,7 +1040,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -1048,7 +1048,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -1056,7 +1056,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -1064,7 +1064,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -1072,7 +1072,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -1080,7 +1080,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -1093,7 +1093,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -1101,7 +1101,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -1109,7 +1109,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -1117,7 +1117,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -1125,7 +1125,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -1133,7 +1133,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -1160,7 +1160,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -1168,7 +1168,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -1176,7 +1176,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -1184,7 +1184,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -1192,7 +1192,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -1200,7 +1200,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -1213,7 +1213,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -1221,7 +1221,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -1229,7 +1229,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -1237,7 +1237,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -1245,7 +1245,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -1253,7 +1253,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -1290,7 +1290,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -1298,7 +1298,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -1306,7 +1306,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -1314,7 +1314,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -1322,7 +1322,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -1330,7 +1330,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -1343,7 +1343,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -1351,7 +1351,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -1359,7 +1359,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -1367,7 +1367,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -1375,7 +1375,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -1383,7 +1383,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -1410,7 +1410,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -1418,7 +1418,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -1426,7 +1426,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -1434,7 +1434,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -1442,7 +1442,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -1450,7 +1450,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -1463,7 +1463,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -1471,7 +1471,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -1479,7 +1479,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -1487,7 +1487,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -1495,7 +1495,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -1503,7 +1503,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -1530,7 +1530,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -1538,7 +1538,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -1546,7 +1546,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -1554,7 +1554,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -1562,7 +1562,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -1570,7 +1570,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -1583,7 +1583,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -1591,7 +1591,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -1599,7 +1599,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -1607,7 +1607,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -1615,7 +1615,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -1623,7 +1623,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -1650,7 +1650,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -1658,7 +1658,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -1666,7 +1666,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -1674,7 +1674,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -1682,7 +1682,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -1690,7 +1690,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -1703,7 +1703,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -1711,7 +1711,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -1719,7 +1719,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -1727,7 +1727,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -1735,7 +1735,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -1743,7 +1743,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -1770,7 +1770,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -1778,7 +1778,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -1786,7 +1786,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -1794,7 +1794,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -1802,7 +1802,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -1810,7 +1810,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -1823,7 +1823,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -1831,7 +1831,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -1839,7 +1839,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -1847,7 +1847,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -1855,7 +1855,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -1863,7 +1863,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -1900,7 +1900,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -1908,7 +1908,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -1916,7 +1916,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -1924,7 +1924,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -1932,7 +1932,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -1940,7 +1940,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -1953,7 +1953,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -1961,7 +1961,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -1969,7 +1969,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -1977,7 +1977,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -1985,7 +1985,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -1993,7 +1993,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -2020,7 +2020,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -2028,7 +2028,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -2036,7 +2036,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -2044,7 +2044,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -2052,7 +2052,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -2060,7 +2060,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -2073,7 +2073,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -2081,7 +2081,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -2089,7 +2089,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -2097,7 +2097,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -2105,7 +2105,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -2113,7 +2113,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -2140,7 +2140,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -2148,7 +2148,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -2156,7 +2156,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -2164,7 +2164,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -2172,7 +2172,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -2180,7 +2180,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -2193,7 +2193,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -2201,7 +2201,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -2209,7 +2209,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -2217,7 +2217,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -2225,7 +2225,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -2233,7 +2233,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -2260,7 +2260,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -2268,7 +2268,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -2276,7 +2276,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -2284,7 +2284,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -2292,7 +2292,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -2300,7 +2300,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -2313,7 +2313,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -2321,7 +2321,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -2329,7 +2329,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -2337,7 +2337,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -2345,7 +2345,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -2353,7 +2353,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -2380,7 +2380,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -2388,7 +2388,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -2396,7 +2396,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -2404,7 +2404,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -2412,7 +2412,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -2420,7 +2420,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -2433,7 +2433,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -2441,7 +2441,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -2449,7 +2449,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -2457,7 +2457,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -2465,7 +2465,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -2473,7 +2473,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -2510,7 +2510,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -2518,7 +2518,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -2526,7 +2526,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -2534,7 +2534,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -2542,7 +2542,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -2550,7 +2550,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -2563,7 +2563,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -2571,7 +2571,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -2579,7 +2579,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -2587,7 +2587,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -2595,7 +2595,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -2603,7 +2603,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -2630,7 +2630,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -2638,7 +2638,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -2646,7 +2646,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -2654,7 +2654,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -2662,7 +2662,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -2670,7 +2670,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -2683,7 +2683,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -2691,7 +2691,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -2699,7 +2699,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -2707,7 +2707,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -2715,7 +2715,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -2723,7 +2723,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -2750,7 +2750,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -2758,7 +2758,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -2766,7 +2766,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -2774,7 +2774,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -2782,7 +2782,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -2790,7 +2790,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -2803,7 +2803,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -2811,7 +2811,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -2819,7 +2819,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -2827,7 +2827,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -2835,7 +2835,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -2843,7 +2843,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -2870,7 +2870,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -2878,7 +2878,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -2886,7 +2886,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -2894,7 +2894,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -2902,7 +2902,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -2910,7 +2910,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -2923,7 +2923,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -2931,7 +2931,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -2939,7 +2939,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -2947,7 +2947,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -2955,7 +2955,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -2963,7 +2963,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -2990,7 +2990,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -2998,7 +2998,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -3006,7 +3006,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -3014,7 +3014,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -3022,7 +3022,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -3030,7 +3030,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -3043,7 +3043,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -3051,7 +3051,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -3059,7 +3059,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -3067,7 +3067,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -3075,7 +3075,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -3083,7 +3083,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -3120,7 +3120,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -3128,7 +3128,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -3136,7 +3136,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -3144,7 +3144,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -3152,7 +3152,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -3160,7 +3160,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -3173,7 +3173,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -3181,7 +3181,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -3189,7 +3189,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -3197,7 +3197,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -3205,7 +3205,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -3213,7 +3213,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -3240,7 +3240,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -3248,7 +3248,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -3256,7 +3256,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -3264,7 +3264,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -3272,7 +3272,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -3280,7 +3280,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -3293,7 +3293,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -3301,7 +3301,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -3309,7 +3309,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -3317,7 +3317,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -3325,7 +3325,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -3333,7 +3333,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -3360,7 +3360,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -3368,7 +3368,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -3376,7 +3376,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -3384,7 +3384,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -3392,7 +3392,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -3400,7 +3400,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -3413,7 +3413,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -3421,7 +3421,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -3429,7 +3429,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -3437,7 +3437,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -3445,7 +3445,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -3453,7 +3453,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -3480,7 +3480,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -3488,7 +3488,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -3496,7 +3496,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -3504,7 +3504,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -3512,7 +3512,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -3520,7 +3520,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -3533,7 +3533,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -3541,7 +3541,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -3549,7 +3549,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -3557,7 +3557,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -3565,7 +3565,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -3573,7 +3573,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -3600,7 +3600,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - not used"
+                    "translation": "0 - Did not use my weaker arm / 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -3608,7 +3608,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very rarely"
+                    "translation": "1 - Occasionally used my weaker arm / 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -3616,7 +3616,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - rarely"
+                    "translation": "2 - Sometimes used my weaker arm / 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -3624,7 +3624,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - half pre-stroke"
+                    "translation": "3 - Used my weaker arm about half as much / 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "3.5",
@@ -3632,7 +3632,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - 3/4 pre-stroke"
+                    "translation": "4 - Used my weaker arm almost as much / 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 },
                 {
                     "id": "4.5",
@@ -3640,7 +3640,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - same as pre-stroke"
+                    "translation": "5 - Used my weaker arm as often as before / 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
                 }
             ]
         },
@@ -3653,7 +3653,7 @@
             "enum": [
                 {
                     "id": "0",
-                    "translation": "0 - never"
+                    "translation": "0 - The weaker arm was not used at all / 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -3661,7 +3661,7 @@
                 },
                 {
                     "id": "1",
-                    "translation": "1 - very poor"
+                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -3669,7 +3669,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "2 - poor"
+                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -3677,7 +3677,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "3 - fair"
+                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -3685,7 +3685,7 @@
                 },
                 {
                     "id": "4",
-                    "translation": "4 - almost normal"
+                    "translation": "4 - The movements made were almost normal / 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -3693,7 +3693,7 @@
                 },
                 {
                     "id": "5",
-                    "translation": "5 - normal"
+                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
