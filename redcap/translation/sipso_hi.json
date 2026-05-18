@@ -31,7 +31,7 @@
             "id": "sipso_header",
             "form": "sipso_questionnaire",
             "header": {
-                "translation": "Subjective Index of Physical and Social Outcome (SIPSO)"
+                "translation": "Please answer all questions based on your experience since your stroke."
             },
             "label": {
                 "translation": "Please answer all questions based on your experience since your stroke."
@@ -186,14 +186,14 @@
             "id": "sipso_sub_physical",
             "form": "sipso_questionnaire",
             "label": {
-                "translation": "Physical Integration Subscore (Items 1-5) / 6. स्ट्रोक के बाद, घर पर खाली समय में आपको कितनी बार ऊब महसूस होती है? (एक संख्या पर घेरा लगाएँ)"
+                "translation": "Physical Integration Subscore (Items 1-5)"
             }
         },
         {
             "id": "sipso_6_bored",
             "form": "sipso_questionnaire",
             "label": {
-                "translation": "6. Since your stroke, how often do you feel bored with your free time at home? / 7. स्ट्रोक के बाद, आपके और आपके मित्रों/सहयोगियों के बीच संचार की मात्रा कैसी है? (एक संख्या पर घेरा लगाएँ)"
+                "translation": "6. Since your stroke, how often do you feel bored with your free time at home? / 6. स्ट्रोक के बाद, घर पर खाली समय में आपको कितनी बार ऊब महसूस होती है? (एक संख्या पर घेरा लगाएँ)"
             },
             "enum": [
                 {
@@ -222,7 +222,7 @@
             "id": "sipso_7_comm",
             "form": "sipso_questionnaire",
             "label": {
-                "translation": "7. Since your stroke, how would you describe the amount of communication between you and your friends/associates? / 8. स्ट्रोक के बाद, अपने मित्रों/सहयोगियों के साथ साझा की जाने वाली रुचियों और गतिविधियों से आप कितने संतुष्ट हैं? (एक संख्या पर घेरा लगाएँ)"
+                "translation": "7. Since your stroke, how would you describe the amount of communication between you and your friends/associates? / 7. स्ट्रोक के बाद, आपके और आपके मित्रों/सहयोगियों के बीच संचार की मात्रा कैसी है? (एक संख्या पर घेरा लगाएँ)"
             },
             "enum": [
                 {
@@ -251,7 +251,7 @@
             "id": "sipso_8_social_sat",
             "form": "sipso_questionnaire",
             "label": {
-                "translation": "8. Since your stroke, how satisfied are you with the level of interests and activities you share with your friends/associates? / 9. स्ट्रोक के बाद, आप मित्रों/अन्य लोगों से कितनी बार मिलते हैं? (एक संख्या पर घेरा लगाएँ)"
+                "translation": "8. Since your stroke, how satisfied are you with the level of interests and activities you share with your friends/associates? / 8. स्ट्रोक के बाद, अपने मित्रों/सहयोगियों के साथ साझा की जाने वाली रुचियों और गतिविधियों से आप कितने संतुष्ट हैं? (एक संख्या पर घेरा लगाएँ)"
             },
             "enum": [
                 {
@@ -280,7 +280,7 @@
             "id": "sipso_9_visit",
             "form": "sipso_questionnaire",
             "label": {
-                "translation": "9. Since your stroke, how often do you visit friends/others?"
+                "translation": "9. Since your stroke, how often do you visit friends/others? / 9. स्ट्रोक के बाद, आप मित्रों/अन्य लोगों से कितनी बार मिलते हैं? (एक संख्या पर घेरा लगाएँ)"
             },
             "enum": [
                 {
@@ -309,7 +309,7 @@
             "id": "sipso_10_appearance",
             "form": "sipso_questionnaire",
             "label": {
-                "translation": "10. Since your stroke, how do you feel about your appearance when out in public?"
+                "translation": "10. Since your stroke, how do you feel about your appearance when out in public? / 10. स्ट्रोक के बाद, सार्वजनिक स्थानों पर अपनी उपस्थिति के बारे में आप कैसा महसूस करते हैं? (एक संख्या पर घेरा लगाएँ)"
             },
             "enum": [
                 {

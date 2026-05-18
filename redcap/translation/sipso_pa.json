@@ -31,7 +31,7 @@
             "id": "sipso_header",
             "form": "sipso_questionnaire",
             "header": {
-                "translation": "Subjective Index of Physical and Social Outcome (SIPSO)"
+                "translation": "Please answer all questions based on your experience since your stroke."
             },
             "label": {
                 "translation": "Please answer all questions based on your experience since your stroke."
@@ -186,14 +186,14 @@
             "id": "sipso_sub_physical",
             "form": "sipso_questionnaire",
             "label": {
-                "translation": "Physical Integration Subscore (Items 1-5) / 6. ਸਟ੍ਰੋਕ ਤੋਂ ਬਾਅਦ, ਘਰ ਵਿੱਚ ਖਾਲੀ ਸਮੇਂ ਵਿੱਚ ਤੁਹਾਨੂੰ ਕਿੰਨੀ ਵਾਰ ਉਬਾਸ਼ ਮਹਿਸੂਸ ਹੁੰਦੀ ਹੈ? (ਕਿਸੇ ਇੱਕ ਅੰਕ'ਤੇ ਘੇਰਾ ਲਗਾਓ)"
+                "translation": "Physical Integration Subscore (Items 1-5)"
             }
         },
         {
             "id": "sipso_6_bored",
             "form": "sipso_questionnaire",
             "label": {
-                "translation": "6. Since your stroke, how often do you feel bored with your free time at home? / 7. ਸਟ੍ਰੋਕ ਤੋਂ ਬਾਅਦ, ਤੁਹਾਡੇ ਅਤੇ ਤੁਹਾਡੇ ਦੋਸਤਾਂ/ਸਾਥੀਆਂ ਦੇ ਵਿਚਕਾਰ ਸੰਚਾਰ ਦੀ ਮਾਤਰਾ ਕਿਹੋ ਜਿਹੀ ਹੈ? (ਕਿਸੇ ਇੱਕ ਅੰਕ'ਤੇ ਘੇਰਾ ਲਗਾਓ)"
+                "translation": "6. Since your stroke, how often do you feel bored with your free time at home? / 6. ਸਟ੍ਰੋਕ ਤੋਂ ਬਾਅਦ, ਘਰ ਵਿੱਚ ਖਾਲੀ ਸਮੇਂ ਵਿੱਚ ਤੁਹਾਨੂੰ ਕਿੰਨੀ ਵਾਰ ਉਬਾਸ਼ ਮਹਿਸੂਸ ਹੁੰਦੀ ਹੈ? (ਕਿਸੇ ਇੱਕ ਅੰਕ'ਤੇ ਘੇਰਾ ਲਗਾਓ)"
             },
             "enum": [
                 {
@@ -222,7 +222,7 @@
             "id": "sipso_7_comm",
             "form": "sipso_questionnaire",
             "label": {
-                "translation": "7. Since your stroke, how would you describe the amount of communication between you and your friends/associates? / 8. ਸਟ੍ਰੋਕ ਤੋਂ ਬਾਅਦ, ਆਪਣੇ ਦੋਸਤਾਂ/ਸਾਥੀਆਂ ਨਾਲ ਸਾਂਝੀਆਂ ਕੀਤੀਆਂ ਰੁਚੀਆਂ ਅਤੇ ਗਤੀਵਿਧੀਆਂ ਨਾਲ ਤੁਸੀਂ ਕਿੰਨੇ ਸੰਤੁਸ਼ਟ ਹੋ? (ਕਿਸੇ ਇੱਕ ਅੰਕ'ਤੇ ਘੇਰਾ ਲਗਾਓ)"
+                "translation": "7. Since your stroke, how would you describe the amount of communication between you and your friends/associates? / 7. ਸਟ੍ਰੋਕ ਤੋਂ ਬਾਅਦ, ਤੁਹਾਡੇ ਅਤੇ ਤੁਹਾਡੇ ਦੋਸਤਾਂ/ਸਾਥੀਆਂ ਦੇ ਵਿਚਕਾਰ ਸੰਚਾਰ ਦੀ ਮਾਤਰਾ ਕਿਹੋ ਜਿਹੀ ਹੈ? (ਕਿਸੇ ਇੱਕ ਅੰਕ'ਤੇ ਘੇਰਾ ਲਗਾਓ)"
             },
             "enum": [
                 {
@@ -251,7 +251,7 @@
             "id": "sipso_8_social_sat",
             "form": "sipso_questionnaire",
             "label": {
-                "translation": "8. Since your stroke, how satisfied are you with the level of interests and activities you share with your friends/associates? / 9. ਸਟ੍ਰੋਕ ਤੋਂ ਬਾਅਦ, ਤੁਸੀਂ ਦੋਸਤਾਂ/ਹੋਰ ਲੋਕਾਂ ਨੂੰ ਕਿੰਨੀ ਵਾਰ ਮਿਲਦੇ ਹੋ? (ਕਿਸੇ ਇੱਕ ਅੰਕ'ਤੇ ਘੇਰਾ ਲਗਾਓ)"
+                "translation": "8. Since your stroke, how satisfied are you with the level of interests and activities you share with your friends/associates? / 8. ਸਟ੍ਰੋਕ ਤੋਂ ਬਾਅਦ, ਆਪਣੇ ਦੋਸਤਾਂ/ਸਾਥੀਆਂ ਨਾਲ ਸਾਂਝੀਆਂ ਕੀਤੀਆਂ ਰੁਚੀਆਂ ਅਤੇ ਗਤੀਵਿਧੀਆਂ ਨਾਲ ਤੁਸੀਂ ਕਿੰਨੇ ਸੰਤੁਸ਼ਟ ਹੋ? (ਕਿਸੇ ਇੱਕ ਅੰਕ'ਤੇ ਘੇਰਾ ਲਗਾਓ)"
             },
             "enum": [
                 {
@@ -280,7 +280,7 @@
             "id": "sipso_9_visit",
             "form": "sipso_questionnaire",
             "label": {
-                "translation": "9. Since your stroke, how often do you visit friends/others?"
+                "translation": "9. Since your stroke, how often do you visit friends/others? / 9. ਸਟ੍ਰੋਕ ਤੋਂ ਬਾਅਦ, ਤੁਸੀਂ ਦੋਸਤਾਂ/ਹੋਰ ਲੋਕਾਂ ਨੂੰ ਕਿੰਨੀ ਵਾਰ ਮਿਲਦੇ ਹੋ? (ਕਿਸੇ ਇੱਕ ਅੰਕ'ਤੇ ਘੇਰਾ ਲਗਾਓ)"
             },
             "enum": [
                 {
@@ -309,7 +309,7 @@
             "id": "sipso_10_appearance",
             "form": "sipso_questionnaire",
             "label": {
-                "translation": "10. Since your stroke, how do you feel about your appearance when out in public?"
+                "translation": "10. Since your stroke, how do you feel about your appearance when out in public? / 10. ਸਟ੍ਰੋਕ ਤੋਂ ਬਾਅਦ, ਜਨਤਕ ਸਥਾਨਾਂ 'ਤੇ ਆਪਣੀ ਦਿੱਖ ਬਾਰੇ ਤੁਸੀਂ ਕਿਵੇਂ ਮਹਿਸੂਸ ਕਰਦੇ ਹੋ? (ਕਿਸੇ ਇੱਕ ਅੰਕ'ਤੇ ਘੇਰਾ ਲਗਾਓ)"
             },
             "enum": [
                 {
