@@ -4501,7 +4501,7 @@
                 {
                     "id": 1,
                     "hash": "32f79cfe10",
-                    "translation": "1 (Strongly disagree)"
+                    "translation": "1 (Strongly disagree) / 1 - पूरी तरह असहमत"
                 },
                 {
                     "id": 2,
@@ -4531,7 +4531,7 @@
                 {
                     "id": 7,
                     "hash": "1c1ea51d7f",
-                    "translation": "7 (Strongly agree)"
+                    "translation": "7 (Strongly agree) / 7 - पूरी तरह सहमत"
                 }
             ]
         },
@@ -4546,7 +4546,7 @@
                 {
                     "id": 1,
                     "hash": "32f79cfe10",
-                    "translation": "1"
+                    "translation": "1 / 1 - पूरी तरह असहमत"
                 },
                 {
                     "id": 2,
@@ -4576,7 +4576,7 @@
                 {
                     "id": 7,
                     "hash": "1c1ea51d7f",
-                    "translation": "7"
+                    "translation": "7 / 7 - पूरी तरह सहमत"
                 }
             ]
         },
@@ -4591,7 +4591,7 @@
                 {
                     "id": 1,
                     "hash": "32f79cfe10",
-                    "translation": "1"
+                    "translation": "1 / 1 - पूरी तरह असहमत"
                 },
                 {
                     "id": 2,
@@ -4621,7 +4621,7 @@
                 {
                     "id": 7,
                     "hash": "1c1ea51d7f",
-                    "translation": "7"
+                    "translation": "7 / 7 - पूरी तरह सहमत"
                 }
             ]
         },
@@ -4636,7 +4636,7 @@
                 {
                     "id": 1,
                     "hash": "32f79cfe10",
-                    "translation": "1 - Strongly Disagree"
+                    "translation": "1 - Strongly Disagree / 1 - पूरी तरह असहमत"
                 },
                 {
                     "id": 2,
@@ -4666,7 +4666,7 @@
                 {
                     "id": 7,
                     "hash": "1c1ea51d7f",
-                    "translation": "7 - Strongly Agree"
+                    "translation": "7 - Strongly Agree / 7 - पूरी तरह सहमत"
                 }
             ]
         },
@@ -4681,7 +4681,7 @@
                 {
                     "id": 1,
                     "hash": "32f79cfe10",
-                    "translation": "1"
+                    "translation": "1 / 1 - पूरी तरह असहमत"
                 },
                 {
                     "id": 2,
@@ -4711,7 +4711,7 @@
                 {
                     "id": 7,
                     "hash": "1c1ea51d7f",
-                    "translation": "7"
+                    "translation": "7 / 7 - पूरी तरह सहमत"
                 }
             ]
         },
@@ -4726,7 +4726,7 @@
                 {
                     "id": 1,
                     "hash": "32f79cfe10",
-                    "translation": "1"
+                    "translation": "1 / 1 - पूरी तरह असहमत"
                 },
                 {
                     "id": 2,
@@ -4756,7 +4756,7 @@
                 {
                     "id": 7,
                     "hash": "1c1ea51d7f",
-                    "translation": "7"
+                    "translation": "7 / 7 - पूरी तरह सहमत"
                 }
             ]
         },
@@ -4771,7 +4771,7 @@
                 {
                     "id": 1,
                     "hash": "32f79cfe10",
-                    "translation": "1"
+                    "translation": "1 / 1 - पूरी तरह असहमत"
                 },
                 {
                     "id": 2,
@@ -4801,7 +4801,7 @@
                 {
                     "id": 7,
                     "hash": "1c1ea51d7f",
-                    "translation": "7"
+                    "translation": "7 / 7 - पूरी तरह सहमत"
                 }
             ]
         },
@@ -4816,7 +4816,7 @@
                 {
                     "id": 1,
                     "hash": "32f79cfe10",
-                    "translation": "1"
+                    "translation": "1 / 1 - पूरी तरह असहमत"
                 },
                 {
                     "id": 2,
@@ -4846,7 +4846,7 @@
                 {
                     "id": 7,
                     "hash": "1c1ea51d7f",
-                    "translation": "7"
+                    "translation": "7 / 7 - पूरी तरह सहमत"
                 }
             ]
         },
@@ -4861,7 +4861,7 @@
                 {
                     "id": 1,
                     "hash": "32f79cfe10",
-                    "translation": "1 - Strongly Disagree"
+                    "translation": "1 - Strongly Disagree / 1 - पूरी तरह असहमत"
                 },
                 {
                     "id": 2,
@@ -4891,7 +4891,7 @@
                 {
                     "id": 7,
                     "hash": "1c1ea51d7f",
-                    "translation": "7 - Strongly Agree"
+                    "translation": "7 - Strongly Agree / 7 - पूरी तरह सहमत"
                 }
             ]
         },
@@ -5032,27 +5032,27 @@
                 {
                     "id": 4,
                     "hash": "5879f9637a",
-                    "translation": "Not difficult at all"
+                    "translation": "Not difficult at all / बिल्कुल कोई कठिनाई नहीं"
                 },
                 {
                     "id": 3,
                     "hash": "81c032b69f",
-                    "translation": "Slightly difficult"
+                    "translation": "Slightly difficult / थोड़ी कठिनाई"
                 },
                 {
                     "id": 2,
                     "hash": "9ee5601c1b",
-                    "translation": "Moderately difficult"
+                    "translation": "Moderately difficult / कुछ कठिनाई"
                 },
                 {
                     "id": 1,
                     "hash": "7d87008dc2",
-                    "translation": "Very difficult"
+                    "translation": "Very difficult / बहुत अधिक कठिनाई"
                 },
                 {
                     "id": 0,
                     "hash": "74dff10138",
-                    "translation": "Unable to do it myself"
+                    "translation": "Unable to do it myself / मैं स्वयं को पूरी तरह से कपड़े नहीं पहन सकता"
                 }
             ]
         },
@@ -5067,27 +5067,27 @@
                 {
                     "id": 4,
                     "hash": "5879f9637a",
-                    "translation": "Not difficult at all"
+                    "translation": "Not difficult at all / बिल्कुल कोई कठिनाई नहीं"
                 },
                 {
                     "id": 3,
                     "hash": "81c032b69f",
-                    "translation": "Slightly difficult"
+                    "translation": "Slightly difficult / थोड़ी कठिनाई"
                 },
                 {
                     "id": 2,
                     "hash": "9ee5601c1b",
-                    "translation": "Moderately difficult"
+                    "translation": "Moderately difficult / कुछ कठिनाई"
                 },
                 {
                     "id": 1,
                     "hash": "7d87008dc2",
-                    "translation": "Very difficult"
+                    "translation": "Very difficult / बहुत अधिक कठिनाई"
                 },
                 {
                     "id": 0,
                     "hash": "9d4049ed61",
-                    "translation": "Unable to do it myself"
+                    "translation": "Unable to do it myself / मैं घर के सभी हिस्सों में नहीं घूम सकता"
                 }
             ]
         },
@@ -5102,27 +5102,27 @@
                 {
                     "id": 4,
                     "hash": "0ae8d1104f",
-                    "translation": "Completely satisfied"
+                    "translation": "Completely satisfied / पूरी तरह संतुष्ट"
                 },
                 {
                     "id": 3,
                     "hash": "d00f71a6f4",
-                    "translation": "Mostly satisfied"
+                    "translation": "Mostly satisfied / अधिकांशतः संतुष्ट"
                 },
                 {
                     "id": 2,
                     "hash": "484234494e",
-                    "translation": "Moderately satisfied"
+                    "translation": "Moderately satisfied / कुछ हद तक संतुष्ट"
                 },
                 {
                     "id": 1,
                     "hash": "ed3cb8dbf8",
-                    "translation": "Not very satisfied"
+                    "translation": "Not very satisfied / बहुत कम संतुष्ट"
                 },
                 {
                     "id": 0,
                     "hash": "9f1defdfcb",
-                    "translation": "Completely dissatisfied"
+                    "translation": "Completely dissatisfied / बिल्कुल असंतुष्ट"
                 }
             ]
         },
@@ -5137,27 +5137,27 @@
                 {
                     "id": 4,
                     "hash": "5879f9637a",
-                    "translation": "Not difficult at all"
+                    "translation": "Not difficult at all / बिल्कुल कोई कठिनाई नहीं"
                 },
                 {
                     "id": 3,
                     "hash": "81c032b69f",
-                    "translation": "Slightly difficult"
+                    "translation": "Slightly difficult / थोड़ी कठिनाई"
                 },
                 {
                     "id": 2,
                     "hash": "9ee5601c1b",
-                    "translation": "Moderately difficult"
+                    "translation": "Moderately difficult / कुछ कठिनाई"
                 },
                 {
                     "id": 1,
                     "hash": "7d87008dc2",
-                    "translation": "Very difficult"
+                    "translation": "Very difficult / बहुत अधिक कठिनाई"
                 },
                 {
                     "id": 0,
                     "hash": "7084594fe2",
-                    "translation": "Unable to do it myself"
+                    "translation": "Unable to do it myself / मैं सामान खरीद और उठा नहीं सकता"
                 }
             ]
         },
@@ -5172,27 +5172,27 @@
                 {
                     "id": 4,
                     "hash": "1b016c5b16",
-                    "translation": "Completely independent"
+                    "translation": "Completely independent / मैं पूरी तरह स्वतंत्र हूँ"
                 },
                 {
                     "id": 3,
                     "hash": "a8746b5915",
-                    "translation": "Prefer to have someone with me"
+                    "translation": "Prefer to have someone with me / मुझे किसी और के साथ रहना पसंद है"
                 },
                 {
                     "id": 2,
                     "hash": "3ba3c6ece8",
-                    "translation": "Need some help"
+                    "translation": "Need some help / मुझे कभी-कभी किसी की सहायता चाहिए"
                 },
                 {
                     "id": 1,
                     "hash": "50e13ea29d",
-                    "translation": "Need help most of the time"
+                    "translation": "Need help most of the time / मुझे अधिकांश समय सहायता चाहिए"
                 },
                 {
                     "id": 0,
                     "hash": "ab20c804a3",
-                    "translation": "Completely dependent"
+                    "translation": "Completely dependent / मैं पूरी तरह दूसरों पर निर्भर हूँ"
                 }
             ]
         },
@@ -5215,27 +5215,27 @@
                 {
                     "id": 4,
                     "hash": "fa47a55f7d",
-                    "translation": "Not at all"
+                    "translation": "Not at all / मैं कभी ऊबता नहीं"
                 },
                 {
                     "id": 3,
                     "hash": "36e070bd9c",
-                    "translation": "Slightly"
+                    "translation": "Slightly / थोड़े समय में ऊबता हूँ"
                 },
                 {
                     "id": 2,
                     "hash": "c5bcf0a902",
-                    "translation": "Moderately"
+                    "translation": "Moderately / कुछ समय में ऊबता हूँ"
                 },
                 {
                     "id": 1,
                     "hash": "8e17fc2710",
-                    "translation": "Greatly"
+                    "translation": "Greatly / अधिकांश समय ऊबता हूँ"
                 },
                 {
                     "id": 0,
                     "hash": "a7a5055e3a",
-                    "translation": "All the time"
+                    "translation": "All the time / हमेशा ऊबता हूँ"
                 }
             ]
         },
@@ -5250,27 +5250,27 @@
                 {
                     "id": 4,
                     "hash": "5025b2d310",
-                    "translation": "A great deal"
+                    "translation": "A great deal / बहुत अधिक"
                 },
                 {
                     "id": 3,
                     "hash": "c7b7c42e0e",
-                    "translation": "Quite a lot"
+                    "translation": "Quite a lot / काफी अधिक"
                 },
                 {
                     "id": 2,
                     "hash": "00b2aad45d",
-                    "translation": "Moderately"
+                    "translation": "Moderately / कुछ"
                 },
                 {
                     "id": 1,
                     "hash": "cafdd12066",
-                    "translation": "A little bit"
+                    "translation": "A little bit / थोड़ा सा"
                 },
                 {
                     "id": 0,
                     "hash": "6eef664840",
-                    "translation": "None"
+                    "translation": "None / बिल्कुल नहीं"
                 }
             ]
         },
@@ -5285,27 +5285,27 @@
                 {
                     "id": 4,
                     "hash": "0ae8d1104f",
-                    "translation": "Completely satisfied"
+                    "translation": "Completely satisfied / पूरी तरह संतुष्ट"
                 },
                 {
                     "id": 3,
                     "hash": "d00f71a6f4",
-                    "translation": "Mostly satisfied"
+                    "translation": "Mostly satisfied / अधिकांशतः संतुष्ट"
                 },
                 {
                     "id": 2,
                     "hash": "484234494e",
-                    "translation": "Moderately satisfied"
+                    "translation": "Moderately satisfied / कुछ हद तक संतुष्ट"
                 },
                 {
                     "id": 1,
                     "hash": "ed3cb8dbf8",
-                    "translation": "Not very satisfied"
+                    "translation": "Not very satisfied / बहुत कम संतुष्ट"
                 },
                 {
                     "id": 0,
                     "hash": "9f1defdfcb",
-                    "translation": "Completely dissatisfied"
+                    "translation": "Completely dissatisfied / बिल्कुल असंतुष्ट"
                 }
             ]
         },
@@ -5320,27 +5320,27 @@
                 {
                     "id": 4,
                     "hash": "0599f59a8f",
-                    "translation": "Most days"
+                    "translation": "Most days / अधिकांश दिनों"
                 },
                 {
                     "id": 3,
                     "hash": "67a03fcd2c",
-                    "translation": "At least once a week"
+                    "translation": "At least once a week / कम से कम सप्ताह में एक बार"
                 },
                 {
                     "id": 2,
                     "hash": "b63e0f73a2",
-                    "translation": "At least once a fortnight"
+                    "translation": "At least once a fortnight / कम से कम पखवाड़े में एक बार"
                 },
                 {
                     "id": 1,
                     "hash": "69b004a976",
-                    "translation": "Once a month or less"
+                    "translation": "Once a month or less / महीने में एक बार या उससे कम"
                 },
                 {
                     "id": 0,
                     "hash": "80c3052d33",
-                    "translation": "Never"
+                    "translation": "Never / कभी नहीं"
                 }
             ]
         },
@@ -5355,27 +5355,27 @@
                 {
                     "id": 4,
                     "hash": "63b54d6dc7",
-                    "translation": "Perfectly happy"
+                    "translation": "Perfectly happy / पूरी तरह खुश"
                 },
                 {
                     "id": 3,
                     "hash": "4d452c47c0",
-                    "translation": "Slightly self-conscious"
+                    "translation": "Slightly self-conscious / थोड़े आत्मचेतन"
                 },
                 {
                     "id": 2,
                     "hash": "eacd9b1d1e",
-                    "translation": "Fairly self-conscious"
+                    "translation": "Fairly self-conscious / कुछ हद तक आत्मचेतन"
                 },
                 {
                     "id": 1,
                     "hash": "8a34bb0431",
-                    "translation": "Very self-conscious"
+                    "translation": "Very self-conscious / बहुत अधिक आत्मचेतन"
                 },
                 {
                     "id": 0,
                     "hash": "76163d2ec7",
-                    "translation": "I try to avoid going out in public"
+                    "translation": "I try to avoid going out in public / मैं सार्वजनिक स्थानों पर जाने से बचता हूँ"
                 }
             ]
         },
@@ -11528,22 +11528,22 @@
                 {
                     "id": 0,
                     "hash": "a53eb52a2f",
-                    "translation": "Not at all"
+                    "translation": "Not at all / 0 - बिल्कुल नहीं"
                 },
                 {
                     "id": 1,
                     "hash": "924634ed77",
-                    "translation": "Several days"
+                    "translation": "Several days / 1 - कुछ दिन"
                 },
                 {
                     "id": 2,
                     "hash": "1fa157105a",
-                    "translation": "More than half the days"
+                    "translation": "More than half the days / 2 - आधे से अधिक दिन"
                 },
                 {
                     "id": 3,
                     "hash": "c572d8bb50",
-                    "translation": "Nearly every day"
+                    "translation": "Nearly every day / 3 - लगभग हर दिन"
                 }
             ]
         },
@@ -11558,22 +11558,22 @@
                 {
                     "id": 0,
                     "hash": "a53eb52a2f",
-                    "translation": "Not at all"
+                    "translation": "Not at all / 0 - बिल्कुल नहीं"
                 },
                 {
                     "id": 1,
                     "hash": "924634ed77",
-                    "translation": "Several days"
+                    "translation": "Several days / 1 - कुछ दिन"
                 },
                 {
                     "id": 2,
                     "hash": "1fa157105a",
-                    "translation": "More than half the days"
+                    "translation": "More than half the days / 2 - आधे से अधिक दिन"
                 },
                 {
                     "id": 3,
                     "hash": "c572d8bb50",
-                    "translation": "Nearly every day"
+                    "translation": "Nearly every day / 3 - लगभग हर दिन"
                 }
             ]
         },
@@ -11588,22 +11588,22 @@
                 {
                     "id": 0,
                     "hash": "a53eb52a2f",
-                    "translation": "Not at all"
+                    "translation": "Not at all / 0 - बिल्कुल नहीं"
                 },
                 {
                     "id": 1,
                     "hash": "924634ed77",
-                    "translation": "Several days"
+                    "translation": "Several days / 1 - कुछ दिन"
                 },
                 {
                     "id": 2,
                     "hash": "1fa157105a",
-                    "translation": "More than half the days"
+                    "translation": "More than half the days / 2 - आधे से अधिक दिन"
                 },
                 {
                     "id": 3,
                     "hash": "c572d8bb50",
-                    "translation": "Nearly every day"
+                    "translation": "Nearly every day / 3 - लगभग हर दिन"
                 }
             ]
         },
@@ -11618,22 +11618,22 @@
                 {
                     "id": 0,
                     "hash": "a53eb52a2f",
-                    "translation": "Not at all"
+                    "translation": "Not at all / 0 - बिल्कुल नहीं"
                 },
                 {
                     "id": 1,
                     "hash": "924634ed77",
-                    "translation": "Several days"
+                    "translation": "Several days / 1 - कुछ दिन"
                 },
                 {
                     "id": 2,
                     "hash": "1fa157105a",
-                    "translation": "More than half the days"
+                    "translation": "More than half the days / 2 - आधे से अधिक दिन"
                 },
                 {
                     "id": 3,
                     "hash": "c572d8bb50",
-                    "translation": "Nearly every day"
+                    "translation": "Nearly every day / 3 - लगभग हर दिन"
                 }
             ]
         },
@@ -11648,22 +11648,22 @@
                 {
                     "id": 0,
                     "hash": "a53eb52a2f",
-                    "translation": "Not at all"
+                    "translation": "Not at all / 0 - बिल्कुल नहीं"
                 },
                 {
                     "id": 1,
                     "hash": "924634ed77",
-                    "translation": "Several days"
+                    "translation": "Several days / 1 - कुछ दिन"
                 },
                 {
                     "id": 2,
                     "hash": "1fa157105a",
-                    "translation": "More than half the days"
+                    "translation": "More than half the days / 2 - आधे से अधिक दिन"
                 },
                 {
                     "id": 3,
                     "hash": "c572d8bb50",
-                    "translation": "Nearly every day"
+                    "translation": "Nearly every day / 3 - लगभग हर दिन"
                 }
             ]
         },
@@ -11678,22 +11678,22 @@
                 {
                     "id": 0,
                     "hash": "a53eb52a2f",
-                    "translation": "Not at all"
+                    "translation": "Not at all / 0 - बिल्कुल नहीं"
                 },
                 {
                     "id": 1,
                     "hash": "924634ed77",
-                    "translation": "Several days"
+                    "translation": "Several days / 1 - कुछ दिन"
                 },
                 {
                     "id": 2,
                     "hash": "1fa157105a",
-                    "translation": "More than half the days"
+                    "translation": "More than half the days / 2 - आधे से अधिक दिन"
                 },
                 {
                     "id": 3,
                     "hash": "c572d8bb50",
-                    "translation": "Nearly every day"
+                    "translation": "Nearly every day / 3 - लगभग हर दिन"
                 }
             ]
         },
@@ -11708,22 +11708,22 @@
                 {
                     "id": 0,
                     "hash": "a53eb52a2f",
-                    "translation": "Not at all"
+                    "translation": "Not at all / 0 - बिल्कुल नहीं"
                 },
                 {
                     "id": 1,
                     "hash": "924634ed77",
-                    "translation": "Several days"
+                    "translation": "Several days / 1 - कुछ दिन"
                 },
                 {
                     "id": 2,
                     "hash": "1fa157105a",
-                    "translation": "More than half the days"
+                    "translation": "More than half the days / 2 - आधे से अधिक दिन"
                 },
                 {
                     "id": 3,
                     "hash": "c572d8bb50",
-                    "translation": "Nearly every day"
+                    "translation": "Nearly every day / 3 - लगभग हर दिन"
                 }
             ]
         },
@@ -11738,22 +11738,22 @@
                 {
                     "id": 0,
                     "hash": "a53eb52a2f",
-                    "translation": "Not at all"
+                    "translation": "Not at all / 0 - बिल्कुल नहीं"
                 },
                 {
                     "id": 1,
                     "hash": "924634ed77",
-                    "translation": "Several days"
+                    "translation": "Several days / 1 - कुछ दिन"
                 },
                 {
                     "id": 2,
                     "hash": "1fa157105a",
-                    "translation": "More than half the days"
+                    "translation": "More than half the days / 2 - आधे से अधिक दिन"
                 },
                 {
                     "id": 3,
                     "hash": "c572d8bb50",
-                    "translation": "Nearly every day"
+                    "translation": "Nearly every day / 3 - लगभग हर दिन"
                 }
             ]
         },
@@ -11768,22 +11768,22 @@
                 {
                     "id": 0,
                     "hash": "a53eb52a2f",
-                    "translation": "Not at all"
+                    "translation": "Not at all / 0 - बिल्कुल नहीं"
                 },
                 {
                     "id": 1,
                     "hash": "924634ed77",
-                    "translation": "Several days"
+                    "translation": "Several days / 1 - कुछ दिन"
                 },
                 {
                     "id": 2,
                     "hash": "1fa157105a",
-                    "translation": "More than half the days"
+                    "translation": "More than half the days / 2 - आधे से अधिक दिन"
                 },
                 {
                     "id": 3,
                     "hash": "c572d8bb50",
-                    "translation": "Nearly every day"
+                    "translation": "Nearly every day / 3 - लगभग हर दिन"
                 }
             ]
         },
@@ -11806,22 +11806,22 @@
                 {
                     "id": 0,
                     "hash": "967892cab2",
-                    "translation": "Not difficult at all"
+                    "translation": "Not difficult at all / 0 - बिल्कुल भी कठिन नहीं"
                 },
                 {
                     "id": 1,
                     "hash": "b0b36f932f",
-                    "translation": "Somewhat difficult"
+                    "translation": "Somewhat difficult / 1 - कुछ हद तक कठिन"
                 },
                 {
                     "id": 2,
                     "hash": "cc7a5173a0",
-                    "translation": "Very difficult"
+                    "translation": "Very difficult / 2 - बहुत कठिन"
                 },
                 {
                     "id": 3,
                     "hash": "5980bbcabf",
-                    "translation": "Extremely difficult"
+                    "translation": "Extremely difficult / 3 - अत्यधिक कठिन"
                 }
             ]
         },
