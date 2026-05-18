@@ -20,3 +20,8 @@ intervention_doc/telugu_splits/
 /scratch/
 /redcap/scratch/
 scratch_out.txt
+all_kannada_in_hindi.txt
+kannada_in_hindi_single.txt
+phq9_hindi_enums.txt
+phq9_hindi_fields.txt
+phq9_keys.txt

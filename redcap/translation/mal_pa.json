@@ -1,63 +1,48 @@
 {
     "creator": "REDCap MLM",
     "version": "v15.5.4",
-    "timestamp": "2026-04-27 12:26:05",
+    "timestamp": "2026-04-28 09:12:24",
     "key": "pa",
     "display": "Punjabi",
     "rtl": false,
     "fieldTranslations": [
         {
-            "id": "homer_id",
-            "form": "motor_activity_log",
-            "label": {
-                "translation": "Record ID"
-            }
-        },
-        {
-            "id": "mal_date",
-            "form": "motor_activity_log",
-            "label": {
-                "translation": "Date of Assessment"
-            }
-        },
-        {
-            "id": "mal_examiner",
-            "form": "motor_activity_log",
-            "label": {
-                "translation": "Examiner Name"
-            }
-        },
-        {
             "id": "mal_scoring_as",
             "form": "motor_activity_log",
             "header": {
+                "hash": "e705fab5e4",
                 "translation": "SCORING SCALES"
             },
             "label": {
-                "translation": "<b>Amount Scale (AS)</b>:<br>0 - Did not use my weaker arm (not used).<br>.5<br>1 - Occasionally used my weaker arm, but only very rarely (very rarely).<br>1.5<br>2 - Sometimes used my weaker arm but did the activity most of the time with my stronger arm (rarely).<br>2.5<br>3 - Used my weaker arm about half as much as before the stroke (half pre-stroke).<br>3.5<br>4 - Used my weaker arm almost as much as before the stroke (3/4 pre-stroke).<br>4.5<br>5 - Used my weaker arm as often as before the stroke (same as pre-stroke)."
+                "hash": "c4de207330",
+                "translation": "<b>Amount Scale (AS)</b>:"
             }
         },
         {
             "id": "mal_scoring_hw",
             "form": "motor_activity_log",
             "label": {
-                "translation": "<b>How Well Scale (HW)</b>:<br>0 - The weaker arm was not used at all for that activity (never).<br>.5<br>1 - The weaker arm was moved during that activity but was not helpful (very poor).<br>1.5<br>2 - The weaker arm was of some use during that activity but needed some help from the stronger arm or moved very slowly or with difficulty (poor).<br>2.5<br>3 - The weaker arm was used for the purpose indicated but movements were slow or were made with only some effort (fair).<br>3.5<br>4 - The movements made by the weaker arm were almost normal, but were not quite as fast or accurate as normal (almost normal).<br>4.5<br>5 - The ability to use the weaker arm for that activity was as good as before the stroke (normal)."
+                "hash": "451ecf1790",
+                "translation": "<b>How Well Scale (HW)</b>:"
             }
         },
         {
             "id": "mal_why_codes",
             "form": "motor_activity_log",
             "label": {
-                "translation": "<b>Codes for recording “no” responses</b>:<br>1. “I used the unaffected arm entirely.” (assign “0”).<br>2. “Someone else did it for me.” (assign “0”).<br>3. “I never do that activity... impossible (e.g. bald)” (assign “N/A” and drop from list).<br>4. “Opportunity not present since last time” (carry-over last assigned number).<br>5. Non-dominant hand hemiparesis (applicable to #24; assign “N/A”)."
+                "hash": "ee251bb6a0",
+                "translation": "<b>Codes for recording “no” responses</b>:"
             }
         },
         {
             "id": "mal_table_1_5",
             "form": "motor_activity_log",
             "header": {
+                "hash": "44385ef56a",
                 "translation": "TASKS 1-5"
             },
             "label": {
+                "hash": "624c07f85c",
                 "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>1. Using a telephone</td><td style='padding: 5px;'>{mal_as_1}</td><td style='padding: 5px;'>{mal_hw_1}</td><td style='padding: 5px;'>{mal_why_1}</td><td style='padding: 5px;'>{mal_comm_1}</td></tr><tr><td style='padding: 5px;'>2. Turning on a light switch</td><td style='padding: 5px;'>{mal_as_2}</td><td style='padding: 5px;'>{mal_hw_2}</td><td style='padding: 5px;'>{mal_why_2}</td><td style='padding: 5px;'>{mal_comm_2}</td></tr><tr><td style='padding: 5px;'>3. Opening a drawer</td><td style='padding: 5px;'>{mal_as_3}</td><td style='padding: 5px;'>{mal_hw_3}</td><td style='padding: 5px;'>{mal_why_3}</td><td style='padding: 5px;'>{mal_comm_3}</td></tr><tr><td style='padding: 5px;'>4. Removing item from drawer</td><td style='padding: 5px;'>{mal_as_4}</td><td style='padding: 5px;'>{mal_hw_4}</td><td style='padding: 5px;'>{mal_why_4}</td><td style='padding: 5px;'>{mal_comm_4}</td></tr><tr><td style='padding: 5px;'>5. Picking up a telephone</td><td style='padding: 5px;'>{mal_as_5}</td><td style='padding: 5px;'>{mal_hw_5}</td><td style='padding: 5px;'>{mal_why_5}</td><td style='padding: 5px;'>{mal_comm_5}</td></tr></table>"
             }
         },
@@ -65,51 +50,63 @@
             "id": "mal_as_1",
             "form": "motor_activity_log",
             "label": {
+                "hash": "4b37f27c7c",
                 "translation": "AS 1"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -118,51 +115,63 @@
             "id": "mal_hw_1",
             "form": "motor_activity_log",
             "label": {
+                "hash": "4b320928cc",
                 "translation": "HW 1"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -171,6 +180,7 @@
             "id": "mal_why_1",
             "form": "motor_activity_log",
             "label": {
+                "hash": "e39aacf451",
                 "translation": "Why 1"
             }
         },
@@ -178,6 +188,7 @@
             "id": "mal_comm_1",
             "form": "motor_activity_log",
             "label": {
+                "hash": "548a98c086",
                 "translation": "Comm 1"
             }
         },
@@ -185,51 +196,63 @@
             "id": "mal_as_2",
             "form": "motor_activity_log",
             "label": {
+                "hash": "261c9be4e3",
                 "translation": "AS 2"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -238,51 +261,63 @@
             "id": "mal_hw_2",
             "form": "motor_activity_log",
             "label": {
+                "hash": "9df475dbaf",
                 "translation": "HW 2"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -291,6 +326,7 @@
             "id": "mal_why_2",
             "form": "motor_activity_log",
             "label": {
+                "hash": "5acf4b24e3",
                 "translation": "Why 2"
             }
         },
@@ -298,6 +334,7 @@
             "id": "mal_comm_2",
             "form": "motor_activity_log",
             "label": {
+                "hash": "80d1983cd5",
                 "translation": "Comm 2"
             }
         },
@@ -305,51 +342,63 @@
             "id": "mal_as_3",
             "form": "motor_activity_log",
             "label": {
+                "hash": "ef76a03f54",
                 "translation": "AS 3"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -358,51 +407,63 @@
             "id": "mal_hw_3",
             "form": "motor_activity_log",
             "label": {
+                "hash": "326b5ce0de",
                 "translation": "HW 3"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -411,6 +472,7 @@
             "id": "mal_why_3",
             "form": "motor_activity_log",
             "label": {
+                "hash": "ecd5b50095",
                 "translation": "Why 3"
             }
         },
@@ -418,6 +480,7 @@
             "id": "mal_comm_3",
             "form": "motor_activity_log",
             "label": {
+                "hash": "8da11900cf",
                 "translation": "Comm 3"
             }
         },
@@ -425,51 +488,63 @@
             "id": "mal_as_4",
             "form": "motor_activity_log",
             "label": {
+                "hash": "41937f6e39",
                 "translation": "AS 4"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -478,51 +553,63 @@
             "id": "mal_hw_4",
             "form": "motor_activity_log",
             "label": {
+                "hash": "e087ae50c8",
                 "translation": "HW 4"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -531,6 +618,7 @@
             "id": "mal_why_4",
             "form": "motor_activity_log",
             "label": {
+                "hash": "c2fc17ee64",
                 "translation": "Why 4"
             }
         },
@@ -538,6 +626,7 @@
             "id": "mal_comm_4",
             "form": "motor_activity_log",
             "label": {
+                "hash": "f0040da3c3",
                 "translation": "Comm 4"
             }
         },
@@ -545,51 +634,63 @@
             "id": "mal_as_5",
             "form": "motor_activity_log",
             "label": {
+                "hash": "d356120b1f",
                 "translation": "AS 5"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -598,51 +699,63 @@
             "id": "mal_hw_5",
             "form": "motor_activity_log",
             "label": {
+                "hash": "cc20a66642",
                 "translation": "HW 5"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -651,6 +764,7 @@
             "id": "mal_why_5",
             "form": "motor_activity_log",
             "label": {
+                "hash": "c9adcef2d4",
                 "translation": "Why 5"
             }
         },
@@ -658,6 +772,7 @@
             "id": "mal_comm_5",
             "form": "motor_activity_log",
             "label": {
+                "hash": "45d2174dc6",
                 "translation": "Comm 5"
             }
         },
@@ -665,9 +780,11 @@
             "id": "mal_table_6_10",
             "form": "motor_activity_log",
             "header": {
+                "hash": "83a2c28c60",
                 "translation": "TASKS 6-10"
             },
             "label": {
+                "hash": "67a53a7744",
                 "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>6. Wiping off a table</td><td style='padding: 5px;'>{mal_as_6}</td><td style='padding: 5px;'>{mal_hw_6}</td><td style='padding: 5px;'>{mal_why_6}</td><td style='padding: 5px;'>{mal_comm_6}</td></tr><tr><td style='padding: 5px;'>7. Opening a refrigerator</td><td style='padding: 5px;'>{mal_as_7}</td><td style='padding: 5px;'>{mal_hw_7}</td><td style='padding: 5px;'>{mal_why_7}</td><td style='padding: 5px;'>{mal_comm_7}</td></tr><tr><td style='padding: 5px;'>8. Move object shelf to shelf</td><td style='padding: 5px;'>{mal_as_8}</td><td style='padding: 5px;'>{mal_hw_8}</td><td style='padding: 5px;'>{mal_why_8}</td><td style='padding: 5px;'>{mal_comm_8}</td></tr><tr><td style='padding: 5px;'>9. Picking up a cup</td><td style='padding: 5px;'>{mal_as_9}</td><td style='padding: 5px;'>{mal_hw_9}</td><td style='padding: 5px;'>{mal_why_9}</td><td style='padding: 5px;'>{mal_comm_9}</td></tr><tr><td style='padding: 5px;'>10. Drinking from a cup</td><td style='padding: 5px;'>{mal_as_10}</td><td style='padding: 5px;'>{mal_hw_10}</td><td style='padding: 5px;'>{mal_why_10}</td><td style='padding: 5px;'>{mal_comm_10}</td></tr></table>"
             }
         },
@@ -675,51 +792,63 @@
             "id": "mal_as_6",
             "form": "motor_activity_log",
             "label": {
+                "hash": "bd743fbec6",
                 "translation": "AS 6"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -728,51 +857,63 @@
             "id": "mal_hw_6",
             "form": "motor_activity_log",
             "label": {
+                "hash": "debfdf8602",
                 "translation": "HW 6"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -781,6 +922,7 @@
             "id": "mal_why_6",
             "form": "motor_activity_log",
             "label": {
+                "hash": "dc5698cf82",
                 "translation": "Why 6"
             }
         },
@@ -788,6 +930,7 @@
             "id": "mal_comm_6",
             "form": "motor_activity_log",
             "label": {
+                "hash": "60adb0161b",
                 "translation": "Comm 6"
             }
         },
@@ -795,51 +938,63 @@
             "id": "mal_as_7",
             "form": "motor_activity_log",
             "label": {
+                "hash": "7412268f7d",
                 "translation": "AS 7"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -848,51 +1003,63 @@
             "id": "mal_hw_7",
             "form": "motor_activity_log",
             "label": {
+                "hash": "3efcd3eed2",
                 "translation": "HW 7"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -901,6 +1068,7 @@
             "id": "mal_why_7",
             "form": "motor_activity_log",
             "label": {
+                "hash": "a743271a60",
                 "translation": "Why 7"
             }
         },
@@ -908,6 +1076,7 @@
             "id": "mal_comm_7",
             "form": "motor_activity_log",
             "label": {
+                "hash": "eb4d19b1af",
                 "translation": "Comm 7"
             }
         },
@@ -915,51 +1084,63 @@
             "id": "mal_as_8",
             "form": "motor_activity_log",
             "label": {
+                "hash": "eac4d727ed",
                 "translation": "AS 8"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -968,51 +1149,63 @@
             "id": "mal_hw_8",
             "form": "motor_activity_log",
             "label": {
+                "hash": "adc7ad3b70",
                 "translation": "HW 8"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -1021,6 +1214,7 @@
             "id": "mal_why_8",
             "form": "motor_activity_log",
             "label": {
+                "hash": "8226a56867",
                 "translation": "Why 8"
             }
         },
@@ -1028,6 +1222,7 @@
             "id": "mal_comm_8",
             "form": "motor_activity_log",
             "label": {
+                "hash": "bfc7c63738",
                 "translation": "Comm 8"
             }
         },
@@ -1035,51 +1230,63 @@
             "id": "mal_as_9",
             "form": "motor_activity_log",
             "label": {
+                "hash": "7c5dd97d6e",
                 "translation": "AS 9"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -1088,51 +1295,63 @@
             "id": "mal_hw_9",
             "form": "motor_activity_log",
             "label": {
+                "hash": "973c335ea6",
                 "translation": "HW 9"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -1141,6 +1360,7 @@
             "id": "mal_why_9",
             "form": "motor_activity_log",
             "label": {
+                "hash": "914ba958a2",
                 "translation": "Why 9"
             }
         },
@@ -1148,6 +1368,7 @@
             "id": "mal_comm_9",
             "form": "motor_activity_log",
             "label": {
+                "hash": "9ab65f0f04",
                 "translation": "Comm 9"
             }
         },
@@ -1155,51 +1376,63 @@
             "id": "mal_as_10",
             "form": "motor_activity_log",
             "label": {
+                "hash": "cf06feef3d",
                 "translation": "AS 10"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -1208,51 +1441,63 @@
             "id": "mal_hw_10",
             "form": "motor_activity_log",
             "label": {
+                "hash": "80d7a7c709",
                 "translation": "HW 10"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -1261,6 +1506,7 @@
             "id": "mal_why_10",
             "form": "motor_activity_log",
             "label": {
+                "hash": "3719869d9c",
                 "translation": "Why 10"
             }
         },
@@ -1268,6 +1514,7 @@
             "id": "mal_comm_10",
             "form": "motor_activity_log",
             "label": {
+                "hash": "4bc6ea09c9",
                 "translation": "Comm 10"
             }
         },
@@ -1275,9 +1522,11 @@
             "id": "mal_table_11_15",
             "form": "motor_activity_log",
             "header": {
+                "hash": "19163220cd",
                 "translation": "TASKS 11-15"
             },
             "label": {
+                "hash": "1ae33fb21a",
                 "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>11. Picking up fork or spoon</td><td style='padding: 5px;'>{mal_as_11}</td><td style='padding: 5px;'>{mal_hw_11}</td><td style='padding: 5px;'>{mal_why_11}</td><td style='padding: 5px;'>{mal_comm_11}</td></tr><tr><td style='padding: 5px;'>12. Eating with fork or spoon</td><td style='padding: 5px;'>{mal_as_12}</td><td style='padding: 5px;'>{mal_hw_12}</td><td style='padding: 5px;'>{mal_why_12}</td><td style='padding: 5px;'>{mal_comm_12}</td></tr><tr><td style='padding: 5px;'>13. Combing hair</td><td style='padding: 5px;'>{mal_as_13}</td><td style='padding: 5px;'>{mal_hw_13}</td><td style='padding: 5px;'>{mal_why_13}</td><td style='padding: 5px;'>{mal_comm_13}</td></tr><tr><td style='padding: 5px;'>14. Brushing teeth</td><td style='padding: 5px;'>{mal_as_14}</td><td style='padding: 5px;'>{mal_hw_14}</td><td style='padding: 5px;'>{mal_why_14}</td><td style='padding: 5px;'>{mal_comm_14}</td></tr><tr><td style='padding: 5px;'>15. Shaving or applying makeup</td><td style='padding: 5px;'>{mal_as_15}</td><td style='padding: 5px;'>{mal_hw_15}</td><td style='padding: 5px;'>{mal_why_15}</td><td style='padding: 5px;'>{mal_comm_15}</td></tr></table>"
             }
         },
@@ -1285,51 +1534,63 @@
             "id": "mal_as_11",
             "form": "motor_activity_log",
             "label": {
+                "hash": "4e3a1799f5",
                 "translation": "AS 11"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -1338,51 +1599,63 @@
             "id": "mal_hw_11",
             "form": "motor_activity_log",
             "label": {
+                "hash": "7d47a26f19",
                 "translation": "HW 11"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -1391,6 +1664,7 @@
             "id": "mal_why_11",
             "form": "motor_activity_log",
             "label": {
+                "hash": "2c9bcfc8f9",
                 "translation": "Why 11"
             }
         },
@@ -1398,6 +1672,7 @@
             "id": "mal_comm_11",
             "form": "motor_activity_log",
             "label": {
+                "hash": "9333d1ab96",
                 "translation": "Comm 11"
             }
         },
@@ -1405,51 +1680,63 @@
             "id": "mal_as_12",
             "form": "motor_activity_log",
             "label": {
+                "hash": "951140709d",
                 "translation": "AS 12"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -1458,51 +1745,63 @@
             "id": "mal_hw_12",
             "form": "motor_activity_log",
             "label": {
+                "hash": "8b631a4c78",
                 "translation": "HW 12"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -1511,6 +1810,7 @@
             "id": "mal_why_12",
             "form": "motor_activity_log",
             "label": {
+                "hash": "682499e35b",
                 "translation": "Why 12"
             }
         },
@@ -1518,6 +1818,7 @@
             "id": "mal_comm_12",
             "form": "motor_activity_log",
             "label": {
+                "hash": "15c129f46a",
                 "translation": "Comm 12"
             }
         },
@@ -1525,51 +1826,63 @@
             "id": "mal_as_13",
             "form": "motor_activity_log",
             "label": {
+                "hash": "b62fabd534",
                 "translation": "AS 13"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -1578,51 +1891,63 @@
             "id": "mal_hw_13",
             "form": "motor_activity_log",
             "label": {
+                "hash": "f9c440770d",
                 "translation": "HW 13"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -1631,6 +1956,7 @@
             "id": "mal_why_13",
             "form": "motor_activity_log",
             "label": {
+                "hash": "42fbc14d75",
                 "translation": "Why 13"
             }
         },
@@ -1638,6 +1964,7 @@
             "id": "mal_comm_13",
             "form": "motor_activity_log",
             "label": {
+                "hash": "6345d65cb5",
                 "translation": "Comm 13"
             }
         },
@@ -1645,51 +1972,63 @@
             "id": "mal_as_14",
             "form": "motor_activity_log",
             "label": {
+                "hash": "a6576bf3f4",
                 "translation": "AS 14"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -1698,51 +2037,63 @@
             "id": "mal_hw_14",
             "form": "motor_activity_log",
             "label": {
+                "hash": "d53df19cfd",
                 "translation": "HW 14"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -1751,6 +2102,7 @@
             "id": "mal_why_14",
             "form": "motor_activity_log",
             "label": {
+                "hash": "a2eab763ae",
                 "translation": "Why 14"
             }
         },
@@ -1758,6 +2110,7 @@
             "id": "mal_comm_14",
             "form": "motor_activity_log",
             "label": {
+                "hash": "ce6ce1c22b",
                 "translation": "Comm 14"
             }
         },
@@ -1765,51 +2118,63 @@
             "id": "mal_as_15",
             "form": "motor_activity_log",
             "label": {
+                "hash": "cfe2d37567",
                 "translation": "AS 15"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -1818,51 +2183,63 @@
             "id": "mal_hw_15",
             "form": "motor_activity_log",
             "label": {
+                "hash": "18e065d2a7",
                 "translation": "HW 15"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -1871,6 +2248,7 @@
             "id": "mal_why_15",
             "form": "motor_activity_log",
             "label": {
+                "hash": "8a89fc1842",
                 "translation": "Why 15"
             }
         },
@@ -1878,6 +2256,7 @@
             "id": "mal_comm_15",
             "form": "motor_activity_log",
             "label": {
+                "hash": "e96362a7e6",
                 "translation": "Comm 15"
             }
         },
@@ -1885,9 +2264,11 @@
             "id": "mal_table_16_20",
             "form": "motor_activity_log",
             "header": {
+                "hash": "1172a685ef",
                 "translation": "TASKS 16-20"
             },
             "label": {
+                "hash": "d76e070cc3",
                 "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>16. Use washcloth to bathe</td><td style='padding: 5px;'>{mal_as_16}</td><td style='padding: 5px;'>{mal_hw_16}</td><td style='padding: 5px;'>{mal_why_16}</td><td style='padding: 5px;'>{mal_comm_16}</td></tr><tr><td style='padding: 5px;'>17. Drying hands</td><td style='padding: 5px;'>{mal_as_17}</td><td style='padding: 5px;'>{mal_hw_17}</td><td style='padding: 5px;'>{mal_why_17}</td><td style='padding: 5px;'>{mal_comm_17}</td></tr><tr><td style='padding: 5px;'>18. Drying face</td><td style='padding: 5px;'>{mal_as_18}</td><td style='padding: 5px;'>{mal_hw_18}</td><td style='padding: 5px;'>{mal_why_18}</td><td style='padding: 5px;'>{mal_comm_18}</td></tr><tr><td style='padding: 5px;'>19. Put on shirt or jacket</td><td style='padding: 5px;'>{mal_as_19}</td><td style='padding: 5px;'>{mal_hw_19}</td><td style='padding: 5px;'>{mal_why_19}</td><td style='padding: 5px;'>{mal_comm_19}</td></tr><tr><td style='padding: 5px;'>20. Pulling on pants</td><td style='padding: 5px;'>{mal_as_20}</td><td style='padding: 5px;'>{mal_hw_20}</td><td style='padding: 5px;'>{mal_why_20}</td><td style='padding: 5px;'>{mal_comm_20}</td></tr></table>"
             }
         },
@@ -1895,51 +2276,63 @@
             "id": "mal_as_16",
             "form": "motor_activity_log",
             "label": {
+                "hash": "22ed730d53",
                 "translation": "AS 16"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -1948,51 +2341,63 @@
             "id": "mal_hw_16",
             "form": "motor_activity_log",
             "label": {
+                "hash": "0c78e80ed4",
                 "translation": "HW 16"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -2001,6 +2406,7 @@
             "id": "mal_why_16",
             "form": "motor_activity_log",
             "label": {
+                "hash": "fcd916cb58",
                 "translation": "Why 16"
             }
         },
@@ -2008,6 +2414,7 @@
             "id": "mal_comm_16",
             "form": "motor_activity_log",
             "label": {
+                "hash": "6bceada73b",
                 "translation": "Comm 16"
             }
         },
@@ -2015,51 +2422,63 @@
             "id": "mal_as_17",
             "form": "motor_activity_log",
             "label": {
+                "hash": "30cba6dec9",
                 "translation": "AS 17"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -2068,51 +2487,63 @@
             "id": "mal_hw_17",
             "form": "motor_activity_log",
             "label": {
+                "hash": "1203713ca2",
                 "translation": "HW 17"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -2121,6 +2552,7 @@
             "id": "mal_why_17",
             "form": "motor_activity_log",
             "label": {
+                "hash": "9c53222465",
                 "translation": "Why 17"
             }
         },
@@ -2128,6 +2560,7 @@
             "id": "mal_comm_17",
             "form": "motor_activity_log",
             "label": {
+                "hash": "aad2a987fc",
                 "translation": "Comm 17"
             }
         },
@@ -2135,51 +2568,63 @@
             "id": "mal_as_18",
             "form": "motor_activity_log",
             "label": {
+                "hash": "511efbb9df",
                 "translation": "AS 18"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -2188,51 +2633,63 @@
             "id": "mal_hw_18",
             "form": "motor_activity_log",
             "label": {
+                "hash": "b9436110ef",
                 "translation": "HW 18"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -2241,6 +2698,7 @@
             "id": "mal_why_18",
             "form": "motor_activity_log",
             "label": {
+                "hash": "fe343d09b1",
                 "translation": "Why 18"
             }
         },
@@ -2248,6 +2706,7 @@
             "id": "mal_comm_18",
             "form": "motor_activity_log",
             "label": {
+                "hash": "462a9ea1b7",
                 "translation": "Comm 18"
             }
         },
@@ -2255,51 +2714,63 @@
             "id": "mal_as_19",
             "form": "motor_activity_log",
             "label": {
+                "hash": "a2a724f93a",
                 "translation": "AS 19"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -2308,51 +2779,63 @@
             "id": "mal_hw_19",
             "form": "motor_activity_log",
             "label": {
+                "hash": "e5702b5e22",
                 "translation": "HW 19"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -2361,6 +2844,7 @@
             "id": "mal_why_19",
             "form": "motor_activity_log",
             "label": {
+                "hash": "361f417439",
                 "translation": "Why 19"
             }
         },
@@ -2368,6 +2852,7 @@
             "id": "mal_comm_19",
             "form": "motor_activity_log",
             "label": {
+                "hash": "c37e4d315c",
                 "translation": "Comm 19"
             }
         },
@@ -2375,51 +2860,63 @@
             "id": "mal_as_20",
             "form": "motor_activity_log",
             "label": {
+                "hash": "19f6a39a59",
                 "translation": "AS 20"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -2428,51 +2925,63 @@
             "id": "mal_hw_20",
             "form": "motor_activity_log",
             "label": {
+                "hash": "c429bec5f9",
                 "translation": "HW 20"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -2481,6 +2990,7 @@
             "id": "mal_why_20",
             "form": "motor_activity_log",
             "label": {
+                "hash": "19839af4cd",
                 "translation": "Why 20"
             }
         },
@@ -2488,6 +2998,7 @@
             "id": "mal_comm_20",
             "form": "motor_activity_log",
             "label": {
+                "hash": "7dc5ae64e4",
                 "translation": "Comm 20"
             }
         },
@@ -2495,9 +3006,11 @@
             "id": "mal_table_21_25",
             "form": "motor_activity_log",
             "header": {
+                "hash": "60d9d4f68c",
                 "translation": "TASKS 21-25"
             },
             "label": {
+                "hash": "3a6556d82f",
                 "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>21. Putting on shoes</td><td style='padding: 5px;'>{mal_as_21}</td><td style='padding: 5px;'>{mal_hw_21}</td><td style='padding: 5px;'>{mal_why_21}</td><td style='padding: 5px;'>{mal_comm_21}</td></tr><tr><td style='padding: 5px;'>22. Putting on socks</td><td style='padding: 5px;'>{mal_as_22}</td><td style='padding: 5px;'>{mal_hw_22}</td><td style='padding: 5px;'>{mal_why_22}</td><td style='padding: 5px;'>{mal_comm_22}</td></tr><tr><td style='padding: 5px;'>23. Using a key in a lock</td><td style='padding: 5px;'>{mal_as_23}</td><td style='padding: 5px;'>{mal_hw_23}</td><td style='padding: 5px;'>{mal_why_23}</td><td style='padding: 5px;'>{mal_comm_23}</td></tr><tr><td style='padding: 5px;'>24. Turning a door knob</td><td style='padding: 5px;'>{mal_as_24}</td><td style='padding: 5px;'>{mal_hw_24}</td><td style='padding: 5px;'>{mal_why_24}</td><td style='padding: 5px;'>{mal_comm_24}</td></tr><tr><td style='padding: 5px;'>25. Typing on a keyboard</td><td style='padding: 5px;'>{mal_as_25}</td><td style='padding: 5px;'>{mal_hw_25}</td><td style='padding: 5px;'>{mal_why_25}</td><td style='padding: 5px;'>{mal_comm_25}</td></tr></table>"
             }
         },
@@ -2505,51 +3018,63 @@
             "id": "mal_as_21",
             "form": "motor_activity_log",
             "label": {
+                "hash": "56db133982",
                 "translation": "AS 21"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -2558,51 +3083,63 @@
             "id": "mal_hw_21",
             "form": "motor_activity_log",
             "label": {
+                "hash": "aa5797db36",
                 "translation": "HW 21"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -2611,6 +3148,7 @@
             "id": "mal_why_21",
             "form": "motor_activity_log",
             "label": {
+                "hash": "7aa9b07196",
                 "translation": "Why 21"
             }
         },
@@ -2618,6 +3156,7 @@
             "id": "mal_comm_21",
             "form": "motor_activity_log",
             "label": {
+                "hash": "56f423cf4c",
                 "translation": "Comm 21"
             }
         },
@@ -2625,51 +3164,63 @@
             "id": "mal_as_22",
             "form": "motor_activity_log",
             "label": {
+                "hash": "78d1dc3fb5",
                 "translation": "AS 22"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -2678,51 +3229,63 @@
             "id": "mal_hw_22",
             "form": "motor_activity_log",
             "label": {
+                "hash": "6b52631a3f",
                 "translation": "HW 22"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -2731,6 +3294,7 @@
             "id": "mal_why_22",
             "form": "motor_activity_log",
             "label": {
+                "hash": "68eb814ef7",
                 "translation": "Why 22"
             }
         },
@@ -2738,6 +3302,7 @@
             "id": "mal_comm_22",
             "form": "motor_activity_log",
             "label": {
+                "hash": "516a232bfe",
                 "translation": "Comm 22"
             }
         },
@@ -2745,51 +3310,63 @@
             "id": "mal_as_23",
             "form": "motor_activity_log",
             "label": {
+                "hash": "29cbe79c88",
                 "translation": "AS 23"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -2798,51 +3375,63 @@
             "id": "mal_hw_23",
             "form": "motor_activity_log",
             "label": {
+                "hash": "83bd0c3d2f",
                 "translation": "HW 23"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -2851,6 +3440,7 @@
             "id": "mal_why_23",
             "form": "motor_activity_log",
             "label": {
+                "hash": "2682f60b6f",
                 "translation": "Why 23"
             }
         },
@@ -2858,6 +3448,7 @@
             "id": "mal_comm_23",
             "form": "motor_activity_log",
             "label": {
+                "hash": "598dc0c0da",
                 "translation": "Comm 23"
             }
         },
@@ -2865,51 +3456,63 @@
             "id": "mal_as_24",
             "form": "motor_activity_log",
             "label": {
+                "hash": "ee9c0a3ae9",
                 "translation": "AS 24"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -2918,51 +3521,63 @@
             "id": "mal_hw_24",
             "form": "motor_activity_log",
             "label": {
+                "hash": "d2ac429f02",
                 "translation": "HW 24"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -2971,6 +3586,7 @@
             "id": "mal_why_24",
             "form": "motor_activity_log",
             "label": {
+                "hash": "1def00171e",
                 "translation": "Why 24"
             }
         },
@@ -2978,6 +3594,7 @@
             "id": "mal_comm_24",
             "form": "motor_activity_log",
             "label": {
+                "hash": "5ac2467807",
                 "translation": "Comm 24"
             }
         },
@@ -2985,51 +3602,63 @@
             "id": "mal_as_25",
             "form": "motor_activity_log",
             "label": {
+                "hash": "20995709ec",
                 "translation": "AS 25"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -3038,51 +3667,63 @@
             "id": "mal_hw_25",
             "form": "motor_activity_log",
             "label": {
+                "hash": "3273b64861",
                 "translation": "HW 25"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -3091,6 +3732,7 @@
             "id": "mal_why_25",
             "form": "motor_activity_log",
             "label": {
+                "hash": "6aa7e5906d",
                 "translation": "Why 25"
             }
         },
@@ -3098,6 +3740,7 @@
             "id": "mal_comm_25",
             "form": "motor_activity_log",
             "label": {
+                "hash": "9f76d45f27",
                 "translation": "Comm 25"
             }
         },
@@ -3105,9 +3748,11 @@
             "id": "mal_table_26_30",
             "form": "motor_activity_log",
             "header": {
+                "hash": "909f339033",
                 "translation": "TASKS 26-30"
             },
             "label": {
+                "hash": "772ca0ef96",
                 "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>26. Writing with pen or pencil</td><td style='padding: 5px;'>{mal_as_26}</td><td style='padding: 5px;'>{mal_hw_26}</td><td style='padding: 5px;'>{mal_why_26}</td><td style='padding: 5px;'>{mal_comm_26}</td></tr><tr><td style='padding: 5px;'>27. Using a remote control</td><td style='padding: 5px;'>{mal_as_27}</td><td style='padding: 5px;'>{mal_hw_27}</td><td style='padding: 5px;'>{mal_why_27}</td><td style='padding: 5px;'>{mal_comm_27}</td></tr><tr><td style='padding: 5px;'>28. Using a computer mouse</td><td style='padding: 5px;'>{mal_as_28}</td><td style='padding: 5px;'>{mal_hw_28}</td><td style='padding: 5px;'>{mal_why_28}</td><td style='padding: 5px;'>{mal_comm_28}</td></tr><tr><td style='padding: 5px;'>29. Lifting a bag</td><td style='padding: 5px;'>{mal_as_29}</td><td style='padding: 5px;'>{mal_hw_29}</td><td style='padding: 5px;'>{mal_why_29}</td><td style='padding: 5px;'>{mal_comm_29}</td></tr><tr><td style='padding: 5px;'>30. Carrying an object</td><td style='padding: 5px;'>{mal_as_30}</td><td style='padding: 5px;'>{mal_hw_30}</td><td style='padding: 5px;'>{mal_why_30}</td><td style='padding: 5px;'>{mal_comm_30}</td></tr></table>"
             }
         },
@@ -3115,51 +3760,63 @@
             "id": "mal_as_26",
             "form": "motor_activity_log",
             "label": {
+                "hash": "f791d2ca19",
                 "translation": "AS 26"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -3168,51 +3825,63 @@
             "id": "mal_hw_26",
             "form": "motor_activity_log",
             "label": {
+                "hash": "628de7c03b",
                 "translation": "HW 26"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -3221,6 +3890,7 @@
             "id": "mal_why_26",
             "form": "motor_activity_log",
             "label": {
+                "hash": "7211cfbce3",
                 "translation": "Why 26"
             }
         },
@@ -3228,6 +3898,7 @@
             "id": "mal_comm_26",
             "form": "motor_activity_log",
             "label": {
+                "hash": "e3959ffb6a",
                 "translation": "Comm 26"
             }
         },
@@ -3235,51 +3906,63 @@
             "id": "mal_as_27",
             "form": "motor_activity_log",
             "label": {
+                "hash": "d674e9a88b",
                 "translation": "AS 27"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -3288,51 +3971,63 @@
             "id": "mal_hw_27",
             "form": "motor_activity_log",
             "label": {
+                "hash": "47f431ede7",
                 "translation": "HW 27"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -3341,6 +4036,7 @@
             "id": "mal_why_27",
             "form": "motor_activity_log",
             "label": {
+                "hash": "a2f8189ea3",
                 "translation": "Why 27"
             }
         },
@@ -3348,6 +4044,7 @@
             "id": "mal_comm_27",
             "form": "motor_activity_log",
             "label": {
+                "hash": "1eba6c1f1b",
                 "translation": "Comm 27"
             }
         },
@@ -3355,51 +4052,63 @@
             "id": "mal_as_28",
             "form": "motor_activity_log",
             "label": {
+                "hash": "1ddaca000a",
                 "translation": "AS 28"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -3408,51 +4117,63 @@
             "id": "mal_hw_28",
             "form": "motor_activity_log",
             "label": {
+                "hash": "6060108d9f",
                 "translation": "HW 28"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -3461,6 +4182,7 @@
             "id": "mal_why_28",
             "form": "motor_activity_log",
             "label": {
+                "hash": "133dc34424",
                 "translation": "Why 28"
             }
         },
@@ -3468,6 +4190,7 @@
             "id": "mal_comm_28",
             "form": "motor_activity_log",
             "label": {
+                "hash": "b92eaf44eb",
                 "translation": "Comm 28"
             }
         },
@@ -3475,51 +4198,63 @@
             "id": "mal_as_29",
             "form": "motor_activity_log",
             "label": {
+                "hash": "27f5262f7b",
                 "translation": "AS 29"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -3528,51 +4263,63 @@
             "id": "mal_hw_29",
             "form": "motor_activity_log",
             "label": {
+                "hash": "f4247ddf79",
                 "translation": "HW 29"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -3581,6 +4328,7 @@
             "id": "mal_why_29",
             "form": "motor_activity_log",
             "label": {
+                "hash": "14df6ffb63",
                 "translation": "Why 29"
             }
         },
@@ -3588,6 +4336,7 @@
             "id": "mal_comm_29",
             "form": "motor_activity_log",
             "label": {
+                "hash": "a0a31da8f2",
                 "translation": "Comm 29"
             }
         },
@@ -3595,51 +4344,63 @@
             "id": "mal_as_30",
             "form": "motor_activity_log",
             "label": {
+                "hash": "be32773eee",
                 "translation": "AS 30"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "6d2df39ea1",
                     "translation": "0 - Did not use my weaker arm"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "dc4ba6c158",
                     "translation": "1 - Occasionally used my weaker arm"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "1c98b06b9a",
                     "translation": "2 - Sometimes used my weaker arm"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "de7ffc916f",
                     "translation": "3 - Used my weaker arm about half as much"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "19b9a0b0f4",
                     "translation": "4 - Used my weaker arm almost as much"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "44e58a6f1d",
                     "translation": "5 - Used my weaker arm as often as before"
                 }
             ]
@@ -3648,51 +4409,63 @@
             "id": "mal_hw_30",
             "form": "motor_activity_log",
             "label": {
+                "hash": "1c7011eb73",
                 "translation": "HW 30"
             },
             "enum": [
                 {
-                    "id": "0",
+                    "id": 0,
+                    "hash": "250fbcd8ea",
                     "translation": "0 - The weaker arm was not used at all"
                 },
                 {
                     "id": "0.5",
+                    "hash": "1b390cd54a",
                     "translation": "0.5"
                 },
                 {
-                    "id": "1",
+                    "id": 1,
+                    "hash": "5856a86780",
                     "translation": "1 - The weaker arm was moved but was not helpful"
                 },
                 {
                     "id": "1.5",
+                    "hash": "aa8f289ebe",
                     "translation": "1.5"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
+                    "hash": "d28c4c3feb",
                     "translation": "2 - The weaker arm was of some use but needed help"
                 },
                 {
                     "id": "2.5",
+                    "hash": "555a5c5c92",
                     "translation": "2.5"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
+                    "hash": "ee46cf9f8d",
                     "translation": "3 - The weaker arm was used for the purpose indicated"
                 },
                 {
                     "id": "3.5",
+                    "hash": "c3e66c1668",
                     "translation": "3.5"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
+                    "hash": "83ea9ec52a",
                     "translation": "4 - The movements made were almost normal"
                 },
                 {
                     "id": "4.5",
+                    "hash": "59a7597c10",
                     "translation": "4.5"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
+                    "hash": "250de21160",
                     "translation": "5 - The ability to use the weaker arm was as good as before"
                 }
             ]
@@ -3701,6 +4474,7 @@
             "id": "mal_why_30",
             "form": "motor_activity_log",
             "label": {
+                "hash": "f8a8ff36ca",
                 "translation": "Why 30"
             }
         },
@@ -3708,6 +4482,7 @@
             "id": "mal_comm_30",
             "form": "motor_activity_log",
             "label": {
+                "hash": "ea073b4ca7",
                 "translation": "Comm 30"
             }
         },
@@ -3715,6 +4490,7 @@
             "id": "mal_mean_as",
             "form": "motor_activity_log",
             "label": {
+                "hash": "0112d2662d",
                 "translation": "Mean Amount Score"
             }
         },
@@ -3722,6 +4498,7 @@
             "id": "mal_mean_hw",
             "form": "motor_activity_log",
             "label": {
+                "hash": "bf06135ff5",
                 "translation": "Mean How Well Score"
             }
         },
@@ -3729,6 +4506,7 @@
             "id": "mal_final_notes",
             "form": "motor_activity_log",
             "label": {
+                "hash": "0819264f23",
                 "translation": "Final Observer Notes"
             }
         }

@@ -1,39 +1,20 @@
 {
     "creator": "REDCap MLM",
     "version": "v15.5.4",
-    "timestamp": "2026-04-27 12:26:05",
+    "timestamp": "2026-04-28 09:12:24",
     "key": "hi",
     "display": "Hindi",
     "rtl": false,
     "fieldTranslations": [
         {
-            "id": "homer_id",
-            "form": "sipso_questionnaire",
-            "label": {
-                "translation": "Record ID"
-            }
-        },
-        {
-            "id": "sipso_date",
-            "form": "sipso_questionnaire",
-            "label": {
-                "translation": "Date of Assessment"
-            }
-        },
-        {
-            "id": "sipso_examiner",
-            "form": "sipso_questionnaire",
-            "label": {
-                "translation": "Examiner Name"
-            }
-        },
-        {
             "id": "sipso_header",
             "form": "sipso_questionnaire",
             "header": {
-                "translation": "Please answer all questions based on your experience since your stroke."
+                "hash": "fadb730cb7",
+                "translation": "Subjective Index of Physical and Social Outcome (SIPSO)"
             },
             "label": {
+                "hash": "14e22afadc",
                 "translation": "Please answer all questions based on your experience since your stroke."
             }
         },
@@ -41,28 +22,34 @@
             "id": "sipso_1_dress",
             "form": "sipso_questionnaire",
             "label": {
+                "hash": "6525db3f29",
                 "translation": "1. Since your stroke, how much difficulty do you have dressing yourself fully? / 1. स्ट्रोक के बाद, स्वयं को पूरी तरह से कपड़े पहनाने में आपको कितनी कठिनाई होती है? (एक संख्या पर घेरा लगाएँ)"
             },
             "enum": [
                 {
-                    "id": "4",
-                    "translation": "No difficulty at all"
+                    "id": 4,
+                    "hash": "5879f9637a",
+                    "translation": "Not difficult at all / बिल्कुल कोई कठिनाई नहीं"
                 },
                 {
-                    "id": "3",
-                    "translation": "Slight difficulty"
+                    "id": 3,
+                    "hash": "81c032b69f",
+                    "translation": "Slightly difficult / थोड़ी कठिनाई"
                 },
                 {
-                    "id": "2",
-                    "translation": "Some difficulty"
+                    "id": 2,
+                    "hash": "9ee5601c1b",
+                    "translation": "Moderately difficult / कुछ कठिनाई"
                 },
                 {
-                    "id": "1",
-                    "translation": "A lot of difficulty"
+                    "id": 1,
+                    "hash": "7d87008dc2",
+                    "translation": "Very difficult / बहुत अधिक कठिनाई"
                 },
                 {
-                    "id": "0",
-                    "translation": "I cannot dress myself fully"
+                    "id": 0,
+                    "hash": "74dff10138",
+                    "translation": "Unable to do it myself / मैं स्वयं को पूरी तरह से कपड़े नहीं पहन सकता"
                 }
             ]
         },
@@ -70,28 +57,34 @@
             "id": "sipso_2_move_home",
             "form": "sipso_questionnaire",
             "label": {
+                "hash": "58d3a9b94e",
                 "translation": "2. Since your stroke, how much difficulty do you have moving around all areas of the home? / 2. स्ट्रोक के बाद, घर के सभी हिस्सों में घूमने-फिरने में आपको कितनी कठिनाई होती है? (एक संख्या पर घेरा लगाएँ)"
             },
             "enum": [
                 {
-                    "id": "4",
-                    "translation": "No difficulty at all"
+                    "id": 4,
+                    "hash": "5879f9637a",
+                    "translation": "Not difficult at all / बिल्कुल कोई कठिनाई नहीं"
                 },
                 {
-                    "id": "3",
-                    "translation": "Slight difficulty"
+                    "id": 3,
+                    "hash": "81c032b69f",
+                    "translation": "Slightly difficult / थोड़ी कठिनाई"
                 },
                 {
-                    "id": "2",
-                    "translation": "Some difficulty"
+                    "id": 2,
+                    "hash": "9ee5601c1b",
+                    "translation": "Moderately difficult / कुछ कठिनाई"
                 },
                 {
-                    "id": "1",
-                    "translation": "A lot of difficulty"
+                    "id": 1,
+                    "hash": "7d87008dc2",
+                    "translation": "Very difficult / बहुत अधिक कठिनाई"
                 },
                 {
-                    "id": "0",
-                    "translation": "I cannot move around all areas of the home"
+                    "id": 0,
+                    "hash": "9d4049ed61",
+                    "translation": "Unable to do it myself / मैं घर के सभी हिस्सों में नहीं घूम सकता"
                 }
             ]
         },
@@ -99,28 +92,34 @@
             "id": "sipso_3_satisfaction",
             "form": "sipso_questionnaire",
             "label": {
+                "hash": "59dbf4783c",
                 "translation": "3. Since your stroke, how satisfied are you with your overall ability to perform daily activities in and around the home? / 3. स्ट्रोक के बाद, घर के अंदर और आसपास दैनिक गतिविधियाँ करने की अपनी क्षमता से आप कितने संतुष्ट हैं? (एक संख्या पर घेरा लगाएँ)"
             },
             "enum": [
                 {
-                    "id": "4",
-                    "translation": "Completely satisfied"
+                    "id": 4,
+                    "hash": "0ae8d1104f",
+                    "translation": "Completely satisfied / पूरी तरह संतुष्ट"
                 },
                 {
-                    "id": "3",
-                    "translation": "Mostly satisfied"
+                    "id": 3,
+                    "hash": "d00f71a6f4",
+                    "translation": "Mostly satisfied / अधिकांशतः संतुष्ट"
                 },
                 {
-                    "id": "2",
-                    "translation": "Fairly satisfied"
+                    "id": 2,
+                    "hash": "484234494e",
+                    "translation": "Moderately satisfied / कुछ हद तक संतुष्ट"
                 },
                 {
-                    "id": "1",
-                    "translation": "Not very satisfied"
+                    "id": 1,
+                    "hash": "ed3cb8dbf8",
+                    "translation": "Not very satisfied / बहुत कम संतुष्ट"
                 },
                 {
-                    "id": "0",
-                    "translation": "Completely dissatisfied"
+                    "id": 0,
+                    "hash": "9f1defdfcb",
+                    "translation": "Completely dissatisfied / बिल्कुल असंतुष्ट"
                 }
             ]
         },
@@ -128,28 +127,34 @@
             "id": "sipso_4_shop",
             "form": "sipso_questionnaire",
             "label": {
-                "translation": "4. Since your stroke, how much difficulty do you have shopping for and carrying a few items (1 bag of shopping or less) when at the shops? / 4. स्ट्रोक के बाद, खरीदारी करने और कुछ सामान (एक बैग या उससे कम) उठाने में आपको कितनी कठिनाई होती है? (एक संख्या पर घेरा लगाएँ)"
+                "hash": "0f3cde81db",
+                "translation": "4. Since your stroke, how much difficulty do you have shopping for and carrying a few items when at the shops? / 4. स्ट्रोक के बाद, खरीदारी करने और कुछ सामान (एक बैग या उससे कम) उठाने में आपको कितनी कठिनाई होती है? (एक संख्या पर घेरा लगाएँ)"
             },
             "enum": [
                 {
-                    "id": "4",
-                    "translation": "No difficulty at all"
+                    "id": 4,
+                    "hash": "5879f9637a",
+                    "translation": "Not difficult at all / बिल्कुल कोई कठिनाई नहीं"
                 },
                 {
-                    "id": "3",
-                    "translation": "Slight difficulty"
+                    "id": 3,
+                    "hash": "81c032b69f",
+                    "translation": "Slightly difficult / थोड़ी कठिनाई"
                 },
                 {
-                    "id": "2",
-                    "translation": "Some difficulty"
+                    "id": 2,
+                    "hash": "9ee5601c1b",
+                    "translation": "Moderately difficult / कुछ कठिनाई"
                 },
                 {
-                    "id": "1",
-                    "translation": "A lot of difficulty"
+                    "id": 1,
+                    "hash": "7d87008dc2",
+                    "translation": "Very difficult / बहुत अधिक कठिनाई"
                 },
                 {
-                    "id": "0",
-                    "translation": "I cannot shop for and carry a few items"
+                    "id": 0,
+                    "hash": "7084594fe2",
+                    "translation": "Unable to do it myself / मैं सामान खरीद और उठा नहीं सकता"
                 }
             ]
         },
@@ -157,28 +162,34 @@
             "id": "sipso_5_indep_neigh",
             "form": "sipso_questionnaire",
             "label": {
+                "hash": "67e02afce9",
                 "translation": "5. Since your stroke, how independent are you in your ability to move around your local neighbourhood? / 5. स्ट्रोक के बाद, अपने स्थानीय पड़ोस में घूमने-फिरने की क्षमता में आप कितने स्वतंत्र हैं? (एक संख्या पर घेरा लगाएँ)"
             },
             "enum": [
                 {
-                    "id": "4",
-                    "translation": "I am completely independent"
+                    "id": 4,
+                    "hash": "1b016c5b16",
+                    "translation": "Completely independent / मैं पूरी तरह स्वतंत्र हूँ"
                 },
                 {
-                    "id": "3",
-                    "translation": "I prefer to have someone else with me"
+                    "id": 3,
+                    "hash": "a8746b5915",
+                    "translation": "Prefer to have someone with me / मुझे किसी और के साथ रहना पसंद है"
                 },
                 {
-                    "id": "2",
-                    "translation": "I need occasional assistance from someone"
+                    "id": 2,
+                    "hash": "3ba3c6ece8",
+                    "translation": "Need some help / मुझे कभी-कभी किसी की सहायता चाहिए"
                 },
                 {
-                    "id": "1",
-                    "translation": "I need assistance much of the time"
+                    "id": 1,
+                    "hash": "50e13ea29d",
+                    "translation": "Need help most of the time / मुझे अधिकांश समय सहायता चाहिए"
                 },
                 {
-                    "id": "0",
-                    "translation": "I am completely dependent on others"
+                    "id": 0,
+                    "hash": "ab20c804a3",
+                    "translation": "Completely dependent / मैं पूरी तरह दूसरों पर निर्भर हूँ"
                 }
             ]
         },
@@ -186,6 +197,7 @@
             "id": "sipso_sub_physical",
             "form": "sipso_questionnaire",
             "label": {
+                "hash": "f87d8a69bc",
                 "translation": "Physical Integration Subscore (Items 1-5)"
             }
         },
@@ -193,28 +205,34 @@
             "id": "sipso_6_bored",
             "form": "sipso_questionnaire",
             "label": {
+                "hash": "76a838fb07",
                 "translation": "6. Since your stroke, how often do you feel bored with your free time at home? / 6. स्ट्रोक के बाद, घर पर खाली समय में आपको कितनी बार ऊब महसूस होती है? (एक संख्या पर घेरा लगाएँ)"
             },
             "enum": [
                 {
-                    "id": "4",
-                    "translation": "I am never bored with my free time"
+                    "id": 4,
+                    "hash": "fa47a55f7d",
+                    "translation": "Not at all / मैं कभी ऊबता नहीं"
                 },
                 {
-                    "id": "3",
-                    "translation": "A little of my free time"
+                    "id": 3,
+                    "hash": "36e070bd9c",
+                    "translation": "Slightly / थोड़े समय में ऊबता हूँ"
                 },
                 {
-                    "id": "2",
-                    "translation": "Some of my free time"
+                    "id": 2,
+                    "hash": "c5bcf0a902",
+                    "translation": "Moderately / कुछ समय में ऊबता हूँ"
                 },
                 {
-                    "id": "1",
-                    "translation": "Most of my free time"
+                    "id": 1,
+                    "hash": "8e17fc2710",
+                    "translation": "Greatly / अधिकांश समय ऊबता हूँ"
                 },
                 {
-                    "id": "0",
-                    "translation": "All of my free time"
+                    "id": 0,
+                    "hash": "a7a5055e3a",
+                    "translation": "All the time / हमेशा ऊबता हूँ"
                 }
             ]
         },
@@ -222,28 +240,34 @@
             "id": "sipso_7_comm",
             "form": "sipso_questionnaire",
             "label": {
+                "hash": "fed5193e04",
                 "translation": "7. Since your stroke, how would you describe the amount of communication between you and your friends/associates? / 7. स्ट्रोक के बाद, आपके और आपके मित्रों/सहयोगियों के बीच संचार की मात्रा कैसी है? (एक संख्या पर घेरा लगाएँ)"
             },
             "enum": [
                 {
-                    "id": "4",
-                    "translation": "A great deal"
+                    "id": 4,
+                    "hash": "5025b2d310",
+                    "translation": "A great deal / बहुत अधिक"
                 },
                 {
-                    "id": "3",
-                    "translation": "Quite a lot"
+                    "id": 3,
+                    "hash": "c7b7c42e0e",
+                    "translation": "Quite a lot / काफी अधिक"
                 },
                 {
-                    "id": "2",
-                    "translation": "Some"
+                    "id": 2,
+                    "hash": "00b2aad45d",
+                    "translation": "Moderately / कुछ"
                 },
                 {
-                    "id": "1",
-                    "translation": "A little bit"
+                    "id": 1,
+                    "hash": "cafdd12066",
+                    "translation": "A little bit / थोड़ा सा"
                 },
                 {
-                    "id": "0",
-                    "translation": "None"
+                    "id": 0,
+                    "hash": "6eef664840",
+                    "translation": "None / बिल्कुल नहीं"
                 }
             ]
         },
@@ -251,28 +275,34 @@
             "id": "sipso_8_social_sat",
             "form": "sipso_questionnaire",
             "label": {
+                "hash": "d1fbdf076d",
                 "translation": "8. Since your stroke, how satisfied are you with the level of interests and activities you share with your friends/associates? / 8. स्ट्रोक के बाद, अपने मित्रों/सहयोगियों के साथ साझा की जाने वाली रुचियों और गतिविधियों से आप कितने संतुष्ट हैं? (एक संख्या पर घेरा लगाएँ)"
             },
             "enum": [
                 {
-                    "id": "4",
-                    "translation": "Completely satisfied"
+                    "id": 4,
+                    "hash": "0ae8d1104f",
+                    "translation": "Completely satisfied / पूरी तरह संतुष्ट"
                 },
                 {
-                    "id": "3",
-                    "translation": "Mostly satisfied"
+                    "id": 3,
+                    "hash": "d00f71a6f4",
+                    "translation": "Mostly satisfied / अधिकांशतः संतुष्ट"
                 },
                 {
-                    "id": "2",
-                    "translation": "Fairly satisfied"
+                    "id": 2,
+                    "hash": "484234494e",
+                    "translation": "Moderately satisfied / कुछ हद तक संतुष्ट"
                 },
                 {
-                    "id": "1",
-                    "translation": "Not very satisfied"
+                    "id": 1,
+                    "hash": "ed3cb8dbf8",
+                    "translation": "Not very satisfied / बहुत कम संतुष्ट"
                 },
                 {
-                    "id": "0",
-                    "translation": "Completely dissatisfied"
+                    "id": 0,
+                    "hash": "9f1defdfcb",
+                    "translation": "Completely dissatisfied / बिल्कुल असंतुष्ट"
                 }
             ]
         },
@@ -280,28 +310,34 @@
             "id": "sipso_9_visit",
             "form": "sipso_questionnaire",
             "label": {
+                "hash": "89ededb75e",
                 "translation": "9. Since your stroke, how often do you visit friends/others? / 9. स्ट्रोक के बाद, आप मित्रों/अन्य लोगों से कितनी बार मिलते हैं? (एक संख्या पर घेरा लगाएँ)"
             },
             "enum": [
                 {
-                    "id": "4",
-                    "translation": "Most days"
+                    "id": 4,
+                    "hash": "0599f59a8f",
+                    "translation": "Most days / अधिकांश दिनों"
                 },
                 {
-                    "id": "3",
-                    "translation": "At least once a week"
+                    "id": 3,
+                    "hash": "67a03fcd2c",
+                    "translation": "At least once a week / कम से कम सप्ताह में एक बार"
                 },
                 {
-                    "id": "2",
-                    "translation": "At least once a fortnight"
+                    "id": 2,
+                    "hash": "b63e0f73a2",
+                    "translation": "At least once a fortnight / कम से कम पखवाड़े में एक बार"
                 },
                 {
-                    "id": "1",
-                    "translation": "Once a month or less"
+                    "id": 1,
+                    "hash": "69b004a976",
+                    "translation": "Once a month or less / महीने में एक बार या उससे कम"
                 },
                 {
-                    "id": "0",
-                    "translation": "Never"
+                    "id": 0,
+                    "hash": "80c3052d33",
+                    "translation": "Never / कभी नहीं"
                 }
             ]
         },
@@ -309,28 +345,34 @@
             "id": "sipso_10_appearance",
             "form": "sipso_questionnaire",
             "label": {
+                "hash": "2899301c72",
                 "translation": "10. Since your stroke, how do you feel about your appearance when out in public? / 10. स्ट्रोक के बाद, सार्वजनिक स्थानों पर अपनी उपस्थिति के बारे में आप कैसा महसूस करते हैं? (एक संख्या पर घेरा लगाएँ)"
             },
             "enum": [
                 {
-                    "id": "4",
-                    "translation": "Perfectly happy"
+                    "id": 4,
+                    "hash": "63b54d6dc7",
+                    "translation": "Perfectly happy / पूरी तरह खुश"
                 },
                 {
-                    "id": "3",
-                    "translation": "Slightly self-conscious"
+                    "id": 3,
+                    "hash": "4d452c47c0",
+                    "translation": "Slightly self-conscious / थोड़े आत्मचेतन"
                 },
                 {
-                    "id": "2",
-                    "translation": "Fairly self-conscious"
+                    "id": 2,
+                    "hash": "eacd9b1d1e",
+                    "translation": "Fairly self-conscious / कुछ हद तक आत्मचेतन"
                 },
                 {
-                    "id": "1",
-                    "translation": "Very self-conscious"
+                    "id": 1,
+                    "hash": "8a34bb0431",
+                    "translation": "Very self-conscious / बहुत अधिक आत्मचेतन"
                 },
                 {
-                    "id": "0",
-                    "translation": "I try to avoid going out in public"
+                    "id": 0,
+                    "hash": "76163d2ec7",
+                    "translation": "I try to avoid going out in public / मैं सार्वजनिक स्थानों पर जाने से बचता हूँ"
                 }
             ]
         },
@@ -338,6 +380,7 @@
             "id": "sipso_sub_social",
             "form": "sipso_questionnaire",
             "label": {
+                "hash": "f6e6602851",
                 "translation": "Social Integration Subscore (Items 6-10)"
             }
         },
@@ -345,8 +388,38 @@
             "id": "sipso_total_score",
             "form": "sipso_questionnaire",
             "label": {
+                "hash": "0cb0020067",
                 "translation": "Total SIPSO Score (Max 40)"
             }
+        },
+        {
+            "id": "sipso_questionnaire_complete",
+            "form": "sipso_questionnaire",
+            "header": {
+                "hash": "c91e0b9151",
+                "translation": ""
+            },
+            "label": {
+                "hash": "fc84b4a6d8",
+                "translation": ""
+            },
+            "enum": [
+                {
+                    "id": 0,
+                    "hash": "387fd1bbc1",
+                    "translation": ""
+                },
+                {
+                    "id": 1,
+                    "hash": "eb27a190c0",
+                    "translation": ""
+                },
+                {
+                    "id": 2,
+                    "hash": "1f5a1abf2f",
+                    "translation": ""
+                }
+            ]
         }
     ]
 }

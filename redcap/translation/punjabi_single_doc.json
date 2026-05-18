@@ -12075,7 +12075,7 @@
             "form": "montreal_cognitive_assessment",
             "header": {
                 "hash": "6d9aad424f",
-                "translation": "MEMORY (ನೆನಪಿನ ಶಕ್ತಿ)"
+                "translation": "MEMORY"
             },
             "label": {
                 "hash": "0a1891ec84",
@@ -12225,7 +12225,7 @@
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "6aafc52b99",
-                "translation": "VERBAL FLUENCY (ಮಾತಿನ ನಿರರ್ಗಳತೆ)"
+                "translation": "VERBAL FLUENCY"
             },
             "enum": [
                 {

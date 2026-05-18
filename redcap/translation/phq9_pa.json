@@ -1,284 +1,366 @@
 {
     "creator": "REDCap MLM",
     "version": "v15.5.4",
-    "timestamp": "2026-04-27 12:26:05",
+    "timestamp": "2026-04-28 09:12:24",
     "key": "pa",
     "display": "Punjabi",
     "rtl": false,
     "fieldTranslations": [
         {
-            "id": "homer_id",
-            "form": "phq9",
-            "label": {
-                "translation": "Record ID"
-            }
-        },
-        {
-            "id": "phq9_date",
-            "form": "phq9",
-            "label": {
-                "translation": "Date of Assessment"
-            }
-        },
-        {
             "id": "phq9_header",
-            "form": "phq9",
+            "form": "patient_health_questionnaire_phq9",
             "header": {
-                "translation": "PATIENT HEALTH QUESTIONNAIRE-9 (PHQ-9) <br> ರೋಗಿಯ ಆರೋಗ್ಯ ಪ್ರಶ್ನಾವಳಿ-9 (PHQ-9)"
+                "hash": "eb1f292e39",
+                "translation": "PATIENT HEALTH QUESTIONNAIRE-9 (PHQ-9)"
             },
             "label": {
-                "translation": "Over the last 2 weeks, how often have you been bothered by any of the following problems? <br> ಕಳೆದ 2 ವಾರಗಳಲ್ಲಿ, ಈ ಕೆಳಗಿನ ಯಾವುದೇ ಸಮಸ್ಯೆಗಳಿಂದ ನೀವು ಎಷ್ಟು ಬಾರಿ ತೊಂದರೆ ಅನುಭವಿಸಿದ್ದೀರಿ?"
+                "hash": "275e74fe90",
+                "translation": "Over the last 2 weeks, how often have you been bothered by any of the following problems?"
             }
         },
         {
             "id": "phq9_1_interest",
-            "form": "phq9",
+            "form": "patient_health_questionnaire_phq9",
             "label": {
-                "translation": "1. Little interest or pleasure in doing things <br> 1. ಕೆಲಸ ಕಾರ್ಯಗಳನ್ನು ಮಾಡುವಲ್ಲಿ ಕಡಿಮೆ ಆಸಕ್ತಿ ಅಥವಾ ಆನಂದ"
+                "hash": "fc11edb520",
+                "translation": "1. Little interest or pleasure in doing things / 1. ਕੰਮ ਕਰਨ ਜਾਂ ਚੀਜ਼ਾਂ ਵਿੱਚ ਦਿਲਚਸਪੀ/ਖੁਸ਼ੀ ਘੱਟ ਹੋਣਾ।"
             },
             "enum": [
                 {
-                    "id": "0",
-                    "translation": "Not at all <br> ಇಲ್ಲವೇ ಇಲ್ಲ"
+                    "id": 0,
+                    "hash": "a53eb52a2f",
+                    "translation": "Not at all / 0 - ਬਿਲਕੁਲ ਨਹੀਂ"
                 },
                 {
-                    "id": "1",
-                    "translation": "Several days <br> ಕೆಲವು ದಿನಗಳು"
+                    "id": 1,
+                    "hash": "924634ed77",
+                    "translation": "Several days / 1 - ਕੁਝ ਦਿਨ"
                 },
                 {
-                    "id": "2",
-                    "translation": "More than half the days <br> ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ದಿನಗಳು"
+                    "id": 2,
+                    "hash": "1fa157105a",
+                    "translation": "More than half the days / 2 - ਅੱਧੇ ਤੋਂ ਵੱਧ ਦਿਨ"
                 },
                 {
-                    "id": "3",
-                    "translation": "Nearly every day <br> ಪ್ರತಿದಿನವೂ"
+                    "id": 3,
+                    "hash": "c572d8bb50",
+                    "translation": "Nearly every day / 3 - ਲਗਭਗ ਹਰ ਦਿਨ"
                 }
             ]
         },
         {
             "id": "phq9_2_depressed",
-            "form": "phq9",
+            "form": "patient_health_questionnaire_phq9",
             "label": {
-                "translation": "2. Feeling down, depressed, or hopeless <br> 2. ಬೇಸರ, ಖಿನ್ನತೆ ಅಥವಾ ಭರವಸೆ ಇಲ್ಲದಿರುವಿಕೆ / 1. ਕੰਮ ਕਰਨ ਜਾਂ ਚੀਜ਼ਾਂ ਵਿੱਚ ਦਿਲਚਸਪੀ/ਖੁਸ਼ੀ ਘੱਟ ਹੋਣਾ।"
+                "hash": "d28c672492",
+                "translation": "2. Feeling down, depressed, or hopeless / 2. ਉਦਾਸ, ਨਿਰਾਸ਼ ਜਾਂ ਅਸਫਲ ਮਹਿਸੂਸ ਕਰਨਾ।"
             },
             "enum": [
                 {
-                    "id": "0",
-                    "translation": "Not at all <br> ಇಲ್ಲವೇ ಇಲ್ಲ"
+                    "id": 0,
+                    "hash": "a53eb52a2f",
+                    "translation": "Not at all / 0 - ਬਿਲਕੁਲ ਨਹੀਂ"
                 },
                 {
-                    "id": "1",
-                    "translation": "Several days <br> ಕೆಲವು ದಿನಗಳು"
+                    "id": 1,
+                    "hash": "924634ed77",
+                    "translation": "Several days / 1 - ਕੁਝ ਦਿਨ"
                 },
                 {
-                    "id": "2",
-                    "translation": "More than half the days <br> ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ದಿನಗಳು"
+                    "id": 2,
+                    "hash": "1fa157105a",
+                    "translation": "More than half the days / 2 - ਅੱਧੇ ਤੋਂ ਵੱਧ ਦਿਨ"
                 },
                 {
-                    "id": "3",
-                    "translation": "Nearly every day <br> ಪ್ರತಿದಿನವೂ"
+                    "id": 3,
+                    "hash": "c572d8bb50",
+                    "translation": "Nearly every day / 3 - ਲਗਭਗ ਹਰ ਦਿਨ"
                 }
             ]
         },
         {
             "id": "phq9_3_sleep",
-            "form": "phq9",
+            "form": "patient_health_questionnaire_phq9",
             "label": {
-                "translation": "3. Trouble falling or staying asleep, or sleeping too much <br> 3. ನಿದ್ರೆ ಬರಲು ತೊಂದರೆ ಅಥವಾ ನಿದ್ರೆ ಬಾರದಿರುವುದು ಅಥವಾ ಅತಿಯಾದ ನಿದ್ರೆ / 2. ਉਦਾਸ, ਨਿਰਾਸ਼ ਜਾਂ ਅਸਫਲ ਮਹਿਸੂਸ ਕਰਨਾ।"
+                "hash": "b2d7095220",
+                "translation": "3. Trouble falling or staying asleep, or sleeping too much / 3. ਸੌਣ ਵਿੱਚ ਮੁਸ਼ਕਲ, ਬਹੁਤ ਜ਼ਿਆਦਾ ਸੌਣਾ ਜਾਂ ਨੀਂਦ ਟੁੱਟਣਾ।"
             },
             "enum": [
                 {
-                    "id": "0",
-                    "translation": "Not at all <br> ಇಲ್ಲವೇ ಇಲ್ಲ"
+                    "id": 0,
+                    "hash": "a53eb52a2f",
+                    "translation": "Not at all / 0 - ਬਿਲਕੁਲ ਨਹੀਂ"
                 },
                 {
-                    "id": "1",
-                    "translation": "Several days <br> ಕೆಲವು ದಿನಗಳು"
+                    "id": 1,
+                    "hash": "924634ed77",
+                    "translation": "Several days / 1 - ਕੁਝ ਦਿਨ"
                 },
                 {
-                    "id": "2",
-                    "translation": "More than half the days <br> ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ದಿನಗಳು"
+                    "id": 2,
+                    "hash": "1fa157105a",
+                    "translation": "More than half the days / 2 - ਅੱਧੇ ਤੋਂ ਵੱਧ ਦਿਨ"
                 },
                 {
-                    "id": "3",
-                    "translation": "Nearly every day <br> ಪ್ರತಿದಿನವೂ"
+                    "id": 3,
+                    "hash": "c572d8bb50",
+                    "translation": "Nearly every day / 3 - ਲਗਭਗ ਹਰ ਦਿਨ"
                 }
             ]
         },
         {
             "id": "phq9_4_tired",
-            "form": "phq9",
+            "form": "patient_health_questionnaire_phq9",
             "label": {
-                "translation": "4. Feeling tired or having little energy <br> 4. ಸುಸ್ತು ಅಥವಾ ಕಡಿಮೆ ಶಕ್ತಿ ಇರುವುದು / 3. ਸੌਣ ਵਿੱਚ ਮੁਸ਼ਕਲ, ਬਹੁਤ ਜ਼ਿਆਦਾ ਸੌਣਾ ਜਾਂ ਨੀਂਦ ਟੁੱਟਣਾ।"
+                "hash": "de61ab6a50",
+                "translation": "4. Feeling tired or having little energy / 4. ਥਕਾਵਟ ਜਾਂ ਊਰਜਾ ਦੀ ਘਾਟ।"
             },
             "enum": [
                 {
-                    "id": "0",
-                    "translation": "Not at all <br> ಇಲ್ಲವೇ ಇಲ್ಲ"
+                    "id": 0,
+                    "hash": "a53eb52a2f",
+                    "translation": "Not at all / 0 - ਬਿਲਕੁਲ ਨਹੀਂ"
                 },
                 {
-                    "id": "1",
-                    "translation": "Several days <br> ಕೆಲವು ದಿನಗಳು"
+                    "id": 1,
+                    "hash": "924634ed77",
+                    "translation": "Several days / 1 - ਕੁਝ ਦਿਨ"
                 },
                 {
-                    "id": "2",
-                    "translation": "More than half the days <br> ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ದಿನಗಳು"
+                    "id": 2,
+                    "hash": "1fa157105a",
+                    "translation": "More than half the days / 2 - ਅੱਧੇ ਤੋਂ ਵੱਧ ਦਿਨ"
                 },
                 {
-                    "id": "3",
-                    "translation": "Nearly every day <br> ಪ್ರತಿದಿನವೂ"
+                    "id": 3,
+                    "hash": "c572d8bb50",
+                    "translation": "Nearly every day / 3 - ਲਗਭਗ ਹਰ ਦਿਨ"
                 }
             ]
         },
         {
             "id": "phq9_5_appetite",
-            "form": "phq9",
+            "form": "patient_health_questionnaire_phq9",
             "label": {
-                "translation": "5. Poor appetite or overeating <br> 5. ಹಸಿವಾಗದಿರುವುದು ಅಥವಾ ಅತಿಯಾಗಿ ತಿನ್ನುವುದು / 4. ਥਕਾਵਟ ਜਾਂ ਊਰਜਾ ਦੀ ਘਾਟ।"
+                "hash": "d80f35b5c6",
+                "translation": "5. Poor appetite or overeating / 5. ਭੁੱਖ ਘੱਟ ਲੱਗਣਾ ਜਾਂ ਬਹੁਤ ਖਾਣਾ।"
             },
             "enum": [
                 {
-                    "id": "0",
-                    "translation": "Not at all <br> ಇಲ್ಲವೇ ಇಲ್ಲ"
+                    "id": 0,
+                    "hash": "a53eb52a2f",
+                    "translation": "Not at all / 0 - ਬਿਲਕੁਲ ਨਹੀਂ"
                 },
                 {
-                    "id": "1",
-                    "translation": "Several days <br> ಕೆಲವು ದಿನಗಳು"
+                    "id": 1,
+                    "hash": "924634ed77",
+                    "translation": "Several days / 1 - ਕੁਝ ਦਿਨ"
                 },
                 {
-                    "id": "2",
-                    "translation": "More than half the days <br> ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ದಿನಗಳು"
+                    "id": 2,
+                    "hash": "1fa157105a",
+                    "translation": "More than half the days / 2 - ਅੱਧੇ ਤੋਂ ਵੱਧ ਦਿਨ"
                 },
                 {
-                    "id": "3",
-                    "translation": "Nearly every day <br> ಪ್ರತಿದಿನವೂ"
+                    "id": 3,
+                    "hash": "c572d8bb50",
+                    "translation": "Nearly every day / 3 - ਲਗਭਗ ਹਰ ਦਿਨ"
                 }
             ]
         },
         {
             "id": "phq9_6_failure",
-            "form": "phq9",
+            "form": "patient_health_questionnaire_phq9",
             "label": {
-                "translation": "6. Feeling bad about yourself - or that you are a failure or have let yourself or your family down <br> 6. ನಿಮ್ಮ ಬಗ್ಗೆ ಕೆಟ್ಟದಾಗಿ ಅನಿಸುವುದು - ಅಥವಾ ನೀವು ವಿಫಲರಾಗಿದ್ದೀರಿ ಅಥವಾ ನಿಮ್ಮನ್ನು ಅಥವಾ ನಿಮ್ಮ ಕುಟುಂಬವನ್ನು ಅವಮಾನಿಸಿದ್ದೀರಿ ಎಂದು ಅನಿಸುವುದು / 5. ਭੁੱਖ ਘੱਟ ਲੱਗਣਾ ਜਾਂ ਬਹੁਤ ਖਾਣਾ।"
+                "hash": "94bd246db1",
+                "translation": "6. Feeling bad about yourself - or that you are a failure or have let yourself or your family down / 6. ਆਪਣੇ ਬਾਰੇ ਬੁਰਾ ਮਹਿਸੂਸ ਕਰਨਾ — ਜਿਵੇਂ ਤੁਸੀਂ ਅਸਫਲ ਹੋ ਜਾਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਨਿਰਾਸ਼ ਕੀਤਾ ਹੈ।"
             },
             "enum": [
                 {
-                    "id": "0",
-                    "translation": "Not at all <br> ಇಲ್ಲವೇ ಇಲ್ಲ"
+                    "id": 0,
+                    "hash": "a53eb52a2f",
+                    "translation": "Not at all / 0 - ਬਿਲਕੁਲ ਨਹੀਂ"
                 },
                 {
-                    "id": "1",
-                    "translation": "Several days <br> ಕೆಲವು ದಿನಗಳು"
+                    "id": 1,
+                    "hash": "924634ed77",
+                    "translation": "Several days / 1 - ਕੁਝ ਦਿਨ"
                 },
                 {
-                    "id": "2",
-                    "translation": "More than half the days <br> ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ದಿನಗಳು"
+                    "id": 2,
+                    "hash": "1fa157105a",
+                    "translation": "More than half the days / 2 - ਅੱਧੇ ਤੋਂ ਵੱਧ ਦਿਨ"
                 },
                 {
-                    "id": "3",
-                    "translation": "Nearly every day <br> ಪ್ರತಿದಿನವೂ"
+                    "id": 3,
+                    "hash": "c572d8bb50",
+                    "translation": "Nearly every day / 3 - ਲਗਭਗ ਹਰ ਦਿਨ"
                 }
             ]
         },
         {
             "id": "phq9_7_concentrating",
-            "form": "phq9",
+            "form": "patient_health_questionnaire_phq9",
             "label": {
-                "translation": "7. Trouble concentrating on things, such as reading the newspaper or watching television <br> 7. ಪತ್ರಿಕೆ ಓದುವ ಅಥವಾ ದೂರದರ್ಶನ ನೋಡುವಂತಹ ವಿಷಯಗಳ ಮೇಲೆ ಗಮನ ಹರಿಸಲು ತೊಂದರೆ / 6. ਆਪਣੇ ਬਾਰੇ ਬੁਰਾ ਮਹਿਸੂਸ ਕਰਨਾ — ਜਿਵੇਂ ਤੁਸੀਂ ਅਸਫਲ ਹੋ ਜਾਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਨਿਰਾਸ਼ ਕੀਤਾ ਹੈ।"
+                "hash": "4001827d33",
+                "translation": "7. Trouble concentrating on things, such as reading the newspaper or watching television / 7. ਧਿਆਨ ਕੇਂਦ੍ਰਿਤ ਕਰਨ ਵਿੱਚ ਮੁਸ਼ਕਲ (ਜਿਵੇਂ ਅਖਬਾਰ ਪੜ੍ਹਨਾ ਜਾਂ ਟੀਵੀ ਦੇਖਣਾ)।"
             },
             "enum": [
                 {
-                    "id": "0",
-                    "translation": "Not at all <br> ಇಲ್ಲವೇ ಇಲ್ಲ"
+                    "id": 0,
+                    "hash": "a53eb52a2f",
+                    "translation": "Not at all / 0 - ਬਿਲਕੁਲ ਨਹੀਂ"
                 },
                 {
-                    "id": "1",
-                    "translation": "Several days <br> ಕೆಲವು ದಿನಗಳು"
+                    "id": 1,
+                    "hash": "924634ed77",
+                    "translation": "Several days / 1 - ਕੁਝ ਦਿਨ"
                 },
                 {
-                    "id": "2",
-                    "translation": "More than half the days <br> ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ದಿನಗಳು"
+                    "id": 2,
+                    "hash": "1fa157105a",
+                    "translation": "More than half the days / 2 - ਅੱਧੇ ਤੋਂ ਵੱਧ ਦਿਨ"
                 },
                 {
-                    "id": "3",
-                    "translation": "Nearly every day <br> ಪ್ರತಿದಿನವೂ"
+                    "id": 3,
+                    "hash": "c572d8bb50",
+                    "translation": "Nearly every day / 3 - ਲਗਭਗ ਹਰ ਦਿਨ"
                 }
             ]
         },
         {
             "id": "phq9_8_moving",
-            "form": "phq9",
+            "form": "patient_health_questionnaire_phq9",
             "label": {
-                "translation": "8. Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual <br> 8. ಇತರರು ಗಮನಿಸುವಷ್ಟು ನಿಧಾನವಾಗಿ ಚಲಿಸುವುದು ಅಥವಾ ಮಾತನಾಡುವುದು? ಅಥವಾ ಅದರ ವಿರುದ್ಧವಾಗಿ - ಬಹಳ ಚಡಪಡಿಕೆ ಅಥವಾ ಅಶಾಂತಿಯಿಂದ ಮೊದಲಿನಿಗಿಂತ ಹೆಚ್ಚಾಗಿ ಓಡಾಡುವುದು / 7. ਧਿਆਨ ਕੇਂਦ੍ਰਿਤ ਕਰਨ ਵਿੱਚ ਮੁਸ਼ਕਲ (ਜਿਵੇਂ ਅਖਬਾਰ ਪੜ੍ਹਨਾ ਜਾਂ ਟੀਵੀ ਦੇਖਣਾ)।"
+                "hash": "346fa17c3c",
+                "translation": "8. Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual / 8. ਹੌਲੀ-ਹੌਲੀ ਤੁਰਨਾ/ਬੋਲਣਾ, ਇੰਨਾ ਕਿ ਹੋਰ ਲੋਕ ਧਿਆਨ ਦੇਣ। ਜਾਂ ਇਸਦੇ ਉਲਟ — ਬਹੁਤ ਬੇਚੈਨ ਰਹਿਣਾ।"
             },
             "enum": [
                 {
-                    "id": "0",
-                    "translation": "Not at all <br> ಇಲ್ಲವೇ ಇಲ್ಲ"
+                    "id": 0,
+                    "hash": "a53eb52a2f",
+                    "translation": "Not at all / 0 - ਬਿਲਕੁਲ ਨਹੀਂ"
                 },
                 {
-                    "id": "1",
-                    "translation": "Several days <br> ಕೆಲವು ದಿನಗಳು"
+                    "id": 1,
+                    "hash": "924634ed77",
+                    "translation": "Several days / 1 - ਕੁਝ ਦਿਨ"
                 },
                 {
-                    "id": "2",
-                    "translation": "More than half the days <br> ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ದಿನಗಳು"
+                    "id": 2,
+                    "hash": "1fa157105a",
+                    "translation": "More than half the days / 2 - ਅੱਧੇ ਤੋਂ ਵੱਧ ਦਿਨ"
                 },
                 {
-                    "id": "3",
-                    "translation": "Nearly every day <br> ಪ್ರತಿದಿನವೂ"
+                    "id": 3,
+                    "hash": "c572d8bb50",
+                    "translation": "Nearly every day / 3 - ਲਗਭਗ ਹਰ ਦਿਨ"
                 }
             ]
         },
         {
             "id": "phq9_9_thoughts",
-            "form": "phq9",
+            "form": "patient_health_questionnaire_phq9",
             "label": {
-                "translation": "9. Thoughts that you would be better off dead or of hurting yourself in some way <br> 9. ನಾನು ಸತ್ತರೆ ಒಳಿತು ಅಥವಾ ಯಾವುದಾದರೊಂದು ರೀತಿಯಲ್ಲಿ ನನಗೆ ಹಾನಿ ಮಾಡಿಕೊಳ್ಳಬೇಕು ಎಂಬ ಆಲೋಚನೆಗಳು ಬರುವುದು / 8. ਹੌਲੀ-ਹੌਲੀ ਤੁਰਨਾ/ਬੋਲਣਾ, ਇੰਨਾ ਕਿ ਹੋਰ ਲੋਕ ਧਿਆਨ ਦੇਣ। ਜਾਂ ਇਸਦੇ ਉਲਟ — ਬਹੁਤ ਬੇਚੈਨ ਰਹਿਣਾ।"
+                "hash": "3f22aa5482",
+                "translation": "9. Thoughts that you would be better off dead or of hurting yourself in some way / 9. ਇਹ ਸੋਚਣਾ ਕਿ ਜੇ ਤੁਸੀਂ ਮਰ ਜਾਂਦੇ ਤਾਂ ਚੰਗਾ ਹੁੰਦਾ, ਜਾਂ ਆਪਣੇ ਆਪ ਨੂੰ ਨੁਕਸਾਨ ਪਹੁੰਚਾਉਣ ਦੇ ਵਿਚਾਰ।"
             },
             "enum": [
                 {
-                    "id": "0",
-                    "translation": "Not at all <br> ಇಲ್ಲವೇ ಇಲ್ಲ"
+                    "id": 0,
+                    "hash": "a53eb52a2f",
+                    "translation": "Not at all / 0 - ਬਿਲਕੁਲ ਨਹੀਂ"
                 },
                 {
-                    "id": "1",
-                    "translation": "Several days <br> ಕೆಲವು ದಿನಗಳು"
+                    "id": 1,
+                    "hash": "924634ed77",
+                    "translation": "Several days / 1 - ਕੁਝ ਦਿਨ"
                 },
                 {
-                    "id": "2",
-                    "translation": "More than half the days <br> ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ದಿನಗಳು"
+                    "id": 2,
+                    "hash": "1fa157105a",
+                    "translation": "More than half the days / 2 - ਅੱਧੇ ਤੋਂ ਵੱਧ ਦਿਨ"
                 },
                 {
-                    "id": "3",
-                    "translation": "Nearly every day <br> ಪ್ರತಿದಿನವೂ"
+                    "id": 3,
+                    "hash": "c572d8bb50",
+                    "translation": "Nearly every day / 3 - ਲਗਭਗ ਹਰ ਦਿਨ"
                 }
             ]
         },
         {
-            "id": "phq9_10_difficulty",
-            "form": "phq9",
+            "id": "phq9_total_score",
+            "form": "patient_health_questionnaire_phq9",
             "label": {
-                "translation": "If you checked off any problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people? <br> ಈ ಮೇಲಿನ ಯಾವುದಾದರೂ ಸಮಸ್ಯೆಗಳನ್ನು ನೀವು ಹೊಂದಿದ್ದರೆ, ಅವುಗಳಿಂದ ನಿಮ್ಮ ಕೆಲಸ ಕಾರ್ಯಗಳನ್ನು ಮಾಡಲು, ಮನೆಯಲ್ಲಿ ಕೆಲಸಗಳನ್ನು ಮಾಡಲು ಅಥವಾ ಇತರ ಜನರೊಂದಿಗೆ ಬೆರೆಯಲು ಎಷ್ಟು ಕಷ್ಟವಾಗುತ್ತಿದೆ? / 9. ਇਹ ਸੋਚਣਾ ਕਿ ਜੇ ਤੁਸੀਂ ਮਰ ਜਾਂਦੇ ਤਾਂ ਚੰਗਾ ਹੁੰਦਾ, ਜਾਂ ਆਪਣੇ ਆਪ ਨੂੰ ਨੁਕਸਾਨ ਪਹੁੰਚਾਉਣ ਦੇ ਵਿਚਾਰ।"
+                "hash": "e8db1be38e",
+                "translation": "TOTAL SCORE"
+            }
+        },
+        {
+            "id": "phq9_10_difficulty",
+            "form": "patient_health_questionnaire_phq9",
+            "label": {
+                "hash": "7cd6cb7698",
+                "translation": "If you checked off any problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?"
             },
             "enum": [
                 {
-                    "id": "0",
-                    "translation": "Not difficult at all <br> ಏನೂ ಕಷ್ಟವಿಲ್ಲ"
+                    "id": 0,
+                    "hash": "967892cab2",
+                    "translation": "Not difficult at all / 0 - ਬਿਲਕੁਲ ਵੀ ਔਖਾ ਨਹੀਂ"
                 },
                 {
-                    "id": "1",
-                    "translation": "Somewhat difficult <br> ಸ್ವಲ್ಪ ಕಷ್ಟವಾಗುತ್ತಿದೆ"
+                    "id": 1,
+                    "hash": "b0b36f932f",
+                    "translation": "Somewhat difficult / 1 - ਕੁਝ ਹੱਦ ਤੱਕ ਔਖਾ"
                 },
                 {
-                    "id": "2",
-                    "translation": "Very difficult <br> ತುಂಬಾ ಕಷ್ಟವಾಗುತ್ತಿದೆ"
+                    "id": 2,
+                    "hash": "cc7a5173a0",
+                    "translation": "Very difficult / 2 - ਬਹੁਤ ਔਖਾ"
                 },
                 {
-                    "id": "3",
-                    "translation": "Extremely difficult <br> ವಿಪರೀತ ಕಷ್ಟವಾಗುತ್ತಿದೆ"
+                    "id": 3,
+                    "hash": "5980bbcabf",
+                    "translation": "Extremely difficult / 3 - ਬਹੁਤ ਜ਼ਿਆਦਾ ਔਖਾ"
                 }
             ]
+        },
+        {
+            "id": "phq9_diagnosis_header",
+            "form": "patient_health_questionnaire_phq9",
+            "header": {
+                "hash": "804dff9e6e",
+                "translation": "FOR INITIAL DIAGNOSIS"
+            },
+            "label": {
+                "hash": "71d2434841",
+                "translation": "<b>For initial diagnosis:</b>"
+            }
+        },
+        {
+            "id": "phq9_interpretation",
+            "form": "patient_health_questionnaire_phq9",
+            "header": {
+                "hash": "f6f8bd9ab8",
+                "translation": "INTERPRETATION OF TOTAL SCORE"
+            },
+            "label": {
+                "hash": "32b1eb1b58",
+                "translation": "<b>Total Score Depression Severity</b>"
+            }
+        },
+        {
+            "id": "phq9_copyright",
+            "form": "patient_health_questionnaire_phq9",
+            "header": {
+                "hash": "e352fc138c",
+                "translation": "COPYRIGHT"
+            },
+            "label": {
+                "hash": "f1a75036ad",
+                "translation": "Copyright © 1999 Pfizer Inc. All rights reserved. Reproduced with permission. PRIME-MD© is a trademark of Pfizer Inc."
+            }
         }
     ]
 }
