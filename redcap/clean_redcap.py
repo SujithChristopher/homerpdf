@@ -67,6 +67,7 @@ def process_redcap_csvs(input_dir, output_file):
         seen_vars.add(field[0])
 
     ORDERED_FILES = [
+        "homer_screening_form.csv",
         "fma.csv",
         "FSS_vertical.csv",
         "SIPSO.csv",
