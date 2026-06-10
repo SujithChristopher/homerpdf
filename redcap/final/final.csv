@@ -12,7 +12,7 @@ comorbidities,patient_demographics,,notes,Comorbidities,,,,,,,,,,,,,@READONLY-IF
 pre_walking_status,patient_demographics,,radio,Premorbid walking status,"1, Independent with/without gait aid | 2, With assistance | 3, Unable to commute",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 active_hand_movement_onset,patient_demographics,,radio,Active hand movement at stroke onset?,"1, Yes | 2, No",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 stroke_severity_nihss,patient_demographics,,text,Stroke severity: NIHSS scores,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-time_since_stroke,patient_demographics,,text,Time since stroke / Stroke duration,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
+time_since_stroke,patient_demographics,,text,Time since stroke / Stroke duration (in days) ,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 stroke_type,patient_demographics,,radio,Stroke type,"1, Ischemic | 2, Haemorrhagic | 3, Ischemia with haemorrhagic transformation",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 stroke_location,patient_demographics,,radio,Stroke location,"1, Cortical | 2, Subcortical",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 hemiparetic_side,patient_demographics,,radio,Hemiparetic/hemiplegic side,"1, Right | 2, Left",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
@@ -97,18 +97,18 @@ fma_sens_pos_elb,fugl_meyer_assessment_ue,,radio,Position: elbow,"0, Absence / <
 fma_sens_pos_wrist,fugl_meyer_assessment_ue,,radio,Position: wrist,"0, Absence / <3/4 correct | 1, 3/4 correct / considerable diff | 2, Correct 100% / little or no diff",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 fma_sens_pos_thumb,fugl_meyer_assessment_ue,,radio,Position: thumb (IP-joint),"0, Absence / <3/4 correct | 1, 3/4 correct / considerable diff | 2, Correct 100% / little or no diff",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 fma_ue_total_h,fugl_meyer_assessment_ue,,calc,Total H (Sensation max 12),[fma_sens_light_up]+[fma_sens_light_palm]+[fma_sens_pos_sh]+[fma_sens_pos_elb]+[fma_sens_pos_wrist]+[fma_sens_pos_thumb],,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-homer_id_2,fatigue_severity_scale,,text,Record ID,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-fss_header,fatigue_severity_scale,FATIGUE SEVERITY SCALE (FSS),descriptive,"Please circle the number between 1 and 7 which you feel best fits the following statements. This refers to your usual way of life within the last week.<br><b>1 indicates ""strongly disagree"" and 7 indicates ""strongly agree.""</b>",,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-fss_1_motivation,fatigue_severity_scale,,radio,1. My motivation is lower when I am fatigued.,"1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-fss_2_exercise,fatigue_severity_scale,,radio,2. Exercise brings on my fatigue.,"1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-fss_3_easily,fatigue_severity_scale,,radio,3. I am easily fatigued.,"1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-fss_4_physical,fatigue_severity_scale,,radio,4. Fatigue interferes with my physical functioning.,"1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-fss_5_problems,fatigue_severity_scale,,radio,5. Fatigue causes frequent problems for me.,"1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-fss_6_sustained,fatigue_severity_scale,,radio,6. My fatigue prevents sustained physical functioning.,"1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-fss_7_duties,fatigue_severity_scale,,radio,7. Fatigue interferes with carrying out certain duties and responsibilities.,"1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-fss_8_disabling,fatigue_severity_scale,,radio,8. Fatigue is among my most disabling symptoms.,"1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-fss_9_social,fatigue_severity_scale,,radio,"9. Fatigue interferes with my work, family, or social life.","1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-fss_mean_score,fatigue_severity_scale,,calc,FSS Mean Score (Average of 9 items),([fss_1_motivation]+[fss_2_exercise]+[fss_3_easily]+[fss_4_physical]+[fss_5_problems]+[fss_6_sustained]+[fss_7_duties]+[fss_8_disabling]+[fss_9_social]) / 9,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
+homer_id_2,fatigue_severity_scale,,text,Record ID,,,,,,,,,,,,,
+fss_header,fatigue_severity_scale,FATIGUE SEVERITY SCALE (FSS),descriptive,"Please circle the number between 1 and 7 which you feel best fits the following statements. This refers to your usual way of life within the last week.<br><b>1 indicates ""strongly disagree"" and 7 indicates ""strongly agree.""</b>",,,,,,,,,,,,,
+fss_1_motivation,fatigue_severity_scale,,radio,1. My motivation is lower when I am fatigued.,"1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,
+fss_2_exercise,fatigue_severity_scale,,radio,2. Exercise brings on my fatigue.,"1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,
+fss_3_easily,fatigue_severity_scale,,radio,3. I am easily fatigued.,"1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,
+fss_4_physical,fatigue_severity_scale,,radio,4. Fatigue interferes with my physical functioning.,"1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,
+fss_5_problems,fatigue_severity_scale,,radio,5. Fatigue causes frequent problems for me.,"1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,
+fss_6_sustained,fatigue_severity_scale,,radio,6. My fatigue prevents sustained physical functioning.,"1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,
+fss_7_duties,fatigue_severity_scale,,radio,7. Fatigue interferes with carrying out certain duties and responsibilities.,"1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,
+fss_8_disabling,fatigue_severity_scale,,radio,8. Fatigue is among my most disabling symptoms.,"1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,
+fss_9_social,fatigue_severity_scale,,radio,"9. Fatigue interferes with my work, family, or social life.","1, 1 - Strongly Disagree | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 - Strongly Agree",,,,,,,,,,,,
+fss_mean_score,fatigue_severity_scale,,calc,FSS Mean Score (Average of 9 items),([fss_1_motivation]+[fss_2_exercise]+[fss_3_easily]+[fss_4_physical]+[fss_5_problems]+[fss_6_sustained]+[fss_7_duties]+[fss_8_disabling]+[fss_9_social]) / 9,,,,,,,,,,,,
 homer_id_3,sipso_questionnaire,,text,Record ID,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 sipso_header,sipso_questionnaire,Subjective Index of Physical and Social Outcome (SIPSO),descriptive,Please answer all questions based on your experience since your stroke.,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 sipso_1_dress,sipso_questionnaire,,radio,"1. Since your stroke, how much difficulty do you have dressing yourself fully?","4, No difficulty at all | 3, Slight difficulty | 2, Some difficulty | 1, A lot of difficulty | 0, I cannot dress myself fully",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
@@ -472,22 +472,22 @@ completion_status_summary,completed_assessment,Assessment Status Overview,descri
 </table>
 <br>Once this form is marked <b>Complete</b>, all other assessments in this event will be locked.",,,,,,,,,,,,,
 completion_notes,completed_assessment,,notes,General Comments on Assessment Completion,,,,,,,,,,,,,
-homer_id_16,adverse_event,,text,Record ID,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-ae_no_events,adverse_event,ADVERSE EVENT FORM,checkbox,At end of study only: Check this box if participant had no adverse events,"1, No adverse events",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-ae_name,adverse_event,ADVERSE EVENT,text,Adverse Event,,,,,,,,,,,,, @READONLY-IF([completed_assessment_complete] = '2')
-ae_start_date,adverse_event,,text,Start Date,,,date_ymd,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-ae_stop_date,adverse_event,,text,Stop Date,,,date_ymd,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-ae_severity,adverse_event,,radio,Severity,"1, Mild | 2, Moderate | 3, Severe | 4, Life-Threatening",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-ae_relationship,adverse_event,,radio,Study Intervention Relationship,"0, Not related | 1, Unlikely related | 2, Possibly related | 3, Probably related | 4, Definitely related",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-ae_action_taken,adverse_event,,radio,Action Taken Regarding Study Intervention,"0, None | 1, Dose modification | 2, Medical Intervention | 3, Hospitalization | 4, Intervention discontinued | 5, Other",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-ae_outcome,adverse_event,,radio,Outcome of AE,"1, Resolved | 2, Recovered with minor sequelae | 3, Recovered with major sequelae | 4, Ongoing/Continuing treatment | 5, Condition worsening | 6, Death | 7, Unknown",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-ae_expected,adverse_event,,radio,Expected?,"1, Yes | 2, No",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-ae_sae,adverse_event,,radio,"Serious Adverse Event (SAE)? (If yes, complete SAE form)","1, Yes | 2, No",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-homer_id_17,exit_questionnaire_control,,text,Record ID,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-eqc_opt_out_reasons,exit_questionnaire_control,EXIT QUESTIONNAIRE - CONTROL GROUP,checkbox,Why did you opt out of the study?,"1, I am unhappy about not receiving the new treatment | 2, I don't feel any improvement from this therapy | 3, The exercises are taking too much time and effort | 4, I have lost interest in continuing the study | 5, The therapy did not match my expectations | 6, I have decided to try alternative therapies | 7, I have hired a physiotherapist for home sessions or going to therapy at a clinic/centre | 8, Others",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-eqc_continue_reason,exit_questionnaire_control,,notes,What would have made you continue the study?,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-eqc_other_comments,exit_questionnaire_control,,notes,Other Comments,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-homer_id_18,exit_questionnaire_intervention,,text,Record ID,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-eqi_opt_out_reasons,exit_questionnaire_intervention,EXIT QUESTIONNAIRE - INTERVENTION GROUP,checkbox,Why did you opt out of the study?,"1, Training at home without the therapist was difficult | 2, Training for 2 hours a day was tiring | 3, I had pain when training with the robot | 4, I felt this kind of therapy was not interesting | 5, I was not able to use the system independently | 6, The robot was not safe to use | 7, Recurrent hardware/software/electricity/UPS related technical issues | 8, The caregiver had limited familiarity with technology | 9, Unavailable to use the device because I was away/unwell during that period | 10, Other",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-eqi_continue_reason,exit_questionnaire_intervention,,notes,What would have made you continue the study?,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-eqi_other_comments,exit_questionnaire_intervention,,notes,Other Comments,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
+homer_id_16,adverse_event,,text,Record ID,,,,,,,,,,,,,
+ae_no_events,adverse_event,ADVERSE EVENT FORM,checkbox,At end of study only: Check this box if participant had no adverse events,"1, No adverse events",,,,,,,,,,,,
+ae_name,adverse_event,ADVERSE EVENT,text,Adverse Event,,,,,,,,,,,,, 
+ae_start_date,adverse_event,,text,Start Date,,,date_ymd,,,,,,,,,,
+ae_stop_date,adverse_event,,text,Stop Date,,,date_ymd,,,,,,,,,,
+ae_severity,adverse_event,,radio,Severity,"1, Mild | 2, Moderate | 3, Severe | 4, Life-Threatening",,,,,,,,,,,,
+ae_relationship,adverse_event,,radio,Study Intervention Relationship,"0, Not related | 1, Unlikely related | 2, Possibly related | 3, Probably related | 4, Definitely related",,,,,,,,,,,,
+ae_action_taken,adverse_event,,radio,Action Taken Regarding Study Intervention,"0, None | 1, Dose modification | 2, Medical Intervention | 3, Hospitalization | 4, Intervention discontinued | 5, Other",,,,,,,,,,,,
+ae_outcome,adverse_event,,radio,Outcome of AE,"1, Resolved | 2, Recovered with minor sequelae | 3, Recovered with major sequelae | 4, Ongoing/Continuing treatment | 5, Condition worsening | 6, Death | 7, Unknown",,,,,,,,,,,,
+ae_expected,adverse_event,,radio,Expected?,"1, Yes | 2, No",,,,,,,,,,,,
+ae_sae,adverse_event,,radio,"Serious Adverse Event (SAE)? (If yes, complete SAE form)","1, Yes | 2, No",,,,,,,,,,,,
+homer_id_17,exit_questionnaire_control,,text,Record ID,,,,,,,,,,,,,
+eqc_opt_out_reasons,exit_questionnaire_control,EXIT QUESTIONNAIRE - CONTROL GROUP,checkbox,Why did you opt out of the study?,"1, I am unhappy about not receiving the new treatment | 2, I don't feel any improvement from this therapy | 3, The exercises are taking too much time and effort | 4, I have lost interest in continuing the study | 5, The therapy did not match my expectations | 6, I have decided to try alternative therapies | 7, I have hired a physiotherapist for home sessions or going to therapy at a clinic/centre | 8, Others",,,,,,,,,,,,
+eqc_continue_reason,exit_questionnaire_control,,notes,What would have made you continue the study?,,,,,,,,,,,,,
+eqc_other_comments,exit_questionnaire_control,,notes,Other Comments,,,,,,,,,,,,,
+homer_id_18,exit_questionnaire_intervention,,text,Record ID,,,,,,,,,,,,,
+eqi_opt_out_reasons,exit_questionnaire_intervention,EXIT QUESTIONNAIRE - INTERVENTION GROUP,checkbox,Why did you opt out of the study?,"1, Training at home without the therapist was difficult | 2, Training for 2 hours a day was tiring | 3, I had pain when training with the robot | 4, I felt this kind of therapy was not interesting | 5, I was not able to use the system independently | 6, The robot was not safe to use | 7, Recurrent hardware/software/electricity/UPS related technical issues | 8, The caregiver had limited familiarity with technology | 9, Unavailable to use the device because I was away/unwell during that period | 10, Other",,,,,,,,,,,,
+eqi_continue_reason,exit_questionnaire_intervention,,notes,What would have made you continue the study?,,,,,,,,,,,,,
+eqi_other_comments,exit_questionnaire_intervention,,notes,Other Comments,,,,,,,,,,,,,

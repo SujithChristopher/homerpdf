@@ -1,0 +1,5 @@
+event_name,arm_num,day_offset,offset_min,offset_max,unique_event_name,custom_event_label
+screening,1,0,0,0,screening_arm_1,
+A0,2,1,0,0,a0_arm_2,
+A1,2,37,0,2,a1_arm_2,
+A2,2,180,0,7,a2_arm_2,

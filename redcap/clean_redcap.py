@@ -34,7 +34,7 @@ def process_redcap_csvs(input_dir, output_file):
         ["pre_walking_status", demographics_form, "", "radio", "Premorbid walking status", "1, Independent with/without gait aid | 2, With assistance | 3, Unable to commute", "", "", "", "", "", "", "", "", "", "", "", ""],
         ["active_hand_movement_onset", demographics_form, "", "radio", "Active hand movement at stroke onset?", "1, Yes | 2, No", "", "", "", "", "", "", "", "", "", "", "", ""],
         ["stroke_severity_nihss", demographics_form, "", "text", "Stroke severity: NIHSS scores", "", "", "", "", "", "", "", "", "", "", "", "", ""],
-        ["time_since_stroke", demographics_form, "", "text", "Time since stroke / Stroke duration", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+        ["time_since_stroke", demographics_form, "", "text", "Time since stroke / Stroke duration (in days) ", "", "", "", "", "", "", "", "", "", "", "", "", ""],
         ["stroke_type", demographics_form, "", "radio", "Stroke type", "1, Ischemic | 2, Haemorrhagic | 3, Ischemia with haemorrhagic transformation", "", "", "", "", "", "", "", "", "", "", "", ""],
         ["stroke_location", demographics_form, "", "radio", "Stroke location", "1, Cortical | 2, Subcortical", "", "", "", "", "", "", "", "", "", "", "", ""],
         ["hemiparetic_side", demographics_form, "", "radio", "Hemiparetic/hemiplegic side", "1, Right | 2, Left", "", "", "", "", "", "", "", "", "", "", "", ""],
@@ -178,7 +178,8 @@ def process_redcap_csvs(input_dir, output_file):
                 # Every field (except record ID and the completion form itself) 
                 # will be locked once the assessment is marked 'Complete'
                 locking_tag = "@READONLY-IF([completed_assessment_complete] = '2')"
-                if cleaned_var not in ('screening_subject_id', 'subject_id') and clean_name(form_name) != 'completed_assessment':
+                exempt_forms = ('completed_assessment', 'adverse_event', 'exit_questionnaire_control', 'exit_questionnaire_intervention', 'fatigue_severity_scale')
+                if cleaned_var not in ('screening_subject_id', 'subject_id') and clean_name(form_name) not in exempt_forms:
                     if annot:
                         if locking_tag not in annot:
                             annot = f"{annot.strip()} {locking_tag}"

@@ -495,13 +495,13 @@ Run: `uv run python redcap/clean_redcap.py`
 `clean_name()` lowercases and underscores all form/variable names — display logic must match exactly.
 
 ### REDCap Event Structure
-- `a0_arm_1` — enrollment (patient_demographics)
-- `a1_arm_1` — assessment 1; gates on `[a0_arm_1][patient_demographics_complete] = '2'`
-- `a2_arm_1` — assessment 2; gates on `[a1_arm_1][completed_assessment_complete] = '2'`
-- `exitq_arm_1` — exit questionnaires only (no gate condition)
+- `screening_arm_1` — screening (homer_screening_form, fugl_meyer, moca, mas, nprs)
+- `a0_arm_2` — demographics and baseline assessments (Arm 2); gates on `[screening_arm_1][homer_screening_form_complete] = '2'`
+- `a1_arm_2` — assessment 1 / mid-point phase (Arm 2); gates on `[a0_arm_2][completed_assessment_complete] = '2'`
+- `a2_arm_2` — assessment 2 / end-point phase (Arm 2); gates on `[a1_arm_2][completed_assessment_complete] = '2'`
 
 ### Form Order Convention (form_display_logic.csv)
-FMA (`fugl_meyer_assessment_ue`) is always first; `completed_assessment` then `adverse_event` are always last in a1/a2 arms.
+FMA (`fugl_meyer_assessment_ue`) is always first; `completed_assessment` is always last in a1/a2 arms.
 
 ### Verify form names match final.csv
 `python -c "import csv; [print(r['Form Name']) for r in csv.DictReader(open('redcap/final/final.csv'))]" | sort -u`
