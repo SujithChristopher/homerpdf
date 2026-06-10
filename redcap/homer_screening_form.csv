@@ -24,4 +24,4 @@ scr_exc_pain,homer_screening_form,,yesno,Pain in the upper limb limiting therapy
 scr_exc_spasticity,homer_screening_form,,yesno,Severe spasticity (MAS>=3),,,,,,,,RH,,,,,,
 scr_summary_heading,homer_screening_form,Eligibility Summary,descriptive,Eligibility Summary,,,,,,,,,,,,,,,
 scr_included,homer_screening_form,,yesno,Included,,,,,,,,RH,,,,,,
-scr_exclude_reason,homer_screening_form,,notes,If No, Specify,,,,,,,"[scr_included] = '0'",,,RH,,,,,
+scr_exclude_reason,homer_screening_form,,notes,"If No, Specify",,,,,,,"[scr_included] = '0'",,RH,,,,
