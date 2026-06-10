@@ -15,7 +15,7 @@
             },
             "label": {
                 "hash": "275e74fe90",
-                "translation": "Over the last 2 weeks, how often have you been bothered by any of the following problems?"
+                "translation": "Over the last 2 weeks, how often have you had any of the following problems? / पिछले 2 सप्ताहों में, आप इन समस्याओं में से किसी से भी कितनी बार परेशान रहे/रही हैं?"
             }
         },
         {
@@ -23,28 +23,28 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "fc11edb520",
-                "translation": "1. Little interest or pleasure in doing things / 1. काम करने या चीजों में रुचि लेने में बहुत कम दिलचस्पी या आनंद।"
+                "translation": "1. Little interest or pleasure in doing things / 1. कुछ करने में बहुत कम दिलचस्पी या मज़ा आना"
             },
             "enum": [
                 {
                     "id": 0,
-                    "hash": "a53eb52a2f",
-                    "translation": "Not at all / 0 - बिल्कुल नहीं"
+                    "translation": "Not at all / 0 - बिल्कुल नहीं",
+                    "hash": "a53eb52a2f"
                 },
                 {
                     "id": 1,
-                    "hash": "924634ed77",
-                    "translation": "Several days / 1 - कुछ दिन"
+                    "translation": "Several days / 1 - कुछ दिन",
+                    "hash": "924634ed77"
                 },
                 {
                     "id": 2,
-                    "hash": "1fa157105a",
-                    "translation": "More than half the days / 2 - आधे से अधिक दिन"
+                    "translation": "More than half the number of days / 2 - आधे से अधिक दिन",
+                    "hash": "1fa157105a"
                 },
                 {
                     "id": 3,
-                    "hash": "c572d8bb50",
-                    "translation": "Nearly every day / 3 - लगभग हर दिन"
+                    "translation": "Almost every day / 3 - लगभग हर दिन",
+                    "hash": "c572d8bb50"
                 }
             ]
         },
@@ -53,28 +53,28 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "d28c672492",
-                "translation": "2. Feeling down, depressed, or hopeless / 2. उदास, निराश या असफल महसूस करना।"
+                "translation": "2. Feeling down, depressed, or hopeless / 2. उदास, अवसादग्रस्त या निराश महसूस करना"
             },
             "enum": [
                 {
                     "id": 0,
-                    "hash": "a53eb52a2f",
-                    "translation": "Not at all / 0 - बिल्कुल नहीं"
+                    "translation": "Not at all / 0 - बिल्कुल नहीं",
+                    "hash": "a53eb52a2f"
                 },
                 {
                     "id": 1,
-                    "hash": "924634ed77",
-                    "translation": "Several days / 1 - कुछ दिन"
+                    "translation": "Several days / 1 - कुछ दिन",
+                    "hash": "924634ed77"
                 },
                 {
                     "id": 2,
-                    "hash": "1fa157105a",
-                    "translation": "More than half the days / 2 - आधे से अधिक दिन"
+                    "translation": "More than half the number of days / 2 - आधे से अधिक दिन",
+                    "hash": "1fa157105a"
                 },
                 {
                     "id": 3,
-                    "hash": "c572d8bb50",
-                    "translation": "Nearly every day / 3 - लगभग हर दिन"
+                    "translation": "Almost every day / 3 - लगभग हर दिन",
+                    "hash": "c572d8bb50"
                 }
             ]
         },
@@ -83,28 +83,28 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "b2d7095220",
-                "translation": "3. Trouble falling or staying asleep, or sleeping too much / 3. सोने में कठिनाई, बहुत अधिक सोना या नींद टूटना।"
+                "translation": "3. Trouble falling or staying asleep, or sleeping too much / 3. नींद आने या सोये रहने में परेशानी, या फिर बहुत अधिक सोना"
             },
             "enum": [
                 {
                     "id": 0,
-                    "hash": "a53eb52a2f",
-                    "translation": "Not at all / 0 - बिल्कुल नहीं"
+                    "translation": "Not at all / 0 - बिल्कुल नहीं",
+                    "hash": "a53eb52a2f"
                 },
                 {
                     "id": 1,
-                    "hash": "924634ed77",
-                    "translation": "Several days / 1 - कुछ दिन"
+                    "translation": "Several days / 1 - कुछ दिन",
+                    "hash": "924634ed77"
                 },
                 {
                     "id": 2,
-                    "hash": "1fa157105a",
-                    "translation": "More than half the days / 2 - आधे से अधिक दिन"
+                    "translation": "More than half the number of days / 2 - आधे से अधिक दिन",
+                    "hash": "1fa157105a"
                 },
                 {
                     "id": 3,
-                    "hash": "c572d8bb50",
-                    "translation": "Nearly every day / 3 - लगभग हर दिन"
+                    "translation": "Almost every day / 3 - लगभग हर दिन",
+                    "hash": "c572d8bb50"
                 }
             ]
         },
@@ -113,28 +113,28 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "de61ab6a50",
-                "translation": "4. Feeling tired or having little energy / 4. थकान या ऊर्जा की कमी।"
+                "translation": "4. Feeling tired or having little energy / 4. थकान महसूस करना या बहुत कम ऊर्जा होना"
             },
             "enum": [
                 {
                     "id": 0,
-                    "hash": "a53eb52a2f",
-                    "translation": "Not at all / 0 - बिल्कुल नहीं"
+                    "translation": "Not at all / 0 - बिल्कुल नहीं",
+                    "hash": "a53eb52a2f"
                 },
                 {
                     "id": 1,
-                    "hash": "924634ed77",
-                    "translation": "Several days / 1 - कुछ दिन"
+                    "translation": "Several days / 1 - कुछ दिन",
+                    "hash": "924634ed77"
                 },
                 {
                     "id": 2,
-                    "hash": "1fa157105a",
-                    "translation": "More than half the days / 2 - आधे से अधिक दिन"
+                    "translation": "More than half the number of days / 2 - आधे से अधिक दिन",
+                    "hash": "1fa157105a"
                 },
                 {
                     "id": 3,
-                    "hash": "c572d8bb50",
-                    "translation": "Nearly every day / 3 - लगभग हर दिन"
+                    "translation": "Almost every day / 3 - लगभग हर दिन",
+                    "hash": "c572d8bb50"
                 }
             ]
         },
@@ -143,28 +143,28 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "d80f35b5c6",
-                "translation": "5. Poor appetite or overeating / 5. भूख कम लगना या ज्यादा खाना।"
+                "translation": "5. Poor appetite or overeating / 5. भूख कम लगना या ज़्यादा खाना"
             },
             "enum": [
                 {
                     "id": 0,
-                    "hash": "a53eb52a2f",
-                    "translation": "Not at all / 0 - बिल्कुल नहीं"
+                    "translation": "Not at all / 0 - बिल्कुल नहीं",
+                    "hash": "a53eb52a2f"
                 },
                 {
                     "id": 1,
-                    "hash": "924634ed77",
-                    "translation": "Several days / 1 - कुछ दिन"
+                    "translation": "Several days / 1 - कुछ दिन",
+                    "hash": "924634ed77"
                 },
                 {
                     "id": 2,
-                    "hash": "1fa157105a",
-                    "translation": "More than half the days / 2 - आधे से अधिक दिन"
+                    "translation": "More than half the number of days / 2 - आधे से अधिक दिन",
+                    "hash": "1fa157105a"
                 },
                 {
                     "id": 3,
-                    "hash": "c572d8bb50",
-                    "translation": "Nearly every day / 3 - लगभग हर दिन"
+                    "translation": "Almost every day / 3 - लगभग हर दिन",
+                    "hash": "c572d8bb50"
                 }
             ]
         },
@@ -173,28 +173,28 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "94bd246db1",
-                "translation": "6. Feeling bad about yourself - or that you are a failure or have let yourself or your family down / 6. अपने बारे में बुरा महसूस करना, जैसे आप असफल हैं या आपने अपने परिवार को निराश किया है।"
+                "translation": "6. Feeling bad about yourself — or that you are a failure or have let yourself down or your family down / 6. अपने बारे में बुरा महसूस करना - या ऐसा महसूस करना कि आप नाकाम इंसान हैं और आपने खुद को और अपने परिवार को नीचा दिखाया है"
             },
             "enum": [
                 {
                     "id": 0,
-                    "hash": "a53eb52a2f",
-                    "translation": "Not at all / 0 - बिल्कुल नहीं"
+                    "translation": "Not at all / 0 - बिल्कुल नहीं",
+                    "hash": "a53eb52a2f"
                 },
                 {
                     "id": 1,
-                    "hash": "924634ed77",
-                    "translation": "Several days / 1 - कुछ दिन"
+                    "translation": "Several days / 1 - कुछ दिन",
+                    "hash": "924634ed77"
                 },
                 {
                     "id": 2,
-                    "hash": "1fa157105a",
-                    "translation": "More than half the days / 2 - आधे से अधिक दिन"
+                    "translation": "More than half the number of days / 2 - आधे से अधिक दिन",
+                    "hash": "1fa157105a"
                 },
                 {
                     "id": 3,
-                    "hash": "c572d8bb50",
-                    "translation": "Nearly every day / 3 - लगभग हर दिन"
+                    "translation": "Almost every day / 3 - लगभग हर दिन",
+                    "hash": "c572d8bb50"
                 }
             ]
         },
@@ -203,28 +203,28 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "4001827d33",
-                "translation": "7. Trouble concentrating on things, such as reading the newspaper or watching television / 7. ध्यान केंद्रित करने में कठिनाई (जैसे अखबार पढ़ना या टीवी देखना)।"
+                "translation": "7. Trouble concentrating on things, such as reading the newspaper or watching television / 7. अखबार पढ़ने या टेलीविज़न देखने जैसी चीज़ों पर ध्यान देने में परेशानी"
             },
             "enum": [
                 {
                     "id": 0,
-                    "hash": "a53eb52a2f",
-                    "translation": "Not at all / 0 - बिल्कुल नहीं"
+                    "translation": "Not at all / 0 - बिल्कुल नहीं",
+                    "hash": "a53eb52a2f"
                 },
                 {
                     "id": 1,
-                    "hash": "924634ed77",
-                    "translation": "Several days / 1 - कुछ दिन"
+                    "translation": "Several days / 1 - कुछ दिन",
+                    "hash": "924634ed77"
                 },
                 {
                     "id": 2,
-                    "hash": "1fa157105a",
-                    "translation": "More than half the days / 2 - आधे से अधिक दिन"
+                    "translation": "More than half the number of days / 2 - आधे से अधिक दिन",
+                    "hash": "1fa157105a"
                 },
                 {
                     "id": 3,
-                    "hash": "c572d8bb50",
-                    "translation": "Nearly every day / 3 - लगभग हर दिन"
+                    "translation": "Almost every day / 3 - लगभग हर दिन",
+                    "hash": "c572d8bb50"
                 }
             ]
         },
@@ -233,28 +233,28 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "346fa17c3c",
-                "translation": "8. Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual / 8. धीरे-धीरे चलना-फिरना या बोलना, इतना कि अन्य लोग ध्यान दें। या इसके विपरीत, बहुत बेचैन रहना।"
+                "translation": "8. Moving or speaking so slowly that other people could have noticed? Or the opposite — being so fidgety or restless that you have been moving around a lot more than usual / 8. इतना धीमे चलना-फिरना या बोलना कि लोगों का ध्यान जाये? या इसका उल्टा - इतना अस्थिर या बेचैन होना कि आप सामान्य से काफ़ी ज़्यादा हिलते-डुलते और चलते-फिरते रहे हैं"
             },
             "enum": [
                 {
                     "id": 0,
-                    "hash": "a53eb52a2f",
-                    "translation": "Not at all / 0 - बिल्कुल नहीं"
+                    "translation": "Not at all / 0 - बिल्कुल नहीं",
+                    "hash": "a53eb52a2f"
                 },
                 {
                     "id": 1,
-                    "hash": "924634ed77",
-                    "translation": "Several days / 1 - कुछ दिन"
+                    "translation": "Several days / 1 - कुछ दिन",
+                    "hash": "924634ed77"
                 },
                 {
                     "id": 2,
-                    "hash": "1fa157105a",
-                    "translation": "More than half the days / 2 - आधे से अधिक दिन"
+                    "translation": "More than half the number of days / 2 - आधे से अधिक दिन",
+                    "hash": "1fa157105a"
                 },
                 {
                     "id": 3,
-                    "hash": "c572d8bb50",
-                    "translation": "Nearly every day / 3 - लगभग हर दिन"
+                    "translation": "Almost every day / 3 - लगभग हर दिन",
+                    "hash": "c572d8bb50"
                 }
             ]
         },
@@ -263,28 +263,28 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "3f22aa5482",
-                "translation": "9. Thoughts that you would be better off dead or of hurting yourself in some way / 9. यह सोचना कि अगर आप मर जाते तो बेहतर होता, या खुद को चोट पहुँचाने के विचार।"
+                "translation": "9. Thoughts that you would be better off dead or of hurting yourself in some way / 9. ऐसे विचार कि आप मर जाते तो अच्छा होता या किसी ढंग से ख़ुद को नुकसान पहुंचाना"
             },
             "enum": [
                 {
                     "id": 0,
-                    "hash": "a53eb52a2f",
-                    "translation": "Not at all / 0 - बिल्कुल नहीं"
+                    "translation": "Not at all / 0 - बिल्कुल नहीं",
+                    "hash": "a53eb52a2f"
                 },
                 {
                     "id": 1,
-                    "hash": "924634ed77",
-                    "translation": "Several days / 1 - कुछ दिन"
+                    "translation": "Several days / 1 - कुछ दिन",
+                    "hash": "924634ed77"
                 },
                 {
                     "id": 2,
-                    "hash": "1fa157105a",
-                    "translation": "More than half the days / 2 - आधे से अधिक दिन"
+                    "translation": "More than half the number of days / 2 - आधे से अधिक दिन",
+                    "hash": "1fa157105a"
                 },
                 {
                     "id": 3,
-                    "hash": "c572d8bb50",
-                    "translation": "Nearly every day / 3 - लगभग हर दिन"
+                    "translation": "Almost every day / 3 - लगभग हर दिन",
+                    "hash": "c572d8bb50"
                 }
             ]
         },
@@ -301,28 +301,28 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "7cd6cb7698",
-                "translation": "If you checked off any problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?"
+                "translation": "If you ticked off any problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?"
             },
             "enum": [
                 {
                     "id": 0,
-                    "hash": "967892cab2",
-                    "translation": "Not difficult at all / 0 - बिल्कुल भी कठिन नहीं"
+                    "translation": "Not difficult at all / 0 - बिल्कुल मुश्किल नहीं",
+                    "hash": "967892cab2"
                 },
                 {
                     "id": 1,
-                    "hash": "b0b36f932f",
-                    "translation": "Somewhat difficult / 1 - कुछ हद तक कठिन"
+                    "translation": "Somewhat difficult / 1 - थोड़ा-बहुत मुश्किल",
+                    "hash": "b0b36f932f"
                 },
                 {
                     "id": 2,
-                    "hash": "cc7a5173a0",
-                    "translation": "Very difficult / 2 - बहुत कठिन"
+                    "translation": "Very difficult / 2 - बहुत मुश्किल",
+                    "hash": "cc7a5173a0"
                 },
                 {
                     "id": 3,
-                    "hash": "5980bbcabf",
-                    "translation": "Extremely difficult / 3 - अत्यधिक कठिन"
+                    "translation": "Extremely difficult / 3 - बेहद मुश्किल",
+                    "hash": "5980bbcabf"
                 }
             ]
         },

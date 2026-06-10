@@ -1,0 +1,277 @@
+{
+    "creator": "REDCap MLM",
+    "version": "v15.5.4",
+    "timestamp": "2026-06-10 09:30:00",
+    "key": "te",
+    "display": "Telugu",
+    "rtl": false,
+    "fieldTranslations": [
+        {
+            "id": "phq9_header",
+            "form": "patient_health_questionnaire_phq9",
+            "header": {
+                "translation": "PATIENT HEALTH QUESTIONNAIRE-9 (PHQ-9)"
+            },
+            "label": {
+                "translation": "Over the last 2 weeks, how often have you had any of the following problems? / గత 2 వారాలలో, ఎంత తరచుగా ఈ క్రింది సమస్యల వలన మీరు బాధ పడ్డారు?"
+            }
+        },
+        {
+            "id": "phq9_1_interest",
+            "form": "patient_health_questionnaire_phq9",
+            "label": {
+                "translation": "1. Little interest or pleasure in doing things / 1. పనులను చేయటంలో తక్కువ ఆసక్తి లేదా ఆనందం కలగడం"
+            },
+            "enum": [
+                {
+                    "id": 0,
+                    "translation": "Not at all / 0 - అస్సలు లేదు"
+                },
+                {
+                    "id": 1,
+                    "translation": "Several days / 1 - చాలా రోజులు"
+                },
+                {
+                    "id": 2,
+                    "translation": "More than half the number of days / 2 - సగం కన్నా ఎక్కువ రోజులు"
+                },
+                {
+                    "id": 3,
+                    "translation": "Almost every day / 3 - దాదాపు ప్రతి రోజు"
+                }
+            ]
+        },
+        {
+            "id": "phq9_2_depressed",
+            "form": "patient_health_questionnaire_phq9",
+            "label": {
+                "translation": "2. Feeling down, depressed, or hopeless / 2. విచారంగా, క్రుంగిపోయినట్లు లేదా నిరాశగా అనిపించటం"
+            },
+            "enum": [
+                {
+                    "id": 0,
+                    "translation": "Not at all / 0 - అస్సలు లేదు"
+                },
+                {
+                    "id": 1,
+                    "translation": "Several days / 1 - చాలా రోజులు"
+                },
+                {
+                    "id": 2,
+                    "translation": "More than half the number of days / 2 - సగం కన్నా ఎక్కువ రోజులు"
+                },
+                {
+                    "id": 3,
+                    "translation": "Almost every day / 3 - దాదాపు ప్రతి రోజు"
+                }
+            ]
+        },
+        {
+            "id": "phq9_3_sleep",
+            "form": "patient_health_questionnaire_phq9",
+            "label": {
+                "translation": "3. Trouble falling or staying asleep, or sleeping too much / 3. నిద్రపట్టటంలో లేదా నిద్ర కొనసాగించటంలో ఇబ్బంది లేదా మరీ ఎక్కువగా నిద్రపోవడం"
+            },
+            "enum": [
+                {
+                    "id": 0,
+                    "translation": "Not at all / 0 - అస్సలు లేదు"
+                },
+                {
+                    "id": 1,
+                    "translation": "Several days / 1 - చాలా రోజులు"
+                },
+                {
+                    "id": 2,
+                    "translation": "More than half the number of days / 2 - సగం కన్నా ఎక్కువ రోజులు"
+                },
+                {
+                    "id": 3,
+                    "translation": "Almost every day / 3 - దాదాపు ప్రతి రోజు"
+                }
+            ]
+        },
+        {
+            "id": "phq9_4_tired",
+            "form": "patient_health_questionnaire_phq9",
+            "label": {
+                "translation": "4. Feeling tired or having little energy / 4. తొందరగా అలసిపోవడం లేదా నీరసంగా అనిపించటం"
+            },
+            "enum": [
+                {
+                    "id": 0,
+                    "translation": "Not at all / 0 - అస్సలు లేదు"
+                },
+                {
+                    "id": 1,
+                    "translation": "Several days / 1 - చాలా రోజులు"
+                },
+                {
+                    "id": 2,
+                    "translation": "More than half the number of days / 2 - సగం కన్నా ఎక్కువ రోజులు"
+                },
+                {
+                    "id": 3,
+                    "translation": "Almost every day / 3 - దాదాపు ప్రతి రోజు"
+                }
+            ]
+        },
+        {
+            "id": "phq9_5_appetite",
+            "form": "patient_health_questionnaire_phq9",
+            "label": {
+                "translation": "5. Poor appetite or overeating / 5. తక్కువగా ఆకలి ఉండటం లేదా అతిగా తినటం"
+            },
+            "enum": [
+                {
+                    "id": 0,
+                    "translation": "Not at all / 0 - అస్సలు లేదు"
+                },
+                {
+                    "id": 1,
+                    "translation": "Several days / 1 - చాలా రోజులు"
+                },
+                {
+                    "id": 2,
+                    "translation": "More than half the number of days / 2 - సగం కన్నా ఎక్కువ రోజులు"
+                },
+                {
+                    "id": 3,
+                    "translation": "Almost every day / 3 - దాదాపు ప్రతి రోజు"
+                }
+            ]
+        },
+        {
+            "id": "phq9_6_failure",
+            "form": "patient_health_questionnaire_phq9",
+            "label": {
+                "translation": "6. Feeling bad about yourself — or that you are a failure or have let yourself down or your family down / 6. మీ గురించి మీరే చెడుగా భావించటం — లేదా మీరు ఒక వైఫల్యలాగా అనుకోవటం లేదా మీకు మీరుగా మరియు మీ కుటుంబానికి నిరాశకు గురి చెయ్యటం"
+            },
+            "enum": [
+                {
+                    "id": 0,
+                    "translation": "Not at all / 0 - అస్సలు లేదు"
+                },
+                {
+                    "id": 1,
+                    "translation": "Several days / 1 - చాలా రోజులు"
+                },
+                {
+                    "id": 2,
+                    "translation": "More than half the number of days / 2 - సగం కన్నా ఎక్కువ రోజులు"
+                },
+                {
+                    "id": 3,
+                    "translation": "Almost every day / 3 - దాదాపు ప్రతి రోజు"
+                }
+            ]
+        },
+        {
+            "id": "phq9_7_concentrating",
+            "form": "patient_health_questionnaire_phq9",
+            "label": {
+                "translation": "7. Trouble concentrating on things, such as reading the newspaper or watching television / 7. న్యూస్ పేపర్లు చదవటం లేదా టెలివిజన్ చూడటంలాంటి పనులపై ఏకాగ్రత కలగకపోవటం"
+            },
+            "enum": [
+                {
+                    "id": 0,
+                    "translation": "Not at all / 0 - అస్సలు లేదు"
+                },
+                {
+                    "id": 1,
+                    "translation": "Several days / 1 - చాలా రోజులు"
+                },
+                {
+                    "id": 2,
+                    "translation": "More than half the number of days / 2 - సగం కన్నా ఎక్కువ రోజులు"
+                },
+                {
+                    "id": 3,
+                    "translation": "Almost every day / 3 - దాదాపు ప్రతి రోజు"
+                }
+            ]
+        },
+        {
+            "id": "phq9_8_moving",
+            "form": "patient_health_questionnaire_phq9",
+            "label": {
+                "translation": "8. Moving or speaking so slowly that other people could have noticed? Or the opposite — being so fidgety or restless that you have been moving around a lot more than usual / 8. ఇతర వ్యక్తులు గమనించేంతగా చాలా మెల్లగా నడవడం లేదా మాట్లాడటం చేస్తున్నారా? లేదా దీనికి వ్యతిరేకంగా — మీరు మాములుగాకన్నా ఎక్కువగా తిరుగుతూ, చిరాకుగా,అసహనంగా ఉండటం"
+            },
+            "enum": [
+                {
+                    "id": 0,
+                    "translation": "Not at all / 0 - అస్సలు లేదు"
+                },
+                {
+                    "id": 1,
+                    "translation": "Several days / 1 - చాలా రోజులు"
+                },
+                {
+                    "id": 2,
+                    "translation": "More than half the number of days / 2 - సగం కన్నా ఎక్కువ రోజులు"
+                },
+                {
+                    "id": 3,
+                    "translation": "Almost every day / 3 - దాదాపు ప్రతి రోజు"
+                }
+            ]
+        },
+        {
+            "id": "phq9_9_thoughts",
+            "form": "patient_health_questionnaire_phq9",
+            "label": {
+                "translation": "9. Thoughts that you would be better off dead or of hurting yourself in some way / 9. మీ మనసులో చించిపోవలనే లేదా స్వయంగా గాయ పరుచుకోవాలనే ఆలోచనలను కలిగి ఉండటం"
+            },
+            "enum": [
+                {
+                    "id": 0,
+                    "translation": "Not at all / 0 - అస్సలు లేదు"
+                },
+                {
+                    "id": 1,
+                    "translation": "Several days / 1 - చాలా రోజులు"
+                },
+                {
+                    "id": 2,
+                    "translation": "More than half the number of days / 2 - సగం కన్నా ఎక్కువ రోజులు"
+                },
+                {
+                    "id": 3,
+                    "translation": "Almost every day / 3 - దాదాపు ప్రతి రోజు"
+                }
+            ]
+        },
+        {
+            "id": "phq9_total_score",
+            "form": "patient_health_questionnaire_phq9",
+            "label": {
+                "translation": "TOTAL SCORE"
+            }
+        },
+        {
+            "id": "phq9_10_difficulty",
+            "form": "patient_health_questionnaire_phq9",
+            "label": {
+                "translation": "If you checked off any problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?"
+            },
+            "enum": [
+                {
+                    "id": 0,
+                    "translation": "Not difficult at all / 0 - అస్సలు ఇబ్బంది లేదు"
+                },
+                {
+                    "id": 1,
+                    "translation": "Somewhat difficult / 1 - కొంతవరకు ఇబ్బంది"
+                },
+                {
+                    "id": 2,
+                    "translation": "Very difficult / 2 - చాలా ఇబ్బంది"
+                },
+                {
+                    "id": 3,
+                    "translation": "Extremely difficult / 3 - విపరీతమైన ఇబ్బంది"
+                }
+            ]
+        }
+    ]
+}
