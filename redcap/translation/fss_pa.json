@@ -1,65 +1,69 @@
 {
     "creator": "REDCap MLM",
     "version": "v15.5.4",
-    "timestamp": "2026-04-28 09:12:24",
+    "timestamp": "2026-06-10 12:00:00",
     "key": "pa",
     "display": "Punjabi",
     "rtl": false,
     "fieldTranslations": [
         {
+            "id": "screening_subject_id",
+            "form": "fatigue_severity_scale",
+            "label": {
+                "translation": "Screening Subject ID"
+            }
+        },
+        {
+            "id": "fss_date",
+            "form": "fatigue_severity_scale",
+            "label": {
+                "translation": "Date of Assessment"
+            }
+        },
+        {
             "id": "fss_header",
             "form": "fatigue_severity_scale",
             "header": {
-                "hash": "69f57767ab",
                 "translation": "FATIGUE SEVERITY SCALE (FSS)"
             },
             "label": {
-                "hash": "ef70605511",
-                "translation": "Please circle the number that best describes your fatigue over the past week."
+                "translation": "Please circle the number that best describes your fatigue over the past week. <br> ਥਕਾਵਟ ਗੰਭੀਰਤਾ ਪੈਮਾਨਾ - ਕਿਰਪਾ ਕਰਕੇ 1 ਤੋਂ 7 ਤੱਕ ਦੀ ਅੰਕਾਂ ਵਿੱਚੋਂ ਉਹ ਚੁਣੋ ਜੋ ਤੁਹਾਡੇ ਅਨੁਭਵ ਨੂੰ ਸਭ ਤੋਂ ਵਧੀਆ ਦਰਸਾਉਂਦਾ ਹੈ। ਇਹ ਪਿਛਲੇ ਹਫ਼ਤੇ ਦੇ ਤੁਹਾਡੇ ਆਮ ਜੀਵਨ-ਸ਼ੈਲੀ ਨੂੰ ਦਰਸਾਉਂਦਾ ਹੈ। 1 ਦਾ ਅਰਥ ਹੈ 'ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਹਿਮਤ' ਅਤੇ 7 ਦਾ ਅਰਥ ਹੈ 'ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਿਮਤ'"
             }
         },
         {
             "id": "fss_1_motivation",
             "form": "fatigue_severity_scale",
             "label": {
-                "hash": "e4b0936897",
-                "translation": "1. My motivation is lower when I am fatigued / 1. ਜਦੋਂ ਮੈਂ ਥੱਕਿਆ ਹੁੰਦਾ ਹਾਂ ਤਾਂ ਮੇਰੀ ਪ੍ਰੇਰਣਾ ਘੱਟ ਹੁੰਦੀ ਹੈ।"
+                "translation": "1. My motivation is lower when I am fatigued <br> 1. ਜਦੋਂ ਮੈਂ ਥੱਕਿਆ ਹੁੰਦਾ ਹਾਂ ਤਾਂ ਮੇਰੀ ਪ੍ਰੇਰਣਾ ਘੱਟ ਹੁੰਦੀ ਹੈ।"
             },
             "enum": [
                 {
-                    "id": 1,
-                    "hash": "32f79cfe10",
-                    "translation": "1 (Strongly disagree) / 1 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਹਿਮਤ"
+                    "id": "1",
+                    "translation": "1 - Strongly Disagree / 1 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਹਿਮਤ"
                 },
                 {
-                    "id": 2,
-                    "hash": "da4b9237ba",
+                    "id": "2",
                     "translation": "2"
                 },
                 {
-                    "id": 3,
-                    "hash": "77de68daec",
+                    "id": "3",
                     "translation": "3"
                 },
                 {
-                    "id": 4,
-                    "hash": "1b64538924",
+                    "id": "4",
                     "translation": "4"
                 },
                 {
-                    "id": 5,
-                    "hash": "ac3478d69a",
+                    "id": "5",
                     "translation": "5"
                 },
                 {
-                    "id": 6,
-                    "hash": "c1dfd96eea",
+                    "id": "6",
                     "translation": "6"
                 },
                 {
-                    "id": 7,
-                    "hash": "1c1ea51d7f",
-                    "translation": "7 (Strongly agree) / 7 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਿਮਤ"
+                    "id": "7",
+                    "translation": "7 - Strongly Agree / 7 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਿਮਤ"
                 }
             ]
         },
@@ -67,44 +71,36 @@
             "id": "fss_2_exercise",
             "form": "fatigue_severity_scale",
             "label": {
-                "hash": "e08002ef8a",
-                "translation": "2. Exercise brings on my fatigue / 2. ਕਸਰਤ ਮੇਰੀ ਥਕਾਵਟ ਵਧਾਉਂਦੀ ਹੈ।"
+                "translation": "2. Exercise brings on my fatigue <br> 2. ਕਸਰਤ ਮੇਰੀ ਥਕਾਵਟ ਵਧਾਉਂਦੀ ਹੈ।"
             },
             "enum": [
                 {
-                    "id": 1,
-                    "hash": "32f79cfe10",
-                    "translation": "1 / 1 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਹਿਮਤ"
+                    "id": "1",
+                    "translation": "1 - Strongly Disagree / 1 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਹਿਮਤ"
                 },
                 {
-                    "id": 2,
-                    "hash": "da4b9237ba",
+                    "id": "2",
                     "translation": "2"
                 },
                 {
-                    "id": 3,
-                    "hash": "77de68daec",
+                    "id": "3",
                     "translation": "3"
                 },
                 {
-                    "id": 4,
-                    "hash": "1b64538924",
+                    "id": "4",
                     "translation": "4"
                 },
                 {
-                    "id": 5,
-                    "hash": "ac3478d69a",
+                    "id": "5",
                     "translation": "5"
                 },
                 {
-                    "id": 6,
-                    "hash": "c1dfd96eea",
+                    "id": "6",
                     "translation": "6"
                 },
                 {
-                    "id": 7,
-                    "hash": "1c1ea51d7f",
-                    "translation": "7 / 7 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਿਮਤ"
+                    "id": "7",
+                    "translation": "7 - Strongly Agree / 7 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਿਮਤ"
                 }
             ]
         },
@@ -112,88 +108,72 @@
             "id": "fss_3_easily",
             "form": "fatigue_severity_scale",
             "label": {
-                "hash": "3bda8ad56e",
-                "translation": "3. I am easily fatigued / 3. ਮੈਂ ਆਸਾਨੀ ਨਾਲ ਥੱਕ ਜਾਂਦਾ ਹਾਂ।"
+                "translation": "3. I am easily fatigued <br> 3. ਮੈਂ ਆਸਾਨੀ ਨਾਲ ਥੱਕ ਜਾਂਦਾ ਹਾਂ।"
             },
             "enum": [
                 {
-                    "id": 1,
-                    "hash": "32f79cfe10",
-                    "translation": "1 / 1 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਹਿਮਤ"
+                    "id": "1",
+                    "translation": "1 - Strongly Disagree / 1 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਹਿਮਤ"
                 },
                 {
-                    "id": 2,
-                    "hash": "da4b9237ba",
+                    "id": "2",
                     "translation": "2"
                 },
                 {
-                    "id": 3,
-                    "hash": "77de68daec",
+                    "id": "3",
                     "translation": "3"
                 },
                 {
-                    "id": 4,
-                    "hash": "1b64538924",
+                    "id": "4",
                     "translation": "4"
                 },
                 {
-                    "id": 5,
-                    "hash": "ac3478d69a",
+                    "id": "5",
                     "translation": "5"
                 },
                 {
-                    "id": 6,
-                    "hash": "c1dfd96eea",
+                    "id": "6",
                     "translation": "6"
                 },
                 {
-                    "id": 7,
-                    "hash": "1c1ea51d7f",
-                    "translation": "7 / 7 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਿਮਤ"
+                    "id": "7",
+                    "translation": "7 - Strongly Agree / 7 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਿਮਤ"
                 }
             ]
         },
         {
-            "id": "fss_4_physical",
+            "id": "fss_4_interferes",
             "form": "fatigue_severity_scale",
             "label": {
-                "hash": "283da1e03f",
-                "translation": "4. Fatigue interferes with my physical functioning. / 4. ਥਕਾਵਟ ਮੇਰੇ ਸਰੀਰਕ ਕੰਮਾਂ ਵਿੱਚ ਰੁਕਾਵਟ ਪਾਉਂਦੀ ਹੈ।"
+                "translation": "4. Fatigue interferes with my physical functioning <br> 4. ਥਕਾਵਟ ਮੇਰੇ ਸਰੀਰਕ ਕੰਮਾਂ ਵਿੱਚ ਰੁਕਾਵਟ ਪਾਉਂਦੀ ਹੈ।"
             },
             "enum": [
                 {
-                    "id": 1,
-                    "hash": "32f79cfe10",
+                    "id": "1",
                     "translation": "1 - Strongly Disagree / 1 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਹਿਮਤ"
                 },
                 {
-                    "id": 2,
-                    "hash": "da4b9237ba",
+                    "id": "2",
                     "translation": "2"
                 },
                 {
-                    "id": 3,
-                    "hash": "77de68daec",
+                    "id": "3",
                     "translation": "3"
                 },
                 {
-                    "id": 4,
-                    "hash": "1b64538924",
+                    "id": "4",
                     "translation": "4"
                 },
                 {
-                    "id": 5,
-                    "hash": "ac3478d69a",
+                    "id": "5",
                     "translation": "5"
                 },
                 {
-                    "id": 6,
-                    "hash": "c1dfd96eea",
+                    "id": "6",
                     "translation": "6"
                 },
                 {
-                    "id": 7,
-                    "hash": "1c1ea51d7f",
+                    "id": "7",
                     "translation": "7 - Strongly Agree / 7 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਿਮਤ"
                 }
             ]
@@ -202,44 +182,36 @@
             "id": "fss_5_problems",
             "form": "fatigue_severity_scale",
             "label": {
-                "hash": "99c8828c8f",
-                "translation": "5. Fatigue causes frequent problems for me / 5. ਥਕਾਵਟ ਮੈਨੂੰ ਵਾਰ-ਵਾਰ ਸਮੱਸਿਆ ਦਿੰਦੀ ਹੈ।"
+                "translation": "5. Fatigue causes frequent problems for me <br> 5. ਥਕਾਵਟ ਮੈਨੂੰ ਵਾਰ-ਵਾਰ ਸਮੱਸਿਆ ਦਿੰਦੀ ਹੈ।"
             },
             "enum": [
                 {
-                    "id": 1,
-                    "hash": "32f79cfe10",
-                    "translation": "1 / 1 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਹਿਮਤ"
+                    "id": "1",
+                    "translation": "1 - Strongly Disagree / 1 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਹਿਮਤ"
                 },
                 {
-                    "id": 2,
-                    "hash": "da4b9237ba",
+                    "id": "2",
                     "translation": "2"
                 },
                 {
-                    "id": 3,
-                    "hash": "77de68daec",
+                    "id": "3",
                     "translation": "3"
                 },
                 {
-                    "id": 4,
-                    "hash": "1b64538924",
+                    "id": "4",
                     "translation": "4"
                 },
                 {
-                    "id": 5,
-                    "hash": "ac3478d69a",
+                    "id": "5",
                     "translation": "5"
                 },
                 {
-                    "id": 6,
-                    "hash": "c1dfd96eea",
+                    "id": "6",
                     "translation": "6"
                 },
                 {
-                    "id": 7,
-                    "hash": "1c1ea51d7f",
-                    "translation": "7 / 7 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਿਮਤ"
+                    "id": "7",
+                    "translation": "7 - Strongly Agree / 7 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਿਮਤ"
                 }
             ]
         },
@@ -247,44 +219,36 @@
             "id": "fss_6_sustained",
             "form": "fatigue_severity_scale",
             "label": {
-                "hash": "47dab09968",
-                "translation": "6. My fatigue prevents sustained physical functioning / 6. ਮੇਰੀ ਥਕਾਵਟ ਲਗਾਤਾਰ ਸਰੀਰਕ ਕੰਮ ਕਰਨ ਤੋਂ ਰੋਕਦੀ ਹੈ।"
+                "translation": "6. My fatigue prevents sustained physical functioning <br> 6. ਮੇਰੀ ਥਕਾਵਟ ਲਗਾਤਾਰ ਸਰੀਰਕ ਕੰਮ ਕਰਨ ਤੋਂ ਰੋਕਦੀ ਹੈ।"
             },
             "enum": [
                 {
-                    "id": 1,
-                    "hash": "32f79cfe10",
-                    "translation": "1 / 1 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਹਿਮਤ"
+                    "id": "1",
+                    "translation": "1 - Strongly Disagree / 1 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਹਿਮਤ"
                 },
                 {
-                    "id": 2,
-                    "hash": "da4b9237ba",
+                    "id": "2",
                     "translation": "2"
                 },
                 {
-                    "id": 3,
-                    "hash": "77de68daec",
+                    "id": "3",
                     "translation": "3"
                 },
                 {
-                    "id": 4,
-                    "hash": "1b64538924",
+                    "id": "4",
                     "translation": "4"
                 },
                 {
-                    "id": 5,
-                    "hash": "ac3478d69a",
+                    "id": "5",
                     "translation": "5"
                 },
                 {
-                    "id": 6,
-                    "hash": "c1dfd96eea",
+                    "id": "6",
                     "translation": "6"
                 },
                 {
-                    "id": 7,
-                    "hash": "1c1ea51d7f",
-                    "translation": "7 / 7 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਿਮਤ"
+                    "id": "7",
+                    "translation": "7 - Strongly Agree / 7 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਿਮਤ"
                 }
             ]
         },
@@ -292,44 +256,36 @@
             "id": "fss_7_duties",
             "form": "fatigue_severity_scale",
             "label": {
-                "hash": "3cac986f79",
-                "translation": "7. Fatigue interferes with carrying out certain duties and responsibilities / 7. ਥਕਾਵਟ ਕੁਝ ਫਰਜ਼ਾਂ ਅਤੇ ਜ਼ਿੰਮੇਵਾਰੀਆਂ ਨੂੰ ਨਿਭਾਉਣ ਵਿੱਚ ਰੁਕਾਵਟ ਪਾਉਂਦੀ ਹੈ।"
+                "translation": "7. Fatigue interferes with carrying out certain duties and responsibilities <br> 7. ਥਕਾਵਟ ਕੁਝ ਫਰਜ਼ਾਂ ਅਤੇ ਜ਼ਿੰਮੇਵਾਰੀਆਂ ਨੂੰ ਨਿਭਾਉਣ ਵਿੱਚ ਰੁਕਾਵਟ ਪਾਉਂਦੀ ਹੈ।"
             },
             "enum": [
                 {
-                    "id": 1,
-                    "hash": "32f79cfe10",
-                    "translation": "1 / 1 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਹਿਮਤ"
+                    "id": "1",
+                    "translation": "1 - Strongly Disagree / 1 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਹਿਮਤ"
                 },
                 {
-                    "id": 2,
-                    "hash": "da4b9237ba",
+                    "id": "2",
                     "translation": "2"
                 },
                 {
-                    "id": 3,
-                    "hash": "77de68daec",
+                    "id": "3",
                     "translation": "3"
                 },
                 {
-                    "id": 4,
-                    "hash": "1b64538924",
+                    "id": "4",
                     "translation": "4"
                 },
                 {
-                    "id": 5,
-                    "hash": "ac3478d69a",
+                    "id": "5",
                     "translation": "5"
                 },
                 {
-                    "id": 6,
-                    "hash": "c1dfd96eea",
+                    "id": "6",
                     "translation": "6"
                 },
                 {
-                    "id": 7,
-                    "hash": "1c1ea51d7f",
-                    "translation": "7 / 7 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਿਮਤ"
+                    "id": "7",
+                    "translation": "7 - Strongly Agree / 7 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਿਮਤ"
                 }
             ]
         },
@@ -337,99 +293,75 @@
             "id": "fss_8_disabling",
             "form": "fatigue_severity_scale",
             "label": {
-                "hash": "be9f35a3b9",
-                "translation": "8. Fatigue is among my three most disabling symptoms / 8. ਥਕਾਵਟ ਮੇਰੇ ਸਭ ਤੋਂ ਅਸਮਰੱਥ ਕਰਨ ਵਾਲੇ ਲੱਛਣਾਂ ਵਿੱਚੋਂ ਇੱਕ ਹੈ।"
+                "translation": "8. Fatigue is among my three most disabling symptoms <br> 8. ਥਕਾਵਟ ਮੇਰੇ ਸਭ ਤੋਂ ਅਸਮਰੱਥ ਕਰਨ ਵਾਲੇ ਲੱਛਣਾਂ ਵਿੱਚੋਂ ਇੱਕ ਹੈ।"
             },
             "enum": [
                 {
-                    "id": 1,
-                    "hash": "32f79cfe10",
-                    "translation": "1 / 1 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਹਿਮਤ"
-                },
-                {
-                    "id": 2,
-                    "hash": "da4b9237ba",
-                    "translation": "2"
-                },
-                {
-                    "id": 3,
-                    "hash": "77de68daec",
-                    "translation": "3"
-                },
-                {
-                    "id": 4,
-                    "hash": "1b64538924",
-                    "translation": "4"
-                },
-                {
-                    "id": 5,
-                    "hash": "ac3478d69a",
-                    "translation": "5"
-                },
-                {
-                    "id": 6,
-                    "hash": "c1dfd96eea",
-                    "translation": "6"
-                },
-                {
-                    "id": 7,
-                    "hash": "1c1ea51d7f",
-                    "translation": "7 / 7 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਿਮਤ"
-                }
-            ]
-        },
-        {
-            "id": "fss_9_social",
-            "form": "fatigue_severity_scale",
-            "label": {
-                "hash": "2006125184",
-                "translation": "9. Fatigue interferes with my work, family, or social life. / 9. ਥਕਾਵਟ ਮੇਰੇ ਕੰਮ, ਪਰਿਵਾਰ ਜਾਂ ਸਮਾਜਿਕ ਜੀਵਨ ਵਿੱਚ ਰੁਕਾਵਟ ਪਾਉਂਦੀ ਹੈ।"
-            },
-            "enum": [
-                {
-                    "id": 1,
-                    "hash": "32f79cfe10",
+                    "id": "1",
                     "translation": "1 - Strongly Disagree / 1 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਹਿਮਤ"
                 },
                 {
-                    "id": 2,
-                    "hash": "da4b9237ba",
+                    "id": "2",
                     "translation": "2"
                 },
                 {
-                    "id": 3,
-                    "hash": "77de68daec",
+                    "id": "3",
                     "translation": "3"
                 },
                 {
-                    "id": 4,
-                    "hash": "1b64538924",
+                    "id": "4",
                     "translation": "4"
                 },
                 {
-                    "id": 5,
-                    "hash": "ac3478d69a",
+                    "id": "5",
                     "translation": "5"
                 },
                 {
-                    "id": 6,
-                    "hash": "c1dfd96eea",
+                    "id": "6",
                     "translation": "6"
                 },
                 {
-                    "id": 7,
-                    "hash": "1c1ea51d7f",
+                    "id": "7",
                     "translation": "7 - Strongly Agree / 7 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਿਮਤ"
                 }
             ]
         },
         {
-            "id": "fss_mean_score",
+            "id": "fss_9_work",
             "form": "fatigue_severity_scale",
             "label": {
-                "hash": "aca6878da1",
-                "translation": "FSS Mean Score (Average of 9 items)"
-            }
+                "translation": "9. Fatigue interferes with my work, family, or social life <br> 9. ਥਕਾਵਟ ਮੇਰੇ ਕੰਮ, ਪਰਿਵਾਰ ਜਾਂ ਸਮਾਜਿਕ ਜੀਵਨ ਵਿੱਚ ਰੁਕਾਵਟ ਪਾਉਂਦੀ ਹੈ।"
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "translation": "1 - Strongly Disagree / 1 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਸਹਿਮਤ"
+                },
+                {
+                    "id": "2",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "translation": "5"
+                },
+                {
+                    "id": "6",
+                    "translation": "6"
+                },
+                {
+                    "id": "7",
+                    "translation": "7 - Strongly Agree / 7 - ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਿਮਤ"
+                }
+            ]
         }
     ]
 }

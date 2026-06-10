@@ -1,50 +1,57 @@
 {
     "creator": "REDCap MLM",
     "version": "v15.5.4",
-    "timestamp": "2026-04-28 09:12:24",
+    "timestamp": "2026-06-10 12:00:00",
     "key": "pa",
     "display": "Punjabi",
     "rtl": false,
     "fieldTranslations": [
         {
+            "id": "screening_subject_id",
+            "form": "patient_health_questionnaire_phq9",
+            "label": {
+                "translation": "Screening Subject ID"
+            }
+        },
+        {
+            "id": "phq9_date",
+            "form": "patient_health_questionnaire_phq9",
+            "label": {
+                "translation": "Date of Assessment"
+            }
+        },
+        {
             "id": "phq9_header",
             "form": "patient_health_questionnaire_phq9",
             "header": {
-                "hash": "eb1f292e39",
-                "translation": "PATIENT HEALTH QUESTIONNAIRE-9 (PHQ-9)"
+                "translation": "PATIENT HEALTH QUESTIONNAIRE-9 (PHQ-9) / ਮਰੀਜ਼ ਸਿਹਤ ਪ੍ਰਸ਼ਨਾਲੀ - 9 (PHQ-9)"
             },
             "label": {
-                "hash": "275e74fe90",
-                "translation": "Over the last 2 weeks, how often have you had any of the following problems? / ਬੀਤੇ 14 ਦਿਨਾਂ ਦੌਰਾਨ, ਅਗਾਂਹ ਦਿੱਤੀਆਂ ਪਰੇਸ਼ਾਨੀਆਂ ਨੇ ਤੁਹਾਨੂੰ ਕਿੰਨੀ ਵਾਰ ਤੰਗ ਕੀਤਾ ਹੈ?"
+                "translation": "Over the last 2 weeks, how often have you had any of the following problems? <br> ਬੀਤੇ 14 ਦਿਨਾਂ ਦੌਰਾਨ, ਅਗਾਂਹ ਦਿੱਤੀਆਂ ਪਰੇਸ਼ਾਨੀਆਂ ਨੇ ਤੁਹਾਨੂੰ ਕਿੰਨੀ ਵਾਰ ਤੰਗ ਕੀਤਾ ਹੈ? (ਆਪਣਾ ਜਵਾਬ ਦੇਣ ਲਈ “✓” ਦੀ ਵਰਤੋਂ ਕਰੋ)"
             }
         },
         {
             "id": "phq9_1_interest",
             "form": "patient_health_questionnaire_phq9",
             "label": {
-                "hash": "fc11edb520",
-                "translation": "1. Little interest or pleasure in doing things / 1. ਕੰਮ ਕਰਨ ਵਿੱਚ ਬਹੁਤ ਘੱਟ ਦਿਲਚਸਪੀ ਜਾਂ ਮਜ਼ਾ ਆਉਣਾ"
+                "translation": "1. Little interest or pleasure in doing things <br> 1. ਕੰਮ ਕਰਨ ਵਿੱਚ ਬਹੁਤ ਘੱਟ ਦਿਲਚਸਪੀ ਜਾਂ ਮਜ਼ਾ ਆਉਣਾ"
             },
             "enum": [
                 {
                     "id": 0,
-                    "translation": "Not at all / 0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ",
-                    "hash": "a53eb52a2f"
+                    "translation": "0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ"
                 },
                 {
                     "id": 1,
-                    "translation": "Several days / 1 - ਕਈ ਦਿਨ",
-                    "hash": "924634ed77"
+                    "translation": "1 - ਕਈ ਦਿਨ"
                 },
                 {
                     "id": 2,
-                    "translation": "More than half the number of days / 2 - ਅੱਧ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਦਿਨ",
-                    "hash": "1fa157105a"
+                    "translation": "2 - ਅੱਧ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਦਿਨ"
                 },
                 {
                     "id": 3,
-                    "translation": "Almost every day / 3 - ਲੱਗਭਗ ਹਰ ਦਿਨ",
-                    "hash": "c572d8bb50"
+                    "translation": "3 - ਲਗਭਗ ਹਰ ਦਿਨ"
                 }
             ]
         },
@@ -52,29 +59,24 @@
             "id": "phq9_2_depressed",
             "form": "patient_health_questionnaire_phq9",
             "label": {
-                "hash": "d28c672492",
-                "translation": "2. Feeling down, depressed, or hopeless / 2. ਬੇਵੱਸ, ਨਿਰਉਤਸ਼ਾਹ, ਜਾਂ ਨਾਉਮੀਦ ਮਹਿਸੂਸ ਕਰਨਾ"
+                "translation": "2. Feeling down, depressed, or hopeless <br> 2. ਬੇਵੱਸ, ਨਿਰਉਤਸ਼ਾਹ, ਜਾਂ ਨਾਉਮੀਦ ਮਹਿਸੂਸ ਕਰਨਾ"
             },
             "enum": [
                 {
                     "id": 0,
-                    "translation": "Not at all / 0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ",
-                    "hash": "a53eb52a2f"
+                    "translation": "0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ"
                 },
                 {
                     "id": 1,
-                    "translation": "Several days / 1 - ਕਈ ਦਿਨ",
-                    "hash": "924634ed77"
+                    "translation": "1 - ਕਈ ਦਿਨ"
                 },
                 {
                     "id": 2,
-                    "translation": "More than half the number of days / 2 - ਅੱਧ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਦਿਨ",
-                    "hash": "1fa157105a"
+                    "translation": "2 - ਅੱਧ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਦਿਨ"
                 },
                 {
                     "id": 3,
-                    "translation": "Almost every day / 3 - ਲੱਗਭਗ ਹਰ ਦਿਨ",
-                    "hash": "c572d8bb50"
+                    "translation": "3 - ਲਗਭਗ ਹਰ ਦਿਨ"
                 }
             ]
         },
@@ -82,29 +84,24 @@
             "id": "phq9_3_sleep",
             "form": "patient_health_questionnaire_phq9",
             "label": {
-                "hash": "b2d7095220",
-                "translation": "3. Trouble falling or staying asleep, or sleeping too much / 3. ਨੀਂਦ ਆਉਣ ਜਾਂ ਸੁੱਤੇ ਰਹਿਣ ਵਿੱਚ ਪਰੇਸ਼ਾਨੀ ਹੋਣੀ, ਜਾਂ ਬਹੁਤ ਜ਼ਿਆਦਾ ਸੌਣਾ"
+                "translation": "3. Trouble falling or staying asleep, or sleeping too much <br> 3. ਨੀਂਦ ਆਉਣ ਜਾਂ ਸੁੱਤੇ ਰਹਿਣ ਵਿੱਚ ਪਰੇਸ਼ਾਨੀ ਹੋਣੀ, ਜਾਂ ਬਹੁਤ ਜ਼ਿਆਦਾ ਸੌਣਾ"
             },
             "enum": [
                 {
                     "id": 0,
-                    "translation": "Not at all / 0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ",
-                    "hash": "a53eb52a2f"
+                    "translation": "0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ"
                 },
                 {
                     "id": 1,
-                    "translation": "Several days / 1 - ਕਈ ਦਿਨ",
-                    "hash": "924634ed77"
+                    "translation": "1 - ਕਈ ਦਿਨ"
                 },
                 {
                     "id": 2,
-                    "translation": "More than half the number of days / 2 - ਅੱਧ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਦਿਨ",
-                    "hash": "1fa157105a"
+                    "translation": "2 - ਅੱਧ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਦਿਨ"
                 },
                 {
                     "id": 3,
-                    "translation": "Almost every day / 3 - ਲੱਗਭਗ ਹਰ ਦਿਨ",
-                    "hash": "c572d8bb50"
+                    "translation": "3 - ਲਗਭਗ ਹਰ ਦਿਨ"
                 }
             ]
         },
@@ -112,29 +109,24 @@
             "id": "phq9_4_tired",
             "form": "patient_health_questionnaire_phq9",
             "label": {
-                "hash": "de61ab6a50",
-                "translation": "4. Feeling tired or having little energy / 4. ਥਕਾਨ ਮਹਿਸੂਸ ਕਰਨੀ ਜਾਂ ਸਫ਼ੂਰਤੀ ਘੱਟ ਹੋਣੀ"
+                "translation": "4. Feeling tired or having little energy <br> 4. ਥਕਾਨ ਮਹਿਸੂਸ ਕਰਨੀ ਜਾਂ ਸਫ਼ੂਰਤੀ ਘੱਟ ਹੋਣੀ"
             },
             "enum": [
                 {
                     "id": 0,
-                    "translation": "Not at all / 0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ",
-                    "hash": "a53eb52a2f"
+                    "translation": "0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ"
                 },
                 {
                     "id": 1,
-                    "translation": "Several days / 1 - ਕਈ ਦਿਨ",
-                    "hash": "924634ed77"
+                    "translation": "1 - ਕਈ ਦਿਨ"
                 },
                 {
                     "id": 2,
-                    "translation": "More than half the number of days / 2 - ਅੱਧ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਦਿਨ",
-                    "hash": "1fa157105a"
+                    "translation": "2 - ਅੱਧ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਦਿਨ"
                 },
                 {
                     "id": 3,
-                    "translation": "Almost every day / 3 - ਲੱਗਭਗ ਹਰ ਦਿਨ",
-                    "hash": "c572d8bb50"
+                    "translation": "3 - ਲਗਭਗ ਹਰ ਦਿਨ"
                 }
             ]
         },
@@ -142,29 +134,24 @@
             "id": "phq9_5_appetite",
             "form": "patient_health_questionnaire_phq9",
             "label": {
-                "hash": "d80f35b5c6",
-                "translation": "5. Poor appetite or overeating / 5. ਭੁੱਖ ਘੱਟ ਲੱਗਣੀ ਜਾਂ ਬਹੁਤ ਜ਼ਿਆਦਾ ਖਾਣਾ"
+                "translation": "5. Poor appetite or overeating <br> 5. ਭੁੱਖ ਘੱਟ ਲੱਗਣੀ ਜਾਂ ਬਹੁਤ ਜ਼ਿਆਦਾ ਖਾਣਾ"
             },
             "enum": [
                 {
                     "id": 0,
-                    "translation": "Not at all / 0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ",
-                    "hash": "a53eb52a2f"
+                    "translation": "0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ"
                 },
                 {
                     "id": 1,
-                    "translation": "Several days / 1 - ਕਈ ਦਿਨ",
-                    "hash": "924634ed77"
+                    "translation": "1 - ਕਈ ਦਿਨ"
                 },
                 {
                     "id": 2,
-                    "translation": "More than half the number of days / 2 - ਅੱਧ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਦਿਨ",
-                    "hash": "1fa157105a"
+                    "translation": "2 - ਅੱਧ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਦਿਨ"
                 },
                 {
                     "id": 3,
-                    "translation": "Almost every day / 3 - ਲੱਗਭਗ ਹਰ ਦਿਨ",
-                    "hash": "c572d8bb50"
+                    "translation": "3 - ਲਗਭਗ ਹਰ ਦਿਨ"
                 }
             ]
         },
@@ -172,29 +159,24 @@
             "id": "phq9_6_failure",
             "form": "patient_health_questionnaire_phq9",
             "label": {
-                "hash": "94bd246db1",
-                "translation": "6. Feeling bad about yourself — or that you are a failure or have let yourself down or your family down / 6. ਆਪਣੇ ਆਪ ਬਾਰੇ ਬੁਰਾ ਮਹਿਸੂਸ ਕਰਨਾ — ਜਾਂ ਇਹ ਕਿ ਤੁਸੀਂ ਨਿਕੰਮੇ ਹੋ ਜਾਂ ਤੁਸੀਂ ਆਪਣੇ ਆਪ ਨੂੰ ਜਾਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਨੀਵਾਂ ਕੀਤਾ ਹੈ"
+                "translation": "6. Feeling bad about yourself — or that you are a failure or have let yourself down or your family down <br> 6. ਆਪਣੇ ਆਪ ਬਾਰੇ ਬੁਰਾ ਮਹਿਸੂਸ ਕਰਨਾ — ਜਾਂ ਇਹ ਕਿ ਤੁਸੀਂ ਨਿਕੰਮੇ ਹੋ ਜਾਂ ਤੁਸੀਂ ਆਪਣੇ ਆਪ ਨੂੰ ਜਾਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਨੀਵਾਂ ਕੀਤਾ ਹੈ"
             },
             "enum": [
                 {
                     "id": 0,
-                    "translation": "Not at all / 0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ",
-                    "hash": "a53eb52a2f"
+                    "translation": "0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ"
                 },
                 {
                     "id": 1,
-                    "translation": "Several days / 1 - ਕਈ ਦਿਨ",
-                    "hash": "924634ed77"
+                    "translation": "1 - ਕਈ ਦਿਨ"
                 },
                 {
                     "id": 2,
-                    "translation": "More than half the number of days / 2 - ਅੱਧ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਦਿਨ",
-                    "hash": "1fa157105a"
+                    "translation": "2 - ਅੱਧ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਦਿਨ"
                 },
                 {
                     "id": 3,
-                    "translation": "Almost every day / 3 - ਲੱਗਭਗ ਹਰ ਦਿਨ",
-                    "hash": "c572d8bb50"
+                    "translation": "3 - ਲਗਭਗ ਹਰ ਦਿਨ"
                 }
             ]
         },
@@ -202,29 +184,24 @@
             "id": "phq9_7_concentrating",
             "form": "patient_health_questionnaire_phq9",
             "label": {
-                "hash": "4001827d33",
-                "translation": "7. Trouble concentrating on things, such as reading the newspaper or watching television / 7. ਚੀਜ਼ਾਂ 'ਤੇ ਧਿਆਨ ਲਗਾਉਣ ਵਿੱਚ ਪਰੇਸ਼ਾਨੀ ਹੋਣੀ, ਜਿਵੇਂ ਕਿ ਅਖ਼ਬਾਰ ਪੜ੍ਹਨ ਜਾਂ ਟੈਲੀਵੀਜ਼ਨ ਦੇਖਣ ਵਿੱਚ"
+                "translation": "7. Trouble concentrating on things, such as reading the newspaper or watching television <br> 7. ਚੀਜ਼ਾਂ 'ਤੇ ਧਿਆਨ ਲਗਾਉਣ ਵਿੱਚ ਪਰੇਸ਼ਾਨੀ ਹੋਣੀ, ਜਿਵੇਂ ਕਿ ਅਖ਼ਬਾਰ ਪੜ੍ਹਨ ਜਾਂ ਟੈਲੀਵੀਜ਼ਨ ਦੇਖਣ ਵਿੱਚ"
             },
             "enum": [
                 {
                     "id": 0,
-                    "translation": "Not at all / 0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ",
-                    "hash": "a53eb52a2f"
+                    "translation": "0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ"
                 },
                 {
                     "id": 1,
-                    "translation": "Several days / 1 - ਕਈ ਦਿਨ",
-                    "hash": "924634ed77"
+                    "translation": "1 - ਕਈ ਦਿਨ"
                 },
                 {
                     "id": 2,
-                    "translation": "More than half the number of days / 2 - ਅੱਧ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਦਿਨ",
-                    "hash": "1fa157105a"
+                    "translation": "2 - ਅੱਧ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਦਿਨ"
                 },
                 {
                     "id": 3,
-                    "translation": "Almost every day / 3 - ਲੱਗਭਗ ਹਰ ਦਿਨ",
-                    "hash": "c572d8bb50"
+                    "translation": "3 - ਲਗਭਗ ਹਰ ਦਿਨ"
                 }
             ]
         },
@@ -232,29 +209,24 @@
             "id": "phq9_8_moving",
             "form": "patient_health_questionnaire_phq9",
             "label": {
-                "hash": "346fa17c3c",
-                "translation": "8. Moving or speaking so slowly that other people could have noticed? Or the opposite — being so fidgety or restless that you have been moving around a lot more than usual / 8. ਐਨਾ ਹੌਲੀ ਤੁਰਨਾ ਜਾਂ ਬੋਲਣਾ ਕਿ ਹੋਰ ਲੋਕਾਂ ਨੂੰ ਵੀ ਪ੍ਰਤੱਖ ਹੋ ਜਾਵੇ? ਜਾਂ ਇਸ ਦੇ ਵਿਪਰੀਤ — ਆਮ ਨਾਲੋਂ ਬਹੁਤ ਜ਼ਿਆਦਾ ਹਿਲਜੁਲ ਜ਼ਾਹਰ ਕਰਨੀ"
+                "translation": "8. Moving or speaking so slowly that other people could have noticed? Or the opposite — being so fidgety or restless that you have been moving around a lot more than usual <br> 8. ਐਨਾ ਹੌਲੀ ਤੁਰਨਾ ਜਾਂ ਬੋਲਣਾ ਕਿ ਹੋਰ ਲੋਕਾਂ ਨੂੰ ਵੀ ਪ੍ਰਤੱਖ ਹੋ ਜਾਵੇ? ਜਾਂ ਇਸ ਦੇ ਵਿਪਰੀਤ — ਆਮ ਨਾਲੋਂ ਬਹੁਤ ਜ਼ਿਆਦਾ ਹਿਲਜੁਲ ਜ਼ਾਹਰ ਕਰਨੀ"
             },
             "enum": [
                 {
                     "id": 0,
-                    "translation": "Not at all / 0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ",
-                    "hash": "a53eb52a2f"
+                    "translation": "0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ"
                 },
                 {
                     "id": 1,
-                    "translation": "Several days / 1 - ਕਈ ਦਿਨ",
-                    "hash": "924634ed77"
+                    "translation": "1 - ਕਈ ਦਿਨ"
                 },
                 {
                     "id": 2,
-                    "translation": "More than half the number of days / 2 - ਅੱਧ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਦਿਨ",
-                    "hash": "1fa157105a"
+                    "translation": "2 - ਅੱਧ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਦਿਨ"
                 },
                 {
                     "id": 3,
-                    "translation": "Almost every day / 3 - ਲੱਗਭਗ ਹਰ ਦਿਨ",
-                    "hash": "c572d8bb50"
+                    "translation": "3 - ਲਗਭਗ ਹਰ ਦਿਨ"
                 }
             ]
         },
@@ -262,29 +234,49 @@
             "id": "phq9_9_thoughts",
             "form": "patient_health_questionnaire_phq9",
             "label": {
-                "hash": "3f22aa5482",
-                "translation": "9. Thoughts that you would be better off dead or of hurting yourself in some way / 9. ਅਜਿਹੇ ਵਿਚਾਰ ਕਿ ਤੁਹਾਡਾ ਮਰ ਜਾਣਾ ਹੀ ਬਹਿਤਰ ਹੈ ਜਾਂ ਆਪਣੇ ਆਪ ਨੂੰ ਕਿਸੇ ਤਰੀਕੇ ਨੁਕਸਾਨ ਪਹੁੰਚਾਉਣ ਦੇ ਵਿਚਾਰ"
+                "translation": "9. Thoughts that you would be better off dead or of hurting yourself in some way <br> 9. ਅਜਿਹੇ ਵਿਚਾਰ ਕਿ ਤੁਹਾਡਾ ਮਰ ਜਾਣਾ ਹੀ ਬਿਹਤਰ ਹੈ ਜਾਂ ਆਪਣੇ ਆਪ ਨੂੰ ਕਿਸੇ ਤਰੀਕੇ ਨੁਕਸਾਨ ਪਹੁੰਚਾਉਣ ਦੇ ਵਿਚਾਰ"
             },
             "enum": [
                 {
                     "id": 0,
-                    "translation": "Not at all / 0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ",
-                    "hash": "a53eb52a2f"
+                    "translation": "0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ"
                 },
                 {
                     "id": 1,
-                    "translation": "Several days / 1 - ਕਈ ਦਿਨ",
-                    "hash": "924634ed77"
+                    "translation": "1 - ਕਈ ਦਿਨ"
                 },
                 {
                     "id": 2,
-                    "translation": "More than half the number of days / 2 - ਅੱਧ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਦਿਨ",
-                    "hash": "1fa157105a"
+                    "translation": "2 - ਅੱਧ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਦਿਨ"
                 },
                 {
                     "id": 3,
-                    "translation": "Almost every day / 3 - ਲੱਗਭਗ ਹਰ ਦਿਨ",
-                    "hash": "c572d8bb50"
+                    "translation": "3 - ਲਗਭਗ ਹਰ ਦਿਨ"
+                }
+            ]
+        },
+        {
+            "id": "phq9_10_difficulty",
+            "form": "patient_health_questionnaire_phq9",
+            "label": {
+                "translation": "If you ticked off any problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people? <br> ਕੀ ਤੁਹਾਨੂੰ ਕਿਸੇ ਪਰੇਸ਼ਾਨੀ 'ਤੇ ਨਿਸ਼ਾਨ ਲਾਇਆ ਹੈ, ਇਨ੍ਹਾਂ ਪਰੇਸ਼ਾਨੀਆਂ ਕਰਕੇ ਤੁਹਾਨੂੰ ਆਪਣਾ ਕੰਮ ਕਰਨਾ, ਘਰ ਦੇ ਕੰਮਾਂ 'ਤੇ ਧਿਆਨ ਦੇਣਾ, ਜਾਂ ਹੋਰਨਾਂ ਲੋਕਾਂ ਨਾਲ ਮਿਲ-ਵਰਤਣਾ ਕਿੰਨਾ ਕੁ ਮੁਸ਼ਕਿਲ ਲੱਗਿਆ?"
+            },
+            "enum": [
+                {
+                    "id": 0,
+                    "translation": "0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ"
+                },
+                {
+                    "id": 1,
+                    "translation": "1 - ਥੋੜ੍ਹਾ ਕੁ ਮੁਸ਼ਕਿਲ"
+                },
+                {
+                    "id": 2,
+                    "translation": "2 - ਬਹੁਤ ਮੁਸ਼ਕਿਲ"
+                },
+                {
+                    "id": 3,
+                    "translation": "3 - ਬੇਹੱਦ ਮੁਸ਼ਕਿਲ"
                 }
             ]
         },
@@ -292,74 +284,7 @@
             "id": "phq9_total_score",
             "form": "patient_health_questionnaire_phq9",
             "label": {
-                "hash": "e8db1be38e",
-                "translation": "TOTAL SCORE"
-            }
-        },
-        {
-            "id": "phq9_10_difficulty",
-            "form": "patient_health_questionnaire_phq9",
-            "label": {
-                "hash": "7cd6cb7698",
-                "translation": "If you checked off any problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "translation": "Not difficult at all / 0 - ਬਿਲਕੁਲ ਵੀ ਨਹੀਂ",
-                    "hash": "967892cab2"
-                },
-                {
-                    "id": 1,
-                    "translation": "Somewhat difficult / 1 - ਥੋੜਾ ਕੁ ਮੁਸ਼ਕਿਲ",
-                    "hash": "b0b36f932f"
-                },
-                {
-                    "id": 2,
-                    "translation": "Very difficult / 2 - ਬਹੁਤ ਮੁਸ਼ਕਿਲ",
-                    "hash": "cc7a5173a0"
-                },
-                {
-                    "id": 3,
-                    "translation": "Extremely difficult / 3 - ਬੇਹੱਦ ਮੁਸ਼ਕਿਲ",
-                    "hash": "5980bbcabf"
-                }
-            ]
-        },
-        {
-            "id": "phq9_diagnosis_header",
-            "form": "patient_health_questionnaire_phq9",
-            "header": {
-                "hash": "804dff9e6e",
-                "translation": "FOR INITIAL DIAGNOSIS"
-            },
-            "label": {
-                "hash": "71d2434841",
-                "translation": "<b>For initial diagnosis:</b>"
-            }
-        },
-        {
-            "id": "phq9_interpretation",
-            "form": "patient_health_questionnaire_phq9",
-            "header": {
-                "hash": "f6f8bd9ab8",
-                "translation": "INTERPRETATION OF TOTAL SCORE"
-            },
-            "label": {
-                "hash": "32b1eb1b58",
-                "translation": "<b>Total Score Depression Severity</b>"
-            }
-        },
-        {
-            "id": "phq9_copyright",
-            "form": "patient_health_questionnaire_phq9",
-            "header": {
-                "hash": "e352fc138c",
-                "translation": "COPYRIGHT"
-            },
-            "label": {
-                "hash": "f1a75036ad",
-                "translation": "Copyright © 1999 Pfizer Inc. All rights reserved. Reproduced with permission. PRIME-MD© is a trademark of Pfizer Inc."
+                "translation": "TOTAL SCORE / ਕੁੱਲ ਸਕੋਰ"
             }
         }
     ]

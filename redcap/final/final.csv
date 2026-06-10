@@ -450,7 +450,9 @@ eq5d_anxiety_depression,eq_5d_5l,ANXIETY / DEPRESSION,radio,Anxiety / Depression
 eq5d_vas_header,eq_5d_5l,EQ VAS,descriptive,"• We would like to know how good or bad your health is TODAY.<br>• This scale is numbered from 0 to 100.<br>• 100 means the best health you can imagine. 0 means the worst health you can imagine.<br>• Mark an X on the scale to indicate how your health is TODAY.<br>• Now, please write the number you marked on the scale in the box",,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 eq5d_vas,eq_5d_5l,,text,EQ VAS Score (0-100),,,int,0,100,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 eq5d_copyright,eq_5d_5l,COPYRIGHT,descriptive,© EuroQol Research Foundation. EQ-5D™ is a trade mark of the EuroQol Research Foundation. India (English) v2.0,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-homer_id_14,completed_assessment,,text,Record ID,,,,,,,,,,,,,
+homer_id_14,numeric_pain_rating_scale,,text,Record ID,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
+nprs_score,numeric_pain_rating_scale,NUMERIC PAIN RATING SCALE (NPRS),dropdown,Numeric Pain Rating Scale (NPRS) Score,"0, 0 - No pain | 1, 1 - Mild pain | 2, 2 - Mild pain | 3, 3 - Mild pain | 4, 4 - Moderate pain | 5, 5 - Moderate pain | 6, 6 - Moderate pain | 7, 7 - Severe pain | 8, 8 - Severe pain | 9, 9 - Severe pain | 10, 10 - Severe pain",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
+homer_id_15,completed_assessment,,text,Record ID,,,,,,,,,,,,,
 completion_status_summary,completed_assessment,Assessment Status Overview,descriptive,"<table border='1' style='width:100%; border-collapse: collapse;'>
   <tr><th style='padding: 5px;'>Instrument</th><th style='padding: 5px;'>Status (0=Incomplete, 1=Unverified, 2=Complete)</th></tr>
   <tr><td style='padding: 5px;'>FMA Upper Extremity</td><td style='padding: 5px; text-align: center;'>[fugl_meyer_assessment_ue_complete]</td></tr>
@@ -470,7 +472,7 @@ completion_status_summary,completed_assessment,Assessment Status Overview,descri
 </table>
 <br>Once this form is marked <b>Complete</b>, all other assessments in this event will be locked.",,,,,,,,,,,,,
 completion_notes,completed_assessment,,notes,General Comments on Assessment Completion,,,,,,,,,,,,,
-homer_id_15,adverse_event,,text,Record ID,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
+homer_id_16,adverse_event,,text,Record ID,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 ae_no_events,adverse_event,ADVERSE EVENT FORM,checkbox,At end of study only: Check this box if participant had no adverse events,"1, No adverse events",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 ae_name,adverse_event,ADVERSE EVENT,text,Adverse Event,,,,,,,,,,,,, @READONLY-IF([completed_assessment_complete] = '2')
 ae_start_date,adverse_event,,text,Start Date,,,date_ymd,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
@@ -481,11 +483,11 @@ ae_action_taken,adverse_event,,radio,Action Taken Regarding Study Intervention,"
 ae_outcome,adverse_event,,radio,Outcome of AE,"1, Resolved | 2, Recovered with minor sequelae | 3, Recovered with major sequelae | 4, Ongoing/Continuing treatment | 5, Condition worsening | 6, Death | 7, Unknown",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 ae_expected,adverse_event,,radio,Expected?,"1, Yes | 2, No",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 ae_sae,adverse_event,,radio,"Serious Adverse Event (SAE)? (If yes, complete SAE form)","1, Yes | 2, No",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-homer_id_16,exit_questionnaire_control,,text,Record ID,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
+homer_id_17,exit_questionnaire_control,,text,Record ID,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 eqc_opt_out_reasons,exit_questionnaire_control,EXIT QUESTIONNAIRE - CONTROL GROUP,checkbox,Why did you opt out of the study?,"1, I am unhappy about not receiving the new treatment | 2, I don't feel any improvement from this therapy | 3, The exercises are taking too much time and effort | 4, I have lost interest in continuing the study | 5, The therapy did not match my expectations | 6, I have decided to try alternative therapies | 7, I have hired a physiotherapist for home sessions or going to therapy at a clinic/centre | 8, Others",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 eqc_continue_reason,exit_questionnaire_control,,notes,What would have made you continue the study?,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 eqc_other_comments,exit_questionnaire_control,,notes,Other Comments,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
-homer_id_17,exit_questionnaire_intervention,,text,Record ID,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
+homer_id_18,exit_questionnaire_intervention,,text,Record ID,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 eqi_opt_out_reasons,exit_questionnaire_intervention,EXIT QUESTIONNAIRE - INTERVENTION GROUP,checkbox,Why did you opt out of the study?,"1, Training at home without the therapist was difficult | 2, Training for 2 hours a day was tiring | 3, I had pain when training with the robot | 4, I felt this kind of therapy was not interesting | 5, I was not able to use the system independently | 6, The robot was not safe to use | 7, Recurrent hardware/software/electricity/UPS related technical issues | 8, The caregiver had limited familiarity with technology | 9, Unavailable to use the device because I was away/unwell during that period | 10, Other",,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 eqi_continue_reason,exit_questionnaire_intervention,,notes,What would have made you continue the study?,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')
 eqi_other_comments,exit_questionnaire_intervention,,notes,Other Comments,,,,,,,,,,,,,@READONLY-IF([completed_assessment_complete] = '2')

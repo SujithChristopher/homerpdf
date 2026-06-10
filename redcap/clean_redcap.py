@@ -82,6 +82,7 @@ def process_redcap_csvs(input_dir, output_file):
         "cahai7.csv",
         "nihss.csv",
         "eq5d.csv",
+        "nprs.csv",
         "completed_assessment.csv",
         "adverse_event.csv",
         "exit_questionnaire_control.csv",

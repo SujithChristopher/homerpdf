@@ -143,7 +143,7 @@
             "id": "csi_7_demands",
             "form": "caregiver_strain_index",
             "label": {
-                "translation": "7. There have been other demands on my time (e.g., from other family members) / உணர்ச்சி பூர்வமான மாற்றங்கள் ஏற்பட்டுள்ளன (எ.கா., மிகக் கடுமையான வாக்குவாதங்களால்)"
+                "translation": "7. There have been other demands on my time (e.g., from other family members)"
             },
             "enum": [
                 {
@@ -160,7 +160,7 @@
             "id": "csi_8_emotional",
             "form": "caregiver_strain_index",
             "label": {
-                "translation": "8. There have been emotional adjustments (e.g., because of severe arguments) / சில நடத்தைகள் கவலை அளிக்கின்றன (எ.கா., சிறுநீர் கட்டுப்பாடு இல்லாமல் போவதால்; ... விஷயங்களை நினைவில் கொள்வதில் சிரமப்படுகிறார்கள்; அல்லது ... பொருட்களை திருடினார்கள் என குற்றம் சாட்டுகிறார்கள்)"
+                "translation": "8. There have been emotional adjustments (e.g., because of severe arguments) / உணர்ச்சி பூர்வமான மாற்றங்கள் ஏற்பட்டுள்ளன (எ.கா., மிகக் கடுமையான வாக்குவாதங்களால்)"
             },
             "enum": [
                 {
@@ -177,7 +177,7 @@
             "id": "csi_9_upsetting",
             "form": "caregiver_strain_index",
             "label": {
-                "translation": "9. Some behaviour is upsetting (e.g., because of incontinence; ... has trouble remembering things; or ... accuses people of taking things) / ... தன் முந்தைய நிலையிலிருந்து மிகவும் மாறிவிட்டார் என்பதை காண்பது கவலை அளிக்கிறது (எ.கா., அவர்/அவள் முன்பு இருந்த நபரல்ல)"
+                "translation": "9. Some behaviour is upsetting (e.g., because of incontinence; ... has trouble remembering things; or ... accuses people of taking things) / சில நடத்தைகள் கவலை அளிக்கின்றன (எ.கா., சிறுநீர் கட்டுப்பாடு இல்லாமல் போவதால்; ... விஷயங்களை நினைவில் கொள்வதில் சிரமப்படுகிறார்கள்; அல்லது ... பொருட்களை திருடினார்கள் என குற்றம் சாட்டுகிறார்கள்)"
             },
             "enum": [
                 {
@@ -194,7 +194,7 @@
             "id": "csi_10_changed",
             "form": "caregiver_strain_index",
             "label": {
-                "translation": "10. It is upsetting to find that ... has changed so much from his/her former self (e.g., he/she is a different person now) / வேலை மாற்றங்கள் ஏற்பட்டுள்ளன (எ.கா., விடுப்பு எடுக்க வேண்டியிருப்பதால்)"
+                "translation": "10. It is upsetting to find that ... has changed so much from his/her former self (e.g., he/she is a different person now) / ... தன் முந்தைய நிலையிலிருந்து மிகவும் மாறிவிட்டார் என்பதை காண்பது கவலை அளிக்கிறது (எ.கா., அவர்/அவள் முன்பு இருந்த நபரல்ல)"
             },
             "enum": [
                 {
@@ -211,7 +211,7 @@
             "id": "csi_11_work",
             "form": "caregiver_strain_index",
             "label": {
-                "translation": "11. There have been work adjustments (e.g., because of having to take time off) / இது நிதி சிக்கலை ஏற்படுத்துகிறது"
+                "translation": "11. There have been work adjustments (e.g., because of having to take time off) / வேலை மாற்றங்கள் ஏற்பட்டுள்ளன (எ.கா., விடுப்பு எடுக்க வேண்டியிருப்பதால்)"
             },
             "enum": [
                 {
@@ -228,7 +228,7 @@
             "id": "csi_12_financial",
             "form": "caregiver_strain_index",
             "label": {
-                "translation": "12. It is a financial strain / முற்றிலும் மூழ்கிவிட்டதாக உணர்கிறேன் (எ.கா., ... பற்றிய கவலை; நீங்கள் எவ்வாறு சமாளிப்பீர்கள் என்ற கவலை)"
+                "translation": "12. It is a financial strain / இது நிதி சிக்கலை ஏற்படுத்துகிறது"
             },
             "enum": [
                 {
@@ -245,16 +245,16 @@
             "id": "csi_13_overwhelmed",
             "form": "caregiver_strain_index",
             "label": {
-                "translation": "13. Feeling completely overwhelmed (e.g., because of worry about ... ; or feeling that you cannot manage)"
+                "translation": "13. Feeling completely overwhelmed (e.g., because of worry about ... ; or feeling that you cannot manage) / முற்றிலும் மூழ்கிவிட்டதாக உணர்கிறேன் (எ.கா., ... பற்றிய கவலை; நீங்கள் எவ்வாறு சமாளிப்பீர்கள் என்ற கவலை)"
             },
             "enum": [
                 {
                     "id": "1",
-                    "translation": "Yes"
+                    "translation": "Yes / ஆம்"
                 },
                 {
                     "id": "0",
-                    "translation": "No"
+                    "translation": "No / இல்லை"
                 }
             ]
         }

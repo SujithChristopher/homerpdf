@@ -143,7 +143,7 @@
             "id": "csi_7_demands",
             "form": "caregiver_strain_index",
             "label": {
-                "translation": "7. There have been other demands on my time (e.g., from other family members) / భావోద్వేగ మార్పులు వచ్చాయి (ఉదా., తీవ్రమైన వాదనల కారణంగా)"
+                "translation": "7. There have been other demands on my time (e.g., from other family members)"
             },
             "enum": [
                 {
@@ -160,7 +160,7 @@
             "id": "csi_8_emotional",
             "form": "caregiver_strain_index",
             "label": {
-                "translation": "8. There have been emotional adjustments (e.g., because of severe arguments) / కొన్ని ప్రవర్తనలు కలవరపెడుతున్నాయి (ఉదా., మూత్రాశయ నియంత్రణ లేకపోవడం; ... విషయాలు గుర్తుపట్టడంలో ఇబ్బంది పడుతున్నారు; లేదా ... వస్తువులు తీసుకున్నారని అభియోగాలు వేస్తున్నారు)"
+                "translation": "8. There have been emotional adjustments (e.g., because of severe arguments) / భావోద్వేగ మార్పులు వచ్చాయి (ఉదా., తీవ్రమైన వాదనల కారణంగా)"
             },
             "enum": [
                 {
@@ -177,7 +177,7 @@
             "id": "csi_9_upsetting",
             "form": "caregiver_strain_index",
             "label": {
-                "translation": "9. Some behaviour is upsetting (e.g., because of incontinence; ... has trouble remembering things; or ... accuses people of taking things) / ... పూర్వపు వ్యక్తిత్వం నుండి చాలా మారిపోయారని చూడడం కలవరపెడుతోంది (ఉదా., అతను/ఆమె ముందెప్పుడూ ఉన్న వ్యక్తి కాదు)"
+                "translation": "9. Some behaviour is upsetting (e.g., because of incontinence; ... has trouble remembering things; or ... accuses people of taking things) / కొన్ని ప్రవర్తనలు కలవరపెడుతున్నాయి (ఉదా., మూత్రాశయ నియంత్రణ లేకపోవడం; ... విషయాలు గుర్తుపట్టడంలో ఇబ్బంది పడుతున్నారు; లేదా ... వస్తువులు తీసుకున్నారని అభియోగాలు వేస్తున్నారు)"
             },
             "enum": [
                 {
@@ -194,7 +194,7 @@
             "id": "csi_10_changed",
             "form": "caregiver_strain_index",
             "label": {
-                "translation": "10. It is upsetting to find that ... has changed so much from his/her former self (e.g., he/she is a different person now) / పని మార్పులు వచ్చాయి (ఉదా., సెలవు తీసుకోవలసి రావడం వల్ల)"
+                "translation": "10. It is upsetting to find that ... has changed so much from his/her former self (e.g., he/she is a different person now) / ... పూర్వపు వ్యక్తిత్వం నుండి చాలా మారిపోయారని చూడడం కలవరపెడుతోంది (ఉదా., అతను/ఆమె ముందెప్పుడూ ఉన్న వ్యక్తి కాదు)"
             },
             "enum": [
                 {
@@ -211,7 +211,7 @@
             "id": "csi_11_work",
             "form": "caregiver_strain_index",
             "label": {
-                "translation": "11. There have been work adjustments (e.g., because of having to take time off) / ఆర్థిక ఇబ్బంది కలుగుతోంది"
+                "translation": "11. There have been work adjustments (e.g., because of having to take time off) / పని మార్పులు వచ్చాయి (ఉదా., సెలవు తీసుకోవలసి రావడం వల్ల)"
             },
             "enum": [
                 {
@@ -228,7 +228,7 @@
             "id": "csi_12_financial",
             "form": "caregiver_strain_index",
             "label": {
-                "translation": "12. It is a financial strain / పూర్తిగా ఒత్తిడికి లోనవడం (ఉదా., ఏదైనా గురించి బాధపడటం వల్ల; మీరు ఎలా మేనేజ్ చేసుకుంటారో అని అనిపించడం వల్ల)"
+                "translation": "12. It is a financial strain / ఆర్థిక ఇబ్బంది కలుగుతోంది"
             },
             "enum": [
                 {
@@ -245,16 +245,16 @@
             "id": "csi_13_overwhelmed",
             "form": "caregiver_strain_index",
             "label": {
-                "translation": "13. Feeling completely overwhelmed (e.g., because of worry about ... ; or feeling that you cannot manage)"
+                "translation": "13. Feeling completely overwhelmed (e.g., because of worry about ... ; or feeling that you cannot manage) / పూర్తిగా ఒత్తిడికి లోనవడం (ఉదా., ఏదైనా గురించి బాధపడటం వల్ల; మీరు ఎలా మేనేజ్ చేసుకుంటారో అని అనిపించడం వల్ల)"
             },
             "enum": [
                 {
                     "id": "1",
-                    "translation": "Yes"
+                    "translation": "Yes / అవును"
                 },
                 {
                     "id": "0",
-                    "translation": "No"
+                    "translation": "No / కాదు"
                 }
             ]
         }
