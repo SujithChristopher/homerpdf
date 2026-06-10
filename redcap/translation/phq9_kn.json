@@ -7,10 +7,10 @@
     "rtl": false,
     "fieldTranslations": [
         {
-            "id": "homer_id",
+            "id": "screening_subject_id",
             "form": "patient_health_questionnaire_phq9",
             "label": {
-                "translation": "Record ID"
+                "translation": "Screening Subject ID"
             }
         },
         {

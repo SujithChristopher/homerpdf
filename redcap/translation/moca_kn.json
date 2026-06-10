@@ -7,10 +7,10 @@
     "rtl": false,
     "fieldTranslations": [
         {
-            "id": "homer_id",
+            "id": "screening_subject_id",
             "form": "moca_test",
             "label": {
-                "translation": "Record ID"
+                "translation": "Screening Subject ID"
             }
         },
         {

@@ -2911,19 +2911,18 @@
     ],
     "fieldTranslations": [
         {
-            "id": "homer_id",
+            "id": "subject_id",
             "form": "patient_demographics",
             "label": {
-                "hash": "bf507eadb6",
-                "translation": "Record ID"
+                "translation": "Subject ID"
             }
         },
         {
-            "id": "hospital_id",
+            "id": "screening_subject_id",
             "form": "patient_demographics",
             "label": {
-                "hash": "80b2373d75",
-                "translation": ""
+                "hash": "bf507eadb6",
+                "translation": "Screening Subject ID"
             }
         },
         {

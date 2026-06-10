@@ -21,8 +21,8 @@ def process_redcap_csvs(input_dir, output_file):
     # 1. Define Demographics Form Rows
     demographics_form = "patient_demographics"
     demo_fields = [
-        ["homer_id", demographics_form, "", "text", "HOMER ID", "", "", "", "", "", "y", "", "", "", "", "", "", ""],
-        ["hospital_id", demographics_form, "", "text", "Record ID (Hospital ID)", "", "", "", "", "", "y", "", "", "", "", "", "", ""],
+        ["subject_id", demographics_form, "", "text", "Subject ID", "", "", "", "", "", "y", "", "", "", "", "", "", ""],
+        ["screening_subject_id", demographics_form, "", "text", "Screening Subject ID", "", "", "", "", "", "y", "", "", "", "", "", "", ""],
         ["age_years", demographics_form, "", "text", "Age in years", "", "", "int", "", "", "", "", "", "", "", "", "", ""],
         ["sex", demographics_form, "", "radio", "Sex", "1, Male | 2, Female | 3, Others", "", "", "", "", "", "", "", "", "", "", "", ""],
         ["marital_status", demographics_form, "", "radio", "Marital status", "1, Single | 2, Married | 3, Others", "", "", "", "", "", "", "", "", "", "", "", ""],
@@ -57,7 +57,7 @@ def process_redcap_csvs(input_dir, output_file):
         
         # Apply locking to demographics too
         locking_tag = "@READONLY-IF([completed_assessment_complete] = '2')"
-        if dict_row['Variable / Field Name'] not in ('hospital_id', 'homer_id'):
+        if dict_row['Variable / Field Name'] not in ('screening_subject_id', 'subject_id'):
             if dict_row['Field Annotation']:
                 dict_row['Field Annotation'] = f"{dict_row['Field Annotation'].strip()} {locking_tag}"
             else:
@@ -131,7 +131,7 @@ def process_redcap_csvs(input_dir, output_file):
                 else:
                     continue
 
-                if var_name.strip().lower() == 'homer_id':
+                if var_name.strip().lower() in ('screening_subject_id', 'subject_id'):
                     continue
                 
                 # REMOVE redundant admin fields (date, examiner) from follow-up forms.
@@ -177,7 +177,7 @@ def process_redcap_csvs(input_dir, output_file):
                 # Every field (except record ID and the completion form itself) 
                 # will be locked once the assessment is marked 'Complete'
                 locking_tag = "@READONLY-IF([completed_assessment_complete] = '2')"
-                if cleaned_var not in ('hospital_id', 'homer_id') and clean_name(form_name) != 'completed_assessment':
+                if cleaned_var not in ('screening_subject_id', 'subject_id') and clean_name(form_name) != 'completed_assessment':
                     if annot:
                         if locking_tag not in annot:
                             annot = f"{annot.strip()} {locking_tag}"
