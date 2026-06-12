@@ -71,7 +71,7 @@ Download to Disk / Print (Open in Viewer)
 ### User Interface Layer
 - **`ui/main_window.py`** (438 lines)
   - `MainWindow` class: Main application window
-  - Layout: Hospital number input, center dropdown, PDF list with checkboxes, merge checkbox, download/print buttons
+  - Layout: Hospital number input, center dropdown, PDF list with checkboxes, download/print buttons
   - Button handlers: `on_download_clicked()`, `on_print_clicked()`
   - Validation: `validate_inputs()`, `update_button_states()`
   - PDF selection: `get_selected_pdfs()`
@@ -143,7 +143,7 @@ Show success/error message
 ### Download Workflow (Merged)
 
 ```
-User clicks "Download Selected" + "Merge" checkbox enabled
+User clicks "Download Selected" (merged by default)
     ↓
 [Same as above, but store all BytesIO objects]
     ↓
@@ -166,14 +166,11 @@ Create temp directory: %TEMP%/homerpdf_print/
 FOR each selected PDF:
     [Same processing as download]
     ↓
-    IF merge enabled:
-        Save to temp as {hospital_number}_merged.pdf
-    ELSE:
-        Save to temp as {hospital_number}_{name}.pdf
+    Save to temp as {hospital_number}_merged.pdf (always merged)
     ↓
     QDesktopServices.openUrl() [Open in system viewer]
     ↓
-User prints from their familiar PDF viewer
+    User prints from their familiar PDF viewer
 ```
 
 ## Key Classes and Methods
@@ -328,12 +325,8 @@ Run with: `uv run python test_feature.py`
 
 - [ ] Enter valid hospital number (e.g., "12345")
 - [ ] Select different centers
-- [ ] Select single PDF → download works
-- [ ] Select multiple PDFs → download works
-- [ ] Check merge checkbox + select multiple → merged PDF created
-- [ ] Print single PDF → opens in viewer
-- [ ] Print multiple PDFs → opens all in viewer
-- [ ] Print with merge → opens merged PDF
+- [ ] Select single/multiple PDFs → download works (generates merged PDF)
+- [ ] Print single/multiple PDFs → opens merged PDF in viewer for printing
 - [ ] Try invalid hospital number → error feedback
 - [ ] Leave hospital number empty → buttons disabled
 - [ ] Uncheck all PDFs → buttons disabled

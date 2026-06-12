@@ -21,7 +21,6 @@ from PySide6.QtWidgets import (
     QFileDialog,
     QMessageBox,
     QProgressDialog,
-    QCheckBox,
     QRadioButton,
     QButtonGroup,
 )
@@ -328,13 +327,6 @@ class MainWindow(QMainWindow):
         pdf_layout.addWidget(pdf_files_label)
         pdf_group.setLayout(pdf_layout)
 
-        # ===== Merge Option =====
-        merge_layout = QHBoxLayout()
-        self.merge_checkbox = QCheckBox("Merge into single PDF")
-        self.merge_checkbox.setChecked(False)
-        merge_layout.addWidget(self.merge_checkbox)
-        merge_layout.addStretch()
-
         # ===== Action Buttons =====
         button_layout = QHBoxLayout()
         self.download_btn = QPushButton("Download Selected")
@@ -351,7 +343,6 @@ class MainWindow(QMainWindow):
         # ===== Assemble main layout =====
         main_layout.addWidget(info_group)
         main_layout.addWidget(pdf_group)
-        main_layout.addLayout(merge_layout)
         main_layout.addLayout(button_layout)
         main_layout.addStretch()
 
@@ -476,7 +467,7 @@ class MainWindow(QMainWindow):
         center_code = self.center_combo.currentData()
         time_point = self.get_selected_timepoint()
         selected_pdfs = self.get_selected_pdfs()
-        merge_pdfs = self.merge_checkbox.isChecked()
+        merge_pdfs = True
 
         if not selected_pdfs:
             QMessageBox.warning(self, "No Selection", "Please select at least one PDF")
@@ -631,7 +622,7 @@ class MainWindow(QMainWindow):
         center_code = self.center_combo.currentData()
         time_point = self.get_selected_timepoint()
         selected_pdfs = self.get_selected_pdfs()
-        merge_pdfs = self.merge_checkbox.isChecked()
+        merge_pdfs = True
 
         if not selected_pdfs:
             QMessageBox.warning(self, "No Selection", "Please select at least one PDF")
