@@ -18,6 +18,7 @@ a = Analysis(
     binaries=[],
     datas=[
         ("files", "files"),  # Include PDF templates
+        ("redcap/example/events.csv", "redcap/example"),  # Include events CSV
     ],
     hiddenimports=[
         "PySide6.QtCore",
