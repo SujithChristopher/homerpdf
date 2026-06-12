@@ -2,6 +2,7 @@
 
 import os
 import tempfile
+import json
 from pathlib import Path
 
 from PySide6.QtCore import Qt, QUrl, QTimer, QItemSelectionModel
@@ -43,9 +44,9 @@ class MainWindow(QMainWindow):
 
     # Center mapping
     CENTERS = [
-        ("CMC", "CMC Vellore"),
-        ("MNP", "Manipal Hospital"),
-        ("LDH", "Ludhiana Hospital"),
+        ("CMCV", "CMC Vellore"),
+        ("MAHE", "Manipal Hospital"),
+        ("CMCL", "CMC Ludhiana"),
     ]
 
     # Mapping of REDCap form names to PDF file names
@@ -72,6 +73,9 @@ class MainWindow(QMainWindow):
         self.setWindowTitle("Hospital PDF Manager")
         self.setFixedSize(550, 650)
 
+        # Flag to prevent popups during programmatic config loading
+        self.is_loading_config = True
+
         # Initialize PDF processor with correct path (works in dev and packaged)
         self.pdf_dir = get_files_dir()
         self.processor = PDFProcessor(self.pdf_dir)
@@ -86,6 +90,10 @@ class MainWindow(QMainWindow):
 
         # Setup UI
         self.setup_ui()
+
+        # Load persistent default center
+        self.load_default_center()
+        self.is_loading_config = False
 
         # Apply theme-aware styling
         self.apply_theme()
@@ -156,6 +164,67 @@ class MainWindow(QMainWindow):
                         self.event_pdfs["a2"].add(pdf)
         except Exception as e:
             print(f"Error loading events.csv: {e}")
+
+    def load_default_center(self):
+        """Load default center from config.json and select it in the combobox."""
+        config_dir = Path.home() / "Documents" / "homerpdf"
+        config_path = config_dir / "config.json"
+        if config_path.exists():
+            try:
+                with open(config_path, "r", encoding="utf-8") as f:
+                    config = json.load(f)
+                    default_center = config.get("default_center")
+                    if default_center:
+                        index = self.center_combo.findData(default_center)
+                        if index >= 0:
+                            self.center_combo.setCurrentIndex(index)
+            except Exception as e:
+                print(f"Error loading configuration: {e}")
+
+    def on_center_changed(self, index):
+        """Handle center selection changed."""
+        self.on_input_changed()
+        if self.is_loading_config:
+            return
+
+        center_code = self.center_combo.itemData(index)
+        center_name = self.center_combo.itemText(index)
+
+        # Save to config.json
+        config_dir = Path.home() / "Documents" / "homerpdf"
+        try:
+            config_dir.mkdir(parents=True, exist_ok=True)
+            config_path = config_dir / "config.json"
+            config = {}
+            if config_path.exists():
+                try:
+                    with open(config_path, "r", encoding="utf-8") as f:
+                        config = json.load(f)
+                except Exception:
+                    pass
+            config["default_center"] = center_code
+            with open(config_path, "w", encoding="utf-8") as f:
+                json.dump(config, f, indent=4)
+        except Exception as e:
+            print(f"Error saving configuration: {e}")
+
+        # Show notification popup
+        QMessageBox.information(
+            self,
+            "Institution Selected",
+            f"You have selected {center_name}.\n\nSubsequent loads of the application will default to this institution."
+        )
+
+    def on_hospital_number_changed(self, text):
+        """Convert hospital number to uppercase dynamically as user types."""
+        cursor_pos = self.hospital_input.cursorPosition()
+        upper_text = text.upper()
+        if text != upper_text:
+            self.hospital_input.blockSignals(True)
+            self.hospital_input.setText(upper_text)
+            self.hospital_input.setCursorPosition(cursor_pos)
+            self.hospital_input.blockSignals(False)
+        self.on_input_changed()
 
     def apply_theme(self):
         """Apply theme-aware styling that works in both light and dark mode."""
@@ -350,7 +419,7 @@ class MainWindow(QMainWindow):
         hospital_label.setMinimumWidth(120)
         self.hospital_input = QLineEdit()
         self.hospital_input.setPlaceholderText("Enter hospital number...")
-        self.hospital_input.textChanged.connect(self.on_input_changed)
+        self.hospital_input.textChanged.connect(self.on_hospital_number_changed)
         hospital_layout.addWidget(hospital_label)
         hospital_layout.addWidget(self.hospital_input)
 
@@ -361,7 +430,7 @@ class MainWindow(QMainWindow):
         self.center_combo = QComboBox()
         for code, display_name in self.CENTERS:
             self.center_combo.addItem(display_name, userData=code)
-        self.center_combo.currentIndexChanged.connect(self.on_input_changed)
+        self.center_combo.currentIndexChanged.connect(self.on_center_changed)
         center_layout.addWidget(center_label)
         center_layout.addWidget(self.center_combo)
         center_layout.addStretch()
@@ -548,13 +617,13 @@ class MainWindow(QMainWindow):
 
     def get_selected_timepoint(self) -> str:
         """
-        Get the selected time point (Screening, A0, A1, or A2).
+        Get the selected time point (SCR, A0, A1, or A2).
 
         Returns:
             Selected time point string or empty string if none selected
         """
         if self.radio_screening.isChecked():
-            return "Screening"
+            return "SCR"
         elif self.radio_a0.isChecked():
             return "A0"
         elif self.radio_a1.isChecked():
@@ -575,8 +644,9 @@ class MainWindow(QMainWindow):
             self.pdf_list.clearSelection()
             return
             
-        # Get target PDFs for the selected timepoint
-        target_pdfs = self.event_pdfs.get(timepoint, set())
+        # Map 'scr' to 'screening' for lookup
+        lookup_key = "screening" if timepoint == "scr" else timepoint
+        target_pdfs = self.event_pdfs.get(lookup_key, set())
         
         # Block signals temporarily to prevent redundant validation calls during selection loop
         self.pdf_list.blockSignals(True)
