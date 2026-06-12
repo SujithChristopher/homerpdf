@@ -4,7 +4,7 @@ import os
 import tempfile
 from pathlib import Path
 
-from PySide6.QtCore import Qt, QUrl, QTimer
+from PySide6.QtCore import Qt, QUrl, QTimer, QItemSelectionModel
 from PySide6.QtGui import QDesktopServices, QColor, QPalette
 from PySide6.QtWidgets import (
     QMainWindow,
@@ -27,8 +27,15 @@ from PySide6.QtWidgets import (
 
 from pdf.processor import PDFProcessor
 from utils.validators import validate_hospital_number
-from utils.paths import get_files_dir
+import csv
+from utils.paths import get_files_dir, get_base_dir
 from utils.operation_logger import OperationLogger
+
+
+class ReadOnlyListWidget(QListWidget):
+    """A QListWidget that prevents user selection updates but allows programmatic selection."""
+    def selectionCommand(self, index, event=None):
+        return QItemSelectionModel.NoUpdate
 
 
 class MainWindow(QMainWindow):
@@ -40,6 +47,24 @@ class MainWindow(QMainWindow):
         ("MNP", "Manipal Hospital"),
         ("LDH", "Ludhiana Hospital"),
     ]
+
+    # Mapping of REDCap form names to PDF file names
+    FORM_TO_PDF = {
+        "homer_screening_form": "00 HOMER- SCREENING FORM.pdf",
+        "fugl_meyer_assessment_ue": "01 fma-ue.pdf",
+        "montreal_cognitive_assessment": "06 moca.pdf",
+        "modified_ashworth_scale": "08. Modified Ashworth Scale Instructions.pdf",
+        "action_research_arm_test": "02 arat.pdf",
+        "motor_activity_log": "03 Motor Activity Log.pdf",
+        "cahai7_score_form": "04 CAHAI-7.pdf",
+        "sipso_questionnaire": "05 SIPSO.pdf",
+        "modified_rankin_scale": "07 modrankinscale.pdf",
+        "caregiver_strain_index": "09 csi.pdf",
+        "patient_health_questionnaire_phq9": "10 phq9.pdf",
+        "nih_stroke_scale": "12 NIHSS.pdf",
+        "box_and_block_test": "13 Box and Block.pdf",
+        "eq_5d_5l": "14 EQ-5D-5L.pdf",
+    }
 
     def __init__(self):
         """Initialize the main window."""
@@ -55,6 +80,9 @@ class MainWindow(QMainWindow):
         log_dir = Path(os.getenv("LOCALAPPDATA")) / "HospitalPDFManager"
         log_dir.mkdir(parents=True, exist_ok=True)
         self.operation_logger = OperationLogger(log_dir / "operations.db")
+
+        # Load event mappings from events.csv
+        self.load_events()
 
         # Setup UI
         self.setup_ui()
@@ -74,6 +102,60 @@ class MainWindow(QMainWindow):
         window_geometry = self.frameGeometry()
         window_geometry.moveCenter(screen_geometry.center())
         self.move(window_geometry.topLeft())
+
+    def load_events(self):
+        """Load events from events.csv and map them to PDF files."""
+        self.event_pdfs = {
+            "screening": set(),
+            "a0": set(),
+            "a1": set(),
+            "a2": set()
+        }
+        
+        events_csv_path = get_base_dir() / "redcap" / "example" / "events.csv"
+        if not events_csv_path.exists():
+            # Fallback if events.csv not found
+            print(f"events.csv not found at {events_csv_path}")
+            # Populate default mappings based on standard events.csv
+            screening_forms = ["homer_screening_form", "fugl_meyer_assessment_ue", "montreal_cognitive_assessment", "modified_ashworth_scale", "numeric_pain_rating_scale"]
+            a_forms = [
+                "patient_demographics", "fugl_meyer_assessment_ue", "sipso_questionnaire",
+                "action_research_arm_test", "caregiver_strain_index", "motor_activity_log",
+                "modified_rankin_scale", "patient_health_questionnaire_phq9", "modified_ashworth_scale",
+                "box_and_block_test", "cahai7_score_form", "nih_stroke_scale", "eq_5d_5l",
+                "completed_assessment"
+            ]
+            for form in screening_forms:
+                pdf = self.FORM_TO_PDF.get(form)
+                if pdf:
+                    self.event_pdfs["screening"].add(pdf)
+            for tp in ["a0", "a1", "a2"]:
+                for form in a_forms:
+                    pdf = self.FORM_TO_PDF.get(form)
+                    if pdf:
+                        self.event_pdfs[tp].add(pdf)
+            return
+
+        try:
+            with open(events_csv_path, mode='r', encoding='utf-8') as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    event_name = row.get("unique_event_name", "").lower()
+                    form = row.get("form", "")
+                    pdf = self.FORM_TO_PDF.get(form)
+                    if not pdf:
+                        continue
+                    
+                    if "screening" in event_name:
+                        self.event_pdfs["screening"].add(pdf)
+                    elif "a0" in event_name:
+                        self.event_pdfs["a0"].add(pdf)
+                    elif "a1" in event_name:
+                        self.event_pdfs["a1"].add(pdf)
+                    elif "a2" in event_name:
+                        self.event_pdfs["a2"].add(pdf)
+        except Exception as e:
+            print(f"Error loading events.csv: {e}")
 
     def apply_theme(self):
         """Apply theme-aware styling that works in both light and dark mode."""
@@ -167,6 +249,12 @@ class MainWindow(QMainWindow):
 
             QListWidget::item:hover {{
                 background-color: {palette.color(QPalette.Highlight).lighter(150).name()};
+            }}
+
+            QListWidget::item:selected {{
+                background-color: {palette.color(QPalette.Highlight).name()};
+                color: {palette.color(QPalette.HighlightedText).name()};
+                font-weight: bold;
             }}
 
             QPushButton {{
@@ -287,44 +375,62 @@ class MainWindow(QMainWindow):
         self.timepoint_group = QButtonGroup()
 
         # Create radio buttons
+        self.radio_screening = QRadioButton("Screening")
+        self.timepoint_group.addButton(self.radio_screening)
+
+        timepoint_layout.addWidget(timepoint_label)
+        timepoint_layout.addWidget(self.radio_screening)
+        timepoint_layout.addStretch()
+
+        # Other Time Points Row
+        other_timepoints_layout = QHBoxLayout()
+        other_timepoints_label = QLabel("Other Time Points:")
+        other_timepoints_label.setMinimumWidth(120)
+
         self.radio_a0 = QRadioButton("A0")
         self.radio_a1 = QRadioButton("A1")
         self.radio_a2 = QRadioButton("A2")
 
-        # Add to button group
         self.timepoint_group.addButton(self.radio_a0)
         self.timepoint_group.addButton(self.radio_a1)
         self.timepoint_group.addButton(self.radio_a2)
 
-        # Connect to validation
-        self.radio_a0.toggled.connect(self.on_input_changed)
-        self.radio_a1.toggled.connect(self.on_input_changed)
-        self.radio_a2.toggled.connect(self.on_input_changed)
+        # Connect to validation and PDF highlighting updates
+        self.radio_screening.toggled.connect(self.on_timepoint_changed)
+        self.radio_a0.toggled.connect(self.on_timepoint_changed)
+        self.radio_a1.toggled.connect(self.on_timepoint_changed)
+        self.radio_a2.toggled.connect(self.on_timepoint_changed)
 
         # Add to layout
-        timepoint_layout.addWidget(timepoint_label)
-        timepoint_layout.addWidget(self.radio_a0)
-        timepoint_layout.addWidget(self.radio_a1)
-        timepoint_layout.addWidget(self.radio_a2)
-        timepoint_layout.addStretch()
+        other_timepoints_layout.addWidget(other_timepoints_label)
+        other_timepoints_layout.addWidget(self.radio_a0)
+        other_timepoints_layout.addWidget(self.radio_a1)
+        other_timepoints_layout.addWidget(self.radio_a2)
+        other_timepoints_layout.addStretch()
 
         info_layout.addLayout(hospital_layout)
         info_layout.addLayout(center_layout)
         info_layout.addLayout(timepoint_layout)
+        info_layout.addLayout(other_timepoints_layout)
         info_group.setLayout(info_layout)
 
         # ===== PDF Information Group =====
         pdf_group = QGroupBox("Included Files")
         pdf_layout = QVBoxLayout()
 
-        # List available PDFs (excluding 06 moca.pdf)
-        pdf_files = sorted([f for f in self.pdf_dir.glob("*.pdf") if f.name.lower() != "06 moca.pdf"])
-        pdf_list_text = "\n".join([f"  • {pdf_file.stem.upper()}" for pdf_file in pdf_files])
+        # Dynamic checkable PDF list (read-only to user clicks)
+        self.pdf_list = ReadOnlyListWidget()
+        self.pdf_list.setSelectionMode(QListWidget.MultiSelection)
+        self.pdf_list.itemSelectionChanged.connect(self.on_input_changed)
+
+        # Populate the QListWidget with all available PDFs (including 06 moca.pdf)
+        pdf_files = sorted([f for f in self.pdf_dir.glob("*.pdf")])
+        for pdf_file in pdf_files:
+            item = QListWidgetItem(pdf_file.stem.upper())
+            item.setData(Qt.UserRole, pdf_file.name)
+            self.pdf_list.addItem(item)
         
-        pdf_files_label = QLabel(pdf_list_text if pdf_files else "No PDFs found in files/ directory")
-        pdf_files_label.setStyleSheet("font-family: monospace;")
-        
-        pdf_layout.addWidget(pdf_files_label)
+        pdf_layout.addWidget(self.pdf_list)
         pdf_group.setLayout(pdf_layout)
 
         # ===== Action Buttons =====
@@ -367,6 +473,11 @@ class MainWindow(QMainWindow):
         # Validate time point selection (mandatory)
         time_point = self.get_selected_timepoint()
         if not time_point:
+            return False
+
+        # Validate that at least one PDF is selected
+        selected_pdfs = self.get_selected_pdfs()
+        if not selected_pdfs:
             return False
 
         self.set_input_invalid(False)
@@ -427,28 +538,59 @@ class MainWindow(QMainWindow):
 
     def get_selected_pdfs(self) -> list:
         """
-        Get list of all PDF filenames except 06 moca.pdf.
+        Get list of selected PDF filenames from the QListWidget.
 
         Returns:
-            List of PDF filenames (automatically excludes 06 moca.pdf)
+            List of selected PDF filenames
         """
-        pdf_files = sorted([f.name for f in self.pdf_dir.glob("*.pdf") if f.name.lower() != "06 moca.pdf"])
-        return pdf_files
+        selected_items = self.pdf_list.selectedItems()
+        return [item.data(Qt.UserRole) for item in selected_items]
 
     def get_selected_timepoint(self) -> str:
         """
-        Get the selected time point (A0, A1, or A2).
+        Get the selected time point (Screening, A0, A1, or A2).
 
         Returns:
             Selected time point string or empty string if none selected
         """
-        if self.radio_a0.isChecked():
+        if self.radio_screening.isChecked():
+            return "Screening"
+        elif self.radio_a0.isChecked():
             return "A0"
         elif self.radio_a1.isChecked():
             return "A1"
         elif self.radio_a2.isChecked():
             return "A2"
         return ""
+
+    def on_timepoint_changed(self):
+        """Handle timepoint selection changes by updating highlighting."""
+        self.update_pdf_selection()
+        self.on_input_changed()
+
+    def update_pdf_selection(self):
+        """Update the selected PDFs in the QListWidget based on selected timepoint."""
+        timepoint = self.get_selected_timepoint().lower()
+        if not timepoint:
+            self.pdf_list.clearSelection()
+            return
+            
+        # Get target PDFs for the selected timepoint
+        target_pdfs = self.event_pdfs.get(timepoint, set())
+        
+        # Block signals temporarily to prevent redundant validation calls during selection loop
+        self.pdf_list.blockSignals(True)
+        for i in range(self.pdf_list.count()):
+            item = self.pdf_list.item(i)
+            filename = item.data(Qt.UserRole)
+            if filename in target_pdfs:
+                item.setSelected(True)
+            else:
+                item.setSelected(False)
+        self.pdf_list.blockSignals(False)
+        
+        # Trigger single validation update
+        self.on_input_changed()
 
     def on_download_clicked(self):
         """Handle download button click."""
