@@ -51,20 +51,20 @@ class MainWindow(QMainWindow):
 
     # Mapping of REDCap form names to PDF file names
     FORM_TO_PDF = {
-        "homer_screening_form": "00 HOMER- SCREENING FORM.pdf",
-        "fugl_meyer_assessment_ue": "01 fma-ue.pdf",
-        "montreal_cognitive_assessment": "06 moca.pdf",
-        "modified_ashworth_scale": "08. Modified Ashworth Scale Instructions.pdf",
-        "action_research_arm_test": "02 arat.pdf",
-        "motor_activity_log": "03 Motor Activity Log.pdf",
-        "cahai7_score_form": "04 CAHAI-7.pdf",
-        "sipso_questionnaire": "05 SIPSO.pdf",
-        "modified_rankin_scale": "07 modrankinscale.pdf",
-        "caregiver_strain_index": "09 csi.pdf",
-        "patient_health_questionnaire_phq9": "10 phq9.pdf",
-        "nih_stroke_scale": "12 NIHSS.pdf",
-        "box_and_block_test": "13 Box and Block.pdf",
-        "eq_5d_5l": "14 EQ-5D-5L.pdf",
+        "homer_screening_form": "00 EN HOMER- SCREENING FORM.pdf",
+        "fugl_meyer_assessment_ue": "01 EN fma-ue.pdf",
+        "montreal_cognitive_assessment": "06 EN moca.pdf",
+        "modified_ashworth_scale": "08 EN Modified Ashworth Scale Instructions.pdf",
+        "action_research_arm_test": "02 EN arat.pdf",
+        "motor_activity_log": "03 EN MAL.pdf",
+        "cahai7_score_form": "04 EN CAHAI-7.pdf",
+        "sipso_questionnaire": "05 EN SIPSO.pdf",
+        "modified_rankin_scale": "07 EN modrankinscale.pdf",
+        "caregiver_strain_index": "09 EN csi.pdf",
+        "patient_health_questionnaire_phq9": "10 EN PHQ9_English for India.pdf",
+        "nih_stroke_scale": "12 EN NIHSS.pdf",
+        "box_and_block_test": "13 EN Box and Block.pdf",
+        "eq_5d_5l": "14 EN EQ-5D-5L.pdf",
     }
 
     def __init__(self):
@@ -142,6 +142,10 @@ class MainWindow(QMainWindow):
                     pdf = self.FORM_TO_PDF.get(form)
                     if pdf:
                         self.event_pdfs[tp].add(pdf)
+            
+            # Explicitly add patient consent and information sheet to screening (fallback path)
+            self.event_pdfs["screening"].add("Patient consent - English.pdf")
+            self.event_pdfs["screening"].add("Patient Information Sheet English.pdf")
             return
 
         try:
@@ -164,6 +168,10 @@ class MainWindow(QMainWindow):
                         self.event_pdfs["a2"].add(pdf)
         except Exception as e:
             print(f"Error loading events.csv: {e}")
+        finally:
+            # Explicitly add patient consent and information sheet to screening
+            self.event_pdfs["screening"].add("Patient consent - English.pdf")
+            self.event_pdfs["screening"].add("Patient Information Sheet English.pdf")
 
     def load_default_center(self):
         """Load default center from config.json and select it in the combobox."""
@@ -492,12 +500,14 @@ class MainWindow(QMainWindow):
         self.pdf_list.setSelectionMode(QListWidget.MultiSelection)
         self.pdf_list.itemSelectionChanged.connect(self.on_input_changed)
 
-        # Populate the QListWidget with all available PDFs (including 06 moca.pdf)
+        # Populate the QListWidget with English PDFs
         pdf_files = sorted([f for f in self.pdf_dir.glob("*.pdf")])
         for pdf_file in pdf_files:
-            item = QListWidgetItem(pdf_file.stem.upper())
-            item.setData(Qt.UserRole, pdf_file.name)
-            self.pdf_list.addItem(item)
+            name_upper = pdf_file.name.upper()
+            if " EN " in name_upper or "ENGLISH" in name_upper:
+                item = QListWidgetItem(pdf_file.stem.upper())
+                item.setData(Qt.UserRole, pdf_file.name)
+                self.pdf_list.addItem(item)
         
         pdf_layout.addWidget(self.pdf_list)
         pdf_group.setLayout(pdf_layout)
