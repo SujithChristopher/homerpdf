@@ -40,9 +40,7 @@ pyz = PYZ(a.pure, a.zipped_data, cipher=block_cipher)
 exe = EXE(
     pyz,
     a.scripts,
-    [],  # binaries and zipfiles go in COLLECT for onedir
-    a.datas,
-    [],
+    exclude_binaries=True,
     name="Hospital PDF Manager",
     debug=False,
     bootloader_ignore_signals=False,
@@ -50,7 +48,7 @@ exe = EXE(
     upx=True,
     upx_exclude=[],
     runtime_tmpdir=None,
-    console=True,
+    console=False,
     disable_windowed_traceback=False,
     icon=None,  # Can add icon file here: "icon.ico"
     argv_emulation=False,
