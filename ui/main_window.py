@@ -143,9 +143,10 @@ class MainWindow(QMainWindow):
                     if pdf:
                         self.event_pdfs[tp].add(pdf)
             
-            # Explicitly add patient consent and information sheet to screening (fallback path)
-            self.event_pdfs["screening"].add("Patient consent - English.pdf")
-            self.event_pdfs["screening"].add("Patient Information Sheet English.pdf")
+            # Explicitly add patient consent, information sheet, and proforma to screening (fallback path)
+            self.event_pdfs["screening"].add("00 EN Proforma.pdf")
+            self.event_pdfs["screening"].add("15 EN Patient consent.pdf")
+            self.event_pdfs["screening"].add("16 EN Patient Information sheet.pdf")
             return
 
         try:
@@ -169,9 +170,10 @@ class MainWindow(QMainWindow):
         except Exception as e:
             print(f"Error loading events.csv: {e}")
         finally:
-            # Explicitly add patient consent and information sheet to screening
-            self.event_pdfs["screening"].add("Patient consent - English.pdf")
-            self.event_pdfs["screening"].add("Patient Information Sheet English.pdf")
+            # Explicitly add patient consent, information sheet, and proforma to screening
+            self.event_pdfs["screening"].add("00 EN Proforma.pdf")
+            self.event_pdfs["screening"].add("15 EN Patient consent.pdf")
+            self.event_pdfs["screening"].add("16 EN Patient Information sheet.pdf")
 
     def load_default_center(self):
         """Load default center from config.json and select it in the combobox."""
