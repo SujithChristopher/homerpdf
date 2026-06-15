@@ -53,15 +53,15 @@ class MainWindow(QMainWindow):
     FORM_TO_PDF = {
         "homer_screening_form": "00 EN HOMER- SCREENING FORM.pdf",
         "fugl_meyer_assessment_ue": "01 EN fma-ue.pdf",
-        "montreal_cognitive_assessment": "06 EN moca.pdf",
-        "modified_ashworth_scale": "08 EN Modified Ashworth Scale Instructions.pdf",
+        "montreal_cognitive_assessment": "06 EN MOCA.pdf",
+        "modified_ashworth_scale": "08 EN MAS.pdf",
         "action_research_arm_test": "02 EN arat.pdf",
         "motor_activity_log": "03 EN MAL.pdf",
         "cahai7_score_form": "04 EN CAHAI-7.pdf",
         "sipso_questionnaire": "05 EN SIPSO.pdf",
-        "modified_rankin_scale": "07 EN modrankinscale.pdf",
-        "caregiver_strain_index": "09 EN csi.pdf",
-        "patient_health_questionnaire_phq9": "10 EN PHQ9_English for India.pdf",
+        "modified_rankin_scale": "07 EN MRS.pdf",
+        "caregiver_strain_index": "09 EN CSI.pdf",
+        "patient_health_questionnaire_phq9": "10 EN PHQ9.pdf",
         "nih_stroke_scale": "12 EN NIHSS.pdf",
         "box_and_block_test": "13 EN Box and Block.pdf",
         "eq_5d_5l": "14 EN EQ-5D-5L.pdf",
@@ -485,10 +485,37 @@ class MainWindow(QMainWindow):
         other_timepoints_layout.addWidget(self.radio_a2)
         other_timepoints_layout.addStretch()
 
+        # Language Selection (Radio Buttons)
+        language_layout = QHBoxLayout()
+        language_label = QLabel("Language:")
+        language_label.setMinimumWidth(120)
+
+        self.language_group = QButtonGroup()
+        self.radio_english = QRadioButton("English")
+        self.radio_tamil = QRadioButton("Tamil")
+        self.radio_telugu = QRadioButton("Telugu")
+        self.radio_english.setChecked(True)
+
+        self.language_group.addButton(self.radio_english)
+        self.language_group.addButton(self.radio_tamil)
+        self.language_group.addButton(self.radio_telugu)
+
+        # Connect signals
+        self.radio_english.toggled.connect(self.on_language_changed)
+        self.radio_tamil.toggled.connect(self.on_language_changed)
+        self.radio_telugu.toggled.connect(self.on_language_changed)
+
+        language_layout.addWidget(language_label)
+        language_layout.addWidget(self.radio_english)
+        language_layout.addWidget(self.radio_tamil)
+        language_layout.addWidget(self.radio_telugu)
+        language_layout.addStretch()
+
         info_layout.addLayout(hospital_layout)
         info_layout.addLayout(center_layout)
         info_layout.addLayout(timepoint_layout)
         info_layout.addLayout(other_timepoints_layout)
+        info_layout.addLayout(language_layout)
         info_group.setLayout(info_layout)
 
         # ===== PDF Information Group =====
@@ -615,15 +642,69 @@ class MainWindow(QMainWindow):
         else:
             self.set_input_invalid(False)
 
+    def get_selected_language(self) -> str:
+        """
+        Get the selected language code (EN, TA, or TE).
+
+        Returns:
+            Selected language code
+        """
+        if self.radio_tamil.isChecked():
+            return "TA"
+        elif self.radio_telugu.isChecked():
+            return "TE"
+        return "EN"
+
+    def on_language_changed(self):
+        """Handle language selection changes."""
+        self.on_input_changed()
+
+    def resolve_pdf_filename(self, english_filename: str, lang: str) -> str:
+        """
+        Resolve the English PDF filename to the target language (e.g. TA, TE) if exists.
+        Otherwise, fall back to the English version.
+        """
+        if lang == "EN":
+            return english_filename
+
+        # Pattern: replace ' EN ' with ' TA ' or ' TE '
+        for en_pattern in [" EN ", " en ", " En ", " eN "]:
+            if en_pattern in english_filename:
+                translated_filename = english_filename.replace(en_pattern, f" {lang} ")
+                if (self.pdf_dir / translated_filename).exists():
+                    return translated_filename
+
+        # Pattern: replace 'English' with 'Tamil' or 'Telugu'
+        lang_word_map = {
+            "TA": "Tamil",
+            "TE": "Telugu"
+        }
+        if lang in lang_word_map:
+            lang_word = lang_word_map[lang]
+            for english_word in ["English", "english", "ENGLISH"]:
+                if english_word in english_filename:
+                    translated_filename = english_filename.replace(english_word, lang_word)
+                    if (self.pdf_dir / translated_filename).exists():
+                        return translated_filename
+
+        return english_filename
+
     def get_selected_pdfs(self) -> list:
         """
-        Get list of selected PDF filenames from the QListWidget.
+        Get list of selected PDF filenames from the QListWidget,
+        resolved to the selected language if available.
 
         Returns:
             List of selected PDF filenames
         """
         selected_items = self.pdf_list.selectedItems()
-        return [item.data(Qt.UserRole) for item in selected_items]
+        english_filenames = [item.data(Qt.UserRole) for item in selected_items]
+        
+        lang = self.get_selected_language()
+        resolved_filenames = []
+        for name in english_filenames:
+            resolved_filenames.append(self.resolve_pdf_filename(name, lang))
+        return resolved_filenames
 
     def get_selected_timepoint(self) -> str:
         """
@@ -657,13 +738,14 @@ class MainWindow(QMainWindow):
         # Map 'scr' to 'screening' for lookup
         lookup_key = "screening" if timepoint == "scr" else timepoint
         target_pdfs = self.event_pdfs.get(lookup_key, set())
+        target_pdfs_lower = {p.lower() for p in target_pdfs}
         
         # Block signals temporarily to prevent redundant validation calls during selection loop
         self.pdf_list.blockSignals(True)
         for i in range(self.pdf_list.count()):
             item = self.pdf_list.item(i)
             filename = item.data(Qt.UserRole)
-            if filename in target_pdfs:
+            if filename.lower() in target_pdfs_lower:
                 item.setSelected(True)
             else:
                 item.setSelected(False)
