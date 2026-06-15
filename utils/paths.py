@@ -10,9 +10,9 @@ def get_base_dir() -> Path:
 
     Works in both development mode and when packaged with PyInstaller.
     """
-    if getattr(sys, "frozen", False):
+    if getattr(sys, "frozen", False) and hasattr(sys, "_MEIPASS"):
         # Running as compiled executable (PyInstaller)
-        return Path(sys.executable).parent
+        return Path(sys._MEIPASS)
     else:
         # Running as script in development
         return Path(__file__).parent.parent
