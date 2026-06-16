@@ -13070,30 +13070,6 @@
             }
         },
         {
-            "id": "bnb_left_trial_2",
-            "form": "box_and_block_test",
-            "label": {
-                "hash": "303b25b7ba",
-                "translation": ""
-            },
-            "note": {
-                "hash": "d231c63502",
-                "translation": ""
-            }
-        },
-        {
-            "id": "bnb_left_trial_3",
-            "form": "box_and_block_test",
-            "label": {
-                "hash": "e24d258f77",
-                "translation": ""
-            },
-            "note": {
-                "hash": "d231c63502",
-                "translation": ""
-            }
-        },
-        {
             "id": "bnb_right_trial_1",
             "form": "box_and_block_test",
             "header": {
@@ -13102,30 +13078,6 @@
             },
             "label": {
                 "hash": "8c3aeba757",
-                "translation": ""
-            },
-            "note": {
-                "hash": "d231c63502",
-                "translation": ""
-            }
-        },
-        {
-            "id": "bnb_right_trial_2",
-            "form": "box_and_block_test",
-            "label": {
-                "hash": "303b25b7ba",
-                "translation": ""
-            },
-            "note": {
-                "hash": "d231c63502",
-                "translation": ""
-            }
-        },
-        {
-            "id": "bnb_right_trial_3",
-            "form": "box_and_block_test",
-            "label": {
-                "hash": "e24d258f77",
                 "translation": ""
             },
             "note": {
