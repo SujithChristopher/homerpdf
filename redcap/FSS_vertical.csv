@@ -1,5 +1,5 @@
 Variable / Field Name,Form Name,Section Header,Field Type,Field Label,Choices, Calculations, OR Slider Labels,Field Note,Text Validation Type OR Show Slider Number,Text Validation Min,Text Validation Max,Identifier?,Branching Logic (Show field only if...),Required Field?,Custom Alignment,Question Number (surveys only),Matrix Group Name,Matrix Ranking?,Field Annotation
-homer_id,fatigue_severity_scale,,text,"Record ID",,,,,,,,,,,,,,,
+record_id,fatigue_severity_scale,,text,"Record ID",,,,,,,,,,,,,,,
 fss_date,fatigue_severity_scale,,text,"Date of Assessment",,,date_ymd,,,,,,,,,,,
 fss_examiner,fatigue_severity_scale,,text,"Examiner Name",,,,,,,,,,,,,,,
 fss_header,fatigue_severity_scale,"FATIGUE SEVERITY SCALE (FSS)",descriptive,"Please circle the number between 1 and 7 which you feel best fits the following statements. This refers to your usual way of life within the last week.<br><b>1 indicates ""strongly disagree"" and 7 indicates ""strongly agree.""</b>",,,,,,,,,,,,,,

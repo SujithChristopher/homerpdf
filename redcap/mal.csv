@@ -1,5 +1,5 @@
 Variable / Field Name,Form Name,Section Header,Field Type,Field Label,"Choices, Calculations, OR Slider Labels",Field Note,Text Validation Type OR Show Slider Number,Text Validation Min,Text Validation Max,Identifier?,Branching Logic (Show field only if...),Required Field?,Custom Alignment,Question Number (surveys only),Matrix Group Name,Matrix Ranking?,Field Annotation
-homer_id,motor_activity_log,,text,Record ID,,,,,,,,,,,,,,,
+record_id,motor_activity_log,,text,Record ID,,,,,,,,,,,,,,,
 mal_date,motor_activity_log,,text,Date of Assessment,,,date_ymd,,,,,,,,,,,
 mal_examiner,motor_activity_log,,text,Examiner Name,,,,,,,,,,,,,,,
 mal_scoring_as,motor_activity_log,SCORING SCALES,descriptive,"<b>Amount Scale (AS)</b>:<br>0 - Did not use my weaker arm (not used).<br>.5<br>1 - Occasionally used my weaker arm, but only very rarely (very rarely).<br>1.5<br>2 - Sometimes used my weaker arm but did the activity most of the time with my stronger arm (rarely).<br>2.5<br>3 - Used my weaker arm about half as much as before the stroke (half pre-stroke).<br>3.5<br>4 - Used my weaker arm almost as much as before the stroke (3/4 pre-stroke).<br>4.5<br>5 - Used my weaker arm as often as before the stroke (same as pre-stroke).",,,,,,,,,,,,,

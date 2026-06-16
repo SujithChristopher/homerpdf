@@ -21,7 +21,7 @@ def process_redcap_csvs(input_dir, output_file):
     # 1. Define Demographics Form Rows
     demographics_form = "patient_demographics"
     demo_fields = [
-        ["subject_id", demographics_form, "", "text", "Subject ID", "", "", "", "", "", "y", "", "", "", "", "", "", ""],
+        ["record_id", demographics_form, "", "text", "Record ID", "", "", "", "", "", "y", "", "", "", "", "", "", ""],
         ["screening_subject_id", demographics_form, "", "text", "Screening Subject ID", "", "", "", "", "", "y", "", "", "", "", "", "", ""],
         ["age_years", demographics_form, "", "text", "Age in years", "", "", "int", "", "", "", "", "", "", "", "", "", ""],
         ["sex", demographics_form, "", "radio", "Sex", "1, Male | 2, Female | 3, Others", "", "", "", "", "", "", "", "", "", "", "", ""],
@@ -57,7 +57,7 @@ def process_redcap_csvs(input_dir, output_file):
         
         # Apply locking to demographics too
         locking_tag = "@READONLY-IF([completed_assessment_complete] = '2')"
-        if dict_row['Variable / Field Name'] not in ('screening_subject_id', 'subject_id'):
+        if dict_row['Variable / Field Name'] not in ('screening_subject_id', 'record_id'):
             if dict_row['Field Annotation']:
                 dict_row['Field Annotation'] = f"{dict_row['Field Annotation'].strip()} {locking_tag}"
             else:
@@ -132,7 +132,7 @@ def process_redcap_csvs(input_dir, output_file):
                 else:
                     continue
 
-                if var_name.strip().lower() in ('screening_subject_id', 'subject_id'):
+                if var_name.strip().lower() in ('screening_subject_id', 'subject_id', 'homer_id', 'record_id'):
                     continue
                 
                 # REMOVE redundant admin fields (date, examiner) from follow-up forms.
@@ -179,7 +179,7 @@ def process_redcap_csvs(input_dir, output_file):
                 # will be locked once the assessment is marked 'Complete'
                 locking_tag = "@READONLY-IF([completed_assessment_complete] = '2')"
                 exempt_forms = ('completed_assessment', 'adverse_event', 'exit_questionnaire_control', 'exit_questionnaire_intervention', 'fatigue_severity_scale')
-                if cleaned_var not in ('screening_subject_id', 'subject_id') and clean_name(form_name) not in exempt_forms:
+                if cleaned_var not in ('screening_subject_id', 'subject_id', 'record_id') and clean_name(form_name) not in exempt_forms:
                     if annot:
                         if locking_tag not in annot:
                             annot = f"{annot.strip()} {locking_tag}"
