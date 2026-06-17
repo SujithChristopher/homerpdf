@@ -54,7 +54,7 @@
             "id": "moca_cube",
             "form": "moca_test",
             "label": {
-                "translation": "Copy Bed (previously Cube/Bed)"
+                "translation": "Copy Cube"
             },
             "enum": [
                 {
@@ -105,7 +105,7 @@
             "id": "moca_clock_hands",
             "form": "moca_test",
             "label": {
-                "translation": "Clock Drawing - Hands (Five past ten)"
+                "translation": "Clock Drawing - Hands (Ten past eleven)"
             },
             "enum": [
                 {
@@ -119,13 +119,13 @@
             ]
         },
         {
-            "id": "moca_animal_horse",
+            "id": "moca_animal_lion",
             "form": "moca_test",
             "header": {
                 "translation": "2. Naming"
             },
             "label": {
-                "translation": "Name Horse"
+                "translation": "Name Lion"
             },
             "enum": [
                 {
@@ -139,10 +139,10 @@
             ]
         },
         {
-            "id": "moca_animal_tiger",
+            "id": "moca_animal_rhino",
             "form": "moca_test",
             "label": {
-                "translation": "Name Tiger"
+                "translation": "Name Rhinoceros"
             },
             "enum": [
                 {
@@ -156,10 +156,10 @@
             ]
         },
         {
-            "id": "moca_animal_duck",
+            "id": "moca_animal_camel",
             "form": "moca_test",
             "label": {
-                "translation": "Name Duck"
+                "translation": "Name Camel"
             },
             "enum": [
                 {
@@ -179,7 +179,7 @@
                 "translation": "MEMORY (ನೆನಪಿನ ಶಕ್ತಿ)"
             },
             "label": {
-                "translation": "Trial 1 & 2: Registering the words LEG, COTTON, SCHOOL, TOMATO, WHITE. No points are awarded here; they are for the 5-minute delayed recall task."
+                "translation": "Trial 1 & 2: Registering the words FACE, VELVET, CHURCH, DAISY, RED. No points are awarded here; they are for the 5-minute delayed recall task."
             }
         },
         {
@@ -189,7 +189,7 @@
                 "translation": "4. Attention"
             },
             "label": {
-                "translation": "Digit Span Forward (2-4-8-1-5)"
+                "translation": "Digit Span Forward (2-1-8-5-4)"
             },
             "enum": [
                 {
@@ -206,7 +206,7 @@
             "id": "moca_digit_backward",
             "form": "moca_test",
             "label": {
-                "translation": "Digit Span Backward (4-2-7)"
+                "translation": "Digit Span Backward (7-4-2)"
             },
             "enum": [
                 {
@@ -240,7 +240,7 @@
             "id": "moca_serial_7",
             "form": "moca_test",
             "label": {
-                "translation": "Serial 7 Subtraction (Starting at 60)"
+                "translation": "Serial 7 Subtraction (Starting at 100)"
             },
             "enum": [
                 {
@@ -268,7 +268,7 @@
                 "translation": "5. Language"
             },
             "label": {
-                "translation": "Sentence Repetition 1: \"The child walked his dog in the park after midnight.\""
+                "translation": "Sentence Repetition 1: \"I only know that John is the one to help today.\""
             },
             "enum": [
                 {
@@ -285,7 +285,7 @@
             "id": "moca_sentence_2",
             "form": "moca_test",
             "label": {
-                "translation": "Sentence Repetition 2: \"The artist finished his painting at the right moment for the exhibition.\""
+                "translation": "Sentence Repetition 2: \"The cat always hid under the couch when dogs were in the room.\""
             },
             "enum": [
                 {
@@ -316,13 +316,13 @@
             ]
         },
         {
-            "id": "moca_abstract_hammer",
+            "id": "moca_abstract_train",
             "form": "moca_test",
             "header": {
                 "translation": "6. Abstraction"
             },
             "label": {
-                "translation": "Similarities: Hammer - Screwdriver"
+                "translation": "Similarities: Train - Bicycle"
             },
             "enum": [
                 {
@@ -336,10 +336,10 @@
             ]
         },
         {
-            "id": "moca_abstract_matches",
+            "id": "moca_abstract_watch",
             "form": "moca_test",
             "label": {
-                "translation": "Similarities: Matches - Lamp"
+                "translation": "Similarities: Watch - Ruler"
             },
             "enum": [
                 {
@@ -353,13 +353,13 @@
             ]
         },
         {
-            "id": "moca_recall_leg",
+            "id": "moca_recall_face",
             "form": "moca_test",
             "header": {
                 "translation": "7. Delayed Recall"
             },
             "label": {
-                "translation": "Uncued Recall: LEG"
+                "translation": "Uncued Recall: FACE"
             },
             "enum": [
                 {
@@ -373,10 +373,10 @@
             ]
         },
         {
-            "id": "moca_recall_cotton",
+            "id": "moca_recall_velvet",
             "form": "moca_test",
             "label": {
-                "translation": "Uncued Recall: COTTON"
+                "translation": "Uncued Recall: VELVET"
             },
             "enum": [
                 {
@@ -390,10 +390,10 @@
             ]
         },
         {
-            "id": "moca_recall_school",
+            "id": "moca_recall_church",
             "form": "moca_test",
             "label": {
-                "translation": "Uncued Recall: SCHOOL"
+                "translation": "Uncued Recall: CHURCH"
             },
             "enum": [
                 {
@@ -407,10 +407,10 @@
             ]
         },
         {
-            "id": "moca_recall_tomato",
+            "id": "moca_recall_daisy",
             "form": "moca_test",
             "label": {
-                "translation": "Uncued Recall: TOMATO"
+                "translation": "Uncued Recall: DAISY"
             },
             "enum": [
                 {
@@ -424,10 +424,10 @@
             ]
         },
         {
-            "id": "moca_recall_white",
+            "id": "moca_recall_red",
             "form": "moca_test",
             "label": {
-                "translation": "Uncued Recall: WHITE"
+                "translation": "Uncued Recall: RED"
             },
             "enum": [
                 {

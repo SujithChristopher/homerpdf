@@ -12006,7 +12006,7 @@
             ]
         },
         {
-            "id": "moca_animal_horse",
+            "id": "moca_animal_lion",
             "form": "montreal_cognitive_assessment",
             "header": {
                 "hash": "9f409517f9",
@@ -12030,7 +12030,7 @@
             ]
         },
         {
-            "id": "moca_animal_tiger",
+            "id": "moca_animal_rhino",
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "d45f6c642a",
@@ -12050,7 +12050,7 @@
             ]
         },
         {
-            "id": "moca_animal_duck",
+            "id": "moca_animal_camel",
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "1d44fc1855",
@@ -12240,7 +12240,7 @@
             ]
         },
         {
-            "id": "moca_abstract_hammer",
+            "id": "moca_abstract_train",
             "form": "montreal_cognitive_assessment",
             "header": {
                 "hash": "ee5ba4c323",
@@ -12264,7 +12264,7 @@
             ]
         },
         {
-            "id": "moca_abstract_matches",
+            "id": "moca_abstract_watch",
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "bbbbc4a880",
@@ -12284,7 +12284,7 @@
             ]
         },
         {
-            "id": "moca_recall_leg",
+            "id": "moca_recall_face",
             "form": "montreal_cognitive_assessment",
             "header": {
                 "hash": "1e1f1a3c78",
@@ -12308,7 +12308,7 @@
             ]
         },
         {
-            "id": "moca_recall_cotton",
+            "id": "moca_recall_velvet",
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "1ff350a8d1",
@@ -12328,7 +12328,7 @@
             ]
         },
         {
-            "id": "moca_recall_school",
+            "id": "moca_recall_church",
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "16fe74676d",
@@ -12348,7 +12348,7 @@
             ]
         },
         {
-            "id": "moca_recall_tomato",
+            "id": "moca_recall_daisy",
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "8bdfd0cca9",
@@ -12368,7 +12368,7 @@
             ]
         },
         {
-            "id": "moca_recall_white",
+            "id": "moca_recall_red",
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "be11636d01",

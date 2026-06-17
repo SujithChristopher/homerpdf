@@ -11930,7 +11930,7 @@
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "cd46919b11",
-                "translation": "Copy Bed (previously Cube/Bed)"
+                "translation": "Copy Cube"
             },
             "enum": [
                 {
@@ -11990,7 +11990,7 @@
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "7343c6b0a2",
-                "translation": "Clock Drawing - Hands (Five past ten)"
+                "translation": "Clock Drawing - Hands (Ten past eleven)"
             },
             "enum": [
                 {
@@ -12006,7 +12006,7 @@
             ]
         },
         {
-            "id": "moca_animal_horse",
+            "id": "moca_animal_lion",
             "form": "montreal_cognitive_assessment",
             "header": {
                 "hash": "9f409517f9",
@@ -12014,7 +12014,7 @@
             },
             "label": {
                 "hash": "dcd4601031",
-                "translation": "Name Horse"
+                "translation": "Name Lion"
             },
             "enum": [
                 {
@@ -12030,11 +12030,11 @@
             ]
         },
         {
-            "id": "moca_animal_tiger",
+            "id": "moca_animal_rhino",
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "d45f6c642a",
-                "translation": "Name Tiger"
+                "translation": "Name Rhinoceros"
             },
             "enum": [
                 {
@@ -12050,11 +12050,11 @@
             ]
         },
         {
-            "id": "moca_animal_duck",
+            "id": "moca_animal_camel",
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "1d44fc1855",
-                "translation": "Name Duck"
+                "translation": "Name Camel"
             },
             "enum": [
                 {
@@ -12078,7 +12078,7 @@
             },
             "label": {
                 "hash": "0a1891ec84",
-                "translation": "Trial 1 & 2: Registering the words LEG, COTTON, SCHOOL, TOMATO, WHITE. No points are awarded here; they are for the 5-minute delayed recall task."
+                "translation": "Trial 1 & 2: Registering the words FACE, VELVET, CHURCH, DAISY, RED. No points are awarded here; they are for the 5-minute delayed recall task."
             }
         },
         {
@@ -12090,7 +12090,7 @@
             },
             "label": {
                 "hash": "c5ddc99701",
-                "translation": "Digit Span Forward (2-4-8-1-5)"
+                "translation": "Digit Span Forward (2-1-8-5-4)"
             },
             "enum": [
                 {
@@ -12110,7 +12110,7 @@
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "05cbc16de0",
-                "translation": "Digit Span Backward (4-2-7)"
+                "translation": "Digit Span Backward (7-4-2)"
             },
             "enum": [
                 {
@@ -12150,7 +12150,7 @@
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "a398fe228e",
-                "translation": "Serial 7 Subtraction (Starting at 60)"
+                "translation": "Serial 7 Subtraction (Starting at 100)"
             },
             "enum": [
                 {
@@ -12184,7 +12184,7 @@
             },
             "label": {
                 "hash": "a375134ef6",
-                "translation": "Sentence Repetition 1: \"The child walked his dog in the park after midnight.\""
+                "translation": "Sentence Repetition 1: \"I only know that John is the one to help today.\""
             },
             "enum": [
                 {
@@ -12204,7 +12204,7 @@
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "b32f4baddf",
-                "translation": "Sentence Repetition 2: \"The artist finished his painting at the right moment for the exhibition.\""
+                "translation": "Sentence Repetition 2: \"The cat always hid under the couch when dogs were in the room.\""
             },
             "enum": [
                 {
@@ -12240,7 +12240,7 @@
             ]
         },
         {
-            "id": "moca_abstract_hammer",
+            "id": "moca_abstract_train",
             "form": "montreal_cognitive_assessment",
             "header": {
                 "hash": "ee5ba4c323",
@@ -12248,7 +12248,7 @@
             },
             "label": {
                 "hash": "452f5ea620",
-                "translation": "Similarities: Hammer - Screwdriver"
+                "translation": "Similarities: Train - Bicycle"
             },
             "enum": [
                 {
@@ -12264,11 +12264,11 @@
             ]
         },
         {
-            "id": "moca_abstract_matches",
+            "id": "moca_abstract_watch",
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "bbbbc4a880",
-                "translation": "Similarities: Matches - Lamp"
+                "translation": "Similarities: Watch - Ruler"
             },
             "enum": [
                 {
@@ -12284,7 +12284,7 @@
             ]
         },
         {
-            "id": "moca_recall_leg",
+            "id": "moca_recall_face",
             "form": "montreal_cognitive_assessment",
             "header": {
                 "hash": "1e1f1a3c78",
@@ -12292,7 +12292,7 @@
             },
             "label": {
                 "hash": "b18ae8c7da",
-                "translation": "Uncued Recall: LEG"
+                "translation": "Uncued Recall: FACE"
             },
             "enum": [
                 {
@@ -12308,11 +12308,11 @@
             ]
         },
         {
-            "id": "moca_recall_cotton",
+            "id": "moca_recall_velvet",
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "1ff350a8d1",
-                "translation": "Uncued Recall: COTTON"
+                "translation": "Uncued Recall: VELVET"
             },
             "enum": [
                 {
@@ -12328,11 +12328,11 @@
             ]
         },
         {
-            "id": "moca_recall_school",
+            "id": "moca_recall_church",
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "16fe74676d",
-                "translation": "Uncued Recall: SCHOOL"
+                "translation": "Uncued Recall: CHURCH"
             },
             "enum": [
                 {
@@ -12348,11 +12348,11 @@
             ]
         },
         {
-            "id": "moca_recall_tomato",
+            "id": "moca_recall_daisy",
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "8bdfd0cca9",
-                "translation": "Uncued Recall: TOMATO"
+                "translation": "Uncued Recall: DAISY"
             },
             "enum": [
                 {
@@ -12368,11 +12368,11 @@
             ]
         },
         {
-            "id": "moca_recall_white",
+            "id": "moca_recall_red",
             "form": "montreal_cognitive_assessment",
             "label": {
                 "hash": "be11636d01",
-                "translation": "Uncued Recall: WHITE"
+                "translation": "Uncued Recall: RED"
             },
             "enum": [
                 {
