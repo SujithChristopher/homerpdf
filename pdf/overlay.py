@@ -63,3 +63,35 @@ class OverlayCreator:
         # Get the PDF bytes
         buffer.seek(0)
         return buffer
+
+    @staticmethod
+    def create_page_number_overlay(
+        page_num: int, total_pages: int, page_width: float, page_height: float
+    ) -> BytesIO:
+        """
+        Create a transparent PDF overlay with page number text at bottom-right (e.g. "Page 3 of 5").
+
+        Args:
+            page_num: The current page number (1-based)
+            total_pages: The total number of pages
+            page_width: Width of the page in points
+            page_height: Height of the page in points
+
+        Returns:
+            BytesIO containing the overlay PDF
+        """
+        buffer = BytesIO()
+        c = canvas.Canvas(buffer, pagesize=(page_width, page_height))
+
+        text = f"Page {page_num} of {total_pages}"
+        c.setFont(OverlayCreator.FONT_NAME, OverlayCreator.FONT_SIZE)
+        text_width = c.stringWidth(text, OverlayCreator.FONT_NAME, OverlayCreator.FONT_SIZE)
+
+        # Position at the bottom-right (aligned with date/time at bottom-left)
+        x = page_width - text_width - OverlayCreator.MARGIN_RIGHT
+        y = OverlayCreator.MARGIN_BOTTOM
+
+        c.drawString(x, y, text)
+        c.save()
+        buffer.seek(0)
+        return buffer

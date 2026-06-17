@@ -114,26 +114,56 @@ class PDFProcessor:
 
         return results
 
-    def merge_pdfs(self, pdf_buffers: list) -> BytesIO:
+    def merge_pdfs(self, pdf_buffers: list, add_page_numbers: bool = True) -> BytesIO:
         """
-        Merge multiple PDF buffers into a single PDF.
+        Merge multiple PDF buffers into a single PDF, optionally adding continuous page numbers.
 
         Args:
             pdf_buffers: List of BytesIO objects containing PDFs
+            add_page_numbers: If True, adds "Page X of Y" at the bottom right of each page
 
         Returns:
             BytesIO object containing merged PDF
         """
+        # First count total pages if adding page numbers
+        total_pages = 0
+        if add_page_numbers:
+            for pdf_buffer in pdf_buffers:
+                try:
+                    pdf_buffer.seek(0)
+                    reader = PdfReader(pdf_buffer)
+                    total_pages += len(reader.pages)
+                except Exception as e:
+                    print(f"Error reading PDF page count: {str(e)}")
+
         merger = PdfWriter()
+        current_page_idx = 0
 
         for pdf_buffer in pdf_buffers:
             try:
                 pdf_buffer.seek(0)
                 reader = PdfReader(pdf_buffer)
                 for page in reader.pages:
+                    if add_page_numbers and total_pages > 0:
+                        current_page_idx += 1
+                        
+                        # Get page dimensions
+                        page_width = float(page.mediabox.width)
+                        page_height = float(page.mediabox.height)
+                        
+                        # Create page number overlay
+                        overlay_buffer = OverlayCreator.create_page_number_overlay(
+                            current_page_idx, total_pages, page_width, page_height
+                        )
+                        
+                        # Merge overlay page onto original page
+                        overlay_pdf = PdfReader(overlay_buffer)
+                        overlay_page = overlay_pdf.pages[0]
+                        page.merge_page(overlay_page)
+                        
                     merger.add_page(page)
             except Exception as e:
-                print(f"Error merging PDF: {str(e)}")
+                print(f"Error merging PDF page: {str(e)}")
                 continue
 
         # Write merged PDF to buffer
