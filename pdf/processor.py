@@ -58,9 +58,15 @@ class PDFProcessor:
 
             # Process each page
             for page_num, page in enumerate(reader.pages):
-                # Get page dimensions
+                # Normalize page size to A4 if it isn't already
                 page_width = float(page.mediabox.width)
                 page_height = float(page.mediabox.height)
+                a4_width, a4_height = 595.27, 841.89
+                
+                if abs(page_width - a4_width) > 0.1 or abs(page_height - a4_height) > 0.1:
+                    page.scale_to(a4_width, a4_height)
+                    page_width = a4_width
+                    page_height = a4_height
 
                 # Create overlay PDF
                 overlay_buffer = OverlayCreator.create_text_overlay(
@@ -144,12 +150,18 @@ class PDFProcessor:
                 pdf_buffer.seek(0)
                 reader = PdfReader(pdf_buffer)
                 for page in reader.pages:
+                    # Normalize page size to A4 if it isn't already
+                    page_width = float(page.mediabox.width)
+                    page_height = float(page.mediabox.height)
+                    a4_width, a4_height = 595.27, 841.89
+                    
+                    if abs(page_width - a4_width) > 0.1 or abs(page_height - a4_height) > 0.1:
+                        page.scale_to(a4_width, a4_height)
+                        page_width = a4_width
+                        page_height = a4_height
+                    
                     if add_page_numbers and total_pages > 0:
                         current_page_idx += 1
-                        
-                        # Get page dimensions
-                        page_width = float(page.mediabox.width)
-                        page_height = float(page.mediabox.height)
                         
                         # Create page number overlay
                         overlay_buffer = OverlayCreator.create_page_number_overlay(
