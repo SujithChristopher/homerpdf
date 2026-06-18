@@ -22,24 +22,35 @@ class OverlayCreator:
 
     @staticmethod
     def create_text_overlay(
-        text: str, page_width: float, page_height: float
+        text: str, page_width: float, page_height: float, assessment_text: str = ""
     ) -> BytesIO:
         """
-        Create a transparent PDF with text at top-right (hospital number) and bottom-left (date/time).
+        Create a transparent PDF with text at top-right (hospital number), bottom-left (date/time),
+        and optionally top-left (assessment short form).
 
         Args:
             text: The text to display at top-right (e.g., "CMC-12345")
             page_width: Width of the page in points
             page_height: Height of the page in points
+            assessment_text: Short form of the assessment to display at top-left
+                              (e.g., "01 FMA", "02 ARAT", etc.)
 
         Returns:
-            BytesIO containing the overlay PDF with hospital number at top-right
-            and current date/time at bottom-left
+            BytesIO containing the overlay PDF
         """
         buffer = BytesIO()
 
         # Create canvas with transparent background
         c = canvas.Canvas(buffer, pagesize=(page_width, page_height))
+
+        # Set font
+        c.setFont(OverlayCreator.FONT_NAME, OverlayCreator.FONT_SIZE)
+
+        # Draw the assessment short form (top-left) if provided
+        if assessment_text:
+            x_assessment = OverlayCreator.MARGIN_LEFT
+            y_assessment = page_height - OverlayCreator.MARGIN_TOP - OverlayCreator.FONT_SIZE
+            c.drawString(x_assessment, y_assessment, assessment_text)
 
         # Calculate text position (top-right corner)
         # Canvas coordinates have origin at bottom-left, so we need to adjust
@@ -48,7 +59,6 @@ class OverlayCreator:
         y = page_height - OverlayCreator.MARGIN_TOP - OverlayCreator.FONT_SIZE
 
         # Draw the hospital number text (top-right)
-        c.setFont(OverlayCreator.FONT_NAME, OverlayCreator.FONT_SIZE)
         c.drawString(x, y, text)
 
         # Add current date and time to bottom-left

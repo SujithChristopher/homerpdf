@@ -1,5 +1,5 @@
 """PDF processing and hospital number overlay functionality."""
-
+import re
 from io import BytesIO
 from pathlib import Path
 
@@ -19,6 +19,66 @@ class PDFProcessor:
             pdf_dir: Path to directory containing PDF files
         """
         self.pdf_dir = Path(pdf_dir)
+
+    def get_assessment_short_form(self, pdf_filename: str) -> str:
+        """
+        Extract the assessment short form in English from the PDF filename.
+
+        Args:
+            pdf_filename: Name of the PDF file (e.g., "15 TA Patient consent.pdf")
+
+        Returns:
+            Short form string (e.g., "01 FMA", "15 CONSENT")
+        """
+        filename_lower = pdf_filename.lower()
+
+        if "proforma" in filename_lower:
+            return "00 PROFORMA"
+        elif "homer" in filename_lower or "screening" in filename_lower:
+            return "00 HOMER"
+        elif "fma" in filename_lower:
+            return "01 FMA"
+        elif "arat" in filename_lower:
+            return "02 ARAT"
+        elif "mal" in filename_lower:
+            return "03 MAL"
+        elif "cahai" in filename_lower:
+            return "04 CAHAI-7"
+        elif "sipso" in filename_lower:
+            return "05 SIPSO"
+        elif "moca" in filename_lower:
+            return "06 MOCA"
+        elif "mrs" in filename_lower:
+            return "07 MRS"
+        elif "mas" in filename_lower:
+            return "08 MAS"
+        elif "csi" in filename_lower:
+            return "09 CSI"
+        elif "phq9" in filename_lower:
+            return "10 PHQ9"
+        elif "fss" in filename_lower:
+            return "11 FSS"
+        elif "nihss" in filename_lower:
+            return "12 NIHSS"
+        elif "box" in filename_lower:
+            return "13 BOX & BLOCK"
+        elif "eq-5d" in filename_lower:
+            return "14 EQ-5D-5L"
+        elif "consent" in filename_lower:
+            return "15 CONSENT"
+        elif "information" in filename_lower:
+            return "16 INFO SHEET"
+
+        # Fallback parsing if keyword not matched
+        match = re.match(r"^(\d+)", pdf_filename)
+        if match:
+            num = match.group(1)
+            parts = Path(pdf_filename).stem.split()
+            if len(parts) > 2:
+                return f"{num} {' '.join(parts[2:]).upper()}"
+            return Path(pdf_filename).stem.upper()
+
+        return Path(pdf_filename).stem.upper()
 
     def add_hospital_number(
         self, pdf_filename: str, hospital_number: str, center_code: str, time_point: str
@@ -44,6 +104,9 @@ class PDFProcessor:
         if not pdf_path.exists():
             raise FileNotFoundError(f"PDF file not found: {pdf_filename}")
 
+        # Extract assessment short form
+        assessment_text = self.get_assessment_short_form(pdf_filename)
+
         # Format the overlay text with time point
         overlay_text = f"{time_point}-{center_code}-{hospital_number}"
 
@@ -62,7 +125,7 @@ class PDFProcessor:
                 page_width = float(page.mediabox.width)
                 page_height = float(page.mediabox.height)
                 a4_width, a4_height = 595.27, 841.89
-                
+
                 if abs(page_width - a4_width) > 0.1 or abs(page_height - a4_height) > 0.1:
                     page.scale_to(a4_width, a4_height)
                     page_width = a4_width
@@ -70,7 +133,7 @@ class PDFProcessor:
 
                 # Create overlay PDF
                 overlay_buffer = OverlayCreator.create_text_overlay(
-                    overlay_text, page_width, page_height
+                    overlay_text, page_width, page_height, assessment_text
                 )
 
                 # Read overlay as PDF
