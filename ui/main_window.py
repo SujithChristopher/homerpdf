@@ -143,10 +143,10 @@ class MainWindow(QMainWindow):
                     if pdf:
                         self.event_pdfs[tp].add(pdf)
             
-            # Explicitly add patient consent, information sheet, and proforma to screening (fallback path)
-            self.event_pdfs["screening"].add("00 EN Proforma.pdf")
-            self.event_pdfs["screening"].add("15 EN Patient consent.pdf")
-            self.event_pdfs["screening"].add("16 EN Patient Information sheet.pdf")
+            # Explicitly add proforma, patient consent, and information sheet to A0 (fallback path)
+            self.event_pdfs["a0"].add("00 EN Proforma.pdf")
+            self.event_pdfs["a0"].add("15 EN Patient consent.pdf")
+            self.event_pdfs["a0"].add("16 EN Patient Information sheet.pdf")
             return
 
         try:
@@ -170,10 +170,10 @@ class MainWindow(QMainWindow):
         except Exception as e:
             print(f"Error loading events.csv: {e}")
         finally:
-            # Explicitly add patient consent, information sheet, and proforma to screening
-            self.event_pdfs["screening"].add("00 EN Proforma.pdf")
-            self.event_pdfs["screening"].add("15 EN Patient consent.pdf")
-            self.event_pdfs["screening"].add("16 EN Patient Information sheet.pdf")
+            # Explicitly add proforma, patient consent, and information sheet to A0
+            self.event_pdfs["a0"].add("00 EN Proforma.pdf")
+            self.event_pdfs["a0"].add("15 EN Patient consent.pdf")
+            self.event_pdfs["a0"].add("16 EN Patient Information sheet.pdf")
 
     def load_default_center(self):
         """Load default center from config.json and select it in the combobox."""
@@ -669,12 +669,14 @@ class MainWindow(QMainWindow):
         if lang == "EN":
             return english_filename
 
+        actual_files = {f.name.lower(): f.name for f in self.pdf_dir.glob("*.pdf")}
+
         # Pattern: replace ' EN ' with ' TA ' or ' TE '
         for en_pattern in [" EN ", " en ", " En ", " eN "]:
             if en_pattern in english_filename:
                 translated_filename = english_filename.replace(en_pattern, f" {lang} ")
-                if (self.pdf_dir / translated_filename).exists():
-                    return translated_filename
+                if translated_filename.lower() in actual_files:
+                    return actual_files[translated_filename.lower()]
 
         # Pattern: replace 'English' with 'Tamil' or 'Telugu'
         lang_word_map = {
@@ -686,8 +688,8 @@ class MainWindow(QMainWindow):
             for english_word in ["English", "english", "ENGLISH"]:
                 if english_word in english_filename:
                     translated_filename = english_filename.replace(english_word, lang_word)
-                    if (self.pdf_dir / translated_filename).exists():
-                        return translated_filename
+                    if translated_filename.lower() in actual_files:
+                        return actual_files[translated_filename.lower()]
 
         return english_filename
 
