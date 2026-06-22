@@ -6765,7 +6765,7 @@
             "form": "caregiver_strain_index",
             "label": {
                 "hash": "8a7081f161",
-                "translation": "2. It is inconvenient (e.g., because helping takes so much time or it’s a long journey to help) <br> 2. ಇದು ಅನಾನುಕೂಲವಾಗಿದೆ (ಉದಾಹರಣೆಗೆ, ಸಹಾಯ ಮಾಡಲು ಹೆಚ್ಚು ಸಮಯ ಬೇಕಾಗುತ್ತದೆ ಅಥವಾ ಸಹಾಯ ಮಾಡಲು ದೂರದ ಪ್ರಯಾಣ ಮಾಡಬೇಕಾಗುತ್ತದೆ)"
+                "translation": "2. It is inconvenient (e.g., because helping takes so much time or it's a long journey to help) <br> 2. ಇದು ಅನಾನುಕೂಲವಾಗಿದೆ (ಉದಾಹರಣೆಗೆ, ಸಹಾಯ ಮಾಡಲು ಹೆಚ್ಚು ಸಮಯ ಬೇಕಾಗುತ್ತದೆ ಅಥವಾ ಸಹಾಯ ಮಾಡಲು ದೂರದ ಪ್ರಯಾಣ ಮಾಡಬೇಕಾಗುತ್ತದೆ)"
             }
         },
         {
@@ -6902,7 +6902,7 @@
             },
             "label": {
                 "hash": "c4de207330",
-                "translation": "<b>Amount Scale (AS)</b>:<br>0 - Did not use my weaker arm (not used).<br>.5<br>1 - Occasionally used my weaker arm, but only very rarely (very rarely).<br>1.5<br>2 - Sometimes used my weaker arm but did the activity most of the time with my stronger arm (rarely).<br>2.5<br>3 - Used my weaker arm about half as much as before the stroke (half pre-stroke).<br>3.5<br>4 - Used my weaker arm almost as much as before the stroke (3/4 pre-stroke).<br>4.5<br>5 - Used my weaker arm as often as before the stroke (same as pre-stroke)."
+                "translation": "<b>Amount Scale (AS) <br> ಪ್ರಮಾಣ ಮಾಪಕ (AS)</b>:<br>0 - Did not use my weaker arm (not used) <br> 0 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ)<br>.5<br>1 - Occasionally used my weaker arm, but only very rarely (very rarely) <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ<br>1.5<br>2 - Sometimes used my weaker arm but did the activity most of the time with my stronger arm (rarely) <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ<br>2.5<br>3 - Used my weaker arm about half as much as before the stroke (half pre-stroke) <br> 3 - ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಪಾರ್ಶ್ವವಾಯು ಆಗುವ ಮುನ್ನ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ಬಳಸುತ್ತೇನೆ<br>3.5<br>4 - Used my weaker arm almost as much as before the stroke (3/4 pre-stroke) <br> 4 - ಪಾರ್ಶ್ವವಾಯು ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ಬಹುತೇಕ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ<br>4.5<br>5 - Used my weaker arm as often as before the stroke (same as pre-stroke) <br> 5 - ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ"
             }
         },
         {
@@ -6910,7 +6910,7 @@
             "form": "motor_activity_log",
             "label": {
                 "hash": "451ecf1790",
-                "translation": "<b>How Well Scale (HW)</b>:<br>0 - The weaker arm was not used at all for that activity (never).<br>.5<br>1 - The weaker arm was moved during that activity but was not helpful (very poor).<br>1.5<br>2 - The weaker arm was of some use during that activity but needed some help from the stronger arm or moved very slowly or with difficulty (poor).<br>2.5<br>3 - The weaker arm was used for the purpose indicated but movements were slow or were made with only some effort (fair).<br>3.5<br>4 - The movements made by the weaker arm were almost normal, but were not quite as fast or accurate as normal (almost normal).<br>4.5<br>5 - The ability to use the weaker arm for that activity was as good as before the stroke (normal)."
+                "translation": "<b>How Well Scale (HW) <br> ಎಷ್ಟು ಚೆನ್ನಾಗಿ ಮಾಪಕ (HW)</b>:<br>0 - The weaker arm was not used at all for that activity (never) <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)<br>.5<br>1 - The weaker arm was moved during that activity but was not helpful (very poor) <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)<br>1.5<br>2 - The weaker arm was of some use during that activity but needed some help from the stronger arm or moved very slowly or with difficulty (poor) <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)<br>2.5<br>3 - The weaker arm was used for the purpose indicated but movements were slow or were made with only some effort (fair) <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)<br>3.5<br>4 - The movements made by the weaker arm were almost normal, but were not quite as fast or accurate as normal (almost normal) <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)<br>4.5<br>5 - The ability to use the weaker arm for that activity was as good as before the stroke (normal) <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
             }
         },
         {
@@ -6918,7 +6918,7 @@
             "form": "motor_activity_log",
             "label": {
                 "hash": "ee251bb6a0",
-                "translation": "<b>Codes for recording “no” responses</b>:<br>1. “I used the unaffected arm entirely.” (assign “0”).<br>2. “Someone else did it for me.” (assign “0”).<br>3. “I never do that activity... impossible (e.g. bald)” (assign “N/A” and drop from list).<br>4. “Opportunity not present since last time” (carry-over last assigned number).<br>5. Non-dominant hand hemiparesis (applicable to #24; assign “N/A”)."
+                "translation": "<b>Codes for recording \"no\" responses <br> \"ಇಲ್ಲ\" ಎಂಬ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ದಾಖಲಿಸಲು ಕೋಡ್‌ಗಳು</b>:<br>1. \"I used the unaffected arm entirely.\" (assign \"0\") <br> 1. \"ನಾನು ಪಾರ್ಶ್ವವಾಯು ಬಾಧಿಸದ ಕೈಯನ್ನು ಮಾತ್ರ ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಿದೆ.\" (\"0\" ಎಂದು ಗುರುತಿಸಿ)<br>2. \"Someone else did it for me.\" (assign \"0\") <br> 2. \"ಬೇರೆಯವರು ಅದನ್ನು ನನಗಾಗಿ ಮಾಡಿದರು.\" (\"0\" ಎಂದು ಗುರುತಿಸಿ)<br>3. \"I never do that activity... impossible (e.g. bald)\" (assign \"N/A\" and drop from list) <br> 3. \"ನಾನು ಆ ಚಟುವಟಿಕೆಯನ್ನು ಎಂದಿಗೂ ಮಾಡುವುದಿಲ್ಲ... ಅಸಾಧ್ಯ (ಉದಾ. ಬೋಳು ತಲೆ)\" (\"N/A\" ಎಂದು ಗುರುತಿಸಿ ಮತ್ತು ಪಟ್ಟಿಯಿಂದ ಕೈಬಿಡಿ)<br>4. \"Opportunity not present since last time\" (carry-over last assigned number) <br> 4. \"ಕಳೆದ ಬಾರಿಯಿಂದ ಆ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು ಅವಕಾಶ ಸಿಗಲಿಲ್ಲ\" (ಕಳೆದ ಬಾರಿ ನೀಡಿದ ಅಂಕಗಳನ್ನೇ ಮುಂದುವರಿಸಿ)<br>5. Non-dominant hand hemiparesis (applicable to #24; assign \"N/A\") <br> 5. ಪ್ರಭಾವಶಾಲಿಯಲ್ಲದ ಕೈ ಪಾರ್ಶ್ವವಾಯುಗೆ ಒಳಗಾಗಿದ್ದರೆ (#24 ಕ್ಕೆ ಅನ್ವಯಿಸುತ್ತದೆ; \"N/A\" ಎಂದು ಗುರುತಿಸಿ)"
             }
         },
         {
@@ -6930,7 +6930,7 @@
             },
             "label": {
                 "hash": "624c07f85c",
-                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>1. Using a telephone</td><td style='padding: 5px;'>{mal_as_1}</td><td style='padding: 5px;'>{mal_hw_1}</td><td style='padding: 5px;'>{mal_why_1}</td><td style='padding: 5px;'>{mal_comm_1}</td></tr><tr><td style='padding: 5px;'>2. Turning on a light switch</td><td style='padding: 5px;'>{mal_as_2}</td><td style='padding: 5px;'>{mal_hw_2}</td><td style='padding: 5px;'>{mal_why_2}</td><td style='padding: 5px;'>{mal_comm_2}</td></tr><tr><td style='padding: 5px;'>3. Opening a drawer</td><td style='padding: 5px;'>{mal_as_3}</td><td style='padding: 5px;'>{mal_hw_3}</td><td style='padding: 5px;'>{mal_why_3}</td><td style='padding: 5px;'>{mal_comm_3}</td></tr><tr><td style='padding: 5px;'>4. Removing item from drawer</td><td style='padding: 5px;'>{mal_as_4}</td><td style='padding: 5px;'>{mal_hw_4}</td><td style='padding: 5px;'>{mal_why_4}</td><td style='padding: 5px;'>{mal_comm_4}</td></tr><tr><td style='padding: 5px;'>5. Picking up a telephone</td><td style='padding: 5px;'>{mal_as_5}</td><td style='padding: 5px;'>{mal_hw_5}</td><td style='padding: 5px;'>{mal_why_5}</td><td style='padding: 5px;'>{mal_comm_5}</td></tr></table>"
+                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>1. Using a telephone <br> 1. ದೂರವಾಣಿ ಬಳಸುವುದು</td><td style='padding: 5px;'>{mal_as_1}</td><td style='padding: 5px;'>{mal_hw_1}</td><td style='padding: 5px;'>{mal_why_1}</td><td style='padding: 5px;'>{mal_comm_1}</td></tr><tr><td style='padding: 5px;'>2. Turning on a light switch <br> 2. ಲೈಟ್ ಸ್ವಿಚ್ ಆನ್ ಮಾಡುವುದು</td><td style='padding: 5px;'>{mal_as_2}</td><td style='padding: 5px;'>{mal_hw_2}</td><td style='padding: 5px;'>{mal_why_2}</td><td style='padding: 5px;'>{mal_comm_2}</td></tr><tr><td style='padding: 5px;'>3. Opening a drawer <br> 3. ಡ್ರಾಯರ್ ತೆರೆಯುವುದು</td><td style='padding: 5px;'>{mal_as_3}</td><td style='padding: 5px;'>{mal_hw_3}</td><td style='padding: 5px;'>{mal_why_3}</td><td style='padding: 5px;'>{mal_comm_3}</td></tr><tr><td style='padding: 5px;'>4. Removing item from drawer <br> 4. ಡ್ರಾಯರ್‌ನಿಂದ ವಸ್ತುವನ್ನು ತೆಗೆಯುವುದು</td><td style='padding: 5px;'>{mal_as_4}</td><td style='padding: 5px;'>{mal_hw_4}</td><td style='padding: 5px;'>{mal_why_4}</td><td style='padding: 5px;'>{mal_comm_4}</td></tr><tr><td style='padding: 5px;'>5. Picking up a telephone <br> 5. ದೂರವಾಣಿ ಎತ್ತುವುದು</td><td style='padding: 5px;'>{mal_as_5}</td><td style='padding: 5px;'>{mal_hw_5}</td><td style='padding: 5px;'>{mal_why_5}</td><td style='padding: 5px;'>{mal_comm_5}</td></tr></table>"
             }
         },
         {
@@ -7672,7 +7672,7 @@
             },
             "label": {
                 "hash": "67a53a7744",
-                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>6. Wiping off a table</td><td style='padding: 5px;'>{mal_as_6}</td><td style='padding: 5px;'>{mal_hw_6}</td><td style='padding: 5px;'>{mal_why_6}</td><td style='padding: 5px;'>{mal_comm_6}</td></tr><tr><td style='padding: 5px;'>7. Opening a refrigerator</td><td style='padding: 5px;'>{mal_as_7}</td><td style='padding: 5px;'>{mal_hw_7}</td><td style='padding: 5px;'>{mal_why_7}</td><td style='padding: 5px;'>{mal_comm_7}</td></tr><tr><td style='padding: 5px;'>8. Move object shelf to shelf</td><td style='padding: 5px;'>{mal_as_8}</td><td style='padding: 5px;'>{mal_hw_8}</td><td style='padding: 5px;'>{mal_why_8}</td><td style='padding: 5px;'>{mal_comm_8}</td></tr><tr><td style='padding: 5px;'>9. Picking up a cup</td><td style='padding: 5px;'>{mal_as_9}</td><td style='padding: 5px;'>{mal_hw_9}</td><td style='padding: 5px;'>{mal_why_9}</td><td style='padding: 5px;'>{mal_comm_9}</td></tr><tr><td style='padding: 5px;'>10. Drinking from a cup</td><td style='padding: 5px;'>{mal_as_10}</td><td style='padding: 5px;'>{mal_hw_10}</td><td style='padding: 5px;'>{mal_why_10}</td><td style='padding: 5px;'>{mal_comm_10}</td></tr></table>"
+                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>6. Wiping off a table <br> 6. ಮೇಜನ್ನು ಒರೆಸುವುದು</td><td style='padding: 5px;'>{mal_as_6}</td><td style='padding: 5px;'>{mal_hw_6}</td><td style='padding: 5px;'>{mal_why_6}</td><td style='padding: 5px;'>{mal_comm_6}</td></tr><tr><td style='padding: 5px;'>7. Opening a refrigerator <br> 7. ಫ್ರಿಡ್ಜ್ (ರೆಫ್ರಿಜರೇಟರ್) ತೆರೆಯುವುದು</td><td style='padding: 5px;'>{mal_as_7}</td><td style='padding: 5px;'>{mal_hw_7}</td><td style='padding: 5px;'>{mal_why_7}</td><td style='padding: 5px;'>{mal_comm_7}</td></tr><tr><td style='padding: 5px;'>8. Move object shelf to shelf <br> 8. ವಸ್ತುವನ್ನು ಒಂದು ಕಪಾಟಿನಿಂದ ಮತ್ತೊಂದಕ್ಕೆ ವರ್ಗಾಯಿಸುವುದು</td><td style='padding: 5px;'>{mal_as_8}</td><td style='padding: 5px;'>{mal_hw_8}</td><td style='padding: 5px;'>{mal_why_8}</td><td style='padding: 5px;'>{mal_comm_8}</td></tr><tr><td style='padding: 5px;'>9. Picking up a cup <br> 9. ಕಪ್ ಎತ್ತುವುದು</td><td style='padding: 5px;'>{mal_as_9}</td><td style='padding: 5px;'>{mal_hw_9}</td><td style='padding: 5px;'>{mal_why_9}</td><td style='padding: 5px;'>{mal_comm_9}</td></tr><tr><td style='padding: 5px;'>10. Drinking from a cup <br> 10. ಕಪ್‌ನಿಂದ ಕುಡಿಯುವುದು</td><td style='padding: 5px;'>{mal_as_10}</td><td style='padding: 5px;'>{mal_hw_10}</td><td style='padding: 5px;'>{mal_why_10}</td><td style='padding: 5px;'>{mal_comm_10}</td></tr></table>"
             }
         },
         {
@@ -8414,7 +8414,7 @@
             },
             "label": {
                 "hash": "1ae33fb21a",
-                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>11. Picking up fork or spoon</td><td style='padding: 5px;'>{mal_as_11}</td><td style='padding: 5px;'>{mal_hw_11}</td><td style='padding: 5px;'>{mal_why_11}</td><td style='padding: 5px;'>{mal_comm_11}</td></tr><tr><td style='padding: 5px;'>12. Eating with fork or spoon</td><td style='padding: 5px;'>{mal_as_12}</td><td style='padding: 5px;'>{mal_hw_12}</td><td style='padding: 5px;'>{mal_why_12}</td><td style='padding: 5px;'>{mal_comm_12}</td></tr><tr><td style='padding: 5px;'>13. Combing hair</td><td style='padding: 5px;'>{mal_as_13}</td><td style='padding: 5px;'>{mal_hw_13}</td><td style='padding: 5px;'>{mal_why_13}</td><td style='padding: 5px;'>{mal_comm_13}</td></tr><tr><td style='padding: 5px;'>14. Brushing teeth</td><td style='padding: 5px;'>{mal_as_14}</td><td style='padding: 5px;'>{mal_hw_14}</td><td style='padding: 5px;'>{mal_why_14}</td><td style='padding: 5px;'>{mal_comm_14}</td></tr><tr><td style='padding: 5px;'>15. Shaving or applying makeup</td><td style='padding: 5px;'>{mal_as_15}</td><td style='padding: 5px;'>{mal_hw_15}</td><td style='padding: 5px;'>{mal_why_15}</td><td style='padding: 5px;'>{mal_comm_15}</td></tr></table>"
+                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>11. Picking up fork or spoon <br> 11. ಫೋರ್ಕ್ ಅಥವಾ ಚಮಚವನ್ನು ಎತ್ತುವುದು</td><td style='padding: 5px;'>{mal_as_11}</td><td style='padding: 5px;'>{mal_hw_11}</td><td style='padding: 5px;'>{mal_why_11}</td><td style='padding: 5px;'>{mal_comm_11}</td></tr><tr><td style='padding: 5px;'>12. Eating with fork or spoon <br> 12. ಫೋರ್ಕ್ ಅಥವಾ ಚಮಚದಿಂದ ತಿನ್ನುವುದು</td><td style='padding: 5px;'>{mal_as_12}</td><td style='padding: 5px;'>{mal_hw_12}</td><td style='padding: 5px;'>{mal_why_12}</td><td style='padding: 5px;'>{mal_comm_12}</td></tr><tr><td style='padding: 5px;'>13. Combing hair <br> 13. ಕೂದಲು ಬಾಚಿಕೊಳ್ಳುವುದು</td><td style='padding: 5px;'>{mal_as_13}</td><td style='padding: 5px;'>{mal_hw_13}</td><td style='padding: 5px;'>{mal_why_13}</td><td style='padding: 5px;'>{mal_comm_13}</td></tr><tr><td style='padding: 5px;'>14. Brushing teeth <br> 14. ಹಲ್ಲುಜ್ಜುವುದು</td><td style='padding: 5px;'>{mal_as_14}</td><td style='padding: 5px;'>{mal_hw_14}</td><td style='padding: 5px;'>{mal_why_14}</td><td style='padding: 5px;'>{mal_comm_14}</td></tr><tr><td style='padding: 5px;'>15. Shaving or applying makeup <br> 15. ಕ್ಷೌರ ಮಾಡಿಕೊಳ್ಳುವುದು (ಶೇವಿಂಗ್) ಅಥವಾ ಮೇಕಪ್ ಮಾಡಿಕೊಳ್ಳುವುದು</td><td style='padding: 5px;'>{mal_as_15}</td><td style='padding: 5px;'>{mal_hw_15}</td><td style='padding: 5px;'>{mal_why_15}</td><td style='padding: 5px;'>{mal_comm_15}</td></tr></table>"
             }
         },
         {
@@ -9156,7 +9156,7 @@
             },
             "label": {
                 "hash": "d76e070cc3",
-                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>16. Use washcloth to bathe</td><td style='padding: 5px;'>{mal_as_16}</td><td style='padding: 5px;'>{mal_hw_16}</td><td style='padding: 5px;'>{mal_why_16}</td><td style='padding: 5px;'>{mal_comm_16}</td></tr><tr><td style='padding: 5px;'>17. Drying hands</td><td style='padding: 5px;'>{mal_as_17}</td><td style='padding: 5px;'>{mal_hw_17}</td><td style='padding: 5px;'>{mal_why_17}</td><td style='padding: 5px;'>{mal_comm_17}</td></tr><tr><td style='padding: 5px;'>18. Drying face</td><td style='padding: 5px;'>{mal_as_18}</td><td style='padding: 5px;'>{mal_hw_18}</td><td style='padding: 5px;'>{mal_why_18}</td><td style='padding: 5px;'>{mal_comm_18}</td></tr><tr><td style='padding: 5px;'>19. Put on shirt or jacket</td><td style='padding: 5px;'>{mal_as_19}</td><td style='padding: 5px;'>{mal_hw_19}</td><td style='padding: 5px;'>{mal_why_19}</td><td style='padding: 5px;'>{mal_comm_19}</td></tr><tr><td style='padding: 5px;'>20. Pulling on pants</td><td style='padding: 5px;'>{mal_as_20}</td><td style='padding: 5px;'>{mal_hw_20}</td><td style='padding: 5px;'>{mal_why_20}</td><td style='padding: 5px;'>{mal_comm_20}</td></tr></table>"
+                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>16. Use washcloth to bathe <br> 16. ಸ್ನಾನ ಮಾಡಲು ಬಟ್ಟೆ (ವಾಶ್‌ಕ್ಲಾತ್) ಬಳಸುವುದು</td><td style='padding: 5px;'>{mal_as_16}</td><td style='padding: 5px;'>{mal_hw_16}</td><td style='padding: 5px;'>{mal_why_16}</td><td style='padding: 5px;'>{mal_comm_16}</td></tr><tr><td style='padding: 5px;'>17. Drying hands <br> 17. ಕೈಗಳನ್ನು ಒಣಗಿಸುವುದು/ಒರೆಸುವುದು</td><td style='padding: 5px;'>{mal_as_17}</td><td style='padding: 5px;'>{mal_hw_17}</td><td style='padding: 5px;'>{mal_why_17}</td><td style='padding: 5px;'>{mal_comm_17}</td></tr><tr><td style='padding: 5px;'>18. Drying face <br> 18. ಮುಖ ಒರೆಸುವುದು</td><td style='padding: 5px;'>{mal_as_18}</td><td style='padding: 5px;'>{mal_hw_18}</td><td style='padding: 5px;'>{mal_why_18}</td><td style='padding: 5px;'>{mal_comm_18}</td></tr><tr><td style='padding: 5px;'>19. Put on shirt or jacket <br> 19. ಅಂಗಿ (ಶರ್ಟ್) ಅಥವಾ ಜಾಕೆಟ್ ಧರಿಸುವುದು</td><td style='padding: 5px;'>{mal_as_19}</td><td style='padding: 5px;'>{mal_hw_19}</td><td style='padding: 5px;'>{mal_why_19}</td><td style='padding: 5px;'>{mal_comm_19}</td></tr><tr><td style='padding: 5px;'>20. Pulling on pants <br> 20. ಪ್ಯಾಂಟ್ ಧರಿಸುವುದು</td><td style='padding: 5px;'>{mal_as_20}</td><td style='padding: 5px;'>{mal_hw_20}</td><td style='padding: 5px;'>{mal_why_20}</td><td style='padding: 5px;'>{mal_comm_20}</td></tr></table>"
             }
         },
         {
@@ -9898,7 +9898,7 @@
             },
             "label": {
                 "hash": "3a6556d82f",
-                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>21. Putting on shoes</td><td style='padding: 5px;'>{mal_as_21}</td><td style='padding: 5px;'>{mal_hw_21}</td><td style='padding: 5px;'>{mal_why_21}</td><td style='padding: 5px;'>{mal_comm_21}</td></tr><tr><td style='padding: 5px;'>22. Putting on socks</td><td style='padding: 5px;'>{mal_as_22}</td><td style='padding: 5px;'>{mal_hw_22}</td><td style='padding: 5px;'>{mal_why_22}</td><td style='padding: 5px;'>{mal_comm_22}</td></tr><tr><td style='padding: 5px;'>23. Using a key in a lock</td><td style='padding: 5px;'>{mal_as_23}</td><td style='padding: 5px;'>{mal_hw_23}</td><td style='padding: 5px;'>{mal_why_23}</td><td style='padding: 5px;'>{mal_comm_23}</td></tr><tr><td style='padding: 5px;'>24. Turning a door knob</td><td style='padding: 5px;'>{mal_as_24}</td><td style='padding: 5px;'>{mal_hw_24}</td><td style='padding: 5px;'>{mal_why_24}</td><td style='padding: 5px;'>{mal_comm_24}</td></tr><tr><td style='padding: 5px;'>25. Typing on a keyboard</td><td style='padding: 5px;'>{mal_as_25}</td><td style='padding: 5px;'>{mal_hw_25}</td><td style='padding: 5px;'>{mal_why_25}</td><td style='padding: 5px;'>{mal_comm_25}</td></tr></table>"
+                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>21. Putting on shoes <br> 21. ಶೂ ಧರಿಸುವುದು</td><td style='padding: 5px;'>{mal_as_21}</td><td style='padding: 5px;'>{mal_hw_21}</td><td style='padding: 5px;'>{mal_why_21}</td><td style='padding: 5px;'>{mal_comm_21}</td></tr><tr><td style='padding: 5px;'>22. Putting on socks <br> 22. ಸಾಕ್ಸ್ ಧರಿಸುವುದು</td><td style='padding: 5px;'>{mal_as_22}</td><td style='padding: 5px;'>{mal_hw_22}</td><td style='padding: 5px;'>{mal_why_22}</td><td style='padding: 5px;'>{mal_comm_22}</td></tr><tr><td style='padding: 5px;'>23. Using a key in a lock <br> 23. ಬೀಗಕ್ಕೆ ಕೀಲಿ (ಕೀ) ಬಳಸುವುದು</td><td style='padding: 5px;'>{mal_as_23}</td><td style='padding: 5px;'>{mal_hw_23}</td><td style='padding: 5px;'>{mal_why_23}</td><td style='padding: 5px;'>{mal_comm_23}</td></tr><tr><td style='padding: 5px;'>24. Turning a door knob <br> 24. ಬಾಗಿಲಿನ ನಾಬ್ (ಹ್ಯಾಂಡಲ್) ತಿರುಗಿಸುವುದು</td><td style='padding: 5px;'>{mal_as_24}</td><td style='padding: 5px;'>{mal_hw_24}</td><td style='padding: 5px;'>{mal_why_24}</td><td style='padding: 5px;'>{mal_comm_24}</td></tr><tr><td style='padding: 5px;'>25. Typing on a keyboard <br> 25. ಕೀಬೋರ್ಡ್‌ನಲ್ಲಿ ಟೈಪ್ ಮಾಡುವುದು</td><td style='padding: 5px;'>{mal_as_25}</td><td style='padding: 5px;'>{mal_hw_25}</td><td style='padding: 5px;'>{mal_why_25}</td><td style='padding: 5px;'>{mal_comm_25}</td></tr></table>"
             }
         },
         {
@@ -10640,7 +10640,7 @@
             },
             "label": {
                 "hash": "772ca0ef96",
-                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>26. Writing with pen or pencil</td><td style='padding: 5px;'>{mal_as_26}</td><td style='padding: 5px;'>{mal_hw_26}</td><td style='padding: 5px;'>{mal_why_26}</td><td style='padding: 5px;'>{mal_comm_26}</td></tr><tr><td style='padding: 5px;'>27. Using a remote control</td><td style='padding: 5px;'>{mal_as_27}</td><td style='padding: 5px;'>{mal_hw_27}</td><td style='padding: 5px;'>{mal_why_27}</td><td style='padding: 5px;'>{mal_comm_27}</td></tr><tr><td style='padding: 5px;'>28. Using a computer mouse</td><td style='padding: 5px;'>{mal_as_28}</td><td style='padding: 5px;'>{mal_hw_28}</td><td style='padding: 5px;'>{mal_why_28}</td><td style='padding: 5px;'>{mal_comm_28}</td></tr><tr><td style='padding: 5px;'>29. Lifting a bag</td><td style='padding: 5px;'>{mal_as_29}</td><td style='padding: 5px;'>{mal_hw_29}</td><td style='padding: 5px;'>{mal_why_29}</td><td style='padding: 5px;'>{mal_comm_29}</td></tr><tr><td style='padding: 5px;'>30. Carrying an object</td><td style='padding: 5px;'>{mal_as_30}</td><td style='padding: 5px;'>{mal_hw_30}</td><td style='padding: 5px;'>{mal_why_30}</td><td style='padding: 5px;'>{mal_comm_30}</td></tr></table>"
+                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>26. Writing with pen or pencil <br> 26. ಪೆನ್ ಅಥವಾ ಪೆನ್ಸಿಲ್‌ನಿಂದ ಬರೆಯುವುದು</td><td style='padding: 5px;'>{mal_as_26}</td><td style='padding: 5px;'>{mal_hw_26}</td><td style='padding: 5px;'>{mal_why_26}</td><td style='padding: 5px;'>{mal_comm_26}</td></tr><tr><td style='padding: 5px;'>27. Using a remote control <br> 27. ರಿಮೋಟ್ ಕಂಟ್ರೋಲ್ ಬಳಸುವುದು</td><td style='padding: 5px;'>{mal_as_27}</td><td style='padding: 5px;'>{mal_hw_27}</td><td style='padding: 5px;'>{mal_why_27}</td><td style='padding: 5px;'>{mal_comm_27}</td></tr><tr><td style='padding: 5px;'>28. Using a computer mouse <br> 28. ಕಂಪ್ಯೂಟರ್ ಮೌಸ್ ಬಳಸುವುದು</td><td style='padding: 5px;'>{mal_as_28}</td><td style='padding: 5px;'>{mal_hw_28}</td><td style='padding: 5px;'>{mal_why_28}</td><td style='padding: 5px;'>{mal_comm_28}</td></tr><tr><td style='padding: 5px;'>29. Lifting a bag <br> 29. ಬ್ಯಾಗ್ ಎತ್ತುವುದು</td><td style='padding: 5px;'>{mal_as_29}</td><td style='padding: 5px;'>{mal_hw_29}</td><td style='padding: 5px;'>{mal_why_29}</td><td style='padding: 5px;'>{mal_comm_29}</td></tr><tr><td style='padding: 5px;'>30. Carrying an object <br> 30. ವಸ್ತುವನ್ನು ಹೊತ್ತೊಯ್ಯುವುದು</td><td style='padding: 5px;'>{mal_as_30}</td><td style='padding: 5px;'>{mal_hw_30}</td><td style='padding: 5px;'>{mal_why_30}</td><td style='padding: 5px;'>{mal_comm_30}</td></tr></table>"
             }
         },
         {
@@ -11509,7 +11509,7 @@
             "form": "patient_health_questionnaire_phq9",
             "header": {
                 "hash": "eb1f292e39",
-                "translation": "PATIENT HEALTH QUESTIONNAIRE-9 (PHQ-9) <br> ರೋಗಿಯ ಆರೋಗ್ಯ ಪ್ರಶ್నಾವಳಿ - 9"
+                "translation": "PATIENT HEALTH QUESTIONNAIRE-9 (PHQ-9) <br> ರೋಗಿಯ ಆರೋಗ್ಯ ಪ್ರಶ್ನಾವಳಿ - 9"
             },
             "label": {
                 "hash": "275e74fe90",
@@ -11611,7 +11611,7 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "de61ab6a50",
-                "translation": "4. Feeling tired or having little energy <br> 4. ಆಯಾಸಗೊಳ್ಳುವುದು ಅಥವಾ ಚైతನ್ಯ ಇಲ್ಲದಿರುವುದು"
+                "translation": "4. Feeling tired or having little energy <br> 4. ಆಯಾಸಗೊಳ್ಳುವುದು ಅಥವಾ ಚೈತನ್ಯ ಇಲ್ಲದಿರುವುದು"
             },
             "enum": [
                 {
@@ -11641,7 +11641,7 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "d80f35b5c6",
-                "translation": "5. Poor appetite or overeating <br> 5. ಕಡಿಮೆ ಹసివు ಅಥವಾ ಅತಿಯಾಗಿ ತಿನ್ನುವುದು"
+                "translation": "5. Poor appetite or overeating <br> 5. ಕಡಿಮೆ ಹಸಿವು ಅಥವಾ ಅತಿಯಾಗಿ ತಿನ್ನುವುದು"
             },
             "enum": [
                 {
@@ -11671,7 +11671,7 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "94bd246db1",
-                "translation": "6. Feeling bad about yourself — or that you are a failure or have let yourself down or your family down <br> 6. ನಿಮ್ಮ ಬಗ್ಗೆ, ನಿಮಗೆ ಕೆಟ್ಟ ಭಾವನೆ — ಅಥವಾ ನೀವು ವಿಫಲರು ಅಥವಾ ನೀವು ನಿಮ್ಮ ಹಾಗೂ कुटुंबದವರ ನಿರೀಕ್ಷೆಗಿಂತ ಕೆಳಮಟ್ಟದಲ್ಲಿದ್ದೀರಿ ಎಂಬ ಭಾವನೆ"
+                "translation": "6. Feeling bad about yourself - or that you are a failure or have let yourself down or your family down <br> 6. ನಿಮ್ಮ ಬಗ್ಗೆ, ನಿಮಗೆ ಕೆಟ್ಟ ಭಾವನೆ - ಅಥವಾ ನೀವು ವಿಫಲರು ಅಥವಾ ನೀವು ನಿಮ್ಮ ಹಾಗೂ कुटुंबದವರ ನಿರೀಕ್ಷೆಗಿಂತ ಕೆಳಮಟ್ಟದಲ್ಲಿದ್ದೀರಿ ಎಂಬ ಭಾವನೆ"
             },
             "enum": [
                 {
@@ -11701,7 +11701,7 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "4001827d33",
-                "translation": "7. Trouble concentrating on things, such as reading the newspaper or watching television <br> 7. ಪత్రికೆಯನ್ನು ಓದಲು ಅಥವಾ ಟೆಲಿವಿಜನ್ ನೋಡುವುದು ಇತ್ಯಾದಿ ವಿಷಯಗಳಲ್ಲಿ ಗಮನ ಕೇಂದ್ರಿಕರಿಸಲು ತೊಂದರೆ"
+                "translation": "7. Trouble concentrating on things, such as reading the newspaper or watching television <br> 7. ಪತ್ರಿಕೆಯನ್ನು ಓದಲು ಅಥವಾ ಟೆಲಿವಿಜನ್ ನೋಡುವುದು ಇತ್ಯಾದಿ ವಿಷಯಗಳಲ್ಲಿ ಗಮನ ಕೇಂದ್ರಿಕರಿಸಲು ತೊಂದರೆ"
             },
             "enum": [
                 {
@@ -11731,7 +11731,7 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "346fa17c3c",
-                "translation": "8. Moving or speaking so slowly that other people could have noticed? Or the opposite — being so fidgety or restless that you have been moving around a lot more than usual <br> 8. ಇತರರ ಗಮನಕ್ಕೆ ಬರುವಷ್ಟು ನಿಧಾನವಾಗಿ ನಡೆದಾಡುವುದು ಅಥವಾ ಮಾತನಾಡುವುದು? ಅಥವಾ ತದ್ವಿರುದ್ಧವಾಗಿ — ಸಾಮಾನ್ಯಕ್ಕಿಂತ ಹೆಚ್ಚು ಅತ್ಯಂತ ತಳమಳದಿಂದ ಓಡಾಡುವಷ್ಟು ಚಡಪಡಿಕೆ ಅಥವಾ ಅಶಾಂತಿ"
+                "translation": "8. Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual <br> 8. ಇತರರ ಗಮನಕ್ಕೆ ಬರುವಷ್ಟು ನಿಧಾನವಾಗಿ ನಡೆದಾಡುವುದು ಅಥವಾ ಮಾತನಾಡುವುದು? ಅಥವಾ ತದ್ವಿರುದ್ಧವಾಗಿ - ಸಾಮಾನ್ಯಕ್ಕಿಂತ ಹೆಚ್ಚು ಅತ್ಯಂತ ತಳಮಳದಿಂದ ಓಡಾಡುವಷ್ಟು ಚಡಪಡಿಕೆ ಅಥವಾ ಅಶಾಂತಿ"
             },
             "enum": [
                 {
@@ -11761,7 +11761,7 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "3f22aa5482",
-                "translation": "9. Thoughts that you would be better off dead or of hurting yourself in some way <br> 9. ನೀವು ಸತ್ತರೆ ಚೆನ್ನಾಗಿರುತ್ತದೆ ಎಂಬ ಅಥವಾ ಯಾವುದಾದರೂ ರೀತಿಯಲ್ಲಿ ನಿಮ್ಮನ್ನು ಹಾನಿಪಡಿಸಿಕೊಳ್ಳುವ ಯೋచನೆಗಳು"
+                "translation": "9. Thoughts that you would be better off dead or of hurting yourself in some way <br> 9. ನೀವು ಸತ್ತರೆ ಚೆನ್ನಾಗಿರುತ್ತದೆ ಎಂಬ ಅಥವಾ ಯಾವುದಾದರೂ ರೀತಿಯಲ್ಲಿ ನಿಮ್ಮನ್ನು ಹಾನಿಪಡಿಸಿಕೊಳ್ಳುವ ಯೋಚನೆಗಳು"
             },
             "enum": [
                 {
@@ -11799,7 +11799,7 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "7cd6cb7698",
-                "translation": "If you ticked off any problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people? <br> ನೀವು ಯಾವುದಾದರೂ ಸಮಸ್ಯೆಗಳಿಗೆ ಚೆక్ ಮಾಡಿದ್ದರೆ, ಆ ಸಮಸ್ಯೆಗಳು ನಿಮಗೆ ನಿಮ್ಮ ಕೆಲಸವನ್ನು ಮಾಡಲು, ಮನೆಯಲ್ಲಿನ ವಿಷಯಗಳನ್ನು ನೋಡಿಕೊಳ್ಳಲು, ಅಥವಾ ಇತರರೊಂದಿಗೆ ಹೊಂದಿಕೊಂಡು ಹೋಗಲು ಎಷ್ಟು ಕಷ್ಟವನ್ನುಂಟುಮಾಡಿದవు?"
+                "translation": "If you ticked off any problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people? <br> ನೀವು ಯಾವುದಾದರೂ ಸಮಸ್ಯೆಗಳಿಗೆ ಚೆಕ್ ಮಾಡಿದ್ದರೆ, ಆ ಸಮಸ್ಯೆಗಳು ನಿಮಗೆ ನಿಮ್ಮ ಕೆಲಸವನ್ನು ಮಾಡಲು, ಮನೆಯಲ್ಲಿನ ವಿಷಯಗಳನ್ನು ನೋಡಿಕೊಳ್ಳಲು, ಅಥವಾ ಇತರರೊಂದಿಗೆ ಹೊಂದಿಕೊಂಡು ಹೋಗಲು ಎಷ್ಟು ಕಷ್ಟವನ್ನುಂಟುಮಾಡಿದವು?"
             },
             "enum": [
                 {
@@ -11809,7 +11809,7 @@
                 },
                 {
                     "id": 1,
-                    "translation": "Somewhat difficult <br> ಸಾಧಾರణ ಕಷ್ಟ",
+                    "translation": "Somewhat difficult <br> ಸಾಧಾರಣ ಕಷ್ಟ",
                     "hash": "b0b36f932f"
                 },
                 {
@@ -14428,7 +14428,7 @@
             },
             "label": {
                 "hash": "2c146ff20a",
-                "translation": "• We would like to know how good or bad your health is TODAY.<br>• This scale is numbered from 0 to 100.<br>• 100 means the best health you can imagine. 0 means the worst health you can imagine.<br>• Mark an X on the scale to indicate how your health is TODAY.<br>• Now, please write the number you marked on the scale in the box <br> • ಇಂದು ನಿಮ್ಮ ಆರೋಗ್ಯ ಎಷ್ಟು ಉತ್ತಮ ಅಥವಾ ಕೆಟ್ಟದಾಗಿದೆ ಎಂದು ತಿಳಿಯಲು ನಾವು ಇಚ್ಛಿಸುತ್ತೇವೆ.<br>• ಈ ಮಾಪಕವು 0 ರಿಂದ 100 ರವರೆಗಿನ ಸಂಖ್ಯೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.<br>• 100 ಎಂದರೆ ನೀವು ಕಲ್ಪಿಸಿಕೊಳ್ಳಬಹುದಾದ ಅತ್ಯುತ್ತಮ ಆರೋಗ್ಯ.<br>• 0 ಎಂದರೆ ನೀವು ಕಲ್ಪಿಸಿಕೊಳ್ಳಬಹುದಾದ ಅತ್ಯಂತ ಕೆಟ್ಟ ಆರೋಗ್ಯ.<br>• ಇಂದು ನಿಮ್ಮ ಆರೋಗ್ಯ ಹೇಗಿದೆ ಎಂದು ಸೂಚಿಸಲು ಮಾಪಕದ ಮೇಲೆ X ಗುರುತು ಮಾಡಿ.<br>• ಈಗ, ನೀವು ಮಾಪಕದಲ್ಲಿ ಗುರುತಿಸಿದ ಸಂಖ್ಯೆಯನ್ನು ದಯವಿಟ್ಟು ಕೆಳಗಿನ ಬಾಕ್ಸ್ ನಲ್ಲಿ ಬರೆಯಿರಿ."
+                "translation": "- We would like to know how good or bad your health is TODAY.<br>- This scale is numbered from 0 to 100.<br>- 100 means the best health you can imagine. 0 means the worst health you can imagine.<br>- Mark an X on the scale to indicate how your health is TODAY.<br>- Now, please write the number you marked on the scale in the box <br> - ಇಂದು ನಿಮ್ಮ ಆರೋಗ್ಯ ಎಷ್ಟು ಉತ್ತಮ ಅಥವಾ ಕೆಟ್ಟದಾಗಿದೆ ಎಂದು ತಿಳಿಯಲು ನಾವು ಇಚ್ಛಿಸುತ್ತೇವೆ.<br>- ಈ ಮಾಪಕವು 0 ರಿಂದ 100 ರವರೆಗಿನ ಸಂಖ್ಯೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.<br>- 100 ಎಂದರೆ ನೀವು ಕಲ್ಪಿಸಿಕೊಳ್ಳಬಹುದಾದ ಅತ್ಯುತ್ತಮ ಆರೋಗ್ಯ.<br>- 0 ಎಂದರೆ ನೀವು ಕಲ್ಪಿಸಿಕೊಳ್ಳಬಹುದಾದ ಅತ್ಯಂತ ಕೆಟ್ಟ ಆರೋಗ್ಯ.<br>- ಇಂದು ನಿಮ್ಮ ಆರೋಗ್ಯ ಹೇಗಿದೆ ಎಂದು ಸೂಚಿಸಲು ಮಾಪಕದ ಮೇಲೆ X ಗುರುತು ಮಾಡಿ.<br>- ಈಗ, ನೀವು ಮಾಪಕದಲ್ಲಿ ಗುರುತಿಸಿದ ಸಂಖ್ಯೆಯನ್ನು ದಯವಿಟ್ಟು ಕೆಳಗಿನ ಬಾಕ್ಸ್ ನಲ್ಲಿ ಬರೆಯಿರಿ."
             }
         },
         {
