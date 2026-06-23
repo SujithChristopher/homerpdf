@@ -159,7 +159,7 @@
             "id": "phq9_6_failure",
             "form": "patient_health_questionnaire_phq9",
             "label": {
-                "translation": "6. Feeling bad about yourself — or that you are a failure or have let yourself down or your family down <br> 6. ਆਪਣੇ ਆਪ ਬਾਰੇ ਬੁਰਾ ਮਹਿਸੂਸ ਕਰਨਾ — ਜਾਂ ਇਹ ਕਿ ਤੁਸੀਂ ਨਿਕੰਮੇ ਹੋ ਜਾਂ ਤੁਸੀਂ ਆਪਣੇ ਆਪ ਨੂੰ ਜਾਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਨੀਵਾਂ ਕੀਤਾ ਹੈ"
+                "translation": "6. Feeling bad about yourself - or that you are a failure or have let yourself down or your family down <br> 6. ਆਪਣੇ ਆਪ ਬਾਰੇ ਬੁਰਾ ਮਹਿਸੂਸ ਕਰਨਾ — ਜਾਂ ਇਹ ਕਿ ਤੁਸੀਂ ਨਿਕੰਮੇ ਹੋ ਜਾਂ ਤੁਸੀਂ ਆਪਣੇ ਆਪ ਨੂੰ ਜਾਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਨੀਵਾਂ ਕੀਤਾ ਹੈ"
             },
             "enum": [
                 {
@@ -209,7 +209,7 @@
             "id": "phq9_8_moving",
             "form": "patient_health_questionnaire_phq9",
             "label": {
-                "translation": "8. Moving or speaking so slowly that other people could have noticed? Or the opposite — being so fidgety or restless that you have been moving around a lot more than usual <br> 8. ਐਨਾ ਹੌਲੀ ਤੁਰਨਾ ਜਾਂ ਬੋਲਣਾ ਕਿ ਹੋਰ ਲੋਕਾਂ ਨੂੰ ਵੀ ਪ੍ਰਤੱਖ ਹੋ ਜਾਵੇ? ਜਾਂ ਇਸ ਦੇ ਵਿਪਰੀਤ — ਆਮ ਨਾਲੋਂ ਬਹੁਤ ਜ਼ਿਆਦਾ ਹਿਲਜੁਲ ਜ਼ਾਹਰ ਕਰਨੀ"
+                "translation": "8. Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual <br> 8. ਐਨਾ ਹੌਲੀ ਤੁਰਨਾ ਜਾਂ ਬੋਲਣਾ ਕਿ ਹੋਰ ਲੋਕਾਂ ਨੂੰ ਵੀ ਪ੍ਰਤੱਖ ਹੋ ਜਾਵੇ? ਜਾਂ ਇਸ ਦੇ ਵਿਪਰੀਤ — ਆਮ ਨਾਲੋਂ ਬਹੁਤ ਜ਼ਿਆਦਾ ਹਿਲਜੁਲ ਜ਼ਾਹਰ ਕਰਨੀ"
             },
             "enum": [
                 {

@@ -159,7 +159,7 @@
             "id": "phq9_6_failure",
             "form": "patient_health_questionnaire_phq9",
             "label": {
-                "translation": "6. Feeling bad about yourself — or that you are a failure or have let yourself down or your family down <br> 6. अपने बारे में बुरा महसूस करना - या ऐसा महसूस करना कि आप नाकाम इंसान हैं और आपने खुद को और अपने परिवार को नीचा दिखाया है"
+                "translation": "6. Feeling bad about yourself - or that you are a failure or have let yourself down or your family down <br> 6. अपने बारे में बुरा महसूस करना - या ऐसा महसूस करना कि आप नाकाम इंसान हैं और आपने खुद को और अपने परिवार को नीचा दिखाया है"
             },
             "enum": [
                 {
@@ -209,7 +209,7 @@
             "id": "phq9_8_moving",
             "form": "patient_health_questionnaire_phq9",
             "label": {
-                "translation": "8. Moving or speaking so slowly that other people could have noticed? Or the opposite — being so fidgety or restless that you have been moving around a lot more than usual <br> 8. इतना धीमे चलना-फिरना या बोलना कि लोगों का ध्यान जाए? या इसका उल्टा - इतना अस्थिर या बेचैन होना कि आप सामान्य से काफी ज़्यादा हिलते-डुलते और चलते-फिरते रहे हैं"
+                "translation": "8. Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual <br> 8. इतना धीमे चलना-फिरना या बोलना कि लोगों का ध्यान जाए? या इसका उल्टा - इतना अस्थिर या बेचैन होना कि आप सामान्य से काफी ज़्यादा हिलते-डुलते और चलते-फिरते रहे हैं"
             },
             "enum": [
                 {

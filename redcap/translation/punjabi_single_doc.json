@@ -2914,7 +2914,7 @@
             "id": "record_id",
             "form": "patient_demographics",
             "label": {
-                "translation": "Subject ID"
+                "translation": ""
             }
         },
         {
@@ -6765,7 +6765,7 @@
             "form": "caregiver_strain_index",
             "label": {
                 "hash": "8a7081f161",
-                "translation": "2. It is inconvenient (e.g., because helping takes so much time or it’s a long journey to help) <br> 2. ਇਹ ਅਸੁਵਿਧਾਜਨਕ ਹੈ (ਉਦਾਹਰਨ: ਕਿਉਂਕਿ ਮਦਦ ਕਰਨ ਵਿੱਚ ਬਹੁਤ ਸਮਾਂ ਲੱਗਦਾ ਹੈ ਜਾਂ ਦੂਰ ਜਾਣਾ ਪੈਂਦਾ ਹੈ)"
+                "translation": "2. It is inconvenient (e.g., because helping takes so much time or it's a long journey to help) <br> 2. ਇਹ ਅਸੁਵਿਧਾਜਨਕ ਹੈ (ਉਦਾਹਰਨ: ਕਿਉਂਕਿ ਮਦਦ ਕਰਨ ਵਿੱਚ ਬਹੁਤ ਸਮਾਂ ਲੱਗਦਾ ਹੈ ਜਾਂ ਦੂਰ ਜਾਣਾ ਪੈਂਦਾ ਹੈ)"
             }
         },
         {
@@ -6930,7 +6930,7 @@
             },
             "label": {
                 "hash": "624c07f85c",
-                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>1. Using a telephone / 1. ਫ਼ੋਨ ਦੀ ਵਰਤੋਂ ਕਰਨਾ</td><td style='padding: 5px;'>{mal_as_1}</td><td style='padding: 5px;'>{mal_hw_1}</td><td style='padding: 5px;'>{mal_why_1}</td><td style='padding: 5px;'>{mal_comm_1}</td></tr><tr><td style='padding: 5px;'>2. Turning on a light switch / 2. ਲਾਈਟ ਸਵਿੱਚ ਨਾਲ ਲਾਈਟ ਚਾਲੂ ਕਰਨਾ</td><td style='padding: 5px;'>{mal_as_2}</td><td style='padding: 5px;'>{mal_hw_2}</td><td style='padding: 5px;'>{mal_why_2}</td><td style='padding: 5px;'>{mal_comm_2}</td></tr><tr><td style='padding: 5px;'>3. Opening a drawer / 3. ਦਰਾਜ਼ ਖੋਲ੍ਹਣਾ</td><td style='padding: 5px;'>{mal_as_3}</td><td style='padding: 5px;'>{mal_hw_3}</td><td style='padding: 5px;'>{mal_why_3}</td><td style='padding: 5px;'>{mal_comm_3}</td></tr><tr><td style='padding: 5px;'>4. Removing item from drawer / 4. ਦਰਾਜ਼ ਵਿੱਚੋਂ ਕੱਪੜੇ ਦਾ ਕੋਈ ਸਮਾਨ ਕੱਢਣਾ</td><td style='padding: 5px;'>{mal_as_4}</td><td style='padding: 5px;'>{mal_hw_4}</td><td style='padding: 5px;'>{mal_why_4}</td><td style='padding: 5px;'>{mal_comm_4}</td></tr><tr><td style='padding: 5px;'>5. Picking up a telephone / 5. ਫ਼ੋਨ ਚੁੱਕਣਾ</td><td style='padding: 5px;'>{mal_as_5}</td><td style='padding: 5px;'>{mal_hw_5}</td><td style='padding: 5px;'>{mal_why_5}</td><td style='padding: 5px;'>{mal_comm_5}</td></tr></table>"
+                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>1. Using a telephone / 1. ਫ਼ੋਨ ਦੀ ਵਰਤੋਂ ਕਰਨਾ"
             }
         },
         {
@@ -7672,7 +7672,7 @@
             },
             "label": {
                 "hash": "67a53a7744",
-                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>6. Wiping off a table / 6. ਮੇਜ਼ ਜਾਂ ਰਸੋਈ ਦੇ ਕਾਊਂਟਰ ਨੂੰ ਸਾਫ਼ ਕਰਨਾ</td><td style='padding: 5px;'>{mal_as_6}</td><td style='padding: 5px;'>{mal_hw_6}</td><td style='padding: 5px;'>{mal_why_6}</td><td style='padding: 5px;'>{mal_comm_6}</td></tr><tr><td style='padding: 5px;'>7. Opening a refrigerator / 7. ਫ਼੍ਰਿਜ਼ ਖੋਲ੍ਹਣਾ</td><td style='padding: 5px;'>{mal_as_7}</td><td style='padding: 5px;'>{mal_hw_7}</td><td style='padding: 5px;'>{mal_why_7}</td><td style='padding: 5px;'>{mal_comm_7}</td></tr><tr><td style='padding: 5px;'>8. Move object shelf to shelf / 8. ਚੀਜ਼ਾਂ ਨੂੰ ਇੱਕ ਸ਼ੈਲਫ ਤੋਂ ਦੂਜੀ ਸ਼ੈਲਫ 'ਤੇ ਲੈ ਜਾਣਾ</td><td style='padding: 5px;'>{mal_as_8}</td><td style='padding: 5px;'>{mal_hw_8}</td><td style='padding: 5px;'>{mal_why_8}</td><td style='padding: 5px;'>{mal_comm_8}</td></tr><tr><td style='padding: 5px;'>9. Picking up a cup / 9. ਕੱਪ ਚੁੱਕਣਾ</td><td style='padding: 5px;'>{mal_as_9}</td><td style='padding: 5px;'>{mal_hw_9}</td><td style='padding: 5px;'>{mal_why_9}</td><td style='padding: 5px;'>{mal_comm_9}</td></tr><tr><td style='padding: 5px;'>10. Drinking from a cup / 10. ਕੱਪ ਤੋਂ ਪੀਣਾ</td><td style='padding: 5px;'>{mal_as_10}</td><td style='padding: 5px;'>{mal_hw_10}</td><td style='padding: 5px;'>{mal_why_10}</td><td style='padding: 5px;'>{mal_comm_10}</td></tr></table>"
+                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>6. Wiping off a table / 6. ਮੇਜ਼ ਜਾਂ ਰਸੋਈ ਦੇ ਕਾਊਂਟਰ ਨੂੰ ਸਾਫ਼ ਕਰਨਾ"
             }
         },
         {
@@ -8414,7 +8414,7 @@
             },
             "label": {
                 "hash": "1ae33fb21a",
-                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>11. Picking up fork or spoon / 11. ਕਾਂਟਾ ਜਾਂ ਚਮਚਾ ਚੁੱਕਣਾ</td><td style='padding: 5px;'>{mal_as_11}</td><td style='padding: 5px;'>{mal_hw_11}</td><td style='padding: 5px;'>{mal_why_11}</td><td style='padding: 5px;'>{mal_comm_11}</td></tr><tr><td style='padding: 5px;'>12. Eating with fork or spoon / 12. ਕਾਂਟੇ ਜਾਂ ਚਮਚੇ ਨਾਲ ਖਾਣਾ</td><td style='padding: 5px;'>{mal_as_12}</td><td style='padding: 5px;'>{mal_hw_12}</td><td style='padding: 5px;'>{mal_why_12}</td><td style='padding: 5px;'>{mal_comm_12}</td></tr><tr><td style='padding: 5px;'>13. Combing hair / 13. ਵਾਲਾਂ ਵਿੱਚ ਕੰਘੀ ਕਰਨਾ</td><td style='padding: 5px;'>{mal_as_13}</td><td style='padding: 5px;'>{mal_hw_13}</td><td style='padding: 5px;'>{mal_why_13}</td><td style='padding: 5px;'>{mal_comm_13}</td></tr><tr><td style='padding: 5px;'>14. Brushing teeth / 14. ਦੰਦ ਬ੍ਰਸ਼ ਕਰਨਾ</td><td style='padding: 5px;'>{mal_as_14}</td><td style='padding: 5px;'>{mal_hw_14}</td><td style='padding: 5px;'>{mal_why_14}</td><td style='padding: 5px;'>{mal_comm_14}</td></tr><tr><td style='padding: 5px;'>15. Shaving or applying makeup / 15. ਮੂੰਹ ਉੱਤੇ ਮੇਕਅਪ ਬੇਸ, ਲੋਸ਼ਨ ਜਾਂ ਸ਼ੇਵਿੰਗ ਕ੍ਰੀਮ ਲਗਾਉਣਾ</td><td style='padding: 5px;'>{mal_as_15}</td><td style='padding: 5px;'>{mal_hw_15}</td><td style='padding: 5px;'>{mal_why_15}</td><td style='padding: 5px;'>{mal_comm_15}</td></tr></table>"
+                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>11. Picking up fork or spoon / 11. ਕਾਂਟਾ ਜਾਂ ਚਮਚਾ ਚੁੱਕਣਾ"
             }
         },
         {
@@ -9156,7 +9156,7 @@
             },
             "label": {
                 "hash": "d76e070cc3",
-                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>16. Use washcloth to bathe / 16. ਨਹਾਉਣ ਲਈ ਨਹਾਉਣ ਵਾਲੇ ਕੱਪੜੇ ਦੀ ਵਰਤੋਂ ਕਰਨਾ</td><td style='padding: 5px;'>{mal_as_16}</td><td style='padding: 5px;'>{mal_hw_16}</td><td style='padding: 5px;'>{mal_why_16}</td><td style='padding: 5px;'>{mal_comm_16}</td></tr><tr><td style='padding: 5px;'>17. Drying hands / 17. ਹੱਥ ਸੁਕਾਉਣਾ</td><td style='padding: 5px;'>{mal_as_17}</td><td style='padding: 5px;'>{mal_hw_17}</td><td style='padding: 5px;'>{mal_why_17}</td><td style='padding: 5px;'>{mal_comm_17}</td></tr><tr><td style='padding: 5px;'>18. Drying face / 18. ਮੂੰਹ ਸੁਕਾਉਣਾ/ਪੂੰਝਣਾ</td><td style='padding: 5px;'>{mal_as_18}</td><td style='padding: 5px;'>{mal_hw_18}</td><td style='padding: 5px;'>{mal_why_18}</td><td style='padding: 5px;'>{mal_comm_18}</td></tr><tr><td style='padding: 5px;'>19. Put on shirt or jacket / 19. ਸ਼ਰਟ ਜਾਂ ਜੈਕੇਟ ਪਹਿਨਣਾ</td><td style='padding: 5px;'>{mal_as_19}</td><td style='padding: 5px;'>{mal_hw_19}</td><td style='padding: 5px;'>{mal_why_19}</td><td style='padding: 5px;'>{mal_comm_19}</td></tr><tr><td style='padding: 5px;'>20. Pulling on pants / 20. ਪੈਂਟ ਪਹਿਨਣਾ</td><td style='padding: 5px;'>{mal_as_20}</td><td style='padding: 5px;'>{mal_hw_20}</td><td style='padding: 5px;'>{mal_why_20}</td><td style='padding: 5px;'>{mal_comm_20}</td></tr></table>"
+                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>16. Use washcloth to bathe / 16. ਨਹਾਉਣ ਲਈ ਨਹਾਉਣ ਵਾਲੇ ਕੱਪੜੇ ਦੀ ਵਰਤੋਂ ਕਰਨਾ"
             }
         },
         {
@@ -9898,7 +9898,7 @@
             },
             "label": {
                 "hash": "3a6556d82f",
-                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>21. Putting on shoes / 21. ਜੁੱਤੇ ਪਹਿਨਣਾ</td><td style='padding: 5px;'>{mal_as_21}</td><td style='padding: 5px;'>{mal_hw_21}</td><td style='padding: 5px;'>{mal_why_21}</td><td style='padding: 5px;'>{mal_comm_21}</td></tr><tr><td style='padding: 5px;'>22. Putting on socks / 22. ਜੁਰਾਬਾਂ ਪਹਿਨਣਾ</td><td style='padding: 5px;'>{mal_as_22}</td><td style='padding: 5px;'>{mal_hw_22}</td><td style='padding: 5px;'>{mal_why_22}</td><td style='padding: 5px;'>{mal_comm_22}</td></tr><tr><td style='padding: 5px;'>23. Using a key in a lock / 23. ਜਿੰਦਰੇ ਵਿੱਚ ਚਾਬੀ ਦੀ ਵਰਤੋਂ ਕਰਨਾ</td><td style='padding: 5px;'>{mal_as_23}</td><td style='padding: 5px;'>{mal_hw_23}</td><td style='padding: 5px;'>{mal_why_23}</td><td style='padding: 5px;'>{mal_comm_23}</td></tr><tr><td style='padding: 5px;'>24. Turning a door knob / 24. ਦਰਵਾਜ਼ੇ ਦਾ ਹੈਂਡਲ ਘੁਮਾਉਣਾ</td><td style='padding: 5px;'>{mal_as_24}</td><td style='padding: 5px;'>{mal_hw_24}</td><td style='padding: 5px;'>{mal_why_24}</td><td style='padding: 5px;'>{mal_comm_24}</td></tr><tr><td style='padding: 5px;'>25. Typing on a keyboard / 25. ਕੀਬੋਰਡ 'ਤੇ ਟਾਈਪ ਕਰਨਾ</td><td style='padding: 5px;'>{mal_as_25}</td><td style='padding: 5px;'>{mal_hw_25}</td><td style='padding: 5px;'>{mal_why_25}</td><td style='padding: 5px;'>{mal_comm_25}</td></tr></table>"
+                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>21. Putting on shoes / 21. ਜੁੱਤੇ ਪਹਿਨਣਾ"
             }
         },
         {
@@ -10640,7 +10640,7 @@
             },
             "label": {
                 "hash": "772ca0ef96",
-                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>26. Writing with pen or pencil / 26. ਪੈੱਨ ਜਾਂ ਪੈਨਸਿਲ ਨਾਲ ਲਿਖਣਾ</td><td style='padding: 5px;'>{mal_as_26}</td><td style='padding: 5px;'>{mal_hw_26}</td><td style='padding: 5px;'>{mal_why_26}</td><td style='padding: 5px;'>{mal_comm_26}</td></tr><tr><td style='padding: 5px;'>27. Using a remote control / 27. ਰਿਮੋਟ ਕੰਟਰੋਲ ਦੀ ਵਰਤੋਂ ਕਰਨਾ</td><td style='padding: 5px;'>{mal_as_27}</td><td style='padding: 5px;'>{mal_hw_27}</td><td style='padding: 5px;'>{mal_why_27}</td><td style='padding: 5px;'>{mal_comm_27}</td></tr><tr><td style='padding: 5px;'>28. Using a computer mouse / 28. ਕੰਪਿਊਟਰ ਮਊਸ ਦੀ ਵਰਤੋਂ ਕਰਨਾ</td><td style='padding: 5px;'>{mal_as_28}</td><td style='padding: 5px;'>{mal_hw_28}</td><td style='padding: 5px;'>{mal_why_28}</td><td style='padding: 5px;'>{mal_comm_28}</td></tr><tr><td style='padding: 5px;'>29. Lifting a bag / 29. ਬੈਗ ਚੁੱਕਣਾ</td><td style='padding: 5px;'>{mal_as_29}</td><td style='padding: 5px;'>{mal_hw_29}</td><td style='padding: 5px;'>{mal_why_29}</td><td style='padding: 5px;'>{mal_comm_29}</td></tr><tr><td style='padding: 5px;'>30. Carrying an object / 30. ਕੋਈ ਚੀਜ਼ ਲੈ ਕੇ ਜਾਣਾ</td><td style='padding: 5px;'>{mal_as_30}</td><td style='padding: 5px;'>{mal_hw_30}</td><td style='padding: 5px;'>{mal_why_30}</td><td style='padding: 5px;'>{mal_comm_30}</td></tr></table>"
+                "translation": "<table border='1' style='width:100%; border-collapse: collapse; table-layout: fixed;'><tr style='background-color: #f2f2f2;'><th style='width:31%; padding: 5px;'>Task</th><th style='width:12%; padding: 5px;'>AS (0-5)</th><th style='width:12%; padding: 5px;'>HW (0-5)</th><th style='width:12%; padding: 5px;'>Code (1-5)</th><th style='width:33%; padding: 5px;'>Comments</th></tr><tr><td style='padding: 5px;'>26. Writing with pen or pencil / 26. ਪੈੱਨ ਜਾਂ ਪੈਨਸਿਲ ਨਾਲ ਲਿਖਣਾ"
             }
         },
         {
@@ -11671,7 +11671,7 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "94bd246db1",
-                "translation": "6. Feeling bad about yourself — or that you are a failure or have let yourself down or your family down <br> 6. ਆਪਣੇ ਆਪ ਬਾਰੇ ਬੁਰਾ ਮਹਿਸੂਸ ਕਰਨਾ — ਜਾਂ ਇਹ ਕਿ ਤੁਸੀਂ ਨਿਕੰਮੇ ਹੋ ਜਾਂ ਤੁਸੀਂ ਆਪਣੇ ਆਪ ਨੂੰ ਜਾਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਨੀਵਾਂ ਕੀਤਾ ਹੈ"
+                "translation": "6. Feeling bad about yourself - or that you are a failure or have let yourself down or your family down <br> 6. ਆਪਣੇ ਆਪ ਬਾਰੇ ਬੁਰਾ ਮਹਿਸੂਸ ਕਰਨਾ — ਜਾਂ ਇਹ ਕਿ ਤੁਸੀਂ ਨਿਕੰਮੇ ਹੋ ਜਾਂ ਤੁਸੀਂ ਆਪਣੇ ਆਪ ਨੂੰ ਜਾਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਨੀਵਾਂ ਕੀਤਾ ਹੈ"
             },
             "enum": [
                 {
@@ -11731,7 +11731,7 @@
             "form": "patient_health_questionnaire_phq9",
             "label": {
                 "hash": "346fa17c3c",
-                "translation": "8. Moving or speaking so slowly that other people could have noticed? Or the opposite — being so fidgety or restless that you have been moving around a lot more than usual <br> 8. ਐਨਾ ਹੌਲੀ ਤੁਰਨਾ ਜਾਂ ਬੋਲਣਾ ਕਿ ਹੋਰ ਲੋਕਾਂ ਨੂੰ ਵੀ ਪ੍ਰਤੱਖ ਹੋ ਜਾਵੇ? ਜਾਂ ਇਸ ਦੇ ਵਿਪਰੀਤ — ਆਮ ਨਾਲੋਂ ਬਹੁਤ ਜ਼ਿਆਦਾ ਹਿਲਜੁਲ ਜ਼ਾਹਰ ਕਰਨੀ"
+                "translation": "8. Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual <br> 8. ਐਨਾ ਹੌਲੀ ਤੁਰਨਾ ਜਾਂ ਬੋਲਣਾ ਕਿ ਹੋਰ ਲੋਕਾਂ ਨੂੰ ਵੀ ਪ੍ਰਤੱਖ ਹੋ ਜਾਵੇ? ਜਾਂ ਇਸ ਦੇ ਵਿਪਰੀਤ — ਆਮ ਨਾਲੋਂ ਬਹੁਤ ਜ਼ਿਆਦਾ ਹਿਲਜੁਲ ਜ਼ਾਹਰ ਕਰਨੀ"
             },
             "enum": [
                 {
@@ -14217,11 +14217,11 @@
             "form": "eq_5d_5l",
             "header": {
                 "hash": "99f7c9776a",
-                "translation": ""
+                "translation": "Health Questionnaire <br> ਸਿਹਤ ਪ੍ਰਸ਼ਨਾਲੀ"
             },
             "label": {
                 "hash": "f89800fad1",
-                "translation": ""
+                "translation": "Health Questionnaire<br>Kannada version for India<br><br>© EuroQol Research Foundation. EQ-5D™ is a trade mark of the EuroQol Research Foundation. India (Kannada) v2.0<br><br>Under each heading, please tick the ONE box that best describes your health TODAY. <br> ਹਰੇਕ ਸਿਰਲੇਖ ਦੇ ਹੇਠਾਂ, ਕਿਰਪਾ ਕਰਕੇ ਉਸ ਇੱਕ ਖਾਨੇ ਤੇ ਸਹੀ ਲਗਾਉ ਜੋ ਅੱਜ ਤੁਹਾਡੀ ਸਿਹਤ ਦਾ ਸਹੀ ਵਰਨਨ ਕਰਦਾ ਹੈ।"
             }
         },
         {
@@ -14229,37 +14229,37 @@
             "form": "eq_5d_5l",
             "header": {
                 "hash": "60fe7fac7e",
-                "translation": ""
+                "translation": "MOBILITY <br> ਚਲਣਸ਼ੀਲਤਾ"
             },
             "label": {
                 "hash": "1f880bb1d3",
-                "translation": ""
+                "translation": "I have ... difficulty in walking about <br> ਮੈਨੂੰ ਤੁਰਨ-ਫਿਰਨ ਵਿੱਚ ... ਪਰੇਸ਼ਾਨੀ ਹੈ"
             },
             "enum": [
                 {
                     "id": 1,
                     "hash": "e638f4a4f8",
-                    "translation": ""
+                    "translation": "no difficulty <br> ਕੋਈ ਪਰੇਸ਼ਾਨੀ ਨਹੀਂ ਹੈ"
                 },
                 {
                     "id": 2,
                     "hash": "5965b6dc09",
-                    "translation": ""
+                    "translation": "slight difficulty <br> ਥੋੜ੍ਹੀ ਪਰੇਸ਼ਾਨੀ ਆਉਂਦੀ ਹੈ"
                 },
                 {
                     "id": 3,
                     "hash": "4d3c35296d",
-                    "translation": ""
+                    "translation": "moderate difficulty <br> ਮੱਧਮ ਪਰੇਸ਼ਾਨੀ ਆਉਂਦੀ ਹੈ"
                 },
                 {
                     "id": 4,
                     "hash": "a736a09ae7",
-                    "translation": ""
+                    "translation": "severe difficulty <br> ਬਹੁਤ ਜ਼ਿਆਦਾ ਪਰੇਸ਼ਾਨੀ ਆਉਂਦੀ ਹੈ"
                 },
                 {
                     "id": 5,
                     "hash": "4496e6a770",
-                    "translation": ""
+                    "translation": "unable to walk about <br> ਤੁਰਨ-ਫਿਰਨ ਵਿੱਚ ਅਸਮਰੱਥ ਹਾਂ"
                 }
             ]
         },
@@ -14268,37 +14268,37 @@
             "form": "eq_5d_5l",
             "header": {
                 "hash": "3a0d6b39d4",
-                "translation": ""
+                "translation": "SELF-CARE <br> ਆਪਣੀ-ਦੇਖਭਾਲ"
             },
             "label": {
                 "hash": "1999a4903c",
-                "translation": ""
+                "translation": "I have ... difficulty washing or dressing myself <br> ਮੈਨੂੰ ਆਪਣੇ-ਆਪ ਨਹਾਉਣ-ਧੋਣ ਜਾਂ ਤਿਆਰ ਹੋਣ ਵਿੱਚ ... ਪਰੇਸ਼ਾਨੀ ਹੈ"
             },
             "enum": [
                 {
                     "id": 1,
                     "hash": "afbb6bd4f4",
-                    "translation": ""
+                    "translation": "no difficulty <br> ਕੋਈ ਪਰੇਸ਼ਾਨੀ ਨਹੀਂ ਹੈ"
                 },
                 {
                     "id": 2,
                     "hash": "7981c993ab",
-                    "translation": ""
+                    "translation": "slight difficulty <br> ਥੋੜ੍ਹੀ ਪਰੇਸ਼ਾਨੀ ਆਉਂਦੀ ਹੈ"
                 },
                 {
                     "id": 3,
                     "hash": "7fb3940a69",
-                    "translation": ""
+                    "translation": "moderate difficulty <br> ਮੱਧਮ ਪਰੇਸ਼ਾਨੀ ਆਉਂਦੀ ਹੈ"
                 },
                 {
                     "id": 4,
                     "hash": "87c8e5fb80",
-                    "translation": ""
+                    "translation": "severe difficulty <br> ਬਹੁਤ ਜ਼ਿਆਦਾ ਪਰੇਸ਼ਾਨੀ ਆਉਂਦੀ ਹੈ"
                 },
                 {
                     "id": 5,
                     "hash": "9620fc4eb8",
-                    "translation": ""
+                    "translation": "unable to wash or dress myself <br> ਆਪਣੇ-ਆਪ ਨਹਾਉਣ-ਧੋਣ ਜਾਂ ਤਿਆਰ ਹੋਣ ਵਿੱਚ ਅਸਮਰੱਥ ਹਾਂ"
                 }
             ]
         },
@@ -14307,37 +14307,37 @@
             "form": "eq_5d_5l",
             "header": {
                 "hash": "cced2ee4ed",
-                "translation": ""
+                "translation": "USUAL ACTIVITIES <br> ਆਮ ਕਿਰਿਆਵਾਂ (ਜਿਵੇਂ ਕੰਮ-ਕਾਰ, ਪੜ੍ਹਨਾ, ਘਰੇਲੂ-ਕੰਮ, ਪਰਿਵਾਰਕ ਜਾਂ ਵਿਹਲ-ਸੰਬੰਧੀ ਕਿਰਿਆਵਾਂ)"
             },
             "label": {
                 "hash": "faa3fc1285",
-                "translation": ""
+                "translation": "Usual activities (e.g. work, study, housework, family or leisure activities) <br> ਮੈਨੂੰ ਆਪਣੀਆਂ ਆਮ ਕਿਰਿਆਵਾਂ ਕਰਨ ਵਿੱਚ ... ਪਰੇਸ਼ਾਨੀ ਹੈ"
             },
             "enum": [
                 {
                     "id": 1,
                     "hash": "ddd2d8c775",
-                    "translation": ""
+                    "translation": "I have no problems doing my usual activities <br> ਕੋਈ ਪਰੇਸ਼ਾਨੀ ਨਹੀਂ ਹੈ"
                 },
                 {
                     "id": 2,
                     "hash": "6b59f3ab74",
-                    "translation": ""
+                    "translation": "I have slight problems doing my usual activities <br> ਥੋੜ੍ਹੀ ਪਰੇਸ਼ਾਨੀ ਆਉਂਦੀ ਹੈ"
                 },
                 {
                     "id": 3,
                     "hash": "6621ffbe40",
-                    "translation": ""
+                    "translation": "I have moderate problems doing my usual activities <br> ਮੱਧਮ ਪਰੇਸ਼ਾਨੀ ਆਉਂਦੀ ਹੈ"
                 },
                 {
                     "id": 4,
                     "hash": "af49da7b5c",
-                    "translation": ""
+                    "translation": "I have severe problems doing my usual activities <br> ਬਹੁਤ ਜ਼ਿਆਦਾ ਪਰੇਸ਼ਾਨੀ ਆਉਂਦੀ ਹੈ"
                 },
                 {
                     "id": 5,
                     "hash": "41d2c3547b",
-                    "translation": ""
+                    "translation": "I am unable to do my usual activities <br> ਆਪਣੀਆਂ ਆਮ ਕਿਰਿਆਵਾਂ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ ਹਾਂ"
                 }
             ]
         },
@@ -14346,37 +14346,37 @@
             "form": "eq_5d_5l",
             "header": {
                 "hash": "831669480b",
-                "translation": ""
+                "translation": "PAIN <br> ਦਰਦ / ਬੇਆਰਾਮੀ"
             },
             "label": {
                 "hash": "d8ac199bb9",
-                "translation": ""
+                "translation": "Pain <br> ਮੈਨੂੰ ... ਦਰਦ ਜਾਂ ਬੇਆਰਾਮੀ ਹੈ"
             },
             "enum": [
                 {
                     "id": 1,
                     "hash": "0fff24ecfa",
-                    "translation": ""
+                    "translation": "I have no pain or discomfort <br> ਕੋਈ ਦਰਦ ਜਾਂ ਬੇਆਰਾਮੀ ਨਹੀਂ ਹੈ"
                 },
                 {
                     "id": 2,
                     "hash": "f41a408430",
-                    "translation": ""
+                    "translation": "I have slight pain or discomfort <br> ਥੋੜ੍ਹਾ ਦਰਦ ਜਾਂ ਬੇਆਰਾਮੀ ਹੈ"
                 },
                 {
                     "id": 3,
                     "hash": "28fad0114b",
-                    "translation": ""
+                    "translation": "I have moderate pain or discomfort <br> ਮੱਧਮ ਦਰਦ ਜਾਂ ਬੇਆਰਾਮੀ ਹੈ"
                 },
                 {
                     "id": 4,
                     "hash": "c6c9bce844",
-                    "translation": ""
+                    "translation": "I have severe pain or discomfort <br> ਬਹੁਤ ਜ਼ਿਆਦਾ ਦਰਦ ਜਾਂ ਬੇਆਰਾਮੀ ਹੈ"
                 },
                 {
                     "id": 5,
                     "hash": "b682b3efbb",
-                    "translation": ""
+                    "translation": "I have extreme pain or discomfort <br> ਬੇਹੱਦ ਦਰਦ ਜਾਂ ਬੇਆਰਾਮੀ ਹੈ"
                 }
             ]
         },
@@ -14385,37 +14385,37 @@
             "form": "eq_5d_5l",
             "header": {
                 "hash": "536d66d970",
-                "translation": ""
+                "translation": "ANXIETY <br> ਬੇਚੈਨੀ / ਡਿਪਰੈਸ਼ਨ"
             },
             "label": {
                 "hash": "73c8efbf26",
-                "translation": ""
+                "translation": "Anxiety <br> ਮੈਨੂੰ ... ਬੇਚੈਨੀ ਜਾਂ ਡਿਪਰੈਸ਼ਨ ਹੈ"
             },
             "enum": [
                 {
                     "id": 1,
                     "hash": "36d9fd39c1",
-                    "translation": ""
+                    "translation": "I am not anxious or depressed <br> ਕੋਈ ਬੇਚੈਨੀ ਜਾਂ ਡਿਪਰੈਸ਼ਨ ਨਹੀਂ ਹੈ"
                 },
                 {
                     "id": 2,
                     "hash": "c15f1fcef5",
-                    "translation": ""
+                    "translation": "I am slightly anxious or depressed <br> ਥੋੜ੍ਹੀ ਬੇਚੈਨੀ ਜਾਂ ਡਿਪਰੈਸ਼ਨ ਹੈ"
                 },
                 {
                     "id": 3,
                     "hash": "e49db387d8",
-                    "translation": ""
+                    "translation": "I am moderately anxious or depressed <br> ਮੱਧਮ ਬੇਚੈਨੀ ਜਾਂ ਡਿਪਰੈਸ਼ਨ ਹੈ"
                 },
                 {
                     "id": 4,
                     "hash": "122cd28106",
-                    "translation": ""
+                    "translation": "I am severely anxious or depressed <br> ਬਹੁਤ ਜ਼ਿਆਦਾ ਬੇਚੈਨੀ ਜਾਂ ਡਿਪਰੈਸ਼ਨ ਹੈ"
                 },
                 {
                     "id": 5,
                     "hash": "68f60a50f1",
-                    "translation": ""
+                    "translation": "I am extremely anxious or depressed <br> ਬੇਹੱਦ ਬੇਚੈਨੀ ਜਾਂ ਡਿਪਰੈਸ਼ਨ ਹੈ"
                 }
             ]
         },
@@ -14424,11 +14424,11 @@
             "form": "eq_5d_5l",
             "header": {
                 "hash": "3e4b420d75",
-                "translation": ""
+                "translation": "EQ VAS <br> EQ VAS / ਸਿਹਤ ਦਾ ਸਵੈ-ਮੁਲਾਂਕਣ"
             },
             "label": {
                 "hash": "2c146ff20a",
-                "translation": ""
+                "translation": "- We would like to know how good or bad your health is TODAY.<br>- This scale is numbered from 0 to 100.<br>- 100 means the best health you can imagine. 0 means the worst health you can imagine.<br>- Mark an X on the scale to indicate how your health is TODAY.<br>- Now, please write the number you marked on the scale in the box <br> • ਅਸੀਂ ਜਾਣਨਾ ਚਾਹਵਾਂਗੇ ਕਿ ਅੱਜ ਤੁਹਾਡੀ ਸਿਹਤ ਕਿੰਨੀ ਚੰਗੀ ਜਾਂ ਮਾੜੀ ਹੈ।<br>• ਇਸ ਪੈਮਾਨੇ ਉੱਤੇ 0 ਤੋਂ 100 ਤੱਕ ਅੰਕ ਹਨ।<br>• 100 ਦਾ ਮਤਲਬ ਹੈ ਸਭ ਤੋਂ ਚੰਗੀ ਸਿਹਤ ਜਿਸ ਦੀ ਤੁਸੀਂ ਕਲਪਨਾ ਕਰ ਸਕਦੇ ਹੋ। 0 ਦਾ ਮਤਲਬ ਹੈ ਸਭ ਤੋਂ ਮਾੜੀ ਸਿਹਤ ਜਿਸ ਦੀ ਤੁਸੀਂ ਕਲਪਨਾ ਕਰ ਸਕਦੇ ਹੋ।<br>• ਕਿਰਪਾ ਕਰਕੇ ਪੈਮਾਨੇ ਉੱਪਰ X ਦਾ ਨਿਸ਼ਾਨ ਲਗਾ ਕੇ ਦਰਸਾਓ ਕਿ ਅੱਜ ਤੁਹਾਡੀ ਸਿਹਤ ਕਿਵੇਂ ਹੈ।<br>• ਹੁਣ, ਕਿਰਪਾ ਕਰਕੇ ਹੇਠਾਂ ਦਿੱਤੇ ਖਾਨੇ ਵਿੱਚ ਪੈਮਾਨੇ ਦਾ ਉਹ ਅੰਕ ਲਿਖੋ ਜਿਸ ਤੇ ਤੁਸੀਂ ਨਿਸ਼ਾਨ ਲਗਾਇਆ ਹੈ।"
             }
         },
         {
@@ -14436,7 +14436,7 @@
             "form": "eq_5d_5l",
             "label": {
                 "hash": "30c3dbb98c",
-                "translation": ""
+                "translation": "YOUR HEALTH TODAY <br> ਅੱਜ ਤੁਹਾਡੀ ਸਿਹਤ (0 ਤੋਂ 100 ਦੇ ਪੈਮਾਨੇ 'ਤੇ, ਜਿੱਥੇ 100 ਦਾ ਮਤਲਬ ਸਭ ਤੋਂ ਚੰਗੀ ਸਿਹਤ ਅਤੇ 0 ਦਾ ਮਤਲਬ ਸਭ ਤੋਂ ਮਾੜੀ ਸਿਹਤ ਹੈ)"
             }
         },
         {
@@ -14444,11 +14444,11 @@
             "form": "eq_5d_5l",
             "header": {
                 "hash": "e352fc138c",
-                "translation": ""
+                "translation": "COPYRIGHT"
             },
             "label": {
                 "hash": "92c26db9b1",
-                "translation": ""
+                "translation": "© EuroQol Research Foundation. EQ-5D™ is a trade mark of the EuroQol Research Foundation. India (Kannada) v2.0"
             }
         },
         {

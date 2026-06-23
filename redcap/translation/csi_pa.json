@@ -58,7 +58,7 @@
             "id": "csi_2_inconvenient",
             "form": "caregiver_strain_index",
             "label": {
-                "translation": "2. It is inconvenient (e.g., because helping takes so much time or it’s a long journey to help) <br> 2. ਇਹ ਅਸੁਵਿਧਾਜਨਕ ਹੈ (ਉਦਾਹਰਨ: ਕਿਉਂਕਿ ਮਦਦ ਕਰਨ ਵਿੱਚ ਬਹੁਤ ਸਮਾਂ ਲੱਗਦਾ ਹੈ ਜਾਂ ਦੂਰ ਜਾਣਾ ਪੈਂਦਾ ਹੈ)"
+                "translation": "2. It is inconvenient (e.g., because helping takes so much time or it's a long journey to help) <br> 2. ਇਹ ਅਸੁਵਿਧਾਜਨਕ ਹੈ (ਉਦਾਹਰਨ: ਕਿਉਂਕਿ ਮਦਦ ਕਰਨ ਵਿੱਚ ਬਹੁਤ ਸਮਾਂ ਲੱਗਦਾ ਹੈ ਜਾਂ ਦੂਰ ਜਾਣਾ ਪੈਂਦਾ ਹੈ)"
             },
             "enum": [
                 {

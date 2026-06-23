@@ -496,21 +496,29 @@ class MainWindow(QMainWindow):
         self.radio_english = QRadioButton("English")
         self.radio_tamil = QRadioButton("Tamil")
         self.radio_telugu = QRadioButton("Telugu")
+        self.radio_hindi = QRadioButton("Hindi")
+        self.radio_punjabi = QRadioButton("Punjabi")
         self.radio_english.setChecked(True)
 
         self.language_group.addButton(self.radio_english)
         self.language_group.addButton(self.radio_tamil)
         self.language_group.addButton(self.radio_telugu)
+        self.language_group.addButton(self.radio_hindi)
+        self.language_group.addButton(self.radio_punjabi)
 
         # Connect signals
         self.radio_english.toggled.connect(self.on_language_changed)
         self.radio_tamil.toggled.connect(self.on_language_changed)
         self.radio_telugu.toggled.connect(self.on_language_changed)
+        self.radio_hindi.toggled.connect(self.on_language_changed)
+        self.radio_punjabi.toggled.connect(self.on_language_changed)
 
         language_layout.addWidget(language_label)
         language_layout.addWidget(self.radio_english)
         language_layout.addWidget(self.radio_tamil)
         language_layout.addWidget(self.radio_telugu)
+        language_layout.addWidget(self.radio_hindi)
+        language_layout.addWidget(self.radio_punjabi)
         language_layout.addStretch()
 
         info_layout.addLayout(hospital_layout)
@@ -646,7 +654,7 @@ class MainWindow(QMainWindow):
 
     def get_selected_language(self) -> str:
         """
-        Get the selected language code (EN, TA, or TE).
+        Get the selected language code (EN, TA, TE, HI, or PA).
 
         Returns:
             Selected language code
@@ -655,6 +663,10 @@ class MainWindow(QMainWindow):
             return "TA"
         elif self.radio_telugu.isChecked():
             return "TE"
+        elif self.radio_hindi.isChecked():
+            return "HI"
+        elif self.radio_punjabi.isChecked():
+            return "PA"
         return "EN"
 
     def on_language_changed(self):
@@ -663,7 +675,7 @@ class MainWindow(QMainWindow):
 
     def resolve_pdf_filename(self, english_filename: str, lang: str) -> str:
         """
-        Resolve the English PDF filename to the target language (e.g. TA, TE) if exists.
+        Resolve the English PDF filename to the target language (e.g. TA, TE, HI, PA) if exists.
         Otherwise, fall back to the English version.
         """
         if lang == "EN":
@@ -671,17 +683,19 @@ class MainWindow(QMainWindow):
 
         actual_files = {f.name.lower(): f.name for f in self.pdf_dir.glob("*.pdf")}
 
-        # Pattern: replace ' EN ' with ' TA ' or ' TE '
+        # Pattern: replace ' EN ' with ' TA ', ' TE ', ' HI ', or ' PA '
         for en_pattern in [" EN ", " en ", " En ", " eN "]:
             if en_pattern in english_filename:
                 translated_filename = english_filename.replace(en_pattern, f" {lang} ")
                 if translated_filename.lower() in actual_files:
                     return actual_files[translated_filename.lower()]
 
-        # Pattern: replace 'English' with 'Tamil' or 'Telugu'
+        # Pattern: replace 'English' with language word (e.g. 'Tamil', 'Telugu', 'Hindi', 'Punjabi')
         lang_word_map = {
             "TA": "Tamil",
-            "TE": "Telugu"
+            "TE": "Telugu",
+            "HI": "Hindi",
+            "PA": "Punjabi"
         }
         if lang in lang_word_map:
             lang_word = lang_word_map[lang]
