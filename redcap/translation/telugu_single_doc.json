@@ -2914,7 +2914,7 @@
             "id": "record_id",
             "form": "patient_demographics",
             "label": {
-                "translation": "Subject ID"
+                "translation": ""
             }
         },
         {
@@ -4494,13 +4494,13 @@
             "form": "fatigue_severity_scale",
             "label": {
                 "hash": "e4b0936897",
-                "translation": "1. My motivation is lower when I am fatigued / 1. నేను అలసిపోయినప్పుడు నా ప్రేరణ తగ్గిపోతుంది."
+                "translation": "1. My motivation is lower when I am fatigued / నేను అలసిపోయినప్పుడు నా ప్రేరణ తగ్గిపోతుంది."
             },
             "enum": [
                 {
                     "id": 1,
                     "hash": "32f79cfe10",
-                    "translation": "1 - Strongly Disagree / 1 - తీవ్రంగా విభేదిస్తున్నాను"
+                    "translation": "1 (Strongly disagree)"
                 },
                 {
                     "id": 2,
@@ -4530,7 +4530,7 @@
                 {
                     "id": 7,
                     "hash": "1c1ea51d7f",
-                    "translation": "7 - Strongly Agree / 7 - తీవ్రంగా అంగీకరిస్తున్నాను"
+                    "translation": "7 (Strongly agree)"
                 }
             ]
         },
@@ -4539,13 +4539,13 @@
             "form": "fatigue_severity_scale",
             "label": {
                 "hash": "e08002ef8a",
-                "translation": "2. Exercise brings on my fatigue / 2. వ్యాయామం నాకు అలసట కలిగిస్తుంది."
+                "translation": "2. Exercise brings on my fatigue / వ్యాయామం నాకు అలసట కలిగిస్తుంది."
             },
             "enum": [
                 {
                     "id": 1,
                     "hash": "32f79cfe10",
-                    "translation": "1 - Strongly Disagree / 1 - తీవ్రంగా విభేదిస్తున్నాను"
+                    "translation": "1"
                 },
                 {
                     "id": 2,
@@ -4575,7 +4575,7 @@
                 {
                     "id": 7,
                     "hash": "1c1ea51d7f",
-                    "translation": "7 - Strongly Agree / 7 - తీవ్రంగా అంగీకరిస్తున్నాను"
+                    "translation": "7"
                 }
             ]
         },
@@ -4584,13 +4584,13 @@
             "form": "fatigue_severity_scale",
             "label": {
                 "hash": "3bda8ad56e",
-                "translation": "3. I am easily fatigued / 3. నాకు తేలికగా అలసట వస్తుంది."
+                "translation": "3. I am easily fatigued / నాకు తేలికగా అలసట వస్తుంది."
             },
             "enum": [
                 {
                     "id": 1,
                     "hash": "32f79cfe10",
-                    "translation": "1 - Strongly Disagree / 1 - తీవ్రంగా విభేదిస్తున్నాను"
+                    "translation": "1"
                 },
                 {
                     "id": 2,
@@ -4620,7 +4620,7 @@
                 {
                     "id": 7,
                     "hash": "1c1ea51d7f",
-                    "translation": "7 - Strongly Agree / 7 - తీవ్రంగా అంగీకరిస్తున్నాను"
+                    "translation": "7"
                 }
             ]
         },
@@ -4629,13 +4629,13 @@
             "form": "fatigue_severity_scale",
             "label": {
                 "hash": "283da1e03f",
-                "translation": "4. Fatigue interferes with my physical functioning. / 4. అలసట నా శారీరక పనితీరులో జోక్యం చేసుకుంటుంది."
+                "translation": "4. Fatigue interferes with my physical functioning. / అలసట నా శారీరక పనితీరులో జోక్యం చేసుకుంటుంది."
             },
             "enum": [
                 {
                     "id": 1,
                     "hash": "32f79cfe10",
-                    "translation": "1 - Strongly Disagree / 1 - తీవ్రంగా విభేదిస్తున్నాను"
+                    "translation": "1 - Strongly Disagree"
                 },
                 {
                     "id": 2,
@@ -4665,7 +4665,7 @@
                 {
                     "id": 7,
                     "hash": "1c1ea51d7f",
-                    "translation": "7 - Strongly Agree / 7 - తీవ్రంగా అంగీకరిస్తున్నాను"
+                    "translation": "7 - Strongly Agree"
                 }
             ]
         },
@@ -4674,13 +4674,13 @@
             "form": "fatigue_severity_scale",
             "label": {
                 "hash": "99c8828c8f",
-                "translation": "5. Fatigue causes frequent problems for me / 5. అలసట నాకు తరచుగా సమస్యలు కలిగిస్తుంది."
+                "translation": "5. Fatigue causes frequent problems for me / అలసట నాకు తరచుగా సమస్యలు కలిగిస్తుంది."
             },
             "enum": [
                 {
                     "id": 1,
                     "hash": "32f79cfe10",
-                    "translation": "1 - Strongly Disagree / 1 - తీవ్రంగా విభేదిస్తున్నాను"
+                    "translation": "1"
                 },
                 {
                     "id": 2,
@@ -4710,7 +4710,7 @@
                 {
                     "id": 7,
                     "hash": "1c1ea51d7f",
-                    "translation": "7 - Strongly Agree / 7 - తీవ్రంగా అంగీకరిస్తున్నాను"
+                    "translation": "7"
                 }
             ]
         },
@@ -4719,13 +4719,13 @@
             "form": "fatigue_severity_scale",
             "label": {
                 "hash": "47dab09968",
-                "translation": "6. My fatigue prevents sustained physical functioning / 6. నా అలసట నిరంతర శారీరక పనితీరును నిరోధిస్తుంది."
+                "translation": "6. My fatigue prevents sustained physical functioning / నా అలసట నిరంతర శారీరక పనితీరును నిరోధిస్తుంది."
             },
             "enum": [
                 {
                     "id": 1,
                     "hash": "32f79cfe10",
-                    "translation": "1 - Strongly Disagree / 1 - తీవ్రంగా విభేదిస్తున్నాను"
+                    "translation": "1"
                 },
                 {
                     "id": 2,
@@ -4755,7 +4755,7 @@
                 {
                     "id": 7,
                     "hash": "1c1ea51d7f",
-                    "translation": "7 - Strongly Agree / 7 - తీవ్రంగా అంగీకరిస్తున్నాను"
+                    "translation": "7"
                 }
             ]
         },
@@ -4764,13 +4764,13 @@
             "form": "fatigue_severity_scale",
             "label": {
                 "hash": "3cac986f79",
-                "translation": "7. Fatigue interferes with carrying out certain duties and responsibilities / 7. అలసట కొన్ని విధులు మరియు బాధ్యతలు నిర్వహించడంలో జోక్యం చేసుకుంటుంది."
+                "translation": "7. Fatigue interferes with carrying out certain duties and responsibilities / అలసట కొన్ని విధులు మరియు బాధ్యతలు నిర్వహించడంలో జోక్యం చేసుకుంటుంది."
             },
             "enum": [
                 {
                     "id": 1,
                     "hash": "32f79cfe10",
-                    "translation": "1 - Strongly Disagree / 1 - తీవ్రంగా విభేదిస్తున్నాను"
+                    "translation": "1"
                 },
                 {
                     "id": 2,
@@ -4800,7 +4800,7 @@
                 {
                     "id": 7,
                     "hash": "1c1ea51d7f",
-                    "translation": "7 - Strongly Agree / 7 - తీవ్రంగా అంగీకరిస్తున్నాను"
+                    "translation": "7"
                 }
             ]
         },
@@ -4809,13 +4809,13 @@
             "form": "fatigue_severity_scale",
             "label": {
                 "hash": "be9f35a3b9",
-                "translation": "8. Fatigue is among my three most disabling symptoms / 8. నన్ను పని చేయకుండా ఆపే లక్షణాలలో అలసట కూడా ఒకటి.."
+                "translation": "8. Fatigue is among my three most disabling symptoms / నన్ను పని చేయకుండా ఆపే లక్షణాలలో అలసట కూడా ఒకటి.."
             },
             "enum": [
                 {
                     "id": 1,
                     "hash": "32f79cfe10",
-                    "translation": "1 - Strongly Disagree / 1 - తీవ్రంగా విభేదిస్తున్నాను"
+                    "translation": "1"
                 },
                 {
                     "id": 2,
@@ -4845,7 +4845,7 @@
                 {
                     "id": 7,
                     "hash": "1c1ea51d7f",
-                    "translation": "7 - Strongly Agree / 7 - తీవ్రంగా అంగీకరిస్తున్నాను"
+                    "translation": "7"
                 }
             ]
         },
@@ -4854,13 +4854,13 @@
             "form": "fatigue_severity_scale",
             "label": {
                 "hash": "2006125184",
-                "translation": "9. Fatigue interferes with my work, family, or social life. / 9. అలసట నా పని, కుటుంబం లేదా సాంఘిక జీవితంలో జోక్యం చేసుకుంటుంది."
+                "translation": "9. Fatigue interferes with my work, family, or social life. / అలసట నా పని, కుటుంబం లేదా సాంఘిక జీవితంలో జోక్యం చేసుకుంటుంది."
             },
             "enum": [
                 {
                     "id": 1,
                     "hash": "32f79cfe10",
-                    "translation": "1 - Strongly Disagree / 1 - తీవ్రంగా విభేదిస్తున్నాను"
+                    "translation": "1 - Strongly Disagree"
                 },
                 {
                     "id": 2,
@@ -4890,7 +4890,7 @@
                 {
                     "id": 7,
                     "hash": "1c1ea51d7f",
-                    "translation": "7 - Strongly Agree / 7 - తీవ్రంగా అంగీకరిస్తున్నాను"
+                    "translation": "7 - Strongly Agree"
                 }
             ]
         },
@@ -5025,33 +5025,33 @@
             "form": "sipso_questionnaire",
             "label": {
                 "hash": "6525db3f29",
-                "translation": "1. Since your stroke, how much difficulty do you have dressing yourself fully? / 1. మీ స్ట్రోక్ తర్వాత, మీరు పూర్తిగా దుస్తులు ధరించుకోవడంలో మీకు ఎంత కష్టంగా ఉంది?"
+                "translation": "1. Since your stroke, how much difficulty do you have dressing yourself fully? / | చాలా సంకోచంగా అనిపిస్తుంది"
             },
             "enum": [
                 {
                     "id": 4,
                     "hash": "5879f9637a",
-                    "translation": "Not difficult at all / అస్సలు కష్టం లేదు"
+                    "translation": "Not difficult at all"
                 },
                 {
                     "id": 3,
                     "hash": "81c032b69f",
-                    "translation": "Slightly difficult / స్వల్ప కష్టం"
+                    "translation": "Slightly difficult"
                 },
                 {
                     "id": 2,
                     "hash": "9ee5601c1b",
-                    "translation": "Moderately difficult / కొంత కష్టం"
+                    "translation": "Moderately difficult"
                 },
                 {
                     "id": 1,
                     "hash": "7d87008dc2",
-                    "translation": "Very difficult / చాలా కష్టం"
+                    "translation": "Very difficult"
                 },
                 {
                     "id": 0,
                     "hash": "74dff10138",
-                    "translation": "Unable to do it myself / నేను పూర్తిగా దుస్తులు ధరించుకోలేను"
+                    "translation": "Unable to do it myself / నేను బహిరంగంగా బయటకు వెళ్ళడం మానుకోవడానికి ప్రయత్నిస్తాను"
                 }
             ]
         },
@@ -5060,33 +5060,33 @@
             "form": "sipso_questionnaire",
             "label": {
                 "hash": "58d3a9b94e",
-                "translation": "2. Since your stroke, how much difficulty do you have moving around all areas of the home? / 2. మీ స్ట్రోక్ తర్వాత, ఇంటిలోని అన్ని ప్రాంతాలలో తిరగడంలో మీకు ఎంత కష్టంగా ఉంది?"
+                "translation": "2. Since your stroke, how much difficulty do you have moving around all areas of the home? / | పర్వాలేదు అనిపించింది"
             },
             "enum": [
                 {
                     "id": 4,
                     "hash": "5879f9637a",
-                    "translation": "Not difficult at all / అస్సలు కష్టం లేదు"
+                    "translation": "Not difficult at all"
                 },
                 {
                     "id": 3,
                     "hash": "81c032b69f",
-                    "translation": "Slightly difficult / స్వల్ప కష్టం"
+                    "translation": "Slightly difficult"
                 },
                 {
                     "id": 2,
                     "hash": "9ee5601c1b",
-                    "translation": "Moderately difficult / కొంత కష్టం"
+                    "translation": "Moderately difficult"
                 },
                 {
                     "id": 1,
                     "hash": "7d87008dc2",
-                    "translation": "Very difficult / చాలా కష్టం"
+                    "translation": "Very difficult"
                 },
                 {
                     "id": 0,
                     "hash": "9d4049ed61",
-                    "translation": "Unable to do it myself / నేను ఇంటిలోని అన్ని ప్రాంతాలలో తిరగలేను"
+                    "translation": "Unable to do it myself"
                 }
             ]
         },
@@ -5095,33 +5095,33 @@
             "form": "sipso_questionnaire",
             "label": {
                 "hash": "59dbf4783c",
-                "translation": "3. Since your stroke, how satisfied are you with your overall ability to perform daily activities in and around the home? / 3. మీ స్ట్రోక్ తర్వాత, ఇంట్లో మరియు ఇంటి చుట్టూ దైనందిన కార్యకలాపాలు చేయగల మీ మొత్తం సామర్థ్యంతో మీరు ఎంత సంతృప్తిగా ఉన్నారు?"
+                "translation": "3. Since your stroke, how satisfied are you with your overall ability to perform daily activities in and around the home? / | కొంచెం సంకోచంగా అనిపిస్తుంది"
             },
             "enum": [
                 {
                     "id": 4,
                     "hash": "0ae8d1104f",
-                    "translation": "Completely satisfied / పూర్తిగా సంతృప్తిగా ఉన్నాను"
+                    "translation": "Completely satisfied"
                 },
                 {
                     "id": 3,
                     "hash": "d00f71a6f4",
-                    "translation": "Mostly satisfied / చాలా వరకు సంతృప్తిగా ఉన్నాను"
+                    "translation": "Mostly satisfied"
                 },
                 {
                     "id": 2,
                     "hash": "484234494e",
-                    "translation": "Moderately satisfied / పర్వాలేదు అనిపించింది"
+                    "translation": "Moderately satisfied"
                 },
                 {
                     "id": 1,
                     "hash": "ed3cb8dbf8",
-                    "translation": "Not very satisfied / అంతగా సంతృప్తిగా లేను"
+                    "translation": "Not very satisfied"
                 },
                 {
                     "id": 0,
                     "hash": "9f1defdfcb",
-                    "translation": "Completely dissatisfied / పూర్తిగా అసంతృప్తిగా ఉన్నాను"
+                    "translation": "Completely dissatisfied"
                 }
             ]
         },
@@ -5130,33 +5130,33 @@
             "form": "sipso_questionnaire",
             "label": {
                 "hash": "0f3cde81db",
-                "translation": "4. Since your stroke, how much difficulty do you have shopping for and carrying a few items when at the shops? / 4. మీ స్ట్రోక్ తర్వాత, దుకాణాలలో కొన్ని వస్తువులు (1 సంచి లేదా అంతకంటే తక్కువ) కొనుగోలు చేసి మోయడంలో మీకు ఎంత కష్టంగా ఉంది?"
+                "translation": "4. Since your stroke, how much difficulty do you have shopping for and carrying a few items when at the shops? / | పూర్తిగా సంతోషంగా ఉన్నాను"
             },
             "enum": [
                 {
                     "id": 4,
                     "hash": "5879f9637a",
-                    "translation": "Not difficult at all / అస్సలు కష్టం లేదు"
+                    "translation": "Not difficult at all"
                 },
                 {
                     "id": 3,
                     "hash": "81c032b69f",
-                    "translation": "Slightly difficult / స్వల్ప కష్టం"
+                    "translation": "Slightly difficult"
                 },
                 {
                     "id": 2,
                     "hash": "9ee5601c1b",
-                    "translation": "Moderately difficult / కొంత కష్టం"
+                    "translation": "Moderately difficult"
                 },
                 {
                     "id": 1,
                     "hash": "7d87008dc2",
-                    "translation": "Very difficult / చాలా కష్టం"
+                    "translation": "Very difficult"
                 },
                 {
                     "id": 0,
                     "hash": "7084594fe2",
-                    "translation": "Unable to do it myself / నేను కొన్ని వస్తువులు కొనుగోలు చేసి మోయలేను"
+                    "translation": "Unable to do it myself"
                 }
             ]
         },
@@ -5165,33 +5165,33 @@
             "form": "sipso_questionnaire",
             "label": {
                 "hash": "67e02afce9",
-                "translation": "5. Since your stroke, how independent are you in your ability to move around your local neighbourhood? / 5. మీ స్ట్రోక్ తర్వాత, మీ స్థానిక పరిసరాలలో తిరగడంలో మీరు ఎంత స్వతంత్రంగా ఉన్నారు?"
+                "translation": "5. Since your stroke, how independent are you in your ability to move around your local neighbourhood? / మీ స్ట్రోక్ తర్వాత, మీ స్థానిక పరిసరాలలో తిరగడంలో మీరు ఎంత స్వతంత్రంగా ఉన్నారు?"
             },
             "enum": [
                 {
                     "id": 4,
                     "hash": "1b016c5b16",
-                    "translation": "Completely independent / నేను పూర్తిగా స్వతంత్రంగా ఉన్నాను"
+                    "translation": "Completely independent"
                 },
                 {
                     "id": 3,
                     "hash": "a8746b5915",
-                    "translation": "Prefer to have someone with me / నాతో మరొకరు ఉండటాన్ని ఇష్టపడతాను"
+                    "translation": "Prefer to have someone with me"
                 },
                 {
                     "id": 2,
                     "hash": "3ba3c6ece8",
-                    "translation": "Need some help / నాకు అప్పుడప్పుడు ఎవరి సహాయమైనా అవసరం"
+                    "translation": "Need some help"
                 },
                 {
                     "id": 1,
                     "hash": "50e13ea29d",
-                    "translation": "Need help most of the time / నాకు చాలా సమయం సహాయం అవసరం"
+                    "translation": "Need help most of the time"
                 },
                 {
                     "id": 0,
                     "hash": "ab20c804a3",
-                    "translation": "Completely dependent / నేను పూర్తిగా ఇతరులపై ఆధారపడి ఉన్నాను"
+                    "translation": "Completely dependent"
                 }
             ]
         },
@@ -5208,33 +5208,33 @@
             "form": "sipso_questionnaire",
             "label": {
                 "hash": "76a838fb07",
-                "translation": "6. Since your stroke, how often do you feel bored with your free time at home? / 6. మీ స్ట్రోక్ తర్వాత, ఇంట్లో మీ విశ్రాంతి సమయంలో మీకు ఎంత తరచుగా విసుగు కలుగుతుంది?"
+                "translation": "6. Since your stroke, how often do you feel bored with your free time at home? / మీ స్ట్రోక్ తర్వాత, ఇంట్లో మీ విశ్రాంతి సమయంలో మీకు ఎంత తరచుగా విసుగు కలుగుతుంది?"
             },
             "enum": [
                 {
                     "id": 4,
                     "hash": "fa47a55f7d",
-                    "translation": "Not at all / నా విశ్రాంతి సమయంలో నాకు ఎప్పుడూ విసుగు కలగదు"
+                    "translation": "Not at all"
                 },
                 {
                     "id": 3,
                     "hash": "36e070bd9c",
-                    "translation": "Slightly / నా విశ్రాంతి సమయంలో కొంచెం"
+                    "translation": "Slightly"
                 },
                 {
                     "id": 2,
                     "hash": "c5bcf0a902",
-                    "translation": "Moderately / నా విశ్రాంతి సమయంలో కొంతభాగం"
+                    "translation": "Moderately"
                 },
                 {
                     "id": 1,
                     "hash": "8e17fc2710",
-                    "translation": "Greatly / నా విశ్రాంతి సమయంలో చాలావరకు"
+                    "translation": "Greatly"
                 },
                 {
                     "id": 0,
                     "hash": "a7a5055e3a",
-                    "translation": "All the time / నా విశ్రాంతి సమయం మొత్తం"
+                    "translation": "All the time"
                 }
             ]
         },
@@ -5243,33 +5243,33 @@
             "form": "sipso_questionnaire",
             "label": {
                 "hash": "fed5193e04",
-                "translation": "7. Since your stroke, how would you describe the amount of communication between you and your friends/associates? / 7. మీ స్ట్రోక్ తర్వాత, మీరు మరియు మీ స్నేహితులు/పరిచయస్తుల మధ్య సంభాషణ పరిమాణాన్ని మీరు ఎలా వర్ణిస్తారు?"
+                "translation": "7. Since your stroke, how would you describe the amount of communication between you and your friends/associates? / మీ స్ట్రోక్ తర్వాత, మీరు మరియు మీ స్నేహితులు/పరిచయస్తుల మధ్య సంభాషణ పరిమాణాన్ని మీరు ఎలా వర్ణిస్తారు?"
             },
             "enum": [
                 {
                     "id": 4,
                     "hash": "5025b2d310",
-                    "translation": "A great deal / చాలా ఎక్కువ"
+                    "translation": "A great deal"
                 },
                 {
                     "id": 3,
                     "hash": "c7b7c42e0e",
-                    "translation": "Quite a lot / చాలా వరకు"
+                    "translation": "Quite a lot"
                 },
                 {
                     "id": 2,
                     "hash": "00b2aad45d",
-                    "translation": "Moderately / కొంత"
+                    "translation": "Moderately"
                 },
                 {
                     "id": 1,
                     "hash": "cafdd12066",
-                    "translation": "A little bit / కొంచెం"
+                    "translation": "A little bit"
                 },
                 {
                     "id": 0,
                     "hash": "6eef664840",
-                    "translation": "None / ఏమీ లేదు"
+                    "translation": "None"
                 }
             ]
         },
@@ -5278,33 +5278,33 @@
             "form": "sipso_questionnaire",
             "label": {
                 "hash": "d1fbdf076d",
-                "translation": "8. Since your stroke, how satisfied are you with the level of interests and activities you share with your friends/associates? / 8. మీ స్ట్రోక్ తర్వాత, మీరు మీ స్నేహితులు/పరిచయస్తులతో పంచుకునే ఆసక్తులు మరియు కార్యకలాపాల స్థాయితో మీరు ఎంత సంతృప్తిగా ఉన్నారు?"
+                "translation": "8. Since your stroke, how satisfied are you with the level of interests and activities you share with your friends/associates? / మీ స్ట్రోక్ తర్వాత, మీరు మీ స్నేహితులు/పరిచయస్తులతో పంచుకునే ఆసక్తులు మరియు కార్యకలాపాల స్థాయితో మీరు ఎంత సంతృప్తిగా ఉన్నారు?"
             },
             "enum": [
                 {
                     "id": 4,
                     "hash": "0ae8d1104f",
-                    "translation": "Completely satisfied / పూర్తిగా సంతృప్తిగా ఉన్నాను"
+                    "translation": "Completely satisfied"
                 },
                 {
                     "id": 3,
                     "hash": "d00f71a6f4",
-                    "translation": "Mostly satisfied / చాలా వరకు సంతృప్తిగా ఉన్నాను"
+                    "translation": "Mostly satisfied"
                 },
                 {
                     "id": 2,
                     "hash": "484234494e",
-                    "translation": "Moderately satisfied / పర్వాలేదు అనిపించింది"
+                    "translation": "Moderately satisfied"
                 },
                 {
                     "id": 1,
                     "hash": "ed3cb8dbf8",
-                    "translation": "Not very satisfied / అంతగా సంతృప్తిగా లేను"
+                    "translation": "Not very satisfied"
                 },
                 {
                     "id": 0,
                     "hash": "9f1defdfcb",
-                    "translation": "Completely dissatisfied / పూర్తిగా అసంతృప్తిగా ఉన్నాను"
+                    "translation": "Completely dissatisfied"
                 }
             ]
         },
@@ -5313,33 +5313,33 @@
             "form": "sipso_questionnaire",
             "label": {
                 "hash": "89ededb75e",
-                "translation": "9. Since your stroke, how often do you visit friends/others? / 9. మీ స్ట్రోక్ తర్వాత, మీరు స్నేహితులను/ఇతరులను ఎంత తరచుగా సందర్శిస్తారు?"
+                "translation": "9. Since your stroke, how often do you visit friends/others? / మీ స్ట్రోక్ తర్వాత, మీరు స్నేహితులను/ఇతరులను ఎంత తరచుగా సందర్శిస్తారు?"
             },
             "enum": [
                 {
                     "id": 4,
                     "hash": "0599f59a8f",
-                    "translation": "Most days / చాలా రోజులు"
+                    "translation": "Most days"
                 },
                 {
                     "id": 3,
                     "hash": "67a03fcd2c",
-                    "translation": "At least once a week / వారానికి కనీసం ఒకసారి"
+                    "translation": "At least once a week"
                 },
                 {
                     "id": 2,
                     "hash": "b63e0f73a2",
-                    "translation": "At least once a fortnight / పక్షానికి కనీసం ఒకసారి"
+                    "translation": "At least once a fortnight"
                 },
                 {
                     "id": 1,
                     "hash": "69b004a976",
-                    "translation": "Once a month or less / నెలకు ఒకసారి లేదా అంతకంటే తక్కువ"
+                    "translation": "Once a month or less"
                 },
                 {
                     "id": 0,
                     "hash": "80c3052d33",
-                    "translation": "Never / ఎప్పుడూ లేదు"
+                    "translation": "Never"
                 }
             ]
         },
@@ -5348,33 +5348,33 @@
             "form": "sipso_questionnaire",
             "label": {
                 "hash": "2899301c72",
-                "translation": "10. Since your stroke, how do you feel about your appearance when out in public? / 10. మీ స్ట్రోక్ తర్వాత, బహిరంగ స్థలాల్లో బయటకు వెళ్ళినప్పుడు మీ రూపం గురించి మీకు ఎలా అనిపిస్తుంది?"
+                "translation": "10. Since your stroke, how do you feel about your appearance when out in public? / మీ స్ట్రోక్ తర్వాత, బహిరంగ స్థలాల్లో బయటకు వెళ్ళినప్పుడు మీ రూపం గురించి మీకు ఎలా అనిపిస్తుంది?"
             },
             "enum": [
                 {
                     "id": 4,
                     "hash": "63b54d6dc7",
-                    "translation": "Perfectly happy / పూర్తిగా సంతోషంగా ఉన్నాను"
+                    "translation": "Perfectly happy"
                 },
                 {
                     "id": 3,
                     "hash": "4d452c47c0",
-                    "translation": "Slightly self-conscious / కొంచెం సంకోచంగా అనిపిస్తుంది"
+                    "translation": "Slightly self-conscious"
                 },
                 {
                     "id": 2,
                     "hash": "eacd9b1d1e",
-                    "translation": "Fairly self-conscious / పర్వాలేదు అనిపించింది"
+                    "translation": "Fairly self-conscious"
                 },
                 {
                     "id": 1,
                     "hash": "8a34bb0431",
-                    "translation": "Very self-conscious / చాలా సంకోచంగా అనిపిస్తుంది"
+                    "translation": "Very self-conscious"
                 },
                 {
                     "id": 0,
                     "hash": "76163d2ec7",
-                    "translation": "I try to avoid going out in public / నేను బహిరంగంగా బయటకు వెళ్ళడం మానుకోవడానికి ప్రయత్నిస్తాను"
+                    "translation": "I try to avoid going out in public"
                 }
             ]
         },
@@ -6765,7 +6765,7 @@
             "form": "caregiver_strain_index",
             "label": {
                 "hash": "8a7081f161",
-                "translation": "2. It is inconvenient (e.g., because helping takes so much time or it’s a long journey to help) / అసౌకర్యంగా ఉంది (ఉదా., సహాయం చేయడానికి చాలా సమయం పడుతుంది లేదా వెళ్ళడానికి దూరంగా ఉంటుంది)"
+                "translation": "2. It is inconvenient (e.g., because helping takes so much time or it's a long journey to help) / అసౌకర్యంగా ఉంది (ఉదా., సహాయం చేయడానికి చాలా సమయం పడుతుంది లేదా వెళ్ళడానికి దూరంగా ఉంటుంది)"
             }
         },
         {
