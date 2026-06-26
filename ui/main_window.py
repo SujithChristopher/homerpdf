@@ -537,8 +537,36 @@ class MainWindow(QMainWindow):
         self.pdf_list.setSelectionMode(QListWidget.MultiSelection)
         self.pdf_list.itemSelectionChanged.connect(self.on_input_changed)
 
-        # Populate the QListWidget with English PDFs
-        pdf_files = sorted([f for f in self.pdf_dir.glob("*.pdf")])
+        # Define target order of PDFs (after FMA, in the requested order)
+        pdf_order = [
+            "00 EN HOMER- SCREENING FORM.pdf",
+            "00 EN Proforma.pdf",
+            "01 EN fma-ue.pdf",                     # FMA
+            "02 EN arat.pdf",                       # (a) Action Research Arm Test
+            "13 EN Box and Block.pdf",              # (b) Box and Block
+            "04 EN CAHAI-7.pdf",                    # (c) CAHAI-7
+            "06 EN MOCA.pdf",                       # (d) MOCA
+            "08 EN MAS.pdf",                        # (e) MAS
+            "03 EN MAL.pdf",                        # (f) Motor Activity Log
+            "14 EN EQ-5D-5L.pdf",                   # (g) EuroQual (EQ-5D-5L)
+            "07 EN MRS.pdf",                        # (h) Modified Ranking Scale
+            "09 EN CSI.pdf",                        # (i) Caregiver Strain Index (CSI)
+            "05 EN SIPSO.pdf",                      # (j) Subjective Index of Physical and Social Outcome (SIPSO)
+            "10 EN PHQ9.pdf",                       # (k) PHQ9
+            "11 EN FSS.pdf",                        # FSS
+            "12 EN NIHSS.pdf",                      # NIHSS
+            "15 EN Patient consent.pdf",            # Patient Consent
+            "16 EN Patient Information sheet.pdf"   # Patient Information Sheet
+        ]
+
+        order_map = {name.lower(): idx for idx, name in enumerate(pdf_order)}
+
+        def sort_key(file_path):
+            name_lower = file_path.name.lower()
+            return order_map.get(name_lower, len(pdf_order))
+
+        # Populate the QListWidget with English PDFs sorted by target order
+        pdf_files = sorted([f for f in self.pdf_dir.glob("*.pdf")], key=sort_key)
         for pdf_file in pdf_files:
             name_upper = pdf_file.name.upper()
             if " EN " in name_upper or "ENGLISH" in name_upper:
