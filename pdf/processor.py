@@ -40,30 +40,30 @@ class PDFProcessor:
             return "01 FMA"
         elif "arat" in filename_lower:
             return "02 ARAT"
-        elif "mal" in filename_lower:
-            return "03 MAL"
+        elif "box" in filename_lower:
+            return "03 BNB"
         elif "cahai" in filename_lower:
             return "04 CAHAI-7"
-        elif "sipso" in filename_lower:
-            return "05 SIPSO"
         elif "moca" in filename_lower:
-            return "06 MOCA"
-        elif "mrs" in filename_lower:
-            return "07 MRS"
+            return "05 MOCA"
         elif "mas" in filename_lower:
-            return "08 MAS"
-        elif "csi" in filename_lower:
-            return "09 CSI"
-        elif "phq9" in filename_lower:
-            return "10 PHQ9"
-        elif "fss" in filename_lower:
-            return "11 FSS"
-        elif "nihss" in filename_lower:
-            return "12 NIHSS"
-        elif "box" in filename_lower:
-            return "13 BOX & BLOCK"
+            return "06 MAS"
+        elif "mal" in filename_lower:
+            return "07 MAL"
         elif "eq-5d" in filename_lower:
-            return "14 EQ-5D-5L"
+            return "08 EQ-5D-5L"
+        elif "mrs" in filename_lower:
+            return "09 MRS"
+        elif "csi" in filename_lower:
+            return "10 CSI"
+        elif "sipso" in filename_lower:
+            return "11 SIPSO"
+        elif "phq9" in filename_lower:
+            return "12 PHQ9"
+        elif "fss" in filename_lower:
+            return "13 FSS"
+        elif "nihss" in filename_lower:
+            return "14 NIHSS"
         elif "consent" in filename_lower:
             return "15 CONSENT"
         elif "information" in filename_lower:
