@@ -29,3 +29,17 @@ All project dependencies are managed via `pyproject.toml` and locked in `uv.lock
 - For running tests or quality checks, run them under the `uv run` context:
   - Example: `uv run pytest` (if pytest is used)
   - Example: `uv run ruff check` (if ruff is used)
+
+## 4. Windows Compatibility and Encoding Guidelines
+
+Windows consoles (especially CMD and PowerShell) use code pages like CP1252 by default, which throws `UnicodeEncodeError` (charmap errors) when encountering non-ASCII or complex Unicode characters.
+
+- **Console Output / Logging**:
+  - Avoid printing decorative Unicode characters (e.g., `➔`, `✔`, `✖`) to stdout/stderr in helper, test, or scratch scripts. Use standard ASCII equivalents (e.g., `->`, `[OK]`, `[FAIL]`) instead.
+- **File I/O**:
+  - Always explicitly define the encoding as UTF-8 when opening text files:
+    ```python
+    with open(file_path, "r", encoding="utf-8") as f:
+        ...
+    ```
+  - This prevents Python from falling back to the system default encoding (e.g., CP1252) on Windows, ensuring compatibility across all platforms.
