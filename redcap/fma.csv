@@ -2,7 +2,7 @@ Variable / Field Name,Form Name,Section Header,Field Type,Field Label,Choices, C
 record_id,fugl_meyer_assessment_ue,,text,Record ID,,,,,,,,,,,,,,,
 date_of_assessment,fugl_meyer_assessment_ue,,text,Date of Assessment,,,date_ymd,,,,,,,,,,,
 fma_examiner,fugl_meyer_assessment_ue,,text,Examiner Name,,,,,,,,,,,,,,,
-fma_ue_header,fugl_meyer_assessment_ue,A. UPPER EXTREMITY - Sitting Position,descriptive,A. UPPER EXTREMITY,,,,,,,,,,,,,,,
+fma_ue_header,fugl_meyer_assessment_ue,FUGL-MEYER ASSESSMENT UPPER EXTREMITY (FMA-UE) - Sitting Position,descriptive,A. UPPER EXTREMITY,,,,,,,,,,,,,,,
 fma_ue_reflex_flex,fugl_meyer_assessment_ue,I. Reflex Activity,radio,"Flexors: biceps and finger flexors (at least one)","0, None (can be elicited) | 2, Reflexes present",,,,,,,,,,,,,,
 fma_ue_reflex_ext,fugl_meyer_assessment_ue,,radio,"Extensors: triceps","0, None (can be elicited) | 2, Reflexes present",,,,,,,,,,,,,,
 fma_ue_subtotal_i,fugl_meyer_assessment_ue,,calc,Subtotal I (max 4),[fma_ue_reflex_flex] + [fma_ue_reflex_ext],,,,,,,,,,,,,,
