@@ -5013,7 +5013,7 @@
             "form": "sipso_questionnaire",
             "header": {
                 "hash": "fadb730cb7",
-                "translation": "Subjective Index of Physical and Social Outcome (SIPSO) <br> ದೈಹಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಪರಿಣಾಮಗಳ ಮಾಪನ (SIPSO)"
+                "translation": "Subjective Index of Physical and Social Outcome (SIPSO) <br> ದೈಹಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಪರಿಣಾಮಗಳ ಮಾపನ (SIPSO)"
             },
             "label": {
                 "hash": "14e22afadc",
@@ -5095,7 +5095,7 @@
             "form": "sipso_questionnaire",
             "label": {
                 "hash": "59dbf4783c",
-                "translation": "3. Since your stroke, how satisfied are you with your overall ability to perform daily activities in and around the home? <br> 3. ಪಾರ್ಶ್ವವಾಯು ಆದ ನಂತರ, ಮನೆಯಲ್ಲಿ ಮತ್ತು ಮನೆಯ ಸುತ್ತಮುತ್ತಲ ದೈನಂದಿನ ಕೆಲಸಗಳನ್ನು ಮಾಡುವ ಸಾಮರ್ಥ್ಯದಿಂದ ನೀವು ಎಷ್ಟು ತೃಪ್ತಿಯಾಗಿದ್ದೀರಿ?"
+                "translation": "3. Since your stroke, how satisfied are you with your overall ability to perform daily activities in and around the home? <br> 3. ಪಾರ್ಶ್ವವಾಯು ಆದ ನಂತರ, ಮನೆಯಲ್ಲಿ ಮತ್ತು ಮನೆಯ ಸುತ್ತమುತ್ತల ದೈನந்தಿನ ಕೆಲಸಗಳನ್ನು ಮಾಡುವ ಸಾಮರ್ಥ్యದಿಂದ நீங்கள் ಎಷ್ಟು ತೃಪ್ತಿಯಾಗಿದ್ದೀರಿ?"
             },
             "enum": [
                 {
@@ -5130,7 +5130,7 @@
             "form": "sipso_questionnaire",
             "label": {
                 "hash": "0f3cde81db",
-                "translation": "4. Since your stroke, how much difficulty do you have shopping for and carrying a few items when at the shops? <br> 4. ಪಾರ್ಶ್ವವಾಯು ಆದ ನಂತರ ಅಂಗಡಿಗೆ ಹೋಗಿ ಸಾಮಾನು ಖರೀದಿ ಮಾಡುವುದು ಮತ್ತು ಸ್ವಲ್ಪ ಸಾಮಾನನ್ನು ಹೊರಲು ಎಷ್ಟು ಕಷ್ಟಪಡುತ್ತೀರಿ?"
+                "translation": "4. Since your stroke, how much difficulty do you have shopping for and carrying a few items when at the shops? <br> 4. ಪಾರ್ಶ್ವವಾಯು ಆದ ನಂತರ ಅಂಗಡಿಗೆ ಹೋಗಿ ಸಾಮಾನು ಖರೀದಿ ಮಾಡುವುದು ಮತ್ತು ಸ್ವಲ್ಪ ಸಾമാനನ್ನು ಹೊರಲು ಎಷ್ಟು ಕಷ್ಟಪಡುತ್ತೀರಿ?"
             },
             "enum": [
                 {
@@ -5171,7 +5171,7 @@
                 {
                     "id": 4,
                     "hash": "1b016c5b16",
-                    "translation": "Completely independent <br> ನಾನು ಸಂಪೂರ್ಣವಾಗಿ ಸ್ವತಂತ್ರನಾಗಿದ್ದೇನೆ"
+                    "translation": "Completely independent <br> ನಾನು ಸಂಪೂರ್ಣವಾಗಿ ಸ್ವತंत्रನಾಗಿದ್ದೇನೆ"
                 },
                 {
                     "id": 3,
@@ -5186,7 +5186,7 @@
                 {
                     "id": 1,
                     "hash": "50e13ea29d",
-                    "translation": "Need help most of the time <br> ನನಗೆ ಹೆಚ್ಚಿನ ಸಮಯ ಬೇರೆಯವರ ಸಹಾಯ ಬೇಕಾಗುತ್ತದೆ"
+                    "translation": "Need help most of the time <br> ನನಗೆ ಹೆಚ್ಚಿನ समय ಬೇರೆಯವರ ಸಹಾಯ ಬೇಕಾಗುತ್ತದೆ"
                 },
                 {
                     "id": 0,
@@ -5243,7 +5243,7 @@
             "form": "sipso_questionnaire",
             "label": {
                 "hash": "fed5193e04",
-                "translation": "7. Since your stroke, how would you describe the amount of communication between you and your friends/associates? <br> 7. ಪಾರ್ಶ್ವವಾಯು ಆದ ನಂತರ ನಿಮಗೂ ಮತ್ತು ನಿಮ್ಮ ಗೆಳೆಯರು ಅಥವಾ ಜೊತೆಗಿರುವವರ ನಡುವಿನ ಮಾತುಕತೆಯ ಪ್ರಮಾಣವನ್ನು ಹೇಗೆ ವಿವರಿಸುತ್ತೀರಿ?"
+                "translation": "7. Since your stroke, how would you describe the amount of communication between you and your friends/associates? <br> 7. ಪಾರ್ಶ್ವವಾಯು ಆದ ನಂತರ ನಿಮಗೂ ಮತ್ತು ನಿಮ್ಮ ಗೆಳೆಯರು ಅಥವಾ ಜೊತೆಗಿರುವವರ ನಡುವಿನ ಮಾತುಕತೆಯ ಪ್ರಮಾಣವನ್ನು ಹೇಗೆ ವಿவರಿಸುತ್ತೀರಿ?"
             },
             "enum": [
                 {
@@ -5259,7 +5259,7 @@
                 {
                     "id": 2,
                     "hash": "00b2aad45d",
-                    "translation": "Moderately <br> ಸಾಧಾರಣವಾಗಿ"
+                    "translation": "Moderately <br> ಸಾಧಾರణವಾಗಿ"
                 },
                 {
                     "id": 1,
@@ -5278,7 +5278,7 @@
             "form": "sipso_questionnaire",
             "label": {
                 "hash": "d1fbdf076d",
-                "translation": "8. Since your stroke, how satisfied are you with the level of interests and activities you share with your friends/associates? <br> 8. ಪಾರ್ಶ್ವವಾಯು ಆದ ನಂತರ, ನಿಮ್ಮ ಗೆಳೆಯರು ಅಥವಾ ಜೊತೆಗಿರುವವರೊಂದಿಗೆ ನೀವು ಹಂಚಿಕೊಳ್ಳುವ ಆಸಕ್ತಿಗಳು ಮತ್ತು ಚಟುವಟಿಕೆಗಳ ಬಗ್ಗೆ ನೀವು ಎಷ್ಟು ತೃಪ್ತಿಯಾಗಿದ್ದೀರಿ?"
+                "translation": "8. Since your stroke, how satisfied are you with the level of interests and activities you share with your friends/associates? <br> 8. ಪಾರ್ಶ್ವವಾಯು ಆದ ನಂತರ, ನಿಮ್ಮ ಗೆಳೆಯರು ಅಥವಾ ಜೊತೆಗಿರುವವರೊಂದಿಗೆ நீங்கள் ಹಂಚಿಕೊಳ್ಳುವ ಆಸಕ್ತಿಗಳು ಮತ್ತು ಚಟುವಟಿಕೆಗಳ ಬಗ್ಗೆ நீங்கள் ಎಷ್ಟು ತೃಪ್ತಿಯಾಗಿದ್ದೀರಿ?"
             },
             "enum": [
                 {
@@ -5348,7 +5348,7 @@
             "form": "sipso_questionnaire",
             "label": {
                 "hash": "2899301c72",
-                "translation": "10. Since your stroke, how do you feel about your appearance when out in public? <br> 10. ಪಾರ್ಶ್ವವಾಯು ಆದ ನಂತರ, ಸಾರ್ವಜನಿಕವಾಗಿ ಹೊರಗೆ ಹೋದಾಗ ನಿಮ್ಮ ರೂಪದ (Appearance) ಬಗ್ಗೆ ನಿಮಗೆ ಹೇಗೆ ಅನಿಸುತ್ತದೆ?"
+                "translation": "10. Since your stroke, how do you feel about your appearance when out in public? <br> 10. ಪಾರ್ಶ್ವವಾಯು ಆದ ನಂತರ, ಸಾರ್వಜನಿಕವಾಗಿ ಹೊರಗೆ ಹೋದಾಗ ನಿಮ್ಮ ರೂಪದ (Appearance) ಬಗ್ಗೆ ನಿಮಗೆ ಹೇಗೆ ಅನಿಸುತ್ತದೆ?"
             },
             "enum": [
                 {
@@ -6954,7 +6954,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -6964,7 +6964,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -7009,7 +7009,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -7019,7 +7019,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -7029,7 +7029,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -7039,7 +7039,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -7049,7 +7049,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -7059,7 +7059,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -7100,7 +7100,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -7110,7 +7110,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -7155,7 +7155,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -7165,7 +7165,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -7175,7 +7175,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -7185,7 +7185,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -7195,7 +7195,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -7205,7 +7205,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -7246,7 +7246,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -7256,7 +7256,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -7301,7 +7301,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -7311,7 +7311,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -7321,7 +7321,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -7331,7 +7331,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -7341,7 +7341,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -7351,7 +7351,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -7392,7 +7392,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -7402,7 +7402,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -7447,7 +7447,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -7457,7 +7457,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -7467,7 +7467,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -7477,7 +7477,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -7487,7 +7487,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -7497,7 +7497,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -7538,7 +7538,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -7548,7 +7548,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -7593,7 +7593,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -7603,7 +7603,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -7613,7 +7613,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -7623,7 +7623,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -7633,7 +7633,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -7643,7 +7643,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -7696,7 +7696,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -7706,7 +7706,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -7751,7 +7751,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -7761,7 +7761,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -7771,7 +7771,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -7781,7 +7781,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -7791,7 +7791,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -7801,7 +7801,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -7842,7 +7842,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -7852,7 +7852,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -7897,7 +7897,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -7907,7 +7907,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -7917,7 +7917,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -7927,7 +7927,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -7937,7 +7937,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -7947,7 +7947,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -7988,7 +7988,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -7998,7 +7998,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -8043,7 +8043,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -8053,7 +8053,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -8063,7 +8063,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -8073,7 +8073,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -8083,7 +8083,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -8093,7 +8093,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -8134,7 +8134,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -8144,7 +8144,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -8189,7 +8189,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -8199,7 +8199,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -8209,7 +8209,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -8219,7 +8219,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -8229,7 +8229,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -8239,7 +8239,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -8280,7 +8280,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -8290,7 +8290,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -8335,7 +8335,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -8345,7 +8345,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -8355,7 +8355,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -8365,7 +8365,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -8375,7 +8375,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -8385,7 +8385,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -8438,7 +8438,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -8448,7 +8448,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -8493,7 +8493,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -8503,7 +8503,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -8513,7 +8513,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -8523,7 +8523,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -8533,7 +8533,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -8543,7 +8543,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -8584,7 +8584,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -8594,7 +8594,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -8639,7 +8639,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -8649,7 +8649,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -8659,7 +8659,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -8669,7 +8669,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -8679,7 +8679,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -8689,7 +8689,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -8730,7 +8730,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -8740,7 +8740,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -8785,7 +8785,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -8795,7 +8795,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -8805,7 +8805,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -8815,7 +8815,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -8825,7 +8825,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -8835,7 +8835,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -8876,7 +8876,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -8886,7 +8886,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -8931,7 +8931,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -8941,7 +8941,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -8951,7 +8951,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -8961,7 +8961,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -8971,7 +8971,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -8981,7 +8981,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -9022,7 +9022,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -9032,7 +9032,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -9077,7 +9077,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -9087,7 +9087,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -9097,7 +9097,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -9107,7 +9107,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -9117,7 +9117,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -9127,7 +9127,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -9180,7 +9180,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -9190,7 +9190,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -9235,7 +9235,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -9245,7 +9245,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -9255,7 +9255,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -9265,7 +9265,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -9275,7 +9275,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -9285,7 +9285,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -9326,7 +9326,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -9336,7 +9336,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -9381,7 +9381,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -9391,7 +9391,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -9401,7 +9401,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -9411,7 +9411,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -9421,7 +9421,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -9431,7 +9431,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -9472,7 +9472,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -9482,7 +9482,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -9527,7 +9527,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -9537,7 +9537,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -9547,7 +9547,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -9557,7 +9557,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -9567,7 +9567,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -9577,7 +9577,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -9618,7 +9618,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -9628,7 +9628,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -9673,7 +9673,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -9683,7 +9683,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -9693,7 +9693,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -9703,7 +9703,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -9713,7 +9713,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -9723,7 +9723,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -9764,7 +9764,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -9774,7 +9774,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -9819,7 +9819,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -9829,7 +9829,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -9839,7 +9839,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -9849,7 +9849,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -9859,7 +9859,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -9869,7 +9869,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -9922,7 +9922,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -9932,7 +9932,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -9977,7 +9977,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -9987,7 +9987,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -9997,7 +9997,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -10007,7 +10007,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -10017,7 +10017,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -10027,7 +10027,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -10068,7 +10068,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -10078,7 +10078,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -10123,7 +10123,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -10133,7 +10133,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -10143,7 +10143,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -10153,7 +10153,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -10163,7 +10163,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -10173,7 +10173,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -10214,7 +10214,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -10224,7 +10224,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -10269,7 +10269,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -10279,7 +10279,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -10289,7 +10289,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -10299,7 +10299,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -10309,7 +10309,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -10319,7 +10319,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -10360,7 +10360,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -10370,7 +10370,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -10415,7 +10415,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -10425,7 +10425,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -10435,7 +10435,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -10445,7 +10445,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -10455,7 +10455,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -10465,7 +10465,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -10506,7 +10506,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -10516,7 +10516,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -10561,7 +10561,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -10571,7 +10571,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -10581,7 +10581,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -10591,7 +10591,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -10601,7 +10601,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -10611,7 +10611,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -10664,7 +10664,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -10674,7 +10674,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -10719,7 +10719,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -10729,7 +10729,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -10739,7 +10739,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -10749,7 +10749,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -10759,7 +10759,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -10769,7 +10769,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -10810,7 +10810,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -10820,7 +10820,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -10865,7 +10865,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -10875,7 +10875,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -10885,7 +10885,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -10895,7 +10895,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -10905,7 +10905,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -10915,7 +10915,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -10956,7 +10956,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -10966,7 +10966,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -11011,7 +11011,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -11021,7 +11021,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -11031,7 +11031,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -11041,7 +11041,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -11051,7 +11051,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -11061,7 +11061,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -11102,7 +11102,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -11112,7 +11112,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -11157,7 +11157,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -11167,7 +11167,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -11177,7 +11177,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -11187,7 +11187,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -11197,7 +11197,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -11207,7 +11207,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -11248,7 +11248,7 @@
                 {
                     "id": 1,
                     "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂಪವಾಗಿ"
+                    "translation": "1 - Occasionally used my weaker arm <br> 1 - ಕೆಲवೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹಳ ಅಪರೂపವಾಗಿ"
                 },
                 {
                     "id": "1.5",
@@ -11258,7 +11258,7 @@
                 {
                     "id": 2,
                     "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುತೇಕ ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
+                    "translation": "2 - Sometimes used my weaker arm <br> 2 - ಕೆಲವೊಮ್ಮೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ, ಆದರೆ ಬಹುतेक ಸಮಯವನ್ನು ನನ್ನ ಬಲವಾದ ಕೈಯಿಂದ ಚಟುವಟಿಕೆ ಮಾಡುತ್ತೇನೆ"
                 },
                 {
                     "id": "2.5",
@@ -11303,7 +11303,7 @@
                 {
                     "id": 0,
                     "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ)"
+                    "translation": "0 - The weaker arm was not used at all <br> 0 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ఎందీగೂ ಇಲ್ಲ)"
                 },
                 {
                     "id": "0.5",
@@ -11313,7 +11313,7 @@
                 {
                     "id": 1,
                     "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವಟಿಕೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚಲಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿರಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
+                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - ಆ ಚಟುವటికೆಯಲ್ಲಿ ದುರ್ಬಲವಾದ ಕೈ ಚలಿಸಿತು, ಆದರೆ ಯಾವುದೇ ಉಪಯೋಗವಿరಲಿಲ್ಲ (ತುಂಬಾ ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "1.5",
@@ -11323,7 +11323,7 @@
                 {
                     "id": 2,
                     "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚಲಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
+                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - ದುರ್ಬಲವಾದ ಕೈ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಉಪಯೋಗವಾಯಿತು, ಆದರೆ ಬಲವಾದ ಕೈಯಿಂದ ಸಹಾಯ ಬೇಕಾಯಿತು ಅಥವಾ ತುಂಬಾ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ಚలಿಸಿತು (ಕಳಪೆಯಾಗಿ)"
                 },
                 {
                     "id": "2.5",
@@ -11333,7 +11333,7 @@
                 {
                     "id": 3,
                     "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡೇರಿತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರಣವಾಗಿ)"
+                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - ದುರ್ಬಲವಾದ ಕೈ ಬಳಸಲಾಯಿತು ಅಂದರೆ ಉದ್ದೇಶ ಈಡేరిತು, ಆದರೆ ಎಲ್ಲಾ ಕೆಲಸವೂ ಬಹಳ ನಿಧಾನವಾಗಿ ಅಥವಾ ಸ್ವಲ್ಪ ಪ್ರಯತ್ನದಿಂದ ಮಾಡಲಾಯಿತು (ಸಾಧಾರణವಾಗಿ)"
                 },
                 {
                     "id": "3.5",
@@ -11343,7 +11343,7 @@
                 {
                     "id": 4,
                     "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚಲನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "4 - The movements made were almost normal <br> 4 - ದುರ್ಬಲವಾದ ಕೈಯ ಚలನೆಗಳು ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿವೆ, ಆದರೆ ಸಾಮಾನ್ಯ ಮಟ್ಟಕ್ಕಿಂತ ಸ್ವಲ್ಪ ನಿಧಾನವಾಯಿತು (ಬಹುತೇಕ ಸಾಮಾನ್ಯವಾಗಿ)"
                 },
                 {
                     "id": "4.5",
@@ -11353,7 +11353,7 @@
                 {
                     "id": 5,
                     "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
+                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - ಆ ಚಟುವటಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮర్థ్య ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)"
                 }
             ]
         },
@@ -11894,7 +11894,7 @@
             "form": "montreal_cognitive_assessment",
             "header": {
                 "hash": "3c30486c75",
-                "translation": "MONTREAL COGNITIVE ASSESSMENT (MoCA) <br> ಮಾಂಟ್ರಿಯಲ್ ಅರಿವಿನ ಮೌಲ್ಯಮಾಪನ (MoCA)"
+                "translation": "MONTREAL COGNITIVE ASSESSMENT (MoCA) <br> ಮಾಂಟ್ರಿಯಲ್ ಅರಿವಿನ ಮೌಲ್ಯಮಾపನ (MoCA)"
             },
             "label": {
                 "hash": "3c30486c75",

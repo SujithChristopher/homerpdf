@@ -494,6 +494,7 @@ class MainWindow(QMainWindow):
 
         self.language_group = QButtonGroup()
         self.radio_english = QRadioButton("English")
+        self.radio_kannada = QRadioButton("Kannada")
         self.radio_tamil = QRadioButton("Tamil")
         self.radio_telugu = QRadioButton("Telugu")
         self.radio_hindi = QRadioButton("Hindi")
@@ -501,6 +502,7 @@ class MainWindow(QMainWindow):
         self.radio_english.setChecked(True)
 
         self.language_group.addButton(self.radio_english)
+        self.language_group.addButton(self.radio_kannada)
         self.language_group.addButton(self.radio_tamil)
         self.language_group.addButton(self.radio_telugu)
         self.language_group.addButton(self.radio_hindi)
@@ -508,6 +510,7 @@ class MainWindow(QMainWindow):
 
         # Connect signals
         self.radio_english.toggled.connect(self.on_language_changed)
+        self.radio_kannada.toggled.connect(self.on_language_changed)
         self.radio_tamil.toggled.connect(self.on_language_changed)
         self.radio_telugu.toggled.connect(self.on_language_changed)
         self.radio_hindi.toggled.connect(self.on_language_changed)
@@ -515,6 +518,7 @@ class MainWindow(QMainWindow):
 
         language_layout.addWidget(language_label)
         language_layout.addWidget(self.radio_english)
+        language_layout.addWidget(self.radio_kannada)
         language_layout.addWidget(self.radio_tamil)
         language_layout.addWidget(self.radio_telugu)
         language_layout.addWidget(self.radio_hindi)
@@ -654,12 +658,14 @@ class MainWindow(QMainWindow):
 
     def get_selected_language(self) -> str:
         """
-        Get the selected language code (EN, TA, TE, HI, or PA).
+        Get the selected language code (EN, KA, TA, TE, HI, or PA).
 
         Returns:
             Selected language code
         """
-        if self.radio_tamil.isChecked():
+        if self.radio_kannada.isChecked():
+            return "KA"
+        elif self.radio_tamil.isChecked():
             return "TA"
         elif self.radio_telugu.isChecked():
             return "TE"
@@ -690,8 +696,9 @@ class MainWindow(QMainWindow):
                 if translated_filename.lower() in actual_files:
                     return actual_files[translated_filename.lower()]
 
-        # Pattern: replace 'English' with language word (e.g. 'Tamil', 'Telugu', 'Hindi', 'Punjabi')
+        # Pattern: replace 'English' with language word (e.g. 'Kannada', 'Tamil', 'Telugu', 'Hindi', 'Punjabi')
         lang_word_map = {
+            "KA": "Kannada",
             "TA": "Tamil",
             "TE": "Telugu",
             "HI": "Hindi",
