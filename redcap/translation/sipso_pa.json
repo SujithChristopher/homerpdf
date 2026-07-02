@@ -166,7 +166,7 @@
                 },
                 {
                     "id": "3",
-                    "translation": "I prefer to have someone else with me / ਮੈਂ ਆਪਣੇ ਨਾਲ ਕਿਸੇ ਹੋਰ ਦੇ ਹੋਣ ਨੂੰ ਤਰਜੀਹ ਦਿੰਦਾ ਹਾਂ"
+                    "translation": "I prefer to have someone else with me / ਮੈਨੂੰ ਕਿਸੇ ਹੋਰ ਦੇ ਨਾਲ ਰਹਿਣਾ ਪਸੰਦ ਹੈ"
                 },
                 {
                     "id": "2",
@@ -193,28 +193,28 @@
             "id": "sipso_6_bored",
             "form": "sipso_questionnaire",
             "label": {
-                "translation": "6. Since your stroke, how often do you feel bored with your free time at home? <br> 6. ਸਟ੍ਰੋਕ ਤੋਂ ਬਾਅਦ, ਘਰ ਵਿੱਚ ਖਾਲੀ ਸਮੇਂ ਵਿੱਚ ਤੁਹਾਨੂੰ ਕਿੰਨੀ ਵਾਰ ਬੋਰ ਹੋਣਾ ਮਹਿਸੂਸ ਹੁੰਦਾ ਹੈ? (ਕਿਸੇ ਇੱਕ ਅੰਕ'ਤੇ ਘੇਰਾ ਲਗਾਓ)"
+                "translation": "6. Since your stroke, how often do you feel bored with your free time at home? <br> 6. ਸਟ੍ਰੋਕ ਤੋਂ ਬਾਅਦ, ਘਰ ਵਿੱਚ ਖਾਲੀ ਸਮੇਂ ਵਿੱਚ ਤੁਹਾਨੂੰ ਕਿੰਨੀ ਵਾਰ ਉਬਾਸ਼ ਮਹਿਸੂਸ ਹੁੰਦੀ ਹੈ? (ਕਿਸੇ ਇੱਕ ਅੰਕ'ਤੇ ਘੇਰਾ ਲਗਾਓ)"
             },
             "enum": [
                 {
                     "id": "4",
-                    "translation": "I am never bored with my free time / ਮੈਂ ਆਪਣੇ ਖਾਲੀ ਸਮੇਂ ਵਿੱਚ ਕਦੇ ਵੀ ਬੋਰ ਮਹਿਸੂਸ ਨਹੀਂ ਕਰਦਾ"
+                    "translation": "I am never bored with my free time / ਮੈਂ ਕਦੇ ਵੀ ਉਬਾਸ਼ ਮਹਿਸੂਸ ਨਹੀਂ ਕਰਦਾ"
                 },
                 {
                     "id": "3",
-                    "translation": "A little of my free time / ਆਪਣੇ ਖਾਲੀ ਸਮੇਂ ਦੇ ਥੋੜ੍ਹੇ ਜਿਹੇ ਹਿੱਸੇ ਵਿੱਚ"
+                    "translation": "A little of my free time / ਥੋੜ੍ਹੇ ਸਮੇਂ ਵਿੱਚ ਉਬਾਸ਼ ਮਹਿਸੂਸ ਕਰਦਾ ਹਾਂ"
                 },
                 {
                     "id": "2",
-                    "translation": "Some of my free time / ਆਪਣੇ ਖਾਲੀ ਸਮੇਂ ਦੇ ਕੁਝ ਹਿੱਸੇ ਵਿੱਚ"
+                    "translation": "Some of my free time / ਕੁਝ ਸਮੇਂ ਵਿੱਚ ਉਬਾਸ਼ ਮਹਿਸੂਸ ਕਰਦਾ ਹਾਂ"
                 },
                 {
                     "id": "1",
-                    "translation": "Most of my free time / ਆਪਣੇ ਖਾਲੀ ਸਮੇਂ ਦੇ ਬਹੁਤੇ ਹਿੱਸੇ ਵਿੱਚ"
+                    "translation": "Most of my free time / ਜ਼ਿਆਦਾਤਰ ਸਮੇਂ ਵਿੱਚ ਉਬਾਸ਼ ਮਹਿਸੂਸ ਕਰਦਾ ਹਾਂ"
                 },
                 {
                     "id": "0",
-                    "translation": "All of my free time / ਆਪਣੇ ਸਾਰੇ ਖਾਲੀ ਸਮੇਂ ਵਿੱਚ"
+                    "translation": "All of my free time / ਹਮੇਸ਼ਾਂ ਉਬਾਸ਼ ਮਹਿਸੂਸ ਕਰਦਾ ਹਾਂ"
                 }
             ]
         },
@@ -293,7 +293,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "At least once a fortnight / ਘੱਟੋ-ਘੱਟ ਦੋ ਹਫ਼ਤਿਆਂ ਵਿੱਚ ਇੱਕ ਵਾਰ"
+                    "translation": "At least once a fortnight / ਘੱਟੋ-ਘੱਟ ਪਖਵਾਰੇ ਵਿੱਚ ਇੱਕ ਵਾਰ"
                 },
                 {
                     "id": "1",

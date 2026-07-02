@@ -166,15 +166,15 @@
                 },
                 {
                     "id": "3",
-                    "translation": "I prefer to have someone else with me / मुझे अपने साथ किसी और का होना पसंद है"
+                    "translation": "I prefer to have someone else with me / मुझे किसी और के साथ रहना पसंद है"
                 },
                 {
                     "id": "2",
-                    "translation": "I need occasional assistance from someone / मुझे कभी-कभी किसी की सहायता की आवश्यकता होती है"
+                    "translation": "I need occasional assistance from someone / मुझे कभी-कभी किसी की सहायता चाहिए"
                 },
                 {
                     "id": "1",
-                    "translation": "I need assistance much of the time / मुझे अधिकांश समय सहायता की आवश्यकता होती है"
+                    "translation": "I need assistance much of the time / मुझे अधिकांश समय सहायता चाहिए"
                 },
                 {
                     "id": "0",
@@ -198,23 +198,23 @@
             "enum": [
                 {
                     "id": "4",
-                    "translation": "I am never bored with my free time / मैं अपने खाली समय में कभी भी ऊब महसूस नहीं करता"
+                    "translation": "I am never bored with my free time / मैं कभी ऊबता नहीं"
                 },
                 {
                     "id": "3",
-                    "translation": "A little of my free time / अपने खाली समय के थोड़े से हिस्से में"
+                    "translation": "A little of my free time / थोड़े समय में ऊबता हूँ"
                 },
                 {
                     "id": "2",
-                    "translation": "Some of my free time / अपने खाली समय के कुछ हिस्से में"
+                    "translation": "Some of my free time / कुछ समय में ऊबता हूँ"
                 },
                 {
                     "id": "1",
-                    "translation": "Most of my free time / अपने खाली समय के अधिकांश हिस्से में"
+                    "translation": "Most of my free time / अधिकांश समय ऊबता हूँ"
                 },
                 {
                     "id": "0",
-                    "translation": "All of my free time / अपने पूरे खाली समय में"
+                    "translation": "All of my free time / हमेशा ऊबता हूँ"
                 }
             ]
         },
@@ -293,7 +293,7 @@
                 },
                 {
                     "id": "2",
-                    "translation": "At least once a fortnight / कम से कम दो हफ़्तों में एक बार"
+                    "translation": "At least once a fortnight / कम से कम पखवाड़े में एक बार"
                 },
                 {
                     "id": "1",
