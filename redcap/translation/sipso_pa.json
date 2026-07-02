@@ -162,23 +162,23 @@
             "enum": [
                 {
                     "id": "4",
-                    "translation": "Completely independent / ਮੈਂ ਪੂਰੀ ਤਰ੍ਹਾਂ ਸੁਤੰਤਰ ਹਾਂ"
+                    "translation": "I am completely independent / ਮੈਂ ਪੂਰੀ ਤਰ੍ਹਾਂ ਸੁਤੰਤਰ ਹਾਂ"
                 },
                 {
                     "id": "3",
-                    "translation": "Prefer to have someone with me / ਮੈਨੂੰ ਕਿਸੇ ਹੋਰ ਦੇ ਨਾਲ ਰਹਿਣਾ ਪਸੰਦ ਹੈ"
+                    "translation": "I prefer to have someone else with me / ਮੈਂ ਆਪਣੇ ਨਾਲ ਕਿਸੇ ਹੋਰ ਦੇ ਹੋਣ ਨੂੰ ਤਰਜੀਹ ਦਿੰਦਾ ਹਾਂ"
                 },
                 {
                     "id": "2",
-                    "translation": "Need some help / ਮੈਨੂੰ ਕਦੇ-ਕਦੇ ਕਿਸੇ ਦੀ ਮਦਦ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ"
+                    "translation": "I need occasional assistance from someone / ਮੈਨੂੰ ਕਦੇ-ਕਦੇ ਕਿਸੇ ਦੀ ਮਦਦ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ"
                 },
                 {
                     "id": "1",
-                    "translation": "Need help most of the time / ਮੈਨੂੰ ਜ਼ਿਆਦਾਤਰ ਸਮੇਂ ਮਦਦ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ"
+                    "translation": "I need assistance much of the time / ਮੈਨੂੰ ਜ਼ਿਆਦਾਤਰ ਸਮੇਂ ਮਦਦ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ"
                 },
                 {
                     "id": "0",
-                    "translation": "Completely dependent / ਮੈਂ ਪੂਰੀ ਤਰ੍ਹਾਂ ਹੋਰਾਂ 'ਤੇ ਨਿਰਭਰ ਹਾਂ"
+                    "translation": "I am completely dependent on others / ਮੈਂ ਪੂਰੀ ਤਰ੍ਹਾਂ ਹੋਰਾਂ 'ਤੇ ਨਿਰਭਰ ਹਾਂ"
                 }
             ]
         },
@@ -193,28 +193,28 @@
             "id": "sipso_6_bored",
             "form": "sipso_questionnaire",
             "label": {
-                "translation": "6. Since your stroke, how often do you feel bored with your free time at home? <br> 6. ਸਟ੍ਰੋਕ ਤੋਂ ਬਾਅਦ, ਘਰ ਵਿੱਚ ਖਾਲੀ ਸਮੇਂ ਵਿੱਚ ਤੁਹਾਨੂੰ ਕਿੰਨੀ ਵਾਰ ਉਬਾਸ਼ ਮਹਿਸੂਸ ਹੁੰਦੀ ਹੈ? (ਕਿਸੇ ਇੱਕ ਅੰਕ'ਤੇ ਘੇਰਾ ਲਗਾਓ)"
+                "translation": "6. Since your stroke, how often do you feel bored with your free time at home? <br> 6. ਸਟ੍ਰੋਕ ਤੋਂ ਬਾਅਦ, ਘਰ ਵਿੱਚ ਖਾਲੀ ਸਮੇਂ ਵਿੱਚ ਤੁਹਾਨੂੰ ਕਿੰਨੀ ਵਾਰ ਬੋਰ ਹੋਣਾ ਮਹਿਸੂਸ ਹੁੰਦਾ ਹੈ? (ਕਿਸੇ ਇੱਕ ਅੰਕ'ਤੇ ਘੇਰਾ ਲਗਾਓ)"
             },
             "enum": [
                 {
                     "id": "4",
-                    "translation": "Not at all / ਮੈਂ ਕਦੇ ਵੀ ਉਬਾਸ਼ ਮਹਿਸੂਸ ਨਹੀਂ ਕਰਦਾ"
+                    "translation": "I am never bored with my free time / ਮੈਂ ਆਪਣੇ ਖਾਲੀ ਸਮੇਂ ਵਿੱਚ ਕਦੇ ਵੀ ਬੋਰ ਮਹਿਸੂਸ ਨਹੀਂ ਕਰਦਾ"
                 },
                 {
                     "id": "3",
-                    "translation": "Slightly / ਥੋੜ੍ਹੇ ਸਮੇਂ ਵਿੱਚ ਉਬਾਸ਼ ਮਹਿਸੂਸ ਕਰਦਾ ਹਾਂ"
+                    "translation": "A little of my free time / ਆਪਣੇ ਖਾਲੀ ਸਮੇਂ ਦੇ ਥੋੜ੍ਹੇ ਜਿਹੇ ਹਿੱਸੇ ਵਿੱਚ"
                 },
                 {
                     "id": "2",
-                    "translation": "Moderately / ਕੁਝ ਸਮੇਂ ਵਿੱਚ ਉਬਾਸ਼ ਮਹਿਸੂਸ ਕਰਦਾ ਹਾਂ"
+                    "translation": "Some of my free time / ਆਪਣੇ ਖਾਲੀ ਸਮੇਂ ਦੇ ਕੁਝ ਹਿੱਸੇ ਵਿੱਚ"
                 },
                 {
                     "id": "1",
-                    "translation": "Greatly / ਜ਼ਿਆਦਾਤਰ ਸਮੇਂ ਵਿੱਚ ਉਬਾਸ਼ ਮਹਿਸੂਸ ਕਰਦਾ ਹਾਂ"
+                    "translation": "Most of my free time / ਆਪਣੇ ਖਾਲੀ ਸਮੇਂ ਦੇ ਬਹੁਤੇ ਹਿੱਸੇ ਵਿੱਚ"
                 },
                 {
                     "id": "0",
-                    "translation": "All the time / ਹਮੇਸ਼ਾਂ ਉਬਾਸ਼ ਮਹਿਸੂਸ ਕਰਦਾ ਹਾਂ"
+                    "translation": "All of my free time / ਆਪਣੇ ਸਾਰੇ ਖਾਲੀ ਸਮੇਂ ਵਿੱਚ"
                 }
             ]
         },
@@ -289,11 +289,11 @@
                 },
                 {
                     "id": "3",
-                    "translation": "At least once a week / ਘੱਟ-ਘੱਟ ਹਫਤੇ ਵਿੱਚ ਇੱਕ ਵਾਰ"
+                    "translation": "At least once a week / ਘੱਟੋ-ਘੱਟ ਹਫ਼ਤੇ ਵਿੱਚ ਇੱਕ ਵਾਰ"
                 },
                 {
                     "id": "2",
-                    "translation": "At least once a fortnight / ਘੱਟ-ਘੱਟ ਪੰਦਰਵਾੜੇ ਵਿੱਚ ਇੱਕ ਵਾਰ"
+                    "translation": "At least once a fortnight / ਘੱਟੋ-ਘੱਟ ਦੋ ਹਫ਼ਤਿਆਂ ਵਿੱਚ ਇੱਕ ਵਾਰ"
                 },
                 {
                     "id": "1",

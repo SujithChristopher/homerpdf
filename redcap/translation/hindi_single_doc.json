@@ -5171,27 +5171,27 @@
                 {
                     "id": 4,
                     "hash": "1b016c5b16",
-                    "translation": "Completely independent <br> मैं पूरी तरह स्वतंत्र हूँ"
+                    "translation": "I am completely independent <br> मैं पूरी तरह स्वतंत्र हूँ"
                 },
                 {
                     "id": 3,
                     "hash": "a8746b5915",
-                    "translation": "Prefer to have someone with me <br> मुझे किसी और के साथ रहना पसंद है"
+                    "translation": "I prefer to have someone else with me <br> मुझे अपने साथ किसी और का होना पसंद है"
                 },
                 {
                     "id": 2,
                     "hash": "3ba3c6ece8",
-                    "translation": "Need some help <br> मुझे कभी-कभी किसी की सहायता चाहिए"
+                    "translation": "I need occasional assistance from someone <br> मुझे कभी-कभी किसी की सहायता की आवश्यकता होती है"
                 },
                 {
                     "id": 1,
                     "hash": "50e13ea29d",
-                    "translation": "Need help most of the time <br> मुझे अधिकांश समय सहायता चाहिए"
+                    "translation": "I need assistance much of the time <br> मुझे अधिकांश समय सहायता की आवश्यकता होती है"
                 },
                 {
                     "id": 0,
                     "hash": "ab20c804a3",
-                    "translation": "Completely dependent <br> मैं पूरी तरह दूसरों पर निर्भर हूँ"
+                    "translation": "I am completely dependent on others <br> मैं पूरी तरह दूसरों पर निर्भर हूँ"
                 }
             ]
         },
@@ -5214,27 +5214,27 @@
                 {
                     "id": 4,
                     "hash": "fa47a55f7d",
-                    "translation": "Not at all <br> मैं कभी ऊबता नहीं"
+                    "translation": "I am never bored with my free time <br> मैं अपने खाली समय में कभी भी ऊब महसूस नहीं करता"
                 },
                 {
                     "id": 3,
                     "hash": "36e070bd9c",
-                    "translation": "Slightly <br> थोड़े समय में ऊबता हूँ"
+                    "translation": "A little of my free time <br> अपने खाली समय के थोड़े से हिस्से में"
                 },
                 {
                     "id": 2,
                     "hash": "c5bcf0a902",
-                    "translation": "Moderately <br> कुछ समय में ऊबता हूँ"
+                    "translation": "Some of my free time <br> अपने खाली समय के कुछ हिस्से में"
                 },
                 {
                     "id": 1,
                     "hash": "8e17fc2710",
-                    "translation": "Greatly <br> अधिकांश समय ऊबता हूँ"
+                    "translation": "Most of my free time <br> अपने खाली समय के अधिकांश हिस्से में"
                 },
                 {
                     "id": 0,
                     "hash": "a7a5055e3a",
-                    "translation": "All the time <br> हमेशा ऊबता हूँ"
+                    "translation": "All of my free time <br> अपने पूरे खाली समय में"
                 }
             ]
         },
@@ -5329,7 +5329,7 @@
                 {
                     "id": 2,
                     "hash": "b63e0f73a2",
-                    "translation": "At least once a fortnight <br> कम से कम पखवाड़े में एक बार"
+                    "translation": "At least once a fortnight <br> कम से कम दो हफ़्तों में एक बार"
                 },
                 {
                     "id": 1,
