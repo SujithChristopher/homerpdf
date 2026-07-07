@@ -55,9 +55,29 @@ def process_redcap_csvs(input_dir, output_file):
     for field in demo_fields:
         dict_row = dict(zip(standard_header, field))
         
+        # Apply mandatory logic to demographics
+        var_name = dict_row['Variable / Field Name']
+        f_type = dict_row['Field Type']
+        is_editable = f_type not in ('descriptive', 'calc')
+        is_comment_or_notes = (
+            f_type == 'notes' or 
+            var_name.endswith('_comm') or 
+            var_name.endswith('_comments') or 
+            var_name.endswith('_notes') or 
+            var_name.endswith('_comment') or
+            '_comm_' in var_name or
+            '_comment_' in var_name or
+            '_comments_' in var_name or
+            '_notes_' in var_name
+        )
+        is_record_id = var_name in ('record_id', 'screening_subject_id', 'subject_id')
+        
+        if is_editable and not is_comment_or_notes and not is_record_id:
+            dict_row['Required Field?'] = 'y'
+            
         # Apply locking to demographics too
         locking_tag = "@READONLY-IF([completed_assessment_complete] = '2')"
-        if dict_row['Variable / Field Name'] not in ('screening_subject_id', 'record_id'):
+        if var_name not in ('screening_subject_id', 'record_id'):
             if dict_row['Field Annotation']:
                 dict_row['Field Annotation'] = f"{dict_row['Field Annotation'].strip()} {locking_tag}"
             else:
@@ -161,7 +181,27 @@ def process_redcap_csvs(input_dir, output_file):
                     val_type = val_min = val_max = ""
 
                 ident = 'y' if ident.lower().strip() == 'y' else ""
-                req = 'y' if req.lower().strip() == 'y' else ""
+                
+                # Check if it should be mandatory
+                is_editable = f_type not in ('descriptive', 'calc')
+                is_comment_or_notes = (
+                    f_type == 'notes' or 
+                    cleaned_var.endswith('_comm') or 
+                    cleaned_var.endswith('_comments') or 
+                    cleaned_var.endswith('_notes') or 
+                    cleaned_var.endswith('_comment') or
+                    '_comm_' in cleaned_var or
+                    '_comment_' in cleaned_var or
+                    '_comments_' in cleaned_var or
+                    '_notes_' in cleaned_var
+                )
+                is_record_id = cleaned_var in ('record_id', 'screening_subject_id', 'subject_id')
+                
+                if is_editable and not is_comment_or_notes and not is_record_id:
+                    req = 'y'
+                else:
+                    req = 'y' if req.lower().strip() == 'y' else ""
+                    
                 rank = 'y' if rank.lower().strip() == 'y' else ""
                 
                 valid_alignments = ['LV', 'LH', 'RV', 'RH']

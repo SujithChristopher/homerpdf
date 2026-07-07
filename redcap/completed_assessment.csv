@@ -9,7 +9,6 @@ completion_status_summary,completed_assessment,Assessment Status Overview,descri
   <tr><td style='padding: 5px;'>MAL</td><td style='padding: 5px; text-align: center;'>[motor_activity_log_complete]</td></tr>
   <tr><td style='padding: 5px;'>CSI</td><td style='padding: 5px; text-align: center;'>[caregiver_strain_index_complete]</td></tr>
   <tr><td style='padding: 5px;'>PHQ-9</td><td style='padding: 5px; text-align: center;'>[patient_health_questionnaire_phq9_complete]</td></tr>
-  <tr><td style='padding: 5px;'>FSS</td><td style='padding: 5px; text-align: center;'>[fatigue_severity_scale_complete]</td></tr>
   <tr><td style='padding: 5px;'>SIPSO</td><td style='padding: 5px; text-align: center;'>[sipso_questionnaire_complete]</td></tr>
   <tr><td style='padding: 5px;'>mRS</td><td style='padding: 5px; text-align: center;'>[modified_rankin_scale_complete]</td></tr>
   <tr><td style='padding: 5px;'>MAS</td><td style='padding: 5px; text-align: center;'>[modified_ashworth_scale_complete]</td></tr>
