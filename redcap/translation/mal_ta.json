@@ -34,7 +34,7 @@
                 "translation": "SCORING SCALES"
             },
             "label": {
-                "translation": "<div style=\"background-color: #fcfcfc; border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; margin-bottom: 10px; font-family: sans-serif;\">\n  <span style=\"font-size: 1.1em; color: #1e3d59; font-weight: bold; border-bottom: 2px solid #ffc13b; padding-bottom: 2px;\">Amount Scale (AS)<br> அளவு அளவுகோல் (AS):</span>\n  <div style=\"margin-top: 10px; line-height: 1.5;\">\n    <b>0</b> &mdash; என் பலவீனமான கையை பயன்படுத்தவில்லை (பயன்படுத்தப்படவில்லை).<br>\n    <span style=\"color: #888;\"><b>0.5</b> &mdash; (Halfway score)</span><br>\n    <b>1</b> &mdash; எப்போதாவது என் பலவீனமான கையை பயன்படுத்தினேன், ஆனால் மிகவும் அரிதாக மட்டுமே (மிகவும் அரிதாக).<br>\n    <span style=\"color: #888;\"><b>1.5</b> &mdash; (Halfway score)</span><br>\n    <b>2</b> &mdash; சில நேரங்களில் என் பலவீனமான கையை பயன்படுத்தினேன், ஆனால் எனது வலிமையான கையால் செயல்பாடுகளை அதிக நேரம் செய்தேன் (அரிதாக).<br>\n    <span style=\"color: #888;\"><b>2.5</b> &mdash; (Halfway score)</span><br>\n    <b>3</b> &mdash; பக்கவாதத்திற்கு முன்பை விட பாதி அளவு என் பலவீனமான கையை பயன்படுத்தினேன் (பக்கவாதத்திற்கு முன்பு பாதி).<br>\n    <span style=\"color: #888;\"><b>3.5</b> &mdash; (Halfway score)</span><br>\n    <b>4</b> &mdash; பக்கவாதத்திற்கு முன்பை விட கிட்டத்தட்ட அதே அளவில் என் பலவீனமான கையை பயன்படுத்தினேன் (¾ பக்கவாதத்திற்கு முன்பு).<br>\n    <span style=\"color: #888;\"><b>4.5</b> &mdash; (Halfway score)</span><br>\n    <b>5</b> &mdash; பக்கவாதத்திற்கு முன்பை போலவே என் பலவீனமான கையை பயன்படுத்தினேன் (பக்கவாதத்திற்கு முன்பை போல்).\n  </div>\n</div>",
+                "translation": "<div style=\"background-color: #fcfcfc; border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; margin-bottom: 10px; font-family: sans-serif;\">\n  <span style=\"font-size: 1.1em; color: #1e3d59; font-weight: bold; border-bottom: 2px solid #ffc13b; padding-bottom: 2px;\">MOTOR ACTIVITY LOG (MAL) - SCORING SCALES<br>Amount Scale (AS)</span>\n  <div style=\"margin-top: 10px; line-height: 1.5;\">\n    <b>0</b> &mdash; Did not use my weaker arm (not used)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">என் பலவீனமான கையை பயன்படுத்தவில்லை (பயன்படுத்தப்படவில்லை).</span><br>\n    <span style=\"color: #888;\"><b>0.5</b> &mdash; (Halfway score)</span><br>\n    <b>1</b> &mdash; Occasionally used my weaker arm, but only very rarely (very rarely)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">எப்போதாவது என் பலவீனமான கையை பயன்படுத்தினேன், ஆனால் மிகவும் அரிதாக மட்டுமே (மிகவும் அரிதாக).</span><br>\n    <span style=\"color: #888;\"><b>1.5</b> &mdash; (Halfway score)</span><br>\n    <b>2</b> &mdash; Sometimes used my weaker arm but did the activity most of the time with my stronger arm (rarely)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">சில நேரங்களில் என் பலவீனமான கையை பயன்படுத்தினேன், ஆனால் எனது வலிமையான கையால் செயல்பாடுகளை அதிக நேரம் செய்தேன் (அரிதாக).</span><br>\n    <span style=\"color: #888;\"><b>2.5</b> &mdash; (Halfway score)</span><br>\n    <b>3</b> &mdash; Used my weaker arm about half as much as before the stroke (half pre-stroke)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">பக்கவாதத்திற்கு முன்பை விட பாதி அளவு என் பலவீனமான கையை பயன்படுத்தினேன் (பக்கவாதத்திற்கு முன்பு பாதி).</span><br>\n    <span style=\"color: #888;\"><b>3.5</b> &mdash; (Halfway score)</span><br>\n    <b>4</b> &mdash; Used my weaker arm almost as much as before the stroke (3/4 pre-stroke)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">பக்கவாதத்திற்கு முன்பை விட கிட்டத்தட்ட அதே அளவில் என் பலவீனமான கையை பயன்படுத்தினேன் (¾ பக்கவாதத்திற்கு முன்பு).</span><br>\n    <span style=\"color: #888;\"><b>4.5</b> &mdash; (Halfway score)</span><br>\n    <b>5</b> &mdash; Used my weaker arm as often as before the stroke (same as pre-stroke)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">பக்கவாதத்திற்கு முன்பை போலவே என் பலவீனமான கையை பயன்படுத்தினேன் (பக்கவாதத்திற்கு முன்பை போல்).</span>\n  </div>\n</div>",
                 "hash": "ada3d8eeef"
             }
         },
@@ -42,7 +42,7 @@
             "id": "mal_scoring_hw",
             "form": "motor_activity_log",
             "label": {
-                "translation": "<div style=\"background-color: #fcfcfc; border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; margin-bottom: 10px; font-family: sans-serif;\">\n  <span style=\"font-size: 1.1em; color: #1e3d59; font-weight: bold; border-bottom: 2px solid #ffc13b; padding-bottom: 2px;\">How Well Scale (HW)<br> எவ்வளவு நன்றாக அளவுகோல் (HW):</span>\n  <div style=\"margin-top: 10px; line-height: 1.5;\">\n    <b>0</b> &mdash; அந்த செயலுக்கு பலவீனமான கை அறவே பயன்படுத்தப்படவில்லை (பயன்படுத்தவில்லை).<br>\n    <span style=\"color: #888;\"><b>0.5</b> &mdash; (Halfway score)</span><br>\n    <b>1</b> &mdash; அந்த செயலின் போது பலவீனமான கை நகர்த்தப்பட்டது ஆனால் உதவியாக இல்லை (மிகவும் மோசம்).<br>\n    <span style=\"color: #888;\"><b>1.5</b> &mdash; (Halfway score)</span><br>\n    <b>2</b> &mdash; அந்த செயலின் போது பலவீனமான கை சிறிது உதவியது ஆனால் வலிமையான கையின் உதவி தேவைப்பட்டது அல்லது மிகவும் மெதுவாக அல்லது சிரமத்துடன் அசைந்தது (மோசம்).<br>\n    <span style=\"color: #888;\"><b>2.5</b> &mdash; (Halfway score)</span><br>\n    <b>3</b> &mdash; பலவீனமான கை குறிப்பிட்ட நோக்கத்திற்காக பயன்படுத்தப்பட்டது ஆனால் அசைவுகள் மெதுவாக அல்லது சிறிது முயற்சியுடன் மட்டுமே செய்யப்பட்டன (சராசரி).<br>\n    <span style=\"color: #888;\"><b>3.5</b> &mdash; (Halfway score)</span><br>\n    <b>4</b> &mdash; பலவீனமான கையின் அசைவுகள் கிட்டத்தட்ட இயல்பாக இருந்தன ஆனால் சாதாரணத்தை விட சற்று மெதுவாக அல்லது துல்லியமற்றதாக இருந்தன (கிட்டத்தட்ட இயல்பு).<br>\n    <span style=\"color: #888;\"><b>4.5</b> &mdash; (Halfway score)</span><br>\n    <b>5</b> &mdash; அந்த செயலுக்கு பலவீனமான கையை பயன்படுத்தும் திறன் பக்கவாதத்திற்கு முன்பை போலவே இருந்தது (இயல்பானது).\n  </div>\n</div>",
+                "translation": "<div style=\"background-color: #fcfcfc; border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; margin-bottom: 10px; font-family: sans-serif;\">\n  <span style=\"font-size: 1.1em; color: #1e3d59; font-weight: bold; border-bottom: 2px solid #ffc13b; padding-bottom: 2px;\">How Well Scale (HW)</span>\n  <div style=\"margin-top: 10px; line-height: 1.5;\">\n    <b>0</b> &mdash; The weaker arm was not used at all for that activity (never)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">அந்த செயலுக்கு பலவீனமான கை அறவே பயன்படுத்தப்படவில்லை (பயன்படுத்தவில்லை).</span><br>\n    <span style=\"color: #888;\"><b>0.5</b> &mdash; (Halfway score)</span><br>\n    <b>1</b> &mdash; The weaker arm was moved during that activity but was not helpful (very poor)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">அந்த செயலின் போது பலவீனமான கை நகர்த்தப்பட்டது ஆனால் உதவியாக இல்லை (மிகவும் மோசம்).</span><br>\n    <span style=\"color: #888;\"><b>1.5</b> &mdash; (Halfway score)</span><br>\n    <b>2</b> &mdash; The weaker arm was of some use during that activity but needed some help from the stronger arm or moved very slowly or with difficulty (poor)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">அந்த செயலின் போது பலவீனமான கை சிறிது உதவியது ஆனால் வலிமையான கையின் உதவி தேவைப்பட்டது அல்லது மிகவும் மெதுவாக அல்லது சிரமத்துடன் அசைந்தது (மோசம்).</span><br>\n    <span style=\"color: #888;\"><b>2.5</b> &mdash; (Halfway score)</span><br>\n    <b>3</b> &mdash; The weaker arm was used for the purpose indicated but movements were slow or were made with only some effort (fair)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">பலவீனமான கை குறிப்பிட்ட நோக்கத்திற்காக பயன்படுத்தப்பட்டது ஆனால் அசைவுகள் மெதுவாக அல்லது சிறிது முயற்சியுடன் மட்டுமே செய்யப்பட்டன (சராசரி).</span><br>\n    <span style=\"color: #888;\"><b>3.5</b> &mdash; (Halfway score)</span><br>\n    <b>4</b> &mdash; The movements made by the weaker arm were almost normal, but were not quite as fast or accurate as normal (almost normal)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">பலவீனமான கையின் அசைவுகள் கிட்டத்தட்ட இயல்பாக இருந்தன ஆனால் சாதாரணத்தை விட சற்று மெதுவாக அல்லது துல்லியமற்றதாக இருந்தன (கிட்டத்தட்ட இயல்பு).</span><br>\n    <span style=\"color: #888;\"><b>4.5</b> &mdash; (Halfway score)</span><br>\n    <b>5</b> &mdash; The ability to use the weaker arm for that activity was as good as before the stroke (normal)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">அந்த செயலுக்கு பலவீனமான கையை பயன்படுத்தும் திறன் பக்கவாதத்திற்கு முன்பை போலவே இருந்தது (இயல்பானது).</span>\n  </div>\n</div>",
                 "hash": "95bed7cc83"
             }
         },
@@ -50,7 +50,7 @@
             "id": "mal_why_codes",
             "form": "motor_activity_log",
             "label": {
-                "translation": "<div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 6px; padding: 12px; font-family: sans-serif;\">\n  <span style=\"font-size: 1.1em; color: #b22222; font-weight: bold; border-bottom: 2px solid #f4a261; padding-bottom: 2px;\">Codes for recording “no” responses<br> ‘இல்லை’ என்ற பதில்களை பதிவு செய்வதற்கான குறியீடுகள்:</span>\n  <div style=\"margin-top: 10px; line-height: 1.5;\">\n    <b>1.</b> “நான் பாதிக்கப்படாத கையை மட்டுமே முழுமையாக பயன்படுத்தினேன்.” (“0” எனக் குறிக்கவும்)<br>\n    <b>2.</b> “வேறொருவர் அதை எனக்காக செய்தார்.” (“0” எனக் குறிக்கவும்)<br>\n    <b>3.</b> “அந்த செயல்பாட்டை நான் ஒருபோதும் செய்யவில்லை; மற்றொருவரின் உதவியுடன் கூட செய்ய முடியாததால் செய்யவில்லை.” ( “N/A” எனக் குறிக்கவும்)<br>\n    <b>4.</b> “நான் சில நேரங்களில் அந்த செயல்பாட்டை செய்வேன்; ஆனால் கடந்த முறை இந்தக் கேள்விகளுக்கு பதிலளித்ததிலிருந்து அதைச் செய்யும் வாய்ப்பு கிடைக்கவில்லை.” (கடைசியாக வழங்கப்பட்ட எண்ணையே தொடரவும்)<br>\n    <b>5.</b> “ஆதிக்கம் இல்லாத கையில் ஹெமிபரேசிஸ்.” (“N/A” எனக் குறிக்கவும்)\n  </div>\n</div>",
+                "translation": "<div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 6px; padding: 12px; font-family: sans-serif;\">\n  <span style=\"font-size: 1.1em; color: #b22222; font-weight: bold; border-bottom: 2px solid #f4a261; padding-bottom: 2px;\">Codes for recording \"no\" responses</span>\n  <div style=\"margin-top: 10px; line-height: 1.5;\">\n    <b>1.</b> “I used the unaffected arm entirely.” (assign 0)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">“நான் பாதிக்கப்படாத கையை மட்டுமே முழுமையாக பயன்படுத்தினேன்.” (“0” எனக் குறிக்கவும்)</span><br>\n    <b>2.</b> “Someone else did it for me.” (assign 0)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">“வேறொருவர் அதை எனக்காக செய்தார்.” (“0” எனக் குறிக்கவும்)</span><br>\n    <b>3.</b> “I never do that activity... impossible (e.g. bald)” (assign N/A and drop from list)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">“அந்த செயல்பாட்டை நான் ஒருபோதும் செய்யவில்லை; மற்றொருவரின் உதவியுடன் கூட செய்ய முடியாததால் செய்யவில்லை.” ( “N/A” எனக் குறிக்கவும்)</span><br>\n    <b>4.</b> “Opportunity not present since last time” (carry-over last assigned number)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">“நான் சில நேரங்களில் அந்த செயல்பாட்டை செய்வேன்; ஆனால் கடந்த முறை இந்தக் கேள்விகளுக்கு பதிலளித்ததிலிருந்து அதைச் செய்யும் வாய்ப்பு கிடைக்கவில்லை.” (கடைசியாக வழங்கப்பட்ட எண்ணையே தொடரவும்)</span><br>\n    <b>5.</b> Non-dominant hand hemiparesis (applicable to #24; assign N/A)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">“ஆதிக்கம் இல்லாத கையில் ஹெமிபரேசிஸ்.” (“N/A” எனக் குறிக்கவும்)</span>\n  </div>\n</div>",
                 "hash": "e62989740b"
             }
         },
@@ -69,21 +69,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 1"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_1",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 1"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_1",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 1"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_1",
@@ -97,21 +238,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 2"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_2",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 2"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_2",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 2"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_2",
@@ -125,21 +407,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 3"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_3",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 3"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_3",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 3"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_3",
@@ -153,21 +576,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 4"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_4",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 4"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_4",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 4"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_4",
@@ -181,21 +745,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 5"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_5",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 5"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_5",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 5"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_5",
@@ -219,21 +924,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 6"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_6",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 6"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_6",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 6"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_6",
@@ -247,21 +1093,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 7"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_7",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 7"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_7",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 7"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_7",
@@ -275,21 +1262,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 8"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_8",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 8"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_8",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 8"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_8",
@@ -303,21 +1431,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 9"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_9",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 9"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_9",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 9"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_9",
@@ -331,21 +1600,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 10"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_10",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 10"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_10",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 10"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_10",
@@ -369,21 +1779,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 11"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_11",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 11"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_11",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 11"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_11",
@@ -397,21 +1948,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 12"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_12",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 12"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_12",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 12"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_12",
@@ -425,21 +2117,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 13"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_13",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 13"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_13",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 13"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_13",
@@ -453,21 +2286,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 14"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_14",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 14"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_14",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 14"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_14",
@@ -481,21 +2455,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 15"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_15",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 15"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_15",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 15"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_15",
@@ -519,21 +2634,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 16"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_16",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 16"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_16",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 16"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_16",
@@ -547,21 +2803,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 17"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_17",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 17"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_17",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 17"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_17",
@@ -575,21 +2972,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 18"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_18",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 18"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_18",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 18"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_18",
@@ -603,21 +3141,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 19"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_19",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 19"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_19",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 19"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_19",
@@ -631,21 +3310,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 20"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_20",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 20"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_20",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 20"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_20",
@@ -669,21 +3489,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 21"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_21",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 21"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_21",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 21"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_21",
@@ -697,21 +3658,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 22"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_22",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 22"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_22",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 22"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_22",
@@ -725,21 +3827,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 23"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_23",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 23"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_23",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 23"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_23",
@@ -753,21 +3996,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 24"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_24",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 24"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_24",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 24"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_24",
@@ -781,21 +4165,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 25"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_25",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 25"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_25",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 25"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_25",
@@ -819,21 +4344,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 26"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_26",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 26"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_26",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 26"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_26",
@@ -847,21 +4513,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 27"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_27",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 27"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_27",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 27"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_27",
@@ -875,21 +4682,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 28"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_28",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 28"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_28",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 28"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_28",
@@ -903,21 +4851,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 29"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_29",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 29"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_29",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 29"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_29",
@@ -931,21 +5020,162 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 30"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_30",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 30"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_30",
             "form": "motor_activity_log",
             "label": {
                 "translation": "Why 30"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_30",

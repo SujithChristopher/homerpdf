@@ -6902,7 +6902,7 @@
             },
             "label": {
                 "hash": "ada3d8eeef",
-                "translation": "<div style=\"background-color: #fcfcfc; border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; margin-bottom: 10px; font-family: sans-serif;\">\n  <span style=\"font-size: 1.1em; color: #1e3d59; font-weight: bold; border-bottom: 2px solid #ffc13b; padding-bottom: 2px;\"><span style=\"font-size: 1.1em; color: #1e3d59; font-weight: bold; border-bottom: 2px solid #ffc13b; padding-bottom: 2px;\"><b>Amount Scale (AS)<br> ಪ್ರಮಾಣ ಮಾಪಕ (AS)</b>:</span></span>\n  <div style=\"margin-top: 10px; line-height: 1.5;\">\n    <b>0</b> &mdash; ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ) .5 <span style=\"color: #888;\">0.5 - </span><br>\n    <span style=\"color: #888;\"><b>0.5</b> &mdash; (Halfway score)</span><br>\n    <b>1</b> &mdash; 5 <span style=\"color: #888;\">1.5 - </span><br>\n    <span style=\"color: #888;\"><b>1.5</b> &mdash; (Halfway score)</span><br>\n    <b>2</b> &mdash; 5 <span style=\"color: #888;\">2.5 - </span><br>\n    <span style=\"color: #888;\"><b>2.5</b> &mdash; (Halfway score)</span><br>\n    <b>3</b> &mdash; 5 <span style=\"color: #888;\">3.5 - </span><br>\n    <span style=\"color: #888;\"><b>3.5</b> &mdash; (Halfway score)</span><br>\n    <b>4</b> &mdash; 5 <span style=\"color: #888;\">4.5 - </span><br>\n    <span style=\"color: #888;\"><b>4.5</b> &mdash; (Halfway score)</span><br>\n    <b>5</b> &mdash; ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ\n  </div>\n</div>"
+                "translation": "<div style=\"background-color: #fcfcfc; border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; margin-bottom: 10px; font-family: sans-serif;\">\n  <span style=\"font-size: 1.1em; color: #1e3d59; font-weight: bold; border-bottom: 2px solid #ffc13b; padding-bottom: 2px;\">MOTOR ACTIVITY LOG (MAL) - SCORING SCALES<br>Amount Scale (AS)<br>ಪ್ರಮಾಣ ಮಾಪಕ (AS)</b>:</span>\n  <div style=\"margin-top: 10px; line-height: 1.5;\">\n    <b>0</b> &mdash; Did not use my weaker arm (not used)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಉಪಯೋಗಿಸಲಿಲ್ಲ (ಬಳಸಲಿಲ್ಲ) .5</span><br>\n    <span style=\"color: #888;\"><b>0.5</b> &mdash; (Halfway score)</span><br>\n    <b>1</b> &mdash; Occasionally used my weaker arm, but only very rarely (very rarely)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">5</span><br>\n    <span style=\"color: #888;\"><b>1.5</b> &mdash; (Halfway score)</span><br>\n    <b>2</b> &mdash; Sometimes used my weaker arm but did the activity most of the time with my stronger arm (rarely)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">5</span><br>\n    <span style=\"color: #888;\"><b>2.5</b> &mdash; (Halfway score)</span><br>\n    <b>3</b> &mdash; Used my weaker arm about half as much as before the stroke (half pre-stroke)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">5</span><br>\n    <span style=\"color: #888;\"><b>3.5</b> &mdash; (Halfway score)</span><br>\n    <b>4</b> &mdash; Used my weaker arm almost as much as before the stroke (3/4 pre-stroke)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">5</span><br>\n    <span style=\"color: #888;\"><b>4.5</b> &mdash; (Halfway score)</span><br>\n    <b>5</b> &mdash; Used my weaker arm as often as before the stroke (same as pre-stroke)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಬಳಸಿದಷ್ಟೇ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಬಳಸುತ್ತೇನೆ</span>\n  </div>\n</div>"
             }
         },
         {
@@ -6910,7 +6910,7 @@
             "form": "motor_activity_log",
             "label": {
                 "hash": "95bed7cc83",
-                "translation": "<div style=\"background-color: #fcfcfc; border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; margin-bottom: 10px; font-family: sans-serif;\">\n  <span style=\"font-size: 1.1em; color: #1e3d59; font-weight: bold; border-bottom: 2px solid #ffc13b; padding-bottom: 2px;\"><span style=\"font-size: 1.1em; color: #1e3d59; font-weight: bold; border-bottom: 2px solid #ffc13b; padding-bottom: 2px;\"><b>How Well Scale (HW)<br> ಎಷ್ಟು ಚೆನ್ನಾಗಿ ಮಾಪಕ (HW)</b>:</span></span>\n  <div style=\"margin-top: 10px; line-height: 1.5;\">\n    <b>0</b> &mdash; ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ) .5 <span style=\"color: #888;\">0.5 - </span><br>\n    <span style=\"color: #888;\"><b>0.5</b> &mdash; (Halfway score)</span><br>\n    <b>1</b> &mdash; 5 <span style=\"color: #888;\">1.5 - </span><br>\n    <span style=\"color: #888;\"><b>1.5</b> &mdash; (Halfway score)</span><br>\n    <b>2</b> &mdash; 5 <span style=\"color: #888;\">2.5 - </span><br>\n    <span style=\"color: #888;\"><b>2.5</b> &mdash; (Halfway score)</span><br>\n    <b>3</b> &mdash; 5 <span style=\"color: #888;\">3.5 - </span><br>\n    <span style=\"color: #888;\"><b>3.5</b> &mdash; (Halfway score)</span><br>\n    <b>4</b> &mdash; 5 <span style=\"color: #888;\">4.5 - </span><br>\n    <span style=\"color: #888;\"><b>4.5</b> &mdash; (Halfway score)</span><br>\n    <b>5</b> &mdash; ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)\n  </div>\n</div>"
+                "translation": "<div style=\"background-color: #fcfcfc; border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; margin-bottom: 10px; font-family: sans-serif;\">\n  <span style=\"font-size: 1.1em; color: #1e3d59; font-weight: bold; border-bottom: 2px solid #ffc13b; padding-bottom: 2px;\">How Well Scale (HW)<br>ಎಷ್ಟು ಚೆನ್ನಾಗಿ ಮಾಪಕ (HW)</b>:</span>\n  <div style=\"margin-top: 10px; line-height: 1.5;\">\n    <b>0</b> &mdash; The weaker arm was not used at all for that activity (never)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲಾಗಲಿಲ್ಲ (ಎಂದಿಗೂ ಇಲ್ಲ) .5</span><br>\n    <span style=\"color: #888;\"><b>0.5</b> &mdash; (Halfway score)</span><br>\n    <b>1</b> &mdash; The weaker arm was moved during that activity but was not helpful (very poor)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">5</span><br>\n    <span style=\"color: #888;\"><b>1.5</b> &mdash; (Halfway score)</span><br>\n    <b>2</b> &mdash; The weaker arm was of some use during that activity but needed some help from the stronger arm or moved very slowly or with difficulty (poor)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">5</span><br>\n    <span style=\"color: #888;\"><b>2.5</b> &mdash; (Halfway score)</span><br>\n    <b>3</b> &mdash; The weaker arm was used for the purpose indicated but movements were slow or were made with only some effort (fair)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">5</span><br>\n    <span style=\"color: #888;\"><b>3.5</b> &mdash; (Halfway score)</span><br>\n    <b>4</b> &mdash; The movements made by the weaker arm were almost normal, but were not quite as fast or accurate as normal (almost normal)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">5</span><br>\n    <span style=\"color: #888;\"><b>4.5</b> &mdash; (Halfway score)</span><br>\n    <b>5</b> &mdash; The ability to use the weaker arm for that activity was as good as before the stroke (normal)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">ಆ ಚಟುವಟಿಕೆಗೆ ದುರ್ಬಲವಾದ ಕೈ ಬಳಸುವ ಸಾಮರ್ಥ್ಯ ಪಾರ್ಶ್ವವಾಯು ಆಗುವುದಕ್ಕೂ ಮೊದಲು ಇದ್ದ ಮಟ್ಟದಂತೆಯೇ ಇತ್ತು (ಸಾಮಾನ್ಯವಾಗಿ)</span>\n  </div>\n</div>"
             }
         },
         {
@@ -6918,7 +6918,7 @@
             "form": "motor_activity_log",
             "label": {
                 "hash": "e62989740b",
-                "translation": "<div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 6px; padding: 12px; font-family: sans-serif;\">\n  <span style=\"font-size: 1.1em; color: #b22222; font-weight: bold; border-bottom: 2px solid #f4a261; padding-bottom: 2px;\"><span style=\"font-size: 1.1em; color: #b22222; font-weight: bold; border-bottom: 2px solid #f4a261; padding-bottom: 2px;\"><b>Codes for recording \"no\" responses<br> \"ಇಲ್ಲ\" ಎಂಬ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ದಾಖಲಿಸಲು ಕೋಡ್‌ಗಳು</b>:</span></span>\n  <div style=\"margin-top: 10px; line-height: 1.5;\">\n    <b>1.</b> \"ನಾನು ಪಾರ್ಶ್ವವಾಯು ಬಾಧಿಸದ ಕೈಯನ್ನು ಮಾತ್ರ ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಿದೆ.\" (\"0\" ಎಂದು ಗುರುತಿಸಿ)<br>\n    <b>2.</b> \"ಬೇರೆಯವರು ಅದನ್ನು ನನಗಾಗಿ ಮಾಡಿದರು.\" (\"0\" ಎಂದು ಗುರುತಿಸಿ)<br>\n    <b>3.</b> \"ನಾನು ಆ ಚಟುವಟಿಕೆಯನ್ನು ಎಂದಿಗೂ ಮಾಡುವುದಿಲ್ಲ... ಅಸಾಧ್ಯ (ಉದಾ. ಬೋಳು ತಲೆ)\" (\"N/A\" ಎಂದು ಗುರುತಿಸಿ ಮತ್ತು ಪಟ್ಟಿಯಿಂದ ಕೈಬಿಡಿ)<br>\n    <b>4.</b> \"ಕಳೆದ ಬಾರಿಯಿಂದ ಆ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು ಅವಕಾಶ ಸಿಗಲಿಲ್ಲ\" (ಕಳೆದ ಬಾರಿ ನೀಡಿದ ಅಂಕಗಳನ್ನೇ ಮುಂದುವರಿಸಿ)<br>\n    <b>5.</b> ಪ್ರಭಾವಶಾಲಿಯಲ್ಲದ ಕೈ ಪಾರ್ಶ್ವವಾಯುಗೆ ಒಳಗಾಗಿದ್ದರೆ (#24 ಕ್ಕೆ ಅನ್ವಯಿಸುತ್ತದೆ; \"N/A\" ಎಂದು ಗುರುತಿಸಿ)\n  </div>\n</div>"
+                "translation": "<div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 6px; padding: 12px; font-family: sans-serif;\">\n  <span style=\"font-size: 1.1em; color: #b22222; font-weight: bold; border-bottom: 2px solid #f4a261; padding-bottom: 2px;\">Codes for recording \"no\" responses<br>\"ಇಲ್ಲ\" ಎಂಬ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ದಾಖಲಿಸಲು ಕೋಡ್‌ಗಳು</b>:</span>\n  <div style=\"margin-top: 10px; line-height: 1.5;\">\n    <b>1.</b> “I used the unaffected arm entirely.” (assign 0)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">\"ನಾನು ಪಾರ್ಶ್ವವಾಯು ಬಾಧಿಸದ ಕೈಯನ್ನು ಮಾತ್ರ ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಿದೆ.\" (\"0\" ಎಂದು ಗುರುತಿಸಿ)</span><br>\n    <b>2.</b> “Someone else did it for me.” (assign 0)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">\"ಬೇರೆಯವರು ಅದನ್ನು ನನಗಾಗಿ ಮಾಡಿದರು.\" (\"0\" ಎಂದು ಗುರುತಿಸಿ)</span><br>\n    <b>3.</b> “I never do that activity... impossible (e.g. bald)” (assign N/A and drop from list)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">\"ನಾನು ಆ ಚಟುವಟಿಕೆಯನ್ನು ಎಂದಿಗೂ ಮಾಡುವುದಿಲ್ಲ... ಅಸಾಧ್ಯ (ಉದಾ. ಬೋಳು ತಲೆ)\" (\"N/A\" ಎಂದು ಗುರುತಿಸಿ ಮತ್ತು ಪಟ್ಟಿಯಿಂದ ಕೈಬಿಡಿ)</span><br>\n    <b>4.</b> “Opportunity not present since last time” (carry-over last assigned number)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">\"ಕಳೆದ ಬಾರಿಯಿಂದ ಆ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು ಅವಕಾಶ ಸಿಗಲಿಲ್ಲ\" (ಕಳೆದ ಬಾರಿ ನೀಡಿದ ಅಂಕಗಳನ್ನೇ ಮುಂದುವರಿಸಿ)</span><br>\n    <b>5.</b> Non-dominant hand hemiparesis (applicable to #24; assign N/A)<br>\n    <span style=\"color: #555; font-size: 0.9em; padding-left: 20px; display: inline-block;\">ಪ್ರಭಾವಶಾಲಿಯಲ್ಲದ ಕೈ ಪಾರ್ಶ್ವವಾಯುಗೆ ಒಳಗಾಗಿದ್ದರೆ (#24 ಕ್ಕೆ ಅನ್ವಯಿಸುತ್ತದೆ; \"N/A\" ಎಂದು ಗುರುತಿಸಿ)</span>\n  </div>\n</div>"
             }
         },
         {
@@ -6939,7 +6939,64 @@
             "label": {
                 "hash": "4b37f27c7c",
                 "translation": "AS 1"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_1",
@@ -6947,7 +7004,64 @@
             "label": {
                 "hash": "4b320928cc",
                 "translation": "HW 1"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_1",
@@ -6955,7 +7069,34 @@
             "label": {
                 "hash": "e39aacf451",
                 "translation": "Why 1"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_1",
@@ -6971,7 +7112,64 @@
             "label": {
                 "hash": "261c9be4e3",
                 "translation": "AS 2"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_2",
@@ -6979,7 +7177,64 @@
             "label": {
                 "hash": "9df475dbaf",
                 "translation": "HW 2"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_2",
@@ -6987,7 +7242,34 @@
             "label": {
                 "hash": "5acf4b24e3",
                 "translation": "Why 2"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_2",
@@ -7003,7 +7285,64 @@
             "label": {
                 "hash": "ef76a03f54",
                 "translation": "AS 3"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_3",
@@ -7011,7 +7350,64 @@
             "label": {
                 "hash": "326b5ce0de",
                 "translation": "HW 3"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_3",
@@ -7019,7 +7415,34 @@
             "label": {
                 "hash": "ecd5b50095",
                 "translation": "Why 3"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_3",
@@ -7035,7 +7458,64 @@
             "label": {
                 "hash": "41937f6e39",
                 "translation": "AS 4"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_4",
@@ -7043,7 +7523,64 @@
             "label": {
                 "hash": "e087ae50c8",
                 "translation": "HW 4"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_4",
@@ -7051,7 +7588,34 @@
             "label": {
                 "hash": "c2fc17ee64",
                 "translation": "Why 4"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_4",
@@ -7067,7 +7631,64 @@
             "label": {
                 "hash": "d356120b1f",
                 "translation": "AS 5"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_5",
@@ -7075,7 +7696,64 @@
             "label": {
                 "hash": "cc20a66642",
                 "translation": "HW 5"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_5",
@@ -7083,7 +7761,34 @@
             "label": {
                 "hash": "c9adcef2d4",
                 "translation": "Why 5"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_5",
@@ -7111,7 +7816,64 @@
             "label": {
                 "hash": "bd743fbec6",
                 "translation": "AS 6"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_6",
@@ -7119,7 +7881,64 @@
             "label": {
                 "hash": "debfdf8602",
                 "translation": "HW 6"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_6",
@@ -7127,7 +7946,34 @@
             "label": {
                 "hash": "dc5698cf82",
                 "translation": "Why 6"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_6",
@@ -7143,7 +7989,64 @@
             "label": {
                 "hash": "7412268f7d",
                 "translation": "AS 7"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_7",
@@ -7151,7 +8054,64 @@
             "label": {
                 "hash": "3efcd3eed2",
                 "translation": "HW 7"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_7",
@@ -7159,7 +8119,34 @@
             "label": {
                 "hash": "a743271a60",
                 "translation": "Why 7"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_7",
@@ -7175,7 +8162,64 @@
             "label": {
                 "hash": "eac4d727ed",
                 "translation": "AS 8"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_8",
@@ -7183,7 +8227,64 @@
             "label": {
                 "hash": "adc7ad3b70",
                 "translation": "HW 8"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_8",
@@ -7191,7 +8292,34 @@
             "label": {
                 "hash": "8226a56867",
                 "translation": "Why 8"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_8",
@@ -7207,7 +8335,64 @@
             "label": {
                 "hash": "7c5dd97d6e",
                 "translation": "AS 9"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_9",
@@ -7215,7 +8400,64 @@
             "label": {
                 "hash": "973c335ea6",
                 "translation": "HW 9"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_9",
@@ -7223,7 +8465,34 @@
             "label": {
                 "hash": "914ba958a2",
                 "translation": "Why 9"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_9",
@@ -7239,7 +8508,64 @@
             "label": {
                 "hash": "cf06feef3d",
                 "translation": "AS 10"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_10",
@@ -7247,7 +8573,64 @@
             "label": {
                 "hash": "80d7a7c709",
                 "translation": "HW 10"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_10",
@@ -7255,7 +8638,34 @@
             "label": {
                 "hash": "3719869d9c",
                 "translation": "Why 10"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_10",
@@ -7283,7 +8693,64 @@
             "label": {
                 "hash": "4e3a1799f5",
                 "translation": "AS 11"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_11",
@@ -7291,7 +8758,64 @@
             "label": {
                 "hash": "7d47a26f19",
                 "translation": "HW 11"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_11",
@@ -7299,7 +8823,34 @@
             "label": {
                 "hash": "2c9bcfc8f9",
                 "translation": "Why 11"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_11",
@@ -7315,7 +8866,64 @@
             "label": {
                 "hash": "951140709d",
                 "translation": "AS 12"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_12",
@@ -7323,7 +8931,64 @@
             "label": {
                 "hash": "8b631a4c78",
                 "translation": "HW 12"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_12",
@@ -7331,7 +8996,34 @@
             "label": {
                 "hash": "682499e35b",
                 "translation": "Why 12"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_12",
@@ -7347,7 +9039,64 @@
             "label": {
                 "hash": "b62fabd534",
                 "translation": "AS 13"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_13",
@@ -7355,7 +9104,64 @@
             "label": {
                 "hash": "f9c440770d",
                 "translation": "HW 13"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_13",
@@ -7363,7 +9169,34 @@
             "label": {
                 "hash": "42fbc14d75",
                 "translation": "Why 13"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_13",
@@ -7379,7 +9212,64 @@
             "label": {
                 "hash": "a6576bf3f4",
                 "translation": "AS 14"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_14",
@@ -7387,7 +9277,64 @@
             "label": {
                 "hash": "d53df19cfd",
                 "translation": "HW 14"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_14",
@@ -7395,7 +9342,34 @@
             "label": {
                 "hash": "a2eab763ae",
                 "translation": "Why 14"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_14",
@@ -7411,7 +9385,64 @@
             "label": {
                 "hash": "cfe2d37567",
                 "translation": "AS 15"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_15",
@@ -7419,7 +9450,64 @@
             "label": {
                 "hash": "18e065d2a7",
                 "translation": "HW 15"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_15",
@@ -7427,7 +9515,34 @@
             "label": {
                 "hash": "8a89fc1842",
                 "translation": "Why 15"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_15",
@@ -7455,7 +9570,64 @@
             "label": {
                 "hash": "22ed730d53",
                 "translation": "AS 16"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_16",
@@ -7463,7 +9635,64 @@
             "label": {
                 "hash": "0c78e80ed4",
                 "translation": "HW 16"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_16",
@@ -7471,7 +9700,34 @@
             "label": {
                 "hash": "fcd916cb58",
                 "translation": "Why 16"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_16",
@@ -7487,7 +9743,64 @@
             "label": {
                 "hash": "30cba6dec9",
                 "translation": "AS 17"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_17",
@@ -7495,7 +9808,64 @@
             "label": {
                 "hash": "1203713ca2",
                 "translation": "HW 17"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_17",
@@ -7503,7 +9873,34 @@
             "label": {
                 "hash": "9c53222465",
                 "translation": "Why 17"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_17",
@@ -7519,7 +9916,64 @@
             "label": {
                 "hash": "511efbb9df",
                 "translation": "AS 18"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_18",
@@ -7527,7 +9981,64 @@
             "label": {
                 "hash": "b9436110ef",
                 "translation": "HW 18"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_18",
@@ -7535,7 +10046,34 @@
             "label": {
                 "hash": "fe343d09b1",
                 "translation": "Why 18"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_18",
@@ -7551,7 +10089,64 @@
             "label": {
                 "hash": "a2a724f93a",
                 "translation": "AS 19"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_19",
@@ -7559,7 +10154,64 @@
             "label": {
                 "hash": "e5702b5e22",
                 "translation": "HW 19"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_19",
@@ -7567,7 +10219,34 @@
             "label": {
                 "hash": "361f417439",
                 "translation": "Why 19"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_19",
@@ -7583,7 +10262,64 @@
             "label": {
                 "hash": "19f6a39a59",
                 "translation": "AS 20"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_20",
@@ -7591,7 +10327,64 @@
             "label": {
                 "hash": "c429bec5f9",
                 "translation": "HW 20"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_20",
@@ -7599,7 +10392,34 @@
             "label": {
                 "hash": "19839af4cd",
                 "translation": "Why 20"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_20",
@@ -7627,7 +10447,64 @@
             "label": {
                 "hash": "56db133982",
                 "translation": "AS 21"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_21",
@@ -7635,7 +10512,64 @@
             "label": {
                 "hash": "aa5797db36",
                 "translation": "HW 21"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_21",
@@ -7643,7 +10577,34 @@
             "label": {
                 "hash": "7aa9b07196",
                 "translation": "Why 21"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_21",
@@ -7659,7 +10620,64 @@
             "label": {
                 "hash": "78d1dc3fb5",
                 "translation": "AS 22"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_22",
@@ -7667,7 +10685,64 @@
             "label": {
                 "hash": "6b52631a3f",
                 "translation": "HW 22"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_22",
@@ -7675,7 +10750,34 @@
             "label": {
                 "hash": "68eb814ef7",
                 "translation": "Why 22"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_22",
@@ -7691,7 +10793,64 @@
             "label": {
                 "hash": "29cbe79c88",
                 "translation": "AS 23"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_23",
@@ -7699,7 +10858,64 @@
             "label": {
                 "hash": "83bd0c3d2f",
                 "translation": "HW 23"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_23",
@@ -7707,7 +10923,34 @@
             "label": {
                 "hash": "2682f60b6f",
                 "translation": "Why 23"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_23",
@@ -7723,7 +10966,64 @@
             "label": {
                 "hash": "ee9c0a3ae9",
                 "translation": "AS 24"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_24",
@@ -7731,7 +11031,64 @@
             "label": {
                 "hash": "d2ac429f02",
                 "translation": "HW 24"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_24",
@@ -7739,7 +11096,34 @@
             "label": {
                 "hash": "1def00171e",
                 "translation": "Why 24"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_24",
@@ -7755,7 +11139,64 @@
             "label": {
                 "hash": "20995709ec",
                 "translation": "AS 25"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_25",
@@ -7763,7 +11204,64 @@
             "label": {
                 "hash": "3273b64861",
                 "translation": "HW 25"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_25",
@@ -7771,7 +11269,34 @@
             "label": {
                 "hash": "6aa7e5906d",
                 "translation": "Why 25"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_25",
@@ -7799,7 +11324,64 @@
             "label": {
                 "hash": "f791d2ca19",
                 "translation": "AS 26"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_26",
@@ -7807,7 +11389,64 @@
             "label": {
                 "hash": "628de7c03b",
                 "translation": "HW 26"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_26",
@@ -7815,7 +11454,34 @@
             "label": {
                 "hash": "7211cfbce3",
                 "translation": "Why 26"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_26",
@@ -7831,7 +11497,64 @@
             "label": {
                 "hash": "d674e9a88b",
                 "translation": "AS 27"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_27",
@@ -7839,7 +11562,64 @@
             "label": {
                 "hash": "47f431ede7",
                 "translation": "HW 27"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_27",
@@ -7847,7 +11627,34 @@
             "label": {
                 "hash": "a2f8189ea3",
                 "translation": "Why 27"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_27",
@@ -7863,7 +11670,64 @@
             "label": {
                 "hash": "1ddaca000a",
                 "translation": "AS 28"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_28",
@@ -7871,7 +11735,64 @@
             "label": {
                 "hash": "6060108d9f",
                 "translation": "HW 28"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_28",
@@ -7879,7 +11800,34 @@
             "label": {
                 "hash": "133dc34424",
                 "translation": "Why 28"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_28",
@@ -7895,7 +11843,64 @@
             "label": {
                 "hash": "27f5262f7b",
                 "translation": "AS 29"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_29",
@@ -7903,7 +11908,64 @@
             "label": {
                 "hash": "f4247ddf79",
                 "translation": "HW 29"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_29",
@@ -7911,7 +11973,34 @@
             "label": {
                 "hash": "14df6ffb63",
                 "translation": "Why 29"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_29",
@@ -7927,7 +12016,64 @@
             "label": {
                 "hash": "be32773eee",
                 "translation": "AS 30"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_hw_30",
@@ -7935,7 +12081,64 @@
             "label": {
                 "hash": "1c7011eb73",
                 "translation": "HW 30"
-            }
+            },
+            "enum": [
+                {
+                    "id": "0",
+                    "hash": "cfcd208495",
+                    "translation": "0"
+                },
+                {
+                    "id": "0.5",
+                    "hash": "d310cb367d",
+                    "translation": "0.5"
+                },
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "1.5",
+                    "hash": "6008647277",
+                    "translation": "1.5"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "2.5",
+                    "hash": "8221435bcc",
+                    "translation": "2.5"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "3.5",
+                    "hash": "804066a6a5",
+                    "translation": "3.5"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "4.5",
+                    "hash": "c33ab40f14",
+                    "translation": "4.5"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_why_30",
@@ -7943,7 +12146,34 @@
             "label": {
                 "hash": "f8a8ff36ca",
                 "translation": "Why 30"
-            }
+            },
+            "enum": [
+                {
+                    "id": "1",
+                    "hash": "c4ca4238a0",
+                    "translation": "1"
+                },
+                {
+                    "id": "2",
+                    "hash": "c81e728d9d",
+                    "translation": "2"
+                },
+                {
+                    "id": "3",
+                    "hash": "eccbc87e4b",
+                    "translation": "3"
+                },
+                {
+                    "id": "4",
+                    "hash": "a87ff679a2",
+                    "translation": "4"
+                },
+                {
+                    "id": "5",
+                    "hash": "e4da3b7fbb",
+                    "translation": "5"
+                }
+            ]
         },
         {
             "id": "mal_comm_30",
