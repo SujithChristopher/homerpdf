@@ -4,6 +4,7 @@ completion_date,completed_assessment,Final Assessment Completion,text,Date of Co
 completion_examiner,completed_assessment,,text,Examiner Name,,,,,,,,,,,,,,,
 completion_status_summary,completed_assessment,Assessment Status Overview,descriptive,"<table border='1' style='width:100%; border-collapse: collapse;'>
   <tr><th style='padding: 5px;'>Instrument</th><th style='padding: 5px;'>Status (0=Incomplete, 1=Unverified, 2=Complete)</th></tr>
+  <tr><td style='padding: 5px;'>Consent Form</td><td style='padding: 5px; text-align: center;'>[consent_form_complete]</td></tr>
   <tr><td style='padding: 5px;'>FMA Upper Extremity</td><td style='padding: 5px; text-align: center;'>[fugl_meyer_assessment_ue_complete]</td></tr>
   <tr><td style='padding: 5px;'>ARAT</td><td style='padding: 5px; text-align: center;'>[action_research_arm_test_complete]</td></tr>
   <tr><td style='padding: 5px;'>MAL</td><td style='padding: 5px; text-align: center;'>[motor_activity_log_complete]</td></tr>

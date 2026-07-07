@@ -88,9 +88,12 @@ def process_redcap_csvs(input_dir, output_file):
 
     ORDERED_FILES = [
         "homer_screening_form.csv",
+        "consent_form.csv",
+        "fma.csv",
+        "mas.csv",
         "moca.csv",
         "nprs.csv",
-        "fma.csv",
+        "completed_screening.csv",
         "arat.csv",
         "box_and_block_test.csv",
         "cahai7.csv",
@@ -99,7 +102,6 @@ def process_redcap_csvs(input_dir, output_file):
         "mrs.csv",
         "csi.csv",
         "SIPSO.csv",
-        "mas.csv",
         "phq9.csv",
         "FSS_vertical.csv",
         "nihss.csv",
@@ -155,11 +157,7 @@ def process_redcap_csvs(input_dir, output_file):
                 if var_name.strip().lower() in ('screening_subject_id', 'subject_id', 'homer_id', 'record_id'):
                     continue
                 
-                # REMOVE redundant admin fields (date, examiner) from follow-up forms.
-                # Match only simple admin fields: <prefix>_date or <prefix>_examiner
-                # (single word before the suffix, e.g. 'mas_date'), NOT compound clinical
-                # fields like 'ae_start_date' or 'ae_stop_date' which have a middle segment.
-                if any(re.match(p, var_name.lower()) for p in [r'^[a-z0-9]+_date$', r'^[a-z0-9]+_examiner$']):
+                if clean_name(form_name) != 'consent_form' and any(re.match(p, var_name.lower()) for p in [r'^[a-z0-9]+_date$', r'^[a-z0-9]+_examiner$']):
                     continue
 
                 cleaned_var = clean_name(var_name)
@@ -216,10 +214,20 @@ def process_redcap_csvs(input_dir, output_file):
 
                 # APPLY AUTOMATED LOCKING LOGIC
                 # Every field (except record ID and the completion form itself) 
-                # will be locked once the assessment is marked 'Complete'
-                locking_tag = "@READONLY-IF([completed_assessment_complete] = '2')"
-                exempt_forms = ('completed_assessment', 'adverse_event', 'exit_questionnaire_control', 'exit_questionnaire_intervention', 'fatigue_severity_scale')
-                if cleaned_var not in ('screening_subject_id', 'subject_id', 'record_id') and clean_name(form_name) not in exempt_forms:
+                # will be locked once the assessment or screening is marked 'Complete'
+                form_clean = clean_name(form_name)
+                screening_only_forms = ('homer_screening_form', 'montreal_cognitive_assessment', 'numeric_pain_rating_scale')
+                shared_forms = ('fugl_meyer_assessment_ue', 'modified_ashworth_scale')
+                
+                if form_clean in screening_only_forms:
+                    locking_tag = "@READONLY-IF([completed_screening_complete] = '2')"
+                elif form_clean in shared_forms:
+                    locking_tag = "@READONLY-IF([completed_assessment_complete] = '2' or [completed_screening_complete] = '2')"
+                else:
+                    locking_tag = "@READONLY-IF([completed_assessment_complete] = '2')"
+                    
+                exempt_forms = ('completed_assessment', 'completed_screening', 'adverse_event', 'exit_questionnaire_control', 'exit_questionnaire_intervention', 'fatigue_severity_scale')
+                if cleaned_var not in ('screening_subject_id', 'subject_id', 'record_id') and form_clean not in exempt_forms:
                     if annot:
                         if locking_tag not in annot:
                             annot = f"{annot.strip()} {locking_tag}"
