@@ -145,7 +145,6 @@ moca_total_score,montreal_cognitive_assessment,,calc,Total Score (Max 30),[moca_
 moca_interpretation,montreal_cognitive_assessment,,descriptive,Interpretation: A final score of >= 26 is considered normal.,,,,,,,,,,,,,@READONLY-IF([completed_screening_complete] = '2')
 nprs_score,numeric_pain_rating_scale,NUMERIC PAIN RATING SCALE (NPRS),dropdown,Numeric Pain Rating Scale (NPRS) Score,"0, 0 - No pain | 1, 1 - Mild pain | 2, 2 - Mild pain | 3, 3 - Mild pain | 4, 4 - Moderate pain | 5, 5 - Moderate pain | 6, 6 - Moderate pain | 7, 7 - Severe pain | 8, 8 - Severe pain | 9, 9 - Severe pain | 10, 10 - Severe pain",,,,,,,y,,,,,@READONLY-IF([completed_screening_complete] = '2')
 screening_completion_date,completed_screening,Final Screening Completion,text,Date of Completion,,,date_ymd,,,,,y,,,,,
-screening_completion_examiner,completed_screening,,text,Examiner Name,,,,,,,,y,,,,,
 screening_completion_status_summary,completed_screening,Screening Status Overview,descriptive,"<table border='1' style='width:100%; border-collapse: collapse;'>
   <tr><th style='padding: 5px;'>Instrument</th><th style='padding: 5px;'>Status (0=Incomplete, 1=Unverified, 2=Complete)</th></tr>
   <tr><td style='padding: 5px;'>HOMER Screening Form</td><td style='padding: 5px; text-align: center;'>[homer_screening_form_complete]</td></tr>
