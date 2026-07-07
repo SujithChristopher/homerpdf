@@ -6901,24 +6901,24 @@
                 "translation": "SCORING SCALES"
             },
             "label": {
-                "hash": "c4de207330",
-                "translation": "<b>Amount Scale (AS) <br> मात्रा पैमाना (AS)</b>:<br>0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया (उपयोग नहीं किया)।<br>1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम (बहुत कम)।<br>2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया (कम)।<br>3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया (आधा)।<br>4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया (¾ भाग)।<br>5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया (पहले जैसा ही)।"
+                "hash": "ada3d8eeef",
+                "translation": "<div style=\"background-color: #fcfcfc; border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; margin-bottom: 10px; font-family: sans-serif;\">\n  <span style=\"font-size: 1.1em; color: #1e3d59; font-weight: bold; border-bottom: 2px solid #ffc13b; padding-bottom: 2px;\"><span style=\"font-size: 1.1em; color: #1e3d59; font-weight: bold; border-bottom: 2px solid #ffc13b; padding-bottom: 2px;\"><b>Amount Scale (AS)<br> मात्रा पैमाना (AS)</b>:</span></span>\n  <div style=\"margin-top: 10px; line-height: 1.5;\">\n    <b>0</b> &mdash; मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया (उपयोग नहीं किया)। <span style=\"color: #888;\">0.5 - </span><br>\n    <span style=\"color: #888;\"><b>0.5</b> &mdash; (Halfway score)</span><br>\n    <b>1</b> &mdash; कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम (बहुत कम)। <span style=\"color: #888;\">1.5 - </span><br>\n    <span style=\"color: #888;\"><b>1.5</b> &mdash; (Halfway score)</span><br>\n    <b>2</b> &mdash; कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया (कम)। <span style=\"color: #888;\">2.5 - </span><br>\n    <span style=\"color: #888;\"><b>2.5</b> &mdash; (Halfway score)</span><br>\n    <b>3</b> &mdash; अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया (आधा)। <span style=\"color: #888;\">3.5 - </span><br>\n    <span style=\"color: #888;\"><b>3.5</b> &mdash; (Halfway score)</span><br>\n    <b>4</b> &mdash; अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया (¾ भाग)। <span style=\"color: #888;\">4.5 - </span><br>\n    <span style=\"color: #888;\"><b>4.5</b> &mdash; (Halfway score)</span><br>\n    <b>5</b> &mdash; अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया (पहले जैसा ही)।\n  </div>\n</div>"
             }
         },
         {
             "id": "mal_scoring_hw",
             "form": "motor_activity_log",
             "label": {
-                "hash": "451ecf1790",
-                "translation": "<b>How Well Scale (HW) <br> कितना अच्छा पैमाना (HW)</b>:<br>0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया (कभी नहीं)।<br>1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था (बहुत खराब)।<br>2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला (खराब)।<br>3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं (ठीक)।<br>4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं (लगभग सामान्य)।<br>5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी (सामान्य)।"
+                "hash": "95bed7cc83",
+                "translation": "<div style=\"background-color: #fcfcfc; border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; margin-bottom: 10px; font-family: sans-serif;\">\n  <span style=\"font-size: 1.1em; color: #1e3d59; font-weight: bold; border-bottom: 2px solid #ffc13b; padding-bottom: 2px;\"><span style=\"font-size: 1.1em; color: #1e3d59; font-weight: bold; border-bottom: 2px solid #ffc13b; padding-bottom: 2px;\"><b>How Well Scale (HW)<br> कितना अच्छा पैमाना (HW)</b>:</span></span>\n  <div style=\"margin-top: 10px; line-height: 1.5;\">\n    <b>0</b> &mdash; उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया (कभी नहीं)। <span style=\"color: #888;\">0.5 - </span><br>\n    <span style=\"color: #888;\"><b>0.5</b> &mdash; (Halfway score)</span><br>\n    <b>1</b> &mdash; उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था (बहुत खराब)। <span style=\"color: #888;\">1.5 - </span><br>\n    <span style=\"color: #888;\"><b>1.5</b> &mdash; (Halfway score)</span><br>\n    <b>2</b> &mdash; कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला (खराब)। <span style=\"color: #888;\">2.5 - </span><br>\n    <span style=\"color: #888;\"><b>2.5</b> &mdash; (Halfway score)</span><br>\n    <b>3</b> &mdash; कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं (ठीक)। <span style=\"color: #888;\">3.5 - </span><br>\n    <span style=\"color: #888;\"><b>3.5</b> &mdash; (Halfway score)</span><br>\n    <b>4</b> &mdash; कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं (लगभग सामान्य)। <span style=\"color: #888;\">4.5 - </span><br>\n    <span style=\"color: #888;\"><b>4.5</b> &mdash; (Halfway score)</span><br>\n    <b>5</b> &mdash; उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी (सामान्य)।\n  </div>\n</div>"
             }
         },
         {
             "id": "mal_why_codes",
             "form": "motor_activity_log",
             "label": {
-                "hash": "ee251bb6a0",
-                "translation": "<b>Codes for recording “no” responses <br> “नहीं” उत्तरों को दर्ज करने के लिए कोड</b>:<br>1. “मैंने पूरी तरह से अप्रभावित हाथ का उपयोग किया।” (कोड: 0)<br>2. “किसी और ने मेरे लिए किया।” (कोड: 0)<br>3. “मैं वह गतिविधि कभी नहीं करता, चाहे किसी की मदद से या बिना मदद के, क्योंकि यह असंभव है।” (कोड: N/A)<br>4. “मैं कभी-कभी वह गतिविधि करता हूँ, लेकिन पिछली बार प्रश्नों का उत्तर देने के बाद से अवसर नहीं मिला।” (पिछला अंक ही जारी रखें)<br>5. गैर-प्रमुख हाथ में हेमीपैरेसिस (केवल प्रश्न #24 पर लागू; कोड: N/A)"
+                "hash": "e62989740b",
+                "translation": "<div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 6px; padding: 12px; font-family: sans-serif;\">\n  <span style=\"font-size: 1.1em; color: #b22222; font-weight: bold; border-bottom: 2px solid #f4a261; padding-bottom: 2px;\"><span style=\"font-size: 1.1em; color: #b22222; font-weight: bold; border-bottom: 2px solid #f4a261; padding-bottom: 2px;\"><b>Codes for recording “no” responses<br> “नहीं” उत्तरों को दर्ज करने के लिए कोड</b>:</span></span>\n  <div style=\"margin-top: 10px; line-height: 1.5;\">\n    <b>1.</b> “मैंने पूरी तरह से अप्रभावित हाथ का उपयोग किया।” (कोड: 0)<br>\n    <b>2.</b> “किसी और ने मेरे लिए किया।” (कोड: 0)<br>\n    <b>3.</b> “मैं वह गतिविधि कभी नहीं करता, चाहे किसी की मदद से या बिना मदद के, क्योंकि यह असंभव है।” (कोड: N/A)<br>\n    <b>4.</b> “मैं कभी-कभी वह गतिविधि करता हूँ, लेकिन पिछली बार प्रश्नों का उत्तर देने के बाद से अवसर नहीं मिला।” (पिछला अंक ही जारी रखें)<br>\n    <b>5.</b> गैर-प्रमुख हाथ में हेमीपैरेसिस (केवल प्रश्न #24 पर लागू; कोड: N/A)\n  </div>\n</div>"
             }
         },
         {
@@ -6939,64 +6939,7 @@
             "label": {
                 "hash": "4b37f27c7c",
                 "translation": "AS 1"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_1",
@@ -7004,64 +6947,7 @@
             "label": {
                 "hash": "4b320928cc",
                 "translation": "HW 1"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_1",
@@ -7085,64 +6971,7 @@
             "label": {
                 "hash": "261c9be4e3",
                 "translation": "AS 2"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_2",
@@ -7150,64 +6979,7 @@
             "label": {
                 "hash": "9df475dbaf",
                 "translation": "HW 2"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_2",
@@ -7231,64 +7003,7 @@
             "label": {
                 "hash": "ef76a03f54",
                 "translation": "AS 3"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_3",
@@ -7296,64 +7011,7 @@
             "label": {
                 "hash": "326b5ce0de",
                 "translation": "HW 3"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_3",
@@ -7377,64 +7035,7 @@
             "label": {
                 "hash": "41937f6e39",
                 "translation": "AS 4"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_4",
@@ -7442,64 +7043,7 @@
             "label": {
                 "hash": "e087ae50c8",
                 "translation": "HW 4"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_4",
@@ -7523,64 +7067,7 @@
             "label": {
                 "hash": "d356120b1f",
                 "translation": "AS 5"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_5",
@@ -7588,64 +7075,7 @@
             "label": {
                 "hash": "cc20a66642",
                 "translation": "HW 5"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_5",
@@ -7681,64 +7111,7 @@
             "label": {
                 "hash": "bd743fbec6",
                 "translation": "AS 6"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_6",
@@ -7746,64 +7119,7 @@
             "label": {
                 "hash": "debfdf8602",
                 "translation": "HW 6"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_6",
@@ -7827,64 +7143,7 @@
             "label": {
                 "hash": "7412268f7d",
                 "translation": "AS 7"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_7",
@@ -7892,64 +7151,7 @@
             "label": {
                 "hash": "3efcd3eed2",
                 "translation": "HW 7"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_7",
@@ -7973,64 +7175,7 @@
             "label": {
                 "hash": "eac4d727ed",
                 "translation": "AS 8"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_8",
@@ -8038,64 +7183,7 @@
             "label": {
                 "hash": "adc7ad3b70",
                 "translation": "HW 8"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_8",
@@ -8119,64 +7207,7 @@
             "label": {
                 "hash": "7c5dd97d6e",
                 "translation": "AS 9"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_9",
@@ -8184,64 +7215,7 @@
             "label": {
                 "hash": "973c335ea6",
                 "translation": "HW 9"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_9",
@@ -8265,64 +7239,7 @@
             "label": {
                 "hash": "cf06feef3d",
                 "translation": "AS 10"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_10",
@@ -8330,64 +7247,7 @@
             "label": {
                 "hash": "80d7a7c709",
                 "translation": "HW 10"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_10",
@@ -8423,64 +7283,7 @@
             "label": {
                 "hash": "4e3a1799f5",
                 "translation": "AS 11"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_11",
@@ -8488,64 +7291,7 @@
             "label": {
                 "hash": "7d47a26f19",
                 "translation": "HW 11"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_11",
@@ -8569,64 +7315,7 @@
             "label": {
                 "hash": "951140709d",
                 "translation": "AS 12"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_12",
@@ -8634,64 +7323,7 @@
             "label": {
                 "hash": "8b631a4c78",
                 "translation": "HW 12"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_12",
@@ -8715,64 +7347,7 @@
             "label": {
                 "hash": "b62fabd534",
                 "translation": "AS 13"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_13",
@@ -8780,64 +7355,7 @@
             "label": {
                 "hash": "f9c440770d",
                 "translation": "HW 13"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_13",
@@ -8861,64 +7379,7 @@
             "label": {
                 "hash": "a6576bf3f4",
                 "translation": "AS 14"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_14",
@@ -8926,64 +7387,7 @@
             "label": {
                 "hash": "d53df19cfd",
                 "translation": "HW 14"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_14",
@@ -9007,64 +7411,7 @@
             "label": {
                 "hash": "cfe2d37567",
                 "translation": "AS 15"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_15",
@@ -9072,64 +7419,7 @@
             "label": {
                 "hash": "18e065d2a7",
                 "translation": "HW 15"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_15",
@@ -9165,64 +7455,7 @@
             "label": {
                 "hash": "22ed730d53",
                 "translation": "AS 16"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_16",
@@ -9230,64 +7463,7 @@
             "label": {
                 "hash": "0c78e80ed4",
                 "translation": "HW 16"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_16",
@@ -9311,64 +7487,7 @@
             "label": {
                 "hash": "30cba6dec9",
                 "translation": "AS 17"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_17",
@@ -9376,64 +7495,7 @@
             "label": {
                 "hash": "1203713ca2",
                 "translation": "HW 17"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_17",
@@ -9457,64 +7519,7 @@
             "label": {
                 "hash": "511efbb9df",
                 "translation": "AS 18"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_18",
@@ -9522,64 +7527,7 @@
             "label": {
                 "hash": "b9436110ef",
                 "translation": "HW 18"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_18",
@@ -9603,64 +7551,7 @@
             "label": {
                 "hash": "a2a724f93a",
                 "translation": "AS 19"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_19",
@@ -9668,64 +7559,7 @@
             "label": {
                 "hash": "e5702b5e22",
                 "translation": "HW 19"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_19",
@@ -9749,64 +7583,7 @@
             "label": {
                 "hash": "19f6a39a59",
                 "translation": "AS 20"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_20",
@@ -9814,64 +7591,7 @@
             "label": {
                 "hash": "c429bec5f9",
                 "translation": "HW 20"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_20",
@@ -9907,64 +7627,7 @@
             "label": {
                 "hash": "56db133982",
                 "translation": "AS 21"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_21",
@@ -9972,64 +7635,7 @@
             "label": {
                 "hash": "aa5797db36",
                 "translation": "HW 21"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_21",
@@ -10053,64 +7659,7 @@
             "label": {
                 "hash": "78d1dc3fb5",
                 "translation": "AS 22"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_22",
@@ -10118,64 +7667,7 @@
             "label": {
                 "hash": "6b52631a3f",
                 "translation": "HW 22"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_22",
@@ -10199,64 +7691,7 @@
             "label": {
                 "hash": "29cbe79c88",
                 "translation": "AS 23"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_23",
@@ -10264,64 +7699,7 @@
             "label": {
                 "hash": "83bd0c3d2f",
                 "translation": "HW 23"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_23",
@@ -10345,64 +7723,7 @@
             "label": {
                 "hash": "ee9c0a3ae9",
                 "translation": "AS 24"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_24",
@@ -10410,64 +7731,7 @@
             "label": {
                 "hash": "d2ac429f02",
                 "translation": "HW 24"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_24",
@@ -10491,64 +7755,7 @@
             "label": {
                 "hash": "20995709ec",
                 "translation": "AS 25"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_25",
@@ -10556,64 +7763,7 @@
             "label": {
                 "hash": "3273b64861",
                 "translation": "HW 25"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_25",
@@ -10649,64 +7799,7 @@
             "label": {
                 "hash": "f791d2ca19",
                 "translation": "AS 26"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_26",
@@ -10714,64 +7807,7 @@
             "label": {
                 "hash": "628de7c03b",
                 "translation": "HW 26"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_26",
@@ -10795,64 +7831,7 @@
             "label": {
                 "hash": "d674e9a88b",
                 "translation": "AS 27"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_27",
@@ -10860,64 +7839,7 @@
             "label": {
                 "hash": "47f431ede7",
                 "translation": "HW 27"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_27",
@@ -10941,64 +7863,7 @@
             "label": {
                 "hash": "1ddaca000a",
                 "translation": "AS 28"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_28",
@@ -11006,64 +7871,7 @@
             "label": {
                 "hash": "6060108d9f",
                 "translation": "HW 28"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_28",
@@ -11087,64 +7895,7 @@
             "label": {
                 "hash": "27f5262f7b",
                 "translation": "AS 29"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_29",
@@ -11152,64 +7903,7 @@
             "label": {
                 "hash": "f4247ddf79",
                 "translation": "HW 29"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_29",
@@ -11233,64 +7927,7 @@
             "label": {
                 "hash": "be32773eee",
                 "translation": "AS 30"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "6d2df39ea1",
-                    "translation": "0 - Did not use my weaker arm <br> 0 - मैंने अपने कमज़ोर हाथ का उपयोग नहीं किया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "dc4ba6c158",
-                    "translation": "1 - Occasionally used my weaker arm <br> 1 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया, लेकिन बहुत ही कम"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "1c98b06b9a",
-                    "translation": "2 - Sometimes used my weaker arm <br> 2 - कभी-कभी अपने कमज़ोर हाथ का उपयोग किया लेकिन अधिकांश समय अपने मजबूत हाथ से कार्य किया"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "de7ffc916f",
-                    "translation": "3 - Used my weaker arm about half as much <br> 3 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग आधा किया"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "19b9a0b0f4",
-                    "translation": "4 - Used my weaker arm almost as much <br> 4 - अपने कमज़ोर हाथ का उपयोग लकवा मारने से पहले की तुलना में लगभग उतना ही किया"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "44e58a6f1d",
-                    "translation": "5 - Used my weaker arm as often as before <br> 5 - अपने कमज़ोर हाथ का उपयोग पहले की तरह ही किया"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_30",
@@ -11298,64 +7935,7 @@
             "label": {
                 "hash": "1c7011eb73",
                 "translation": "HW 30"
-            },
-            "enum": [
-                {
-                    "id": 0,
-                    "hash": "250fbcd8ea",
-                    "translation": "0 - The weaker arm was not used at all <br> 0 - उस गतिविधि के लिए कमज़ोर हाथ का बिल्कुल उपयोग नहीं किया गया"
-                },
-                {
-                    "id": "0.5",
-                    "hash": "1b390cd54a",
-                    "translation": "0.5"
-                },
-                {
-                    "id": 1,
-                    "hash": "5856a86780",
-                    "translation": "1 - The weaker arm was moved but was not helpful <br> 1 - उस गतिविधि के दौरान कमज़ोर हाथ हिलाया गया लेकिन वह मददगार नहीं था"
-                },
-                {
-                    "id": "1.5",
-                    "hash": "aa8f289ebe",
-                    "translation": "1.5"
-                },
-                {
-                    "id": 2,
-                    "hash": "d28c4c3feb",
-                    "translation": "2 - The weaker arm was of some use but needed help <br> 2 - कमज़ोर हाथ थोड़ा बहुत काम आया लेकिन मजबूत हाथ से सहायता की आवश्यकता थी या बहुत धीरे या कठिनाई से हिला"
-                },
-                {
-                    "id": "2.5",
-                    "hash": "555a5c5c92",
-                    "translation": "2.5"
-                },
-                {
-                    "id": 3,
-                    "hash": "ee46cf9f8d",
-                    "translation": "3 - The weaker arm was used for the purpose indicated <br> 3 - कमज़ोर हाथ का उपयोग निर्दिष्ट उद्देश्य के लिए किया गया था लेकिन गतिविधियां धीमी थीं या थोड़े प्रयास से की गईं"
-                },
-                {
-                    "id": "3.5",
-                    "hash": "c3e66c1668",
-                    "translation": "3.5"
-                },
-                {
-                    "id": 4,
-                    "hash": "83ea9ec52a",
-                    "translation": "4 - The movements made were almost normal <br> 4 - कमज़ोर हाथ की गतिविधियां लगभग सामान्य थीं, लेकिन सामान्य जितनी तेज़ या सटीक नहीं थीं"
-                },
-                {
-                    "id": "4.5",
-                    "hash": "59a7597c10",
-                    "translation": "4.5"
-                },
-                {
-                    "id": 5,
-                    "hash": "250de21160",
-                    "translation": "5 - The ability to use the weaker arm was as good as before <br> 5 - उस गतिविधि के लिए कमज़ोर हाथ का उपयोग करने की क्षमता लकवा मारने से पहले जितनी ही अच्छी थी"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_30",

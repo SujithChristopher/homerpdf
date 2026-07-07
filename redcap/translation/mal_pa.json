@@ -34,21 +34,24 @@
                 "translation": "SCORING SCALES"
             },
             "label": {
-                "translation": "<b>Amount Scale (AS) / ਮਾਤਰਾ ਪੈਮਾਨਾ (AS)</b>:<br>0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ (ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ)।<br>1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ (ਬਹੁਤ ਘੱਟ)।<br>2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ (ਘੱਟ)।<br>3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ (ਅੱਧੀ)।<br>4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ (¾ ਭਾਗ)।<br>5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ (ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ)।"
+                "translation": "<div style=\"background-color: #fcfcfc; border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; margin-bottom: 10px; font-family: sans-serif;\">\n  <span style=\"font-size: 1.1em; color: #1e3d59; font-weight: bold; border-bottom: 2px solid #ffc13b; padding-bottom: 2px;\"><b>Amount Scale (AS)<br> ਮਾਤਰਾ ਪੈਮਾਨਾ (AS)</b>:</span>\n  <div style=\"margin-top: 10px; line-height: 1.5;\">\n    <b>0</b> &mdash; ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ (ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ)।<br>\n    <span style=\"color: #888;\"><b>0.5</b> &mdash; (Halfway score)</span><br>\n    <b>1</b> &mdash; ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ (ਬਹੁਤ ਘੱਟ)।<br>\n    <span style=\"color: #888;\"><b>1.5</b> &mdash; (Halfway score)</span><br>\n    <b>2</b> &mdash; ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ (ਘੱਟ)।<br>\n    <span style=\"color: #888;\"><b>2.5</b> &mdash; (Halfway score)</span><br>\n    <b>3</b> &mdash; ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ (ਅੱਧੀ)।<br>\n    <span style=\"color: #888;\"><b>3.5</b> &mdash; (Halfway score)</span><br>\n    <b>4</b> &mdash; ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ (¾ ਭਾਗ)।<br>\n    <span style=\"color: #888;\"><b>4.5</b> &mdash; (Halfway score)</span><br>\n    <b>5</b> &mdash; ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ (ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ)।\n  </div>\n</div>",
+                "hash": "ada3d8eeef"
             }
         },
         {
             "id": "mal_scoring_hw",
             "form": "motor_activity_log",
             "label": {
-                "translation": "<b>How Well Scale (HW) / ਕਿੰਨਾ ਵਧੀਆ ਪੈਮਾਨਾ (HW)</b>:<br>0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ (ਕਦੇ ਨਹੀਂ)।<br>1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ (ਬਹੁਤ ਖਰਾਬ)।<br>2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ (ਖਰਾਬ)।<br>3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ (ਠੀਕ)।<br>4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ (ਲਗਭਗ ਆਮ)।<br>5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ (ਆਮ)।"
+                "translation": "<div style=\"background-color: #fcfcfc; border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; margin-bottom: 10px; font-family: sans-serif;\">\n  <span style=\"font-size: 1.1em; color: #1e3d59; font-weight: bold; border-bottom: 2px solid #ffc13b; padding-bottom: 2px;\"><b>How Well Scale (HW)<br> ਕਿੰਨਾ ਵਧੀਆ ਪੈਮਾਨਾ (HW)</b>:</span>\n  <div style=\"margin-top: 10px; line-height: 1.5;\">\n    <b>0</b> &mdash; ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ (ਕਦੇ ਨਹੀਂ)।<br>\n    <span style=\"color: #888;\"><b>0.5</b> &mdash; (Halfway score)</span><br>\n    <b>1</b> &mdash; ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ (ਬਹੁਤ ਖਰਾਬ)।<br>\n    <span style=\"color: #888;\"><b>1.5</b> &mdash; (Halfway score)</span><br>\n    <b>2</b> &mdash; ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ (ਖਰਾਬ)।<br>\n    <span style=\"color: #888;\"><b>2.5</b> &mdash; (Halfway score)</span><br>\n    <b>3</b> &mdash; ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ (ਠੀਕ)।<br>\n    <span style=\"color: #888;\"><b>3.5</b> &mdash; (Halfway score)</span><br>\n    <b>4</b> &mdash; ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ (ਲਗਭਗ ਆਮ)।<br>\n    <span style=\"color: #888;\"><b>4.5</b> &mdash; (Halfway score)</span><br>\n    <b>5</b> &mdash; ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ (ਆਮ)।\n  </div>\n</div>",
+                "hash": "95bed7cc83"
             }
         },
         {
             "id": "mal_why_codes",
             "form": "motor_activity_log",
             "label": {
-                "translation": "<b>Codes for recording “no” responses / “ਨਹੀਂ” ਜਵਾਬਾਂ ਨੂੰ ਦਰਜ ਕਰਨ ਲਈ ਕੋਡ</b>:<br>1. “ਮੈਂ ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਣ-ਪ੍ਰਭਾਵਿਤ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ।” (ਕੋਡ: 0)<br>2. “ਕਿਸੇ ਹੋਰ ਨੇ ਮੇਰੇ ਲਈ ਕੀਤਾ।” (ਕੋਡ: 0)<br>3. “ਮੈਂ ਉਹ ਕੰਮ ਕਦੇ ਨਹੀਂ ਕਰਦਾ, ਚਾਹੇ ਕਿਸੇ ਦੀ ਮਦਦ ਨਾਲ ਜਾਂ ਬਿਨਾਂ ਮਦਦ ਦੇ, ਕਿਉਂਕਿ ਇਹ ਅਸੰਭਵ ਹੈ।” (ਕੋਡ: N/A)<br>4. “ਮੈਂ ਕਦੇ-ਕਦੇ ਉਹ ਕੰਮ ਕਰਦਾ ਹਾਂ, ਪਰ ਪਿਛਲੀ ਵਾਰ ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਦੇਣ ਤੋਂ ਬਾਅਦ ਮੌਕਾ ਨਹੀਂ ਮਿਲਿਆ।” (ਪਿਛਲਾ ਸਕੋਰ ਹੀ ਜਾਰੀ ਰੱਖੋ)<br>5. ਗ਼ੈਰ-ਮੁੱਖ ਹੱਥ ਵਿੱਚ ਅਧਰੰਗ (ਕੇਵਲ ਸਵਾਲ #24 'ਤੇ ਲਾਗੂ; ਕੋਡ: N/A)"
+                "translation": "<div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 6px; padding: 12px; font-family: sans-serif;\">\n  <span style=\"font-size: 1.1em; color: #b22222; font-weight: bold; border-bottom: 2px solid #f4a261; padding-bottom: 2px;\"><b>Codes for recording “no” responses<br> “ਨਹੀਂ” ਜਵਾਬਾਂ ਨੂੰ ਦਰਜ ਕਰਨ ਲਈ ਕੋਡ</b>:</span>\n  <div style=\"margin-top: 10px; line-height: 1.5;\">\n    <b>1.</b> “ਮੈਂ ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਣ-ਪ੍ਰਭਾਵਿਤ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ।” (ਕੋਡ: 0)<br>\n    <b>2.</b> “ਕਿਸੇ ਹੋਰ ਨੇ ਮੇਰੇ ਲਈ ਕੀਤਾ।” (ਕੋਡ: 0)<br>\n    <b>3.</b> “ਮੈਂ ਉਹ ਕੰਮ ਕਦੇ ਨਹੀਂ ਕਰਦਾ, ਚਾਹੇ ਕਿਸੇ ਦੀ ਮਦਦ ਨਾਲ ਜਾਂ ਬਿਨਾਂ ਮਦਦ ਦੇ, ਕਿਉਂਕਿ ਇਹ ਅਸੰਭਵ ਹੈ।” (ਕੋਡ: N/A)<br>\n    <b>4.</b> “ਮੈਂ ਕਦੇ-ਕਦੇ ਉਹ ਕੰਮ ਕਰਦਾ ਹਾਂ, ਪਰ ਪਿਛਲੀ ਵਾਰ ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਦੇਣ ਤੋਂ ਬਾਅਦ ਮੌਕਾ ਨਹੀਂ ਮਿਲਿਆ।” (ਪਿਛਲਾ ਸਕੋਰ ਹੀ ਜਾਰੀ ਰੱਖੋ)<br>\n    <b>5.</b> ਗ਼ੈਰ-ਮੁੱਖ ਹੱਥ ਵਿੱਚ ਅਧਰੰਗ (ਕੇਵਲ ਸਵਾਲ #24 'ਤੇ ਲਾਗੂ; ਕੋਡ: N/A)\n  </div>\n</div>",
+                "hash": "e62989740b"
             }
         },
         {
@@ -66,106 +69,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 1"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_1",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 1"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_1",
@@ -186,106 +97,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 2"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_2",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 2"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_2",
@@ -306,106 +125,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 3"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_3",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 3"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_3",
@@ -426,106 +153,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 4"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_4",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 4"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_4",
@@ -546,106 +181,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 5"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_5",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 5"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_5",
@@ -676,106 +219,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 6"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_6",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 6"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_6",
@@ -796,106 +247,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 7"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_7",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 7"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_7",
@@ -916,106 +275,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 8"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_8",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 8"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_8",
@@ -1036,106 +303,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 9"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_9",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 9"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_9",
@@ -1156,106 +331,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 10"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_10",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 10"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_10",
@@ -1286,106 +369,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 11"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_11",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 11"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_11",
@@ -1406,106 +397,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 12"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_12",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 12"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_12",
@@ -1526,106 +425,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 13"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_13",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 13"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_13",
@@ -1646,106 +453,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 14"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_14",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 14"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_14",
@@ -1766,106 +481,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 15"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_15",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 15"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_15",
@@ -1896,106 +519,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 16"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_16",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 16"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_16",
@@ -2016,106 +547,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 17"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_17",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 17"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_17",
@@ -2136,106 +575,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 18"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_18",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 18"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_18",
@@ -2256,106 +603,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 19"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_19",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 19"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_19",
@@ -2376,106 +631,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 20"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_20",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 20"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_20",
@@ -2506,106 +669,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 21"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_21",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 21"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_21",
@@ -2626,106 +697,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 22"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_22",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 22"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_22",
@@ -2746,106 +725,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 23"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_23",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 23"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_23",
@@ -2866,106 +753,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 24"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_24",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 24"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_24",
@@ -2986,106 +781,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 25"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_25",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 25"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_25",
@@ -3116,106 +819,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 26"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_26",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 26"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_26",
@@ -3236,106 +847,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 27"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_27",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 27"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_27",
@@ -3356,106 +875,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 28"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_28",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 28"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_28",
@@ -3476,106 +903,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 29"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_29",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 29"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_29",
@@ -3596,106 +931,14 @@
             "form": "motor_activity_log",
             "label": {
                 "translation": "AS 30"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - Did not use my weaker arm / 0 - ਮੈਂ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - Occasionally used my weaker arm / 1 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ, ਪਰ ਬਹੁਤ ਹੀ ਘੱਟ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - Sometimes used my weaker arm / 2 - ਕਦੇ-ਕਦੇ ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਪਰ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ ਆਪਣੇ ਮਜ਼ਬੂਤ ਹੱਥ ਨਾਲ ਕੰਮ ਕੀਤਾ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - Used my weaker arm about half as much / 3 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਅੱਧੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - Used my weaker arm almost as much / 4 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਲਗਭਗ ਉਨੀ ਹੀ ਕੀਤੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - Used my weaker arm as often as before / 5 - ਆਪਣੇ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਪਹਿਲਾਂ ਵਾਂਗ ਹੀ ਕੀਤੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_hw_30",
             "form": "motor_activity_log",
             "label": {
                 "translation": "HW 30"
-            },
-            "enum": [
-                {
-                    "id": "0",
-                    "translation": "0 - The weaker arm was not used at all / 0 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਬਿਲਕੁਲ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "0.5",
-                    "translation": "0.5"
-                },
-                {
-                    "id": "1",
-                    "translation": "1 - The weaker arm was moved but was not helpful / 1 - ਉਸ ਕੰਮ ਦੌਰਾਨ ਕਮਜ਼ੋਰ ਹੱਥ ਹਿਲਾਇਆ ਗਿਆ ਪਰ ਉਹ ਮਦਦਗਾਰ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "1.5",
-                    "translation": "1.5"
-                },
-                {
-                    "id": "2",
-                    "translation": "2 - The weaker arm was of some use but needed help / 2 - ਕਮਜ਼ੋਰ ਹੱਥ ਥੋੜ੍ਹਾ ਬਹੁਤ ਕੰਮ ਆਇਆ ਪਰ ਮਜ਼ਬੂਤ ਹੱਥ ਤੋਂ ਮਦਦ ਦੀ ਲੋੜ ਸੀ ਜਾਂ ਬਹੁਤ ਹੌਲੀ ਜਾਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਹਿੱਲਿਆ"
-                },
-                {
-                    "id": "2.5",
-                    "translation": "2.5"
-                },
-                {
-                    "id": "3",
-                    "translation": "3 - The weaker arm was used for the purpose indicated / 3 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਨਿਰਧਾਰਤ ਉਦੇਸ਼ ਲਈ ਕੀਤੀ ਗਈ ਸੀ ਪਰ ਹਿਲਜੁਲ ਹੌਲੀ ਸੀ ਜਾਂ ਥੋੜ੍ਹੇ ਜਤਨ ਨਾਲ ਕੀਤੀ ਗਈ"
-                },
-                {
-                    "id": "3.5",
-                    "translation": "3.5"
-                },
-                {
-                    "id": "4",
-                    "translation": "4 - The movements made were almost normal / 4 - ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਹਿਲਜੁਲ ਲਗਭਗ ਆਮ ਵਰਗੀ ਸੀ, ਪਰ ਆਮ ਜਿੰਨੀ ਤੇਜ਼ ਜਾਂ ਸਹੀ ਨਹੀਂ ਸੀ"
-                },
-                {
-                    "id": "4.5",
-                    "translation": "4.5"
-                },
-                {
-                    "id": "5",
-                    "translation": "5 - The ability to use the weaker arm was as good as before / 5 - ਉਸ ਕੰਮ ਲਈ ਕਮਜ਼ੋਰ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ ਅਧਰੰਗ ਤੋਂ ਪਹਿਲਾਂ ਜਿੰਨੀ ਹੀ ਵਧੀਆ ਸੀ"
-                }
-            ]
+            }
         },
         {
             "id": "mal_why_30",
