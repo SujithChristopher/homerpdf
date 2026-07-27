@@ -130,7 +130,7 @@ class MainWindow(QMainWindow):
                 "patient_demographics", "fugl_meyer_assessment_ue", "sipso_questionnaire",
                 "action_research_arm_test", "caregiver_strain_index", "motor_activity_log",
                 "modified_rankin_scale", "patient_health_questionnaire_phq9", "modified_ashworth_scale",
-                "box_and_block_test", "cahai7_score_form", "nih_stroke_scale", "eq_5d_5l",
+                "box_and_block_test", "cahai7_score_form", "eq_5d_5l",
                 "completed_assessment"
             ]
             for form in screening_forms:

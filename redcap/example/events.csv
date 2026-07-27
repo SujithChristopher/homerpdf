@@ -15,7 +15,6 @@ arm_num,unique_event_name,form
 2,a0_arm_2,modified_ashworth_scale
 2,a0_arm_2,box_and_block_test
 2,a0_arm_2,cahai7_score_form
-2,a0_arm_2,nih_stroke_scale
 2,a0_arm_2,eq_5d_5l
 2,a0_arm_2,completed_assessment
 2,a1_arm_2,fugl_meyer_assessment_ue
@@ -28,7 +27,6 @@ arm_num,unique_event_name,form
 2,a1_arm_2,modified_ashworth_scale
 2,a1_arm_2,box_and_block_test
 2,a1_arm_2,cahai7_score_form
-2,a1_arm_2,nih_stroke_scale
 2,a1_arm_2,eq_5d_5l
 2,a1_arm_2,completed_assessment
 2,a2_arm_2,fugl_meyer_assessment_ue
@@ -41,6 +39,5 @@ arm_num,unique_event_name,form
 2,a2_arm_2,modified_ashworth_scale
 2,a2_arm_2,box_and_block_test
 2,a2_arm_2,cahai7_score_form
-2,a2_arm_2,nih_stroke_scale
 2,a2_arm_2,eq_5d_5l
 2,a2_arm_2,completed_assessment
