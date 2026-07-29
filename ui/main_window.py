@@ -147,6 +147,8 @@ class MainWindow(QMainWindow):
             self.event_pdfs["a0"].add("00 EN Proforma.pdf")
             self.event_pdfs["a0"].add("15 EN Patient consent.pdf")
             self.event_pdfs["a0"].add("16 EN Patient Information sheet.pdf")
+            for tp in ["a0", "a1", "a2"]:
+                self.event_pdfs[tp].add("13 EN VAS.pdf")
             return
 
         try:
@@ -174,6 +176,8 @@ class MainWindow(QMainWindow):
             self.event_pdfs["a0"].add("00 EN Proforma.pdf")
             self.event_pdfs["a0"].add("15 EN Patient consent.pdf")
             self.event_pdfs["a0"].add("16 EN Patient Information sheet.pdf")
+            for tp in ["a0", "a1", "a2"]:
+                self.event_pdfs[tp].add("13 EN VAS.pdf")
 
     def load_default_center(self):
         """Load default center from config.json and select it in the combobox."""
