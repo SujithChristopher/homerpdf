@@ -181,7 +181,7 @@ def process_redcap_csvs(input_dir, output_file):
                 ident = 'y' if ident.lower().strip() == 'y' else ""
                 
                 # Check if it should be mandatory
-                is_editable = f_type not in ('descriptive', 'calc')
+                is_editable = f_type not in ('descriptive', 'calc', 'checkbox')
                 is_comment_or_notes = (
                     f_type == 'notes' or 
                     cleaned_var.endswith('_comm') or 
