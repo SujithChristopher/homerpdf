@@ -104,6 +104,7 @@ def process_redcap_csvs(input_dir, output_file):
         "SIPSO.csv",
         "phq9.csv",
         "FSS_vertical.csv",
+        "vafs.csv",
         "nihss.csv",
         "completed_assessment.csv",
         "adverse_event.csv",

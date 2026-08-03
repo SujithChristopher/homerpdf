@@ -119,6 +119,7 @@ class Builder:
             sys.executable,
             "-m",
             "PyInstaller",
+            "--noconfirm",
             str(self.spec_file),
         ]
 

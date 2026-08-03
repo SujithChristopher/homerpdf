@@ -18,6 +18,7 @@ caregiver_strain_index,a0_arm_2,"[screening_arm_1][homer_screening_form_complete
 sipso_questionnaire,a0_arm_2,"[screening_arm_1][homer_screening_form_complete] = '2'"
 modified_ashworth_scale,a0_arm_2,"[screening_arm_1][homer_screening_form_complete] = '2'"
 patient_health_questionnaire_phq9,a0_arm_2,"[screening_arm_1][homer_screening_form_complete] = '2'"
+visual_analogue_fatigue_scale,a0_arm_2,"[screening_arm_1][homer_screening_form_complete] = '2'"
 nih_stroke_scale,a0_arm_2,"[screening_arm_1][homer_screening_form_complete] = '2'"
 completed_assessment,a0_arm_2,"[screening_arm_1][homer_screening_form_complete] = '2'"
 fugl_meyer_assessment_ue,a1_arm_2,"[a0_arm_2][completed_assessment_complete] = '2'"
@@ -31,6 +32,7 @@ caregiver_strain_index,a1_arm_2,"[a0_arm_2][completed_assessment_complete] = '2'
 sipso_questionnaire,a1_arm_2,"[a0_arm_2][completed_assessment_complete] = '2'"
 modified_ashworth_scale,a1_arm_2,"[a0_arm_2][completed_assessment_complete] = '2'"
 patient_health_questionnaire_phq9,a1_arm_2,"[a0_arm_2][completed_assessment_complete] = '2'"
+visual_analogue_fatigue_scale,a1_arm_2,"[a0_arm_2][completed_assessment_complete] = '2'"
 nih_stroke_scale,a1_arm_2,"[a0_arm_2][completed_assessment_complete] = '2'"
 completed_assessment,a1_arm_2,"[a0_arm_2][completed_assessment_complete] = '2'"
 fugl_meyer_assessment_ue,a2_arm_2,"[a1_arm_2][completed_assessment_complete] = '2'"
@@ -44,6 +46,7 @@ caregiver_strain_index,a2_arm_2,"[a1_arm_2][completed_assessment_complete] = '2'
 sipso_questionnaire,a2_arm_2,"[a1_arm_2][completed_assessment_complete] = '2'"
 modified_ashworth_scale,a2_arm_2,"[a1_arm_2][completed_assessment_complete] = '2'"
 patient_health_questionnaire_phq9,a2_arm_2,"[a1_arm_2][completed_assessment_complete] = '2'"
+visual_analogue_fatigue_scale,a2_arm_2,"[a1_arm_2][completed_assessment_complete] = '2'"
 nih_stroke_scale,a2_arm_2,"[a1_arm_2][completed_assessment_complete] = '2'"
 completed_assessment,a2_arm_2,"[a1_arm_2][completed_assessment_complete] = '2'"
 

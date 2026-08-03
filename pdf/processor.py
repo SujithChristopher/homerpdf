@@ -60,6 +60,8 @@ class PDFProcessor:
             return "11 SIPSO"
         elif "phq9" in filename_lower:
             return "12 PHQ9"
+        elif "vafs" in filename_lower:
+            return "13 VAFS"
         elif "fss" in filename_lower:
             return "13 FSS"
         elif "nihss" in filename_lower:

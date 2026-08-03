@@ -65,6 +65,8 @@ class MainWindow(QMainWindow):
         "nih_stroke_scale": "14 EN NIHSS.pdf",
         "box_and_block_test": "03 EN Box and Block.pdf",
         "eq_5d_5l": "08 EN EQ-5D-5L.pdf",
+        "fatigue_severity_scale": "13 EN FSS.pdf",
+        "visual_analogue_fatigue_scale": "13 EN VAFS.pdf",
     }
 
     def __init__(self):
@@ -148,7 +150,7 @@ class MainWindow(QMainWindow):
             self.event_pdfs["a0"].add("15 EN Patient consent.pdf")
             self.event_pdfs["a0"].add("16 EN Patient Information sheet.pdf")
             for tp in ["a0", "a1", "a2"]:
-                self.event_pdfs[tp].add("13 EN VAS.pdf")
+                self.event_pdfs[tp].add("13 EN VAFS.pdf")
             return
 
         try:
@@ -177,7 +179,7 @@ class MainWindow(QMainWindow):
             self.event_pdfs["a0"].add("15 EN Patient consent.pdf")
             self.event_pdfs["a0"].add("16 EN Patient Information sheet.pdf")
             for tp in ["a0", "a1", "a2"]:
-                self.event_pdfs[tp].add("13 EN VAS.pdf")
+                self.event_pdfs[tp].add("13 EN VAFS.pdf")
 
     def load_default_center(self):
         """Load default center from config.json and select it in the combobox."""
