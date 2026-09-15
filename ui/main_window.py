@@ -2,6 +2,7 @@
 
 import os
 import tempfile
+import sys
 from pathlib import Path
 
 from PySide6.QtCore import Qt, QUrl, QTimer
@@ -53,12 +54,20 @@ class MainWindow(QMainWindow):
         self.processor = PDFProcessor(self.pdf_dir)
 
         # Initialize operation logger
-        log_dir = Path(os.getenv("LOCALAPPDATA")) / "HospitalPDFManager"
-        log_dir.mkdir(parents=True, exist_ok=True)
-        self.operation_logger = OperationLogger(log_dir / "operations.db")
+       
 
         # Setup UI
         self.setup_ui()
+        if sys.platform == "win32":
+            log_dir = Path(os.getenv("LOCALAPPDATA"))
+        else:
+            log_dir = Path.home() / "Library" / "Application Support"
+            
+        log_dir = log_dir / "HospitalPDFManager"
+        log_dir.mkdir(parents=True, exist_ok=True)
+
+        self.operation_logger = OperationLogger(log_dir / "operations.db")
+
 
         # Apply theme-aware styling
         self.apply_theme()
