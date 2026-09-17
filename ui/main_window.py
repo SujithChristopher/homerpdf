@@ -52,6 +52,7 @@ class MainWindow(QMainWindow):
     # Mapping of REDCap form names to PDF file names
     FORM_TO_PDF = {
         "homer_screening_form": "00 EN HOMER- SCREENING FORM.pdf",
+        "numeric_pain_rating_scale": "00 EN NPRS.pdf",
         "fugl_meyer_assessment_ue": "01 EN fma-ue.pdf",
         "montreal_cognitive_assessment": "05 EN MOCA.pdf",
         "modified_ashworth_scale": "06 EN MAS.pdf",
@@ -116,10 +117,10 @@ class MainWindow(QMainWindow):
     def load_events(self):
         """Load events from events.csv and map them to PDF files."""
         self.event_pdfs = {
-            "screening": set(),
-            "a0": set(),
-            "a1": set(),
-            "a2": set()
+            "screening": [],
+            "a0": [],
+            "a1": [],
+            "a2": []
         }
         
         events_csv_path = get_base_dir() / "redcap" / "example" / "events.csv"
@@ -127,7 +128,7 @@ class MainWindow(QMainWindow):
             # Fallback if events.csv not found
             print(f"events.csv not found at {events_csv_path}")
             # Populate default mappings based on standard events.csv
-            screening_forms = ["homer_screening_form", "fugl_meyer_assessment_ue", "montreal_cognitive_assessment", "modified_ashworth_scale", "numeric_pain_rating_scale"]
+            screening_forms = ["homer_screening_form", "fugl_meyer_assessment_ue", "modified_ashworth_scale", "montreal_cognitive_assessment", "numeric_pain_rating_scale"]
             a_forms = [
                 "patient_demographics", "fugl_meyer_assessment_ue", "sipso_questionnaire",
                 "action_research_arm_test", "caregiver_strain_index", "motor_activity_log",
@@ -137,20 +138,21 @@ class MainWindow(QMainWindow):
             ]
             for form in screening_forms:
                 pdf = self.FORM_TO_PDF.get(form)
-                if pdf:
-                    self.event_pdfs["screening"].add(pdf)
+                if pdf and pdf not in self.event_pdfs["screening"]:
+                    self.event_pdfs["screening"].append(pdf)
             for tp in ["a0", "a1", "a2"]:
                 for form in a_forms:
                     pdf = self.FORM_TO_PDF.get(form)
-                    if pdf:
-                        self.event_pdfs[tp].add(pdf)
+                    if pdf and pdf not in self.event_pdfs[tp]:
+                        self.event_pdfs[tp].append(pdf)
             
             # Explicitly add proforma, patient consent, and information sheet to A0 (fallback path)
-            self.event_pdfs["a0"].add("00 EN Proforma.pdf")
-            self.event_pdfs["a0"].add("15 EN Patient consent.pdf")
-            self.event_pdfs["a0"].add("16 EN Patient Information sheet.pdf")
-            for tp in ["a0", "a1", "a2"]:
-                self.event_pdfs[tp].add("13 EN VAFS.pdf")
+            for extra_pdf in ["00 EN Proforma.pdf", "15 EN Patient consent.pdf", "16 EN Patient Information sheet.pdf", "13 EN VAFS.pdf"]:
+                if extra_pdf not in self.event_pdfs["a0"]:
+                    self.event_pdfs["a0"].append(extra_pdf)
+            for tp in ["a1", "a2"]:
+                if "13 EN VAFS.pdf" not in self.event_pdfs[tp]:
+                    self.event_pdfs[tp].append("13 EN VAFS.pdf")
             return
 
         try:
@@ -164,22 +166,27 @@ class MainWindow(QMainWindow):
                         continue
                     
                     if "screening" in event_name:
-                        self.event_pdfs["screening"].add(pdf)
+                        if pdf not in self.event_pdfs["screening"]:
+                            self.event_pdfs["screening"].append(pdf)
                     elif "a0" in event_name:
-                        self.event_pdfs["a0"].add(pdf)
+                        if pdf not in self.event_pdfs["a0"]:
+                            self.event_pdfs["a0"].append(pdf)
                     elif "a1" in event_name:
-                        self.event_pdfs["a1"].add(pdf)
+                        if pdf not in self.event_pdfs["a1"]:
+                            self.event_pdfs["a1"].append(pdf)
                     elif "a2" in event_name:
-                        self.event_pdfs["a2"].add(pdf)
+                        if pdf not in self.event_pdfs["a2"]:
+                            self.event_pdfs["a2"].append(pdf)
         except Exception as e:
             print(f"Error loading events.csv: {e}")
         finally:
             # Explicitly add proforma, patient consent, and information sheet to A0
-            self.event_pdfs["a0"].add("00 EN Proforma.pdf")
-            self.event_pdfs["a0"].add("15 EN Patient consent.pdf")
-            self.event_pdfs["a0"].add("16 EN Patient Information sheet.pdf")
+            for extra in ["00 EN Proforma.pdf", "15 EN Patient consent.pdf", "16 EN Patient Information sheet.pdf"]:
+                if extra not in self.event_pdfs["a0"]:
+                    self.event_pdfs["a0"].append(extra)
             for tp in ["a0", "a1", "a2"]:
-                self.event_pdfs[tp].add("13 EN VAFS.pdf")
+                if "13 EN VAFS.pdf" not in self.event_pdfs[tp]:
+                    self.event_pdfs[tp].append("13 EN VAFS.pdf")
 
     def load_default_center(self):
         """Load default center from config.json and select it in the combobox."""
@@ -730,6 +737,14 @@ class MainWindow(QMainWindow):
         """
         selected_items = self.pdf_list.selectedItems()
         english_filenames = [item.data(Qt.UserRole) for item in selected_items]
+        
+        # Sort english_filenames according to the timepoint event order if applicable
+        timepoint = self.get_selected_timepoint().lower()
+        lookup_key = "screening" if timepoint == "scr" else timepoint
+        event_order = self.event_pdfs.get(lookup_key, [])
+        if event_order:
+            event_order_lower = {name.lower(): idx for idx, name in enumerate(event_order)}
+            english_filenames.sort(key=lambda x: event_order_lower.get(x.lower(), 999))
         
         lang = self.get_selected_language()
         resolved_filenames = []

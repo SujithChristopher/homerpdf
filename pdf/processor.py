@@ -36,6 +36,8 @@ class PDFProcessor:
             return "00 PROFORMA"
         elif "homer" in filename_lower or "screening" in filename_lower:
             return "00 HOMER"
+        elif "nprs" in filename_lower or "pain" in filename_lower:
+            return "00 NPRS"
         elif "fma" in filename_lower:
             return "01 FMA"
         elif "arat" in filename_lower:

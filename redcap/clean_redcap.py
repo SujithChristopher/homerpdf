@@ -195,8 +195,9 @@ def process_redcap_csvs(input_dir, output_file):
                     '_notes_' in cleaned_var
                 )
                 is_record_id = cleaned_var in ('record_id', 'screening_subject_id', 'subject_id')
+                is_code_field = cleaned_var.startswith('mal_why_') or '_why_' in cleaned_var or cleaned_var.endswith('_code')
                 
-                if is_editable and not is_comment_or_notes and not is_record_id:
+                if is_editable and not is_comment_or_notes and not is_record_id and not is_code_field:
                     req = 'y'
                 else:
                     req = 'y' if req.lower().strip() == 'y' else ""
