@@ -133,7 +133,7 @@ class MainWindow(QMainWindow):
                 "patient_demographics", "fugl_meyer_assessment_ue", "sipso_questionnaire",
                 "action_research_arm_test", "caregiver_strain_index", "motor_activity_log",
                 "modified_rankin_scale", "patient_health_questionnaire_phq9", "modified_ashworth_scale",
-                "box_and_block_test", "cahai7_score_form", "eq_5d_5l",
+                "box_and_block_test", "cahai7_score_form", "eq_5d_5l", "visual_analogue_fatigue_scale",
                 "completed_assessment"
             ]
             for form in screening_forms:
@@ -147,12 +147,9 @@ class MainWindow(QMainWindow):
                         self.event_pdfs[tp].append(pdf)
             
             # Explicitly add proforma, patient consent, and information sheet to A0 (fallback path)
-            for extra_pdf in ["00 EN Proforma.pdf", "15 EN Patient consent.pdf", "16 EN Patient Information sheet.pdf", "13 EN VAFS.pdf"]:
+            for extra_pdf in ["00 EN Proforma.pdf", "15 EN Patient consent.pdf", "16 EN Patient Information sheet.pdf"]:
                 if extra_pdf not in self.event_pdfs["a0"]:
                     self.event_pdfs["a0"].append(extra_pdf)
-            for tp in ["a1", "a2"]:
-                if "13 EN VAFS.pdf" not in self.event_pdfs[tp]:
-                    self.event_pdfs[tp].append("13 EN VAFS.pdf")
             return
 
         try:
@@ -180,13 +177,19 @@ class MainWindow(QMainWindow):
         except Exception as e:
             print(f"Error loading events.csv: {e}")
         finally:
+            # Ensure VAFS is included after EQ-5D in case events.csv did not have it
+            for tp in ["a0", "a1", "a2"]:
+                if "13 EN VAFS.pdf" not in self.event_pdfs[tp]:
+                    eq5d_pdf = "08 EN EQ-5D-5L.pdf"
+                    if eq5d_pdf in self.event_pdfs[tp]:
+                        idx = self.event_pdfs[tp].index(eq5d_pdf)
+                        self.event_pdfs[tp].insert(idx + 1, "13 EN VAFS.pdf")
+                    else:
+                        self.event_pdfs[tp].append("13 EN VAFS.pdf")
             # Explicitly add proforma, patient consent, and information sheet to A0
             for extra in ["00 EN Proforma.pdf", "15 EN Patient consent.pdf", "16 EN Patient Information sheet.pdf"]:
                 if extra not in self.event_pdfs["a0"]:
                     self.event_pdfs["a0"].append(extra)
-            for tp in ["a0", "a1", "a2"]:
-                if "13 EN VAFS.pdf" not in self.event_pdfs[tp]:
-                    self.event_pdfs[tp].append("13 EN VAFS.pdf")
 
     def load_default_center(self):
         """Load default center from config.json and select it in the combobox."""
