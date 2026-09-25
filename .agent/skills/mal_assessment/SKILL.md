@@ -65,9 +65,9 @@ All implementations (REDCap CSVs, dictionaries, and documentation) must preserve
 - **Do not add** bilingual translations (`English / Translated`) for MAL in `redcap/translation/*_single_doc.json`. Doing so corrupts the 5-column table layout.
 - Other relevant assessments (CSI, SIPSO, EQ-5D, PHQ-9, FSS) remain bilingual.
 - Printed language copies are available as standalone PDF files in `files/`:
-  - English: `07 EN MAL.pdf`
-  - Tamil: `07 TA MAL.pdf`
-  - Telugu: `07 TE MAL.pdf`
-  - Hindi: `07 HI MAL.pdf`
-  - Punjabi: `07 PA MAL.pdf`
-  - Kannada: `07 KA MAL.pdf`
+  - English: `09 EN MAL.pdf`
+  - Tamil: `09 TA MAL.pdf`
+  - Telugu: `09 TE MAL.pdf`
+  - Hindi: `09 HI MAL.pdf`
+  - Punjabi: `09 PA MAL.pdf`
+  - Kannada: `09 KA MAL.pdf`

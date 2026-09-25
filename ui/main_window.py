@@ -52,23 +52,30 @@ class MainWindow(QMainWindow):
     # Mapping of REDCap form names to PDF file names
     FORM_TO_PDF = {
         "homer_screening_form": "00 EN HOMER- SCREENING FORM.pdf",
-        "numeric_pain_rating_scale": "00 EN NPRS.pdf",
-        "fugl_meyer_assessment_ue": "01 EN fma-ue.pdf",
-        "montreal_cognitive_assessment": "05 EN MOCA.pdf",
-        "modified_ashworth_scale": "06 EN MAS.pdf",
-        "action_research_arm_test": "02 EN arat.pdf",
-        "motor_activity_log": "07 EN MAL.pdf",
-        "cahai7_score_form": "04 EN CAHAI-7.pdf",
-        "sipso_questionnaire": "11 EN SIPSO.pdf",
-        "modified_rankin_scale": "09 EN MRS.pdf",
-        "caregiver_strain_index": "10 EN CSI.pdf",
-        "patient_health_questionnaire_phq9": "12 EN PHQ9.pdf",
-        "nih_stroke_scale": "14 EN NIHSS.pdf",
-        "box_and_block_test": "03 EN Box and Block.pdf",
-        "eq_5d_5l": "08 EN EQ-5D-5L.pdf",
-        "fatigue_severity_scale": "13 EN FSS.pdf",
-        "visual_analogue_fatigue_scale": "13 EN VAFS.pdf",
+        "fugl_meyer_assessment_ue": "04 EN fma-ue.pdf",
+        "modified_ashworth_scale": "05 EN MAS.pdf",
+        "action_research_arm_test": "06 EN arat.pdf",
+        "box_and_block_test": "07 EN Box and Block.pdf",
+        "cahai7_score_form": "08 EN CAHAI-7.pdf",
+        "motor_activity_log": "09 EN MAL.pdf",
+        "eq_5d_5l": "10 EN EQ-5D-5L.pdf",
+        "modified_rankin_scale": "11 EN MRS.pdf",
+        "caregiver_strain_index": "12 EN CSI.pdf",
+        "sipso_questionnaire": "13 EN SIPSO.pdf",
+        "patient_health_questionnaire_phq9": "14 EN PHQ9.pdf",
+        "visual_analogue_fatigue_scale": "15 EN VAFS.pdf",
+        "montreal_cognitive_assessment": "16 EN MOCA.pdf",
+        "numeric_pain_rating_scale": "17 EN NPRS.pdf",
+        "fatigue_severity_scale": "18 EN FSS.pdf",
+        "nih_stroke_scale": "19 EN NIHSS.pdf",
     }
+
+    # Extra A0-only documents not tied to a REDCap form
+    A0_EXTRA_PDFS = [
+        "01 EN PROFORMA.pdf",
+        "02 EN Patient Information sheet.pdf",
+        "03 EN Patient consent.pdf",
+    ]
 
     def __init__(self):
         """Initialize the main window."""
@@ -146,10 +153,11 @@ class MainWindow(QMainWindow):
                     if pdf and pdf not in self.event_pdfs[tp]:
                         self.event_pdfs[tp].append(pdf)
             
-            # Explicitly add proforma, patient consent, and information sheet to A0 (fallback path)
-            for extra_pdf in ["00 EN Proforma.pdf", "15 EN Patient consent.pdf", "16 EN Patient Information sheet.pdf"]:
+            # Explicitly add proforma, information sheet, and consent to A0 (fallback path)
+            for extra_pdf in self.A0_EXTRA_PDFS:
                 if extra_pdf not in self.event_pdfs["a0"]:
                     self.event_pdfs["a0"].append(extra_pdf)
+            self.sort_event_pdfs()
             return
 
         try:
@@ -177,19 +185,25 @@ class MainWindow(QMainWindow):
         except Exception as e:
             print(f"Error loading events.csv: {e}")
         finally:
-            # Ensure VAFS is included after EQ-5D in case events.csv did not have it
+            # Ensure VAFS is included in case events.csv did not have it
             for tp in ["a0", "a1", "a2"]:
-                if "13 EN VAFS.pdf" not in self.event_pdfs[tp]:
-                    eq5d_pdf = "08 EN EQ-5D-5L.pdf"
-                    if eq5d_pdf in self.event_pdfs[tp]:
-                        idx = self.event_pdfs[tp].index(eq5d_pdf)
-                        self.event_pdfs[tp].insert(idx + 1, "13 EN VAFS.pdf")
-                    else:
-                        self.event_pdfs[tp].append("13 EN VAFS.pdf")
-            # Explicitly add proforma, patient consent, and information sheet to A0
-            for extra in ["00 EN Proforma.pdf", "15 EN Patient consent.pdf", "16 EN Patient Information sheet.pdf"]:
+                if "15 EN VAFS.pdf" not in self.event_pdfs[tp]:
+                    self.event_pdfs[tp].append("15 EN VAFS.pdf")
+            # Explicitly add proforma, information sheet, and consent to A0
+            for extra in self.A0_EXTRA_PDFS:
                 if extra not in self.event_pdfs["a0"]:
                     self.event_pdfs["a0"].append(extra)
+            self.sort_event_pdfs()
+
+    def sort_event_pdfs(self):
+        """Order each event's PDFs by filename number prefix.
+
+        Files in files/ are numbered in print order (proforma, information
+        sheet, consent, assessment scales), so the numeric prefix
+        defines the order for downloads, prints, and merged PDFs.
+        """
+        for tp in self.event_pdfs:
+            self.event_pdfs[tp].sort(key=str.lower)
 
     def load_default_center(self):
         """Load default center from config.json and select it in the combobox."""

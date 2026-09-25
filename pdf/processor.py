@@ -20,69 +20,59 @@ class PDFProcessor:
         """
         self.pdf_dir = Path(pdf_dir)
 
+    # Filename keyword -> short label. Checked in order; first match wins.
+    SHORT_LABELS = [
+        ("proforma", "PROFORMA"),
+        ("homer", "HOMER"),
+        ("screening", "HOMER"),
+        ("information", "INFO SHEET"),
+        ("consent", "CONSENT"),
+        ("nprs", "NPRS"),
+        ("pain", "NPRS"),
+        ("fma", "FMA"),
+        ("arat", "ARAT"),
+        ("box", "BNB"),
+        ("cahai", "CAHAI-7"),
+        ("moca", "MOCA"),
+        ("mas", "MAS"),
+        ("mal", "MAL"),
+        ("eq-5d", "EQ-5D-5L"),
+        ("mrs", "MRS"),
+        ("csi", "CSI"),
+        ("sipso", "SIPSO"),
+        ("phq9", "PHQ9"),
+        ("vafs", "VAFS"),
+        ("fss", "FSS"),
+        ("nihss", "NIHSS"),
+    ]
+
     def get_assessment_short_form(self, pdf_filename: str) -> str:
         """
-        Extract the assessment short form in English from the PDF filename.
+        Build the English assessment short form from the PDF filename.
+
+        The number comes from the filename prefix so the printed label always
+        matches the file order.
 
         Args:
-            pdf_filename: Name of the PDF file (e.g., "15 TA Patient consent.pdf")
+            pdf_filename: Name of the PDF file (e.g., "02 TA Patient consent.pdf")
 
         Returns:
-            Short form string (e.g., "01 FMA", "15 CONSENT")
+            Short form string (e.g., "03 FMA", "02 CONSENT")
         """
+        stem = Path(pdf_filename).stem
         filename_lower = pdf_filename.lower()
-
-        if "proforma" in filename_lower:
-            return "00 PROFORMA"
-        elif "homer" in filename_lower or "screening" in filename_lower:
-            return "00 HOMER"
-        elif "nprs" in filename_lower or "pain" in filename_lower:
-            return "00 NPRS"
-        elif "fma" in filename_lower:
-            return "01 FMA"
-        elif "arat" in filename_lower:
-            return "02 ARAT"
-        elif "box" in filename_lower:
-            return "03 BNB"
-        elif "cahai" in filename_lower:
-            return "04 CAHAI-7"
-        elif "moca" in filename_lower:
-            return "05 MOCA"
-        elif "mas" in filename_lower:
-            return "06 MAS"
-        elif "mal" in filename_lower:
-            return "07 MAL"
-        elif "eq-5d" in filename_lower:
-            return "08 EQ-5D-5L"
-        elif "mrs" in filename_lower:
-            return "09 MRS"
-        elif "csi" in filename_lower:
-            return "10 CSI"
-        elif "sipso" in filename_lower:
-            return "11 SIPSO"
-        elif "phq9" in filename_lower:
-            return "12 PHQ9"
-        elif "vafs" in filename_lower:
-            return "13 VAFS"
-        elif "fss" in filename_lower:
-            return "13 FSS"
-        elif "nihss" in filename_lower:
-            return "14 NIHSS"
-        elif "consent" in filename_lower:
-            return "15 CONSENT"
-        elif "information" in filename_lower:
-            return "16 INFO SHEET"
-
-        # Fallback parsing if keyword not matched
         match = re.match(r"^(\d+)", pdf_filename)
-        if match:
-            num = match.group(1)
-            parts = Path(pdf_filename).stem.split()
-            if len(parts) > 2:
-                return f"{num} {' '.join(parts[2:]).upper()}"
-            return Path(pdf_filename).stem.upper()
+        num = match.group(1) if match else ""
 
-        return Path(pdf_filename).stem.upper()
+        for keyword, label in self.SHORT_LABELS:
+            if keyword in filename_lower:
+                return f"{num} {label}".strip()
+
+        # Fallback: number plus the name after the language code
+        parts = stem.split()
+        if num and len(parts) > 2:
+            return f"{num} {' '.join(parts[2:]).upper()}"
+        return stem.upper()
 
     def add_hospital_number(
         self, pdf_filename: str, hospital_number: str, center_code: str, time_point: str
