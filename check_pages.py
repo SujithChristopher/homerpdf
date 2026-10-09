@@ -80,14 +80,20 @@ def verify_page_text(text: str, page_num: int, total_pages: int) -> tuple[str, s
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Verify page numbers on a scanned PDF using Tesseract OCR and pypdf."
+        description=(
+            "Run OCR on generated PDFs and verify that each page is numbered in "
+            "physical order as 'Page X of Y'. A directory is scanned recursively."
+        )
     )
     parser.add_argument(
-        "pdf_path",
+        "pdf_paths",
         type=str,
-        nargs="?",
-        default="testpdf/ASDF_merged.pdf",
-        help="Path to the PDF file to verify (default: testpdf/ASDF_merged.pdf)",
+        nargs="*",
+        default=["testpdf/ASDF_merged.pdf"],
+        help=(
+            "PDF file(s) or directory(ies) to verify. Directories are scanned "
+            "recursively (default: testpdf/ASDF_merged.pdf)."
+        ),
     )
     parser.add_argument(
         "-o",
@@ -109,94 +115,88 @@ def main():
     )
 
     args = parser.parse_args()
-    input_path = Path(args.pdf_path)
-
-    if not input_path.exists():
-        print(f"[ERROR] Input PDF file does not exist: {input_path}")
-        sys.exit(1)
-
-    print(f"Loading input PDF: {input_path}")
-    print(f"OCR Mode: {args.mode}")
-
-    # Set up output path
-    temp_file = None
-    if args.output:
-        output_path = Path(args.output)
-    else:
-        # Create a temporary file to hold the OCR'd PDF
-        temp_dir = Path(tempfile.gettempdir())
-        temp_file = tempfile.NamedTemporaryFile(suffix=".pdf", delete=False, dir=temp_dir)
-        output_path = Path(temp_file.name)
-        temp_file.close()
-
-    try:
-        # Map mode to ocrmypdf arguments
-        ocr_kwargs = {
-            "skip_text": args.mode == "skip",
-            "force_ocr": args.mode == "force",
-            "redo_ocr": args.mode == "redo",
-            "progress_bar": False,
-        }
-
-        print("Running OCR on PDF (this may take a few moments)...")
-        # Run OCR
-        exit_code = ocrmypdf.ocr(input_path, output_path, **ocr_kwargs)
-        if exit_code != 0:
-            print(f"[WARNING] ocrmypdf returned non-zero exit code: {exit_code}")
-
-        # Open and read the OCR'd PDF
-        print("Analyzing text layer...")
-        reader = pypdf.PdfReader(output_path)
-        total_pages = len(reader.pages)
-        print(f"Total Pages: {total_pages}")
-        print("-" * 75)
-        print(f"{'Page':<6} | {'Status':<10} | {'Match Found / Explanation':<50}")
-        print("-" * 75)
-
-        stats = {"OK": 0, "PARTIAL": 0, "MISSING": 0, "NO_TEXT": 0}
-
-        for i, page in enumerate(reader.pages):
-            page_num = i + 1
-            text = page.extract_text()
-            status, detail = verify_page_text(text, page_num, total_pages)
-            stats[status] += 1
-
-            # Format the output using simple ASCII
-            print(f"{page_num:<6} | {status:<10} | {detail:<50}")
-
-        print("-" * 75)
-        print("Summary:")
-        print(f"  - Fully detected (Page X of Y): {stats['OK']}")
-        print(f"  - Partially detected: {stats['PARTIAL']}")
-        print(f"  - Missing page number: {stats['MISSING']}")
-        print(f"  - Empty text layer: {stats['NO_TEXT']}")
-        print("-" * 75)
-
-        if stats["MISSING"] == 0 and stats["NO_TEXT"] == 0:
-            print("[OK] All page numbers exist and were successfully verified!")
+    input_paths = []
+    missing_paths = []
+    for value in args.pdf_paths:
+        path = Path(value)
+        if path.is_dir():
+            input_paths.extend(sorted(path.rglob("*.pdf")))
+        elif path.is_file() and path.suffix.lower() == ".pdf":
+            input_paths.append(path)
         else:
-            print("[FAIL] Missing or unreadable page numbers/text on some pages.")
-            if stats["NO_TEXT"] > 0:
-                print("       Note: Pages with NO_TEXT may need to be scanned with OCR enabled,")
-                print("             or run this script with --mode force to rasterize and OCR.")
-            sys.exit(1)
+            missing_paths.append(path)
 
-    except Exception as e:
-        print(f"[ERROR] An unexpected error occurred: {e}")
-        # Help user debug path issues
-        if "tesseract" in str(e).lower() or "program not found" in str(e).lower():
-            print("\n[TIP] This error usually means Tesseract is not installed or not in your PATH.")
-            print(f"      We checked: {TESSERACT_PATH} (exists: {os.path.exists(TESSERACT_PATH)})")
-            print("      Ensure you have installed Tesseract OCR and restarted your terminal.")
+    input_paths = list(dict.fromkeys(path.resolve() for path in input_paths))
+    if missing_paths:
+        for path in missing_paths:
+            print(f"[ERROR] Input PDF or directory does not exist: {path}")
+    if not input_paths:
+        print("[ERROR] No PDF files found to verify.")
         sys.exit(1)
+    if args.output and len(input_paths) != 1:
+        parser.error("--output can only be used when verifying exactly one PDF")
 
-    finally:
-        # Clean up the temporary file if one was created
-        if temp_file and output_path.exists():
-            try:
-                os.remove(output_path)
-            except OSError:
-                pass
+    ocr_kwargs = {
+        "skip_text": args.mode == "skip",
+        "force_ocr": args.mode == "force",
+        "redo_ocr": args.mode == "redo",
+        "progress_bar": False,
+    }
+    overall_failed = bool(missing_paths)
+    for input_path in input_paths:
+        output_path = Path(args.output) if args.output else None
+        temp_file = None
+        try:
+            print(f"\nPDF: {input_path}")
+            if output_path is None:
+                temp_file = tempfile.NamedTemporaryFile(
+                    suffix=".pdf", delete=False, dir=Path(tempfile.gettempdir())
+                )
+                output_path = Path(temp_file.name)
+                temp_file.close()
+
+            print(f"Running OCR (mode: {args.mode})...")
+            ocrmypdf.ocr(input_path, output_path, **ocr_kwargs)
+
+            reader = pypdf.PdfReader(output_path)
+            total_pages = len(reader.pages)
+            print(f"Total pages: {total_pages}")
+            print("-" * 75)
+            print(f"{'Page':<6} | {'Status':<10} | {'Match Found / Explanation':<50}")
+            print("-" * 75)
+
+            stats = {"OK": 0, "PARTIAL": 0, "MISSING": 0, "NO_TEXT": 0}
+            for i, page in enumerate(reader.pages):
+                page_num = i + 1
+                status, detail = verify_page_text(page.extract_text(), page_num, total_pages)
+                stats[status] += 1
+                print(f"{page_num:<6} | {status:<10} | {detail:<50}")
+
+            print("-" * 75)
+            print(
+                f"Summary: {stats['OK']} OK, {stats['PARTIAL']} partial, "
+                f"{stats['MISSING']} missing, {stats['NO_TEXT']} with no text"
+            )
+            pdf_failed = stats["PARTIAL"] + stats["MISSING"] + stats["NO_TEXT"] > 0
+            if pdf_failed:
+                overall_failed = True
+                print("[FAIL] One or more page numbers could not be verified.")
+            else:
+                print("[OK] Page numbers match physical page order.")
+        except Exception as e:
+            overall_failed = True
+            print(f"[ERROR] Failed to OCR or inspect PDF: {e}")
+            if "tesseract" in str(e).lower() or "program not found" in str(e).lower():
+                print("\n[TIP] This error usually means Tesseract is not installed or not in your PATH.")
+                print(f"      We checked: {TESSERACT_PATH} (exists: {os.path.exists(TESSERACT_PATH)})")
+                print("      Ensure you have installed Tesseract OCR and restarted your terminal.")
+        finally:
+            if temp_file and output_path and output_path.exists():
+                output_path.unlink(missing_ok=True)
+
+    if overall_failed:
+        sys.exit(1)
+    print(f"\n[OK] Verified {len(input_paths)} PDF(s).")
 
 
 if __name__ == "__main__":
